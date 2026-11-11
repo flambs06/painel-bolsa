@@ -1,0 +1,36 @@
+name: Atualizar Feed da Bolsa
+
+on:
+  schedule:
+    # Corre no minuto 0 de cada hora
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Aceder ao projeto
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar ferramentas
+        run: pip install yfinance feedparser
+
+      - name: Pesquisar notícias e cotações
+        run: python update_feed.py
+
+      - name: Guardar novo feed.json
+        run: |
+          git config --global user.name "MarketBot"
+          git config --global user.email "bot@github.com"
+          git add feed.json
+          git commit -m "Feed atualizado automaticamente [skip ci]" || exit 0
+          git push
