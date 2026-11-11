@@ -1,0 +1,54 @@
+{
+  "updated": "2026-11-11T22:40:54.214953+00:00",
+  "news": [],
+  "stocks": [
+    {
+      "k": "INTC",
+      "n": "Intel Corporation",
+      "d": "up",
+      "x": "Variação de +7.52% nas últimas sessões."
+    },
+    {
+      "k": "AMD",
+      "n": "Advanced Micro Devices, Inc.",
+      "d": "up",
+      "x": "Variação de +7.32% nas últimas sessões."
+    },
+    {
+      "k": "TSLA",
+      "n": "Tesla, Inc.",
+      "d": "up",
+      "x": "Variação de +2.91% nas últimas sessões."
+    },
+    {
+      "k": "NVDA",
+      "n": "NVIDIA Corporation",
+      "d": "up",
+      "x": "Variação de +2.87% nas últimas sessões."
+    },
+    {
+      "k": "MSFT",
+      "n": "Microsoft Corporation",
+      "d": "dn",
+      "x": "Variação de -2.26% nas últimas sessões."
+    },
+    {
+      "k": "GOOGL",
+      "n": "Alphabet Inc.",
+      "d": "up",
+      "x": "Variação de +2.11% nas últimas sessões."
+    },
+    {
+      "k": "AAPL",
+      "n": "Apple Inc.",
+      "d": "up",
+      "x": "Variação de +2.04% nas últimas sessões."
+    },
+    {
+      "k": "AMZN",
+      "n": "Amazon.com, Inc.",
+      "d": "dn",
+      "x": "Variação de -1.74% nas últimas sessões."
+    }
+  ]
+}
