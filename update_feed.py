@@ -4,7 +4,6 @@ import yfinance as yf
 import feedparser
 
 def obter_noticias():
-    # Recolhe as notícias mais recentes do Yahoo Finance
     url_feed = "https://finance.yahoo.com/news/rssindex"
     feed = feedparser.parse(url_feed)
     noticias = []
@@ -21,7 +20,6 @@ def obter_noticias():
     return noticias
 
 def obter_movimentacoes():
-    # As ações que queres monitorizar
     tickers = ["AAPL", "NVDA", "MSFT", "AMZN", "GOOGL", "TSLA", "AMD", "INTC"]
     acoes = []
     
@@ -30,8 +28,8 @@ def obter_movimentacoes():
             ativo = yf.Ticker(ticker)
             hist = ativo.history(period="2d")
             if len(hist) >= 2:
-                fecho_anterior = hist['Close'].iloc[-2]
-                fecho_atual = hist['Close'].iloc[-1]
+                fecho_anterior = float(hist['Close'].iloc[-2])
+                fecho_atual = float(hist['Close'].iloc[-1])
                 variacao = ((fecho_atual - fecho_anterior) / fecho_anterior) * 100
                 direcao = "up" if variacao >= 0 else "dn"
                 
@@ -39,12 +37,19 @@ def obter_movimentacoes():
                     "k": ticker,
                     "n": ativo.info.get("shortName", ticker),
                     "d": direcao,
-                    "x": f"Variação de {variacao:+.2f}% nas últimas sessões."
+                    "x": f"Variação de {variacao:+.2f}% nas últimas sessões.",
+                    "var_abs": abs(variacao)
                 })
         except Exception:
             continue
             
-    acoes.sort(key=lambda x: abs(float(x["x"].split()[1].replace("%", ""))), reverse=True)
+    # Ordenar pelas maiores variações usando diretamente o valor numérico
+    acoes.sort(key=lambda item: item["var_abs"], reverse=True)
+    
+    # Limpar a variável auxiliar antes de gravar
+    for item in acoes:
+        del item["var_abs"]
+        
     return acoes[:8]
 
 def main():
