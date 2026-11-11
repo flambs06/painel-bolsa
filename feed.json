@@ -1,6 +1,71 @@
 {
-  "updated": "2026-11-11T22:40:54.214953+00:00",
-  "news": [],
+  "updated": "2026-11-11T22:53:52.523552+00:00",
+  "news": [
+    {
+      "d": "11 nov",
+      "s": "Público",
+      "c": "Mercado",
+      "t": "A vida secreta de Alice Huang, a suposta espia chinesa amante do CEO da Nvidia",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTG05YUtfOGdwck9kaHJaN2pibDlmV05PMEhjcm9aLU9wSVVWUkVXNnktaWZiT0c3R3NBQ1hyN0Z6b3NCd2xtX0R3RzhnLVBweW1FOU12ek5TYUc1clNqLTJDb3RlSHp4V2FMWlA4MGMzMGtraVFrTGlNMkszYldqbThDWnAzU3BUZW52WDRjeDRJdnhFaUU0bmlreGpLQ2RrTVN3LW1hdHlhQmdfWGJjalJfRmM3YW80V0ROaA?oc=5"
+    },
+    {
+      "d": "11 nov",
+      "s": "Expresso",
+      "c": "Mercado",
+      "t": "Web Summit abre com robôs chineses e um desafio à liderança tecnológica dos EUA: “As superestrelas do futuro vêm da China”, diz CEO",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMipgRBVV95cUxOWW5qVG1SYk55c2lPbUYtSEtaZ0Rva0xUTG8yYzBrWHIwRG9YZkRadW9yS2JCUkNwLTJ0NEFqME80NElLSjRSRHlNSTE0ODJtRVlwWFdyQXZSeFI4SDlfNXNRMkhhUHRvMm15RnVpOWRPdzNYRy13eWhrWGRaQlRoNzVJbElpMmV0aG8zUkFkUlFYZnhvVmpseGJDZFB4aXdZdWFiYkVpb0tPM3l0bzhJNUdmR2t0eXJmbzA1UTkxQVdBb3F3cUwyZmJoMERlaHU0MWhfZE9jbDI2cHRoMldJZ1ZuTGhHTzhRMzBFc0swMjR5LU00TC1oSHJhN2I5R0RLdVdfamhRTlViWmRJSXpvVDRnd0tIeTlmU1Q5bVFiYkpWcWltdUh2VHdydS1oVGZ2WlJFaWZTX2dxLTgzSHRtaDU4bFdnQUQ2RnlMM3V0Y2RUM2k1RHlnMi01QjZ0V3VIcW1YZFIxRng2aEpZZU9FZ0FVeUk3ZVhCYzREMFFEWl9GYi1hcnJwcm5qUVBoYTZmVzdkaktQYkVqSDEyR2pxbFJIVXVfamM5NW9RN0JzR2JaNWpyRXhNQkNOblZIMW42SXpYMHVkSnIzWXBxb0FUVGktd2VfOTJYY0gxczJjcVNwUEprTjgtSUloNWxsYk5NWWVrVmE0VVM4WFJxdV9DeW96NVhTdzcyNWQzN0xtTmdrcXp0bjAwYl96ZEgybmZPNDdic0h3?oc=5"
+    },
+    {
+      "d": "11 nov",
+      "s": "Jornal de Notícias",
+      "c": "Mercado",
+      "t": "Ryanair e a hipótese de regressar aos Açores: \"Se for com pessoas de confiança estamos dispostos a conversar\"",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRElKUHYxLVdOTjFTamhvcG5hOXNLMEhUYTlPZ0RsSDltRHdHSHpwTW55bkducWZHQTBrSm8zamZoLXM4ZmpRS3hvcm5PZmNfanpKSUV3ZWhBV1MybWQ4V2ZIVFpBczRUTVk3X05OSWwwMXdZTkNGUnBJN1Nma3ZOaEEwWjEwRDhTRGE0UWo0MXczcUF4bU1qMjJzU1NCWDhLWGd4dlFVQkRSSkIyZkVHLTM0SGdNa0JBR2Z2U1BLVGswSU9PaDhhMUlIeVQ3dnNtTUJNQ09NWE5sYk1NSXfSAdMBQVVfeXFMTlR4TnFER0pXZ0RvanpGRm9zSlZUVnRPWXc4R04tcXVDLUFhT0tfZVh3d2lmdlRoNDhfaE1wX3g2TmR0Sm80czlkNGlXeE1PODB0S1JEV1pIaTViSTFMNWd4dHNoV2xnRkpxbEIzQkNiY01Yald2OVBEY1dTWUhhUmtBTWhwYm93dWRxczZTS01rOUJJWWdzSlRURE1XQVd5YWZ1WldsQjJJZ3Bab3BKVkdxOTBiSWh3XzNoWTQtRWg0VTBXYk1ZNFNZTWZPNURiSmlFcw?oc=5"
+    },
+    {
+      "d": "11 nov",
+      "s": "Jornal Económico",
+      "c": "Mercado",
+      "t": "Caças suecos vêm às compras em Portugal",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkNpYi1EWjE1dmRLdS15U2VVV1A5aUtFNE8weEtpZ3lELUNkeHROZmZfZXRCTFMzRGJyUzdTbUVfYVBaRTNhQW9hVG9kMkdja04yWldlR3BFTFk0VW1kdnNxTDVJY0xBdE1JRUsxdlZOVWk2TzJESVM4U0ZWQ1FKbkUtYmpKU0ZO?oc=5"
+    },
+    {
+      "d": "11 nov",
+      "s": "Observador",
+      "c": "Mercado",
+      "t": "Ryanair: \"Temos 14 aeronaves no Porto. A TAP nenhuma\"",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPU1FqV05HV0w1Sm82STVtTXkxdHFGVTZXbzk4bTJfb3BYWWZpWldEZnFHbzJpWG9XUG1vQmE1b2NnY2J6V3BGMGtULUplOWFNQUcyUjhDVVdSSm05TEFrMHlHQzRWdTFmSDdWcHhLRVJ3Tml1ZE1PYXF4aDJKZEoyMkJCM3ZNX2E3VWpWMkU1dUNnSzZaMXpCYzk4elBUemhyX2d4LWN6X3NNZTIxb3RXb2VMR0tTSUlmbFRIdmo0NFRUX2RXak8xSzFGRHZ3clV5b3g1ZU0tYS1ZbkVhLV9hQkoyV2gxSWNPUXRXaS0xUi1EREN2XzJQSy0zUDhWN28?oc=5"
+    },
+    {
+      "d": "11 nov",
+      "s": "Jornal de Negócios",
+      "c": "Mercado",
+      "t": "Worten alvo de ataque informático. Dados pessoais de clientes afetados",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQME9xQk5Xd3N4TUtoZk5vVXp6YmZzUlBVR2tZcEdPaFVoYTMyb2owV0ExUDRxZTZnUlZpcXc1ZU01QmFia2FQTkRVR0YyT1hBV3hDRWY5M255bW12cjhRZmM5RURESXpwcEpFeE0wRkg1Q0VnVFp4ZlVsUW04TUlZenM4NU8wWlpSNEtsX1drUHl6R21YenfSAZABQVVfeXFMT3dJSXBYRWtGYTJXc0syZnZDdmwxdVg4XzV6YXA1WVJQQXZEMWNJd3YwWlkzR013TThEdVJHMVJ1T3ZuZlZ5ZUJCb0dzeTNCQVQxa2thVzhxdXRHaG5hSlY0RWFwSUJtdk5udTJVTXVVbkJzb2tZdEFhWkJ2ZVpYd21KQ1QtOFlYRjV4VmtJdWlR?oc=5"
+    },
+    {
+      "d": "11 nov",
+      "s": "ECO",
+      "c": "Mercado",
+      "t": "Quem é o português que pode ser lançado na corrida ao BCE?",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY0U0QmVJREtTVE5iU1VoVUloVDJ5cnljakFiS0FrOVc0ZEJmN2M0dURoUUtBcjgtUE9YeHJJNzBzRTNBZktuX3pjUWtqZkxSZG42YzN3SExIN0NKb0dEc0ZyLTRrMEtQWG44LWVBSzhtcmo1YWNDUVRIQTZHVVNuY21rNkx6TlkxNll5cnJ0eTliaVE?oc=5"
+    },
+    {
+      "d": "11 nov",
+      "s": "Público",
+      "c": "Mercado",
+      "t": "Web Summit resiste a um vendaval de ciberataques na estreia mas não à tempestade",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSURldTVBc2QyaTRHQlhGQnhvNG1KbXcxdXpwbjdIcGlhNmtuUFduVXk0R3ExcXBZRG5FSUV3bW9YTDMzbTlOZ0NVQ2Q1Slprc3FpNVBXeVRmOW9XVVREXzR0dzFkdTdhNG5QX01zX2J5ZnBna2xMUXZKczNTWUpLRmJXX1pyZlBBeDdhMFh5MW5rSWxfRWlBZE4yVWItR2UxUTlDVjM2UVZqdWxUNWpnZDZ2NWZSLVFDUFYxd0VXTQ?oc=5"
+    }
+  ],
   "stocks": [
     {
       "k": "INTC",
