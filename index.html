@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Painel da Bolsa</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body { background-color: #f3f5f8; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    .sentiment-bar {
+      background: linear-gradient(to right, #ef4444, #f59e0b, #10b981);
+    }
+  </style>
+</head>
+<body class="text-slate-800 antialiased p-3 md:p-6">
+
+  <div class="max-w-7xl mx-auto space-y-4">
+    <!-- Cabeçalho -->
+    <header class="flex flex-col md:flex-row md:items-center justify-between gap-3 bg-white p-4 rounded-2xl shadow-sm border border-slate-100">
+      <div>
+        <div class="flex items-center gap-2">
+          <span class="text-2xl">📈</span>
+          <h1 class="text-xl md:text-2xl font-bold tracking-tight text-slate-900">Painel da Bolsa</h1>
+        </div>
+        <p id="clock" class="text-xs md:text-sm text-slate-500 mt-1 capitalize font-medium"></p>
+      </div>
+      <div class="flex items-center gap-4 text-xs md:text-sm">
+        <div class="flex items-center gap-2">
+          <span class="w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse"></span>
+          <span id="feed-time" class="text-slate-600 font-medium">A carregar dados...</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- Fita de Tickers -->
+    <div id="ticker-tape" class="flex gap-4 overflow-x-auto py-2 px-1 text-sm font-semibold whitespace-nowrap scrollbar-none">
+      <!-- Injetado dinamicamente -->
+    </div>
+
+    <!-- Indicadores Rápidos -->
+    <div class="grid grid-cols-2 lg:grid-cols-4 gap-3">
+      <!-- Mercado EUA -->
+      <div class="bg-white p-4 rounded-2xl border border-slate-100 shadow-sm">
+        <span class="text-xs font-semibold text-slate-400 uppercase tracking-wider">NYSE / Nasdaq</span>
+        <div class="mt-2 flex items-center gap-2">
+          <span id="nyse-dot" class="w-3 h-3 rounded-full bg-slate-300"></span>
+          <span id="nyse-status" class="text-base font-bold text-slate-800">A verificar...</span>
+        </div>
+      </div>
+
+      <!-- Euronext -->
+      <div class="bg-white p-4 rounded-2xl border border-slate-100 shadow-sm">
+        <span class="text-xs font-semibold text-slate-400 uppercase tracking-wider">Euronext Lisboa</span>
+        <div class="mt-2 flex items-center gap-2">
+          <span id="euro-dot" class="w-3 h-3 rounded-full bg-slate-300"></span>
+          <span id="euro-status" class="text-base font-bold text-slate-800">A verificar...</span>
+        </div>
+      </div>
+
+      <!-- Sentimento das Notícias -->
+      <div class="bg-white p-4 rounded-2xl border border-slate-100 shadow-sm">
+        <span class="text-xs font-semibold text-slate-400 uppercase tracking-wider">Sentimento</span>
+        <div class="mt-3 relative h-2.5 w-full rounded-full sentiment-bar">
+          <div id="sentiment-indicator" class="absolute top-1/2 -translate-y-1/2 w-3.5 h-3.5 bg-slate-900 border-2 border-white rounded-full shadow" style="left: 50%;"></div>
+        </div>
+        <p id="sentiment-text" class="text-xs font-semibold text-slate-600 mt-2">Neutro</p>
+      </div>
+
+      <!-- Tema Dominante -->
+      <div class="bg-white p-4 rounded-2xl border border-slate-100 shadow-sm">
+        <span class="text-xs font-semibold text-slate-400 uppercase tracking-wider">Tema Dominante</span>
+        <p id="dominant-theme" class="text-base font-bold text-slate-800 mt-2 truncate">Tecnologia & Mercado</p>
+      </div>
+    </div>
+
+    <!-- Conteúdo Principal -->
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-6 pt-2">
+      <!-- Coluna de Notícias (2/3) -->
+      <div class="lg:col-span-2 space-y-3">
+        <h2 class="text-lg font-bold text-slate-900">Notícias</h2>
+        <div id="news-container" class="space-y-2">
+          <p class="text-sm text-slate-500">A carregar notícias...</p>
+        </div>
+      </div>
+
+      <!-- Coluna de Ações em Foco (1/3) -->
+      <div class="space-y-3">
+        <h2 class="text-lg font-bold text-slate-900">Ações em Foco</h2>
+        <div id="stocks-container" class="space-y-2.5">
+          <p class="text-sm text-slate-500">A carregar ações...</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // 1. Relógio ao segundo em português de Portugal
+    function updateClock() {
+      const now = new Date();
+      const options = { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit' };
+      document.getElementById('clock').textContent = now.toLocaleDateString('pt-PT', options).replace(',', ' ·');
+      
+      // Estado dos mercados
+      const day = now.getUTCDay();
+      const hour = now.getUTCHours();
+      const min = now.getUTCMinutes();
+      const timeDecimal = hour + min / 60;
+      const isWeekday = day >= 1 && day <= 5;
+
+      // NYSE: 14h30 - 21h00 UTC
+      const nyseOpen = isWeekday && (timeDecimal >= 14.5 && timeDecimal < 21);
+      document.getElementById('nyse-status').textContent = nyseOpen ? 'Aberto' : 'Fechado';
+      document.getElementById('nyse-dot').className = `w-3 h-3 rounded-full ${nyseOpen ? 'bg-emerald-500 ring-2 ring-emerald-200' : 'bg-slate-300'}`;
+
+      // Euronext Lisboa: 08h00 - 16h30 UTC
+      const euroOpen = isWeekday && (timeDecimal >= 8 && timeDecimal < 16.5);
+      document.getElementById('euro-status').textContent = euroOpen ? 'Aberto' : 'Fechado';
+      document.getElementById('euro-dot').className = `w-3 h-3 rounded-full ${euroOpen ? 'bg-emerald-500 ring-2 ring-emerald-200' : 'bg-slate-300'}`;
+    }
+    setInterval(updateClock, 1000);
+    updateClock();
+
+    // 2. Carregar o feed.json que o robô do GitHub atualiza
+    async function loadFeed() {
+      try {
+        const res = await fetch(`feed.json?t=${Date.now()}`);
+        if (!res.ok) throw new Error('Ficheiro feed.json ainda não disponível');
+        const data = await res.json();
+
+        // Data do feed
+        const updatedDate = new Date(data.updated);
+        const diffMins = Math.round((new Date() - updatedDate) / 60000);
+        document.getElementById('feed-time').textContent = diffMins <= 1 ? 'feed atualizado agora' : `feed atualizado há ${diffMins} min`;
+
+        // Ticker Tape
+        const tape = document.getElementById('ticker-tape');
+        tape.innerHTML = (data.stocks || []).map(s => `
+          <div class="flex items-center gap-1.5 px-3 py-1.5 bg-white rounded-lg border border-slate-200 shadow-xs cursor-pointer hover:bg-slate-50">
+            <span>${s.k}</span>
+            <span class="${s.d === 'up' ? 'text-emerald-500' : 'text-red-500'} font-bold">${s.d === 'up' ? '▲' : '▼'}</span>
+          </div>
+        `).join('');
+
+        // Notícias
+        const newsContainer = document.getElementById('news-container');
+        newsContainer.innerHTML = (data.news || []).map(n => `
+          <div class="bg-white p-3.5 rounded-xl border border-slate-100 shadow-sm hover:border-blue-200 transition">
+            <a href="${n.u}" target="_blank" rel="noopener" class="text-sm md:text-base font-semibold text-blue-600 hover:underline leading-snug">
+              ${n.t}
+            </a>
+            <div class="flex items-center gap-2 mt-2 text-xs text-slate-400">
+              <span class="bg-slate-100 text-slate-600 font-medium px-2 py-0.5 rounded">${n.c || 'Mercado'}</span>
+              <span>•</span>
+              <span>${n.s}</span>
+              <span>•</span>
+              <span>${n.d}</span>
+            </div>
+          </div>
+        `).join('');
+
+        // Ações em foco
+        const stocksContainer = document.getElementById('stocks-container');
+        stocksContainer.innerHTML = (data.stocks || []).map(s => `
+          <div class="bg-white p-3 rounded-xl border border-slate-100 shadow-sm flex items-start gap-3">
+            <div class="w-8 h-8 rounded-lg flex items-center justify-center shrink-0 ${s.d === 'up' ? 'bg-emerald-50 text-emerald-600' : 'bg-red-50 text-red-600'} font-bold">
+              ${s.d === 'up' ? '▲' : '▼'}
+            </div>
+            <div class="flex-1 min-w-0">
+              <div class="flex items-center gap-1.5">
+                <span class="font-bold text-slate-900">${s.k}</span>
+                <span class="text-xs text-slate-400 truncate">${s.n}</span>
+              </div>
+              <p class="text-xs text-slate-500 mt-0.5 leading-relaxed">${s.x}</p>
+            </div>
+          </div>
+        `).join('');
+
+        // Sentimento
+        const upCount = (data.stocks || []).filter(s => s.d === 'up').length;
+        const total = (data.stocks || []).length || 1;
+        const ratio = (upCount / total) * 100;
+        document.getElementById('sentiment-indicator').style.left = `${Math.min(Math.max(ratio, 5), 95)}%`;
+        document.getElementById('sentiment-text').textContent = ratio > 60 ? 'Predomínio positivo' : (ratio < 40 ? 'Predomínio negativo' : 'Neutro');
+
+      } catch (err) {
+        console.warn(err);
+      }
+    }
+
+    // Carrega logo e verifica de 2 em 2 minutos se há dados novos
+    loadFeed();
+    setInterval(loadFeed, 120000);
+  </script>
+</body>
+</html>
