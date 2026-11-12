@@ -1,21 +1,13 @@
 {
-  "updated": "2026-11-12T10:54:53.174370+00:00",
+  "updated": "2026-11-12T11:51:14.176483+00:00",
   "news": [
     {
       "d": "12 nov",
       "s": "Expresso",
       "c": "Mercado",
-      "t": "Adão e Eva na Human Summit",
+      "t": "Na novela da Nvidia há agora uma segunda traição, um convite de Elon Musk e uma potencial desvalorização de €1,6 biliões",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GeTRmR01LVHJwQklnc3k2OWZHRGdJemM2LUtrUVN0WXBfS25VVjdieW1LTkxla3hWVENUOHpqLWNweGp5TERwRzhPV3lBZ2k4ZmtLRFd0bDlhdlZVSWVzWTBCOWlGMy1kclA3dVQ5TmdDb0x2RmwyRkQzcnY4Mms?oc=5"
-    },
-    {
-      "d": "12 nov",
-      "s": "CNN Portugal",
-      "c": "Mercado",
-      "t": "Nvidia prepara-se para despedir Jensen Huang, avança o Wall Street Journal",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZVBnTl9YUHVDVm1OUnBtcEMxUnpXR3N5VHd5VGxTNzc5WXZmLV94MWQ2MHlKc1VKTmdKeV80T3RmZnNNbzI2Wk1UcG9vT3o4NjVqaURTTFI2T0RxU1Z3SXpLeWRpRlNMVFI0QV8yQWRRUzRmTnBEVmJtSDdTTmlKdG5EUktub3NBZ0Z5YWFVeFdWRWt4eWw2aGhxZFdpVUZla011N3Q0QS10VTROVDJQdjFjQjRmaWNCZ3RzTkdsVl9vZGJYOTh6Mm1uaUtfYnBIYnAtbGpXYzRPSHdTVThTMmZ4TkJSNEJDT0E?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPajEtM3VuMk1SUndOX0twZUlLa3hUT0FKMWZzRFZiOWk4Ui16SWwtemZNdGFXRWNVQmJSVXRURmM1MDVCR0hXaEJFSVpGZkFGQ0FXa3c3YWRhVGtVenlRMjJBSlRvWmgxNUxXdmpLSG4tQ3c1bGZQb0FTU0lhVDdsVWllQndrNld5Vk1EbXR2ejRQeW5KaUo1NlBhcDY2R19KTnZidE1NOThGVW5kLVUzZHBWdVd2YURucGF1U1pqQ1JudWFuMExsdEpiRFZjSkJoUDRaa1lvX3gyeWNGU3VkVUY5MzJoU0U5QU1VT3RLcjhqRUhoSFJxMU5FN01zQXhKdnhFRFFRMWtPVGFQVWNZSGFB?oc=5"
     },
     {
       "d": "12 nov",
@@ -27,11 +19,27 @@
     },
     {
       "d": "12 nov",
+      "s": "Observador",
+      "c": "Mercado",
+      "t": "Robôs ganham voz e desafiam humanos a \"estar à altura\"",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZDBlNWZvejlIQ3lwcUR3eW9jZjY0aVFYS2hFMVg5Q3pPa1I0alN2ZWc2NFRFNDVWaXBvTFZSMnhOUy1rUkQ5Tk9KUUdIRjBPb09EVDkxRjVkVkM2YWdzWW02eFNNZVVNcTVUaEI5Z2E1TWJWZWRUQ282RmRLdXB6aTE2VHp6cnhUN0FQY2dJa3ItUk9TS19jdXVRYVlzUHJuanlMTHlMc0RRRmtkaHRLX3NoSUdSZmxfY01URDA0R0ttS3ZfakM2YURKa2FtNWdIZTU5ZFdwVDhhd0xoc0E?oc=5"
+    },
+    {
+      "d": "12 nov",
       "s": "Economia e Finanças",
       "c": "Mercado",
       "t": "Inflação aproxima-se dos 4% com dados finais de outubro de 2026",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWtQWGlMWFdTZmVPMFNka1N6RWp2ZllBZVRvVG80bFh4MVNZSkFULTRYZUVub1N4czhJNVNncnMyeUtlbkpoRjBkdnFkS0VYTTVjSUFBSHBmWXFOVS1FTU03VXk2bTJQWHlNRmtHeEg2ZnBMOGZJX3RMVW1PV2JiQUZ0US1Da3dieWd2Mm1zSW5iaTVLaG9jakQyZk56dw?oc=5"
+    },
+    {
+      "d": "12 nov",
+      "s": "SAPO",
+      "c": "Mercado",
+      "t": "“Na teoria um enorme sucesso, na prática, pouca efetividade real”: entre 60% e 70% da verba tem ficado por executar, alerta a UVE",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMzFldV9Ub2lTa1RIdU1xRmRnRzEtME1MdlRCMklPR3k0aFVYb2psQnpjRl9CV3ZzTXJLcmZFOHhabWtDTFE4ZndaajRENEtFTWxwN0ZCblBndFN5ejUtWVFRNXIzZXZDWlVSOFNycG5hd0J6YWZFQUZoMVR1U1Y2dFNFbW42dU0yWTZvb1BqNVhpT295eUNKZGpqaF9qeU0tclVwRF9tZTJ1SU85T3ROV0FDU0JJT2lKV3MwX0Jaa013RnlQV0ZTRUMwWlVEWVBMaGxYY05IRlYxcTR1bUFXT0F2NVhINnY1SGliM3F3Ynl0dmt3YjhRSU5Fc0d1dw?oc=5"
     },
     {
       "d": "12 nov",
@@ -43,14 +51,6 @@
     },
     {
       "d": "12 nov",
-      "s": "Jornal Económico",
-      "c": "Mercado",
-      "t": "Caças suecos vêm às compras em Portugal",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkNpYi1EWjE1dmRLdS15U2VVV1A5aUtFNE8weEtpZ3lELUNkeHROZmZfZXRCTFMzRGJyUzdTbUVfYVBaRTNhQW9hVG9kMkdja04yWldlR3BFTFk0VW1kdnNxTDVJY0xBdE1JRUsxdlZOVWk2TzJESVM4U0ZWQ1FKbkUtYmpKU0ZO?oc=5"
-    },
-    {
-      "d": "12 nov",
       "s": "Idealista",
       "c": "Mercado",
       "t": "Rendas pagas pelos inquilinos repetem subida de 5,2%",
@@ -59,11 +59,11 @@
     },
     {
       "d": "12 nov",
-      "s": "ECO",
+      "s": "Expresso",
       "c": "Mercado",
-      "t": "Quem é o português que pode ser lançado na corrida ao BCE?",
+      "t": "Fábrica na Marinha Grande vai produzir componentes para caças Gripen da Saab",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY0U0QmVJREtTVE5iU1VoVUloVDJ5cnljakFiS0FrOVc0ZEJmN2M0dURoUUtBcjgtUE9YeHJJNzBzRTNBZktuX3pjUWtqZkxSZG42YzN3SExIN0NKb0dEc0ZyLTRrMEtQWG44LWVBSzhtcmo1YWNDUVRIQTZHVVNuY21rNkx6TlkxNll5cnJ0eTliaVE?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNelB1a2VTTXlZRDNCMFF2U3RxVG5zN2NFSDE0cWc1dlZMMGlhX3RfOUo3QndybGcyOTE4UVBQSVZtNDU3YlpDZVpTU0pyYlNiSERiM3FQZmRLQWRlQzRnSjVIckY3QUVYeTltN3VvWDk4dWJMQ0xvYmtxUllKcmxaZm9meGdKTjNwV05KUk5POGR6aVFZdW91bkhybzdMSVkxY09tYWthZWNtQ2UwSEJuNkZUdzY0SG11RVBoX2I0U2l5NkxGOEE?oc=5"
     }
   ],
   "stocks": [
