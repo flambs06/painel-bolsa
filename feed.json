@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-12T02:12:36.113988+00:00",
+  "updated": "2026-11-12T03:47:05.468843+00:00",
   "news": [
     {
       "d": "12 nov",
-      "s": "Público",
+      "s": "CNN Portugal",
       "c": "Mercado",
-      "t": "A vida secreta de Alice Huang, a suposta espia chinesa amante do CEO da Nvidia",
+      "t": "Aconteceu outra vez: revelada mais uma relação extraconjugal do dono da Nvidia, desta vez dentro da empresa",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTG05YUtfOGdwck9kaHJaN2pibDlmV05PMEhjcm9aLU9wSVVWUkVXNnktaWZiT0c3R3NBQ1hyN0Z6b3NCd2xtX0R3RzhnLVBweW1FOU12ek5TYUc1clNqLTJDb3RlSHp4V2FMWlA4MGMzMGtraVFrTGlNMkszYldqbThDWnAzU3BUZW52WDRjeDRJdnhFaUU0bmlreGpLQ2RrTVN3LW1hdHlhQmdfWGJjalJfRmM3YW80V0ROaA?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOS0ltSjM0U2NDcTNNWGNfMW92WExrdjZ0SG5fbTZNLXdnV2tFeTR6R2d2TGJrdWJsa0hicmE5cHhUWGpicXhzdWcwdVZHci03ejNWMXZZZmJ2c21ZMU8zTnVEd29YeE9sUkFpRW5TN1ZCdjg5a2Z3S3hrQ1I4RENzSkphbDhxU1FyMXlCaVI5UWVLYVc4V3FZQm1tZm9CVjN5dFZ4UEdqUlM3NHJlRjEwOUhWY0hJellPNXczaEN1bl8yYnh2Rjh3a0g5R2tMVGdLUEVHM3hHZnZuajllQi1vSVRzRW1mdUJDN2FEaXpac0czaXBoMzU0X2stemRPUi1Ba1g5SHVZRTlMdjlndEswR05jcy0?oc=5"
     },
     {
       "d": "12 nov",
@@ -27,19 +27,19 @@
     },
     {
       "d": "12 nov",
-      "s": "Economia e Finanças",
-      "c": "Mercado",
-      "t": "Inflação aproxima-se dos 4% com dados finais de outubro de 2026",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWtQWGlMWFdTZmVPMFNka1N6RWp2ZllBZVRvVG80bFh4MVNZSkFULTRYZUVub1N4czhJNVNncnMyeUtlbkpoRjBkdnFkS0VYTTVjSUFBSHBmWXFOVS1FTU03VXk2bTJQWHlNRmtHeEg2ZnBMOGZJX3RMVW1PV2JiQUZ0US1Da3dieWd2Mm1zSW5iaTVLaG9jakQyZk56dw?oc=5"
-    },
-    {
-      "d": "12 nov",
       "s": "Observador",
       "c": "Mercado",
       "t": "Ryanair: \"Temos 14 aeronaves no Porto. A TAP nenhuma\"",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPU1FqV05HV0w1Sm82STVtTXkxdHFGVTZXbzk4bTJfb3BYWWZpWldEZnFHbzJpWG9XUG1vQmE1b2NnY2J6V3BGMGtULUplOWFNQUcyUjhDVVdSSm05TEFrMHlHQzRWdTFmSDdWcHhLRVJ3Tml1ZE1PYXF4aDJKZEoyMkJCM3ZNX2E3VWpWMkU1dUNnSzZaMXpCYzk4elBUemhyX2d4LWN6X3NNZTIxb3RXb2VMR0tTSUlmbFRIdmo0NFRUX2RXak8xSzFGRHZ3clV5b3g1ZU0tYS1ZbkVhLV9hQkoyV2gxSWNPUXRXaS0xUi1EREN2XzJQSy0zUDhWN28?oc=5"
+    },
+    {
+      "d": "12 nov",
+      "s": "Economia e Finanças",
+      "c": "Mercado",
+      "t": "Inflação aproxima-se dos 4% com dados finais de outubro de 2026",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWtQWGlMWFdTZmVPMFNka1N6RWp2ZllBZVRvVG80bFh4MVNZSkFULTRYZUVub1N4czhJNVNncnMyeUtlbkpoRjBkdnFkS0VYTTVjSUFBSHBmWXFOVS1FTU03VXk2bTJQWHlNRmtHeEg2ZnBMOGZJX3RMVW1PV2JiQUZ0US1Da3dieWd2Mm1zSW5iaTVLaG9jakQyZk56dw?oc=5"
     },
     {
       "d": "12 nov",
@@ -68,52 +68,52 @@
   ],
   "stocks": [
     {
-      "k": "AAPL",
-      "n": "Apple Inc.",
-      "d": "dn",
-      "x": "Variação de +nan% nas últimas sessões."
+      "k": "INTC",
+      "n": "Intel Corporation",
+      "d": "up",
+      "x": "Variação de +7.52% nas últimas sessões."
+    },
+    {
+      "k": "AMD",
+      "n": "Advanced Micro Devices, Inc.",
+      "d": "up",
+      "x": "Variação de +7.32% nas últimas sessões."
+    },
+    {
+      "k": "TSLA",
+      "n": "Tesla, Inc.",
+      "d": "up",
+      "x": "Variação de +2.91% nas últimas sessões."
     },
     {
       "k": "NVDA",
       "n": "NVIDIA Corporation",
-      "d": "dn",
-      "x": "Variação de +nan% nas últimas sessões."
+      "d": "up",
+      "x": "Variação de +2.87% nas últimas sessões."
     },
     {
       "k": "MSFT",
       "n": "Microsoft Corporation",
       "d": "dn",
-      "x": "Variação de +nan% nas últimas sessões."
+      "x": "Variação de -2.26% nas últimas sessões."
+    },
+    {
+      "k": "GOOGL",
+      "n": "Alphabet Inc.",
+      "d": "up",
+      "x": "Variação de +2.11% nas últimas sessões."
+    },
+    {
+      "k": "AAPL",
+      "n": "Apple Inc.",
+      "d": "up",
+      "x": "Variação de +2.04% nas últimas sessões."
     },
     {
       "k": "AMZN",
       "n": "Amazon.com, Inc.",
       "d": "dn",
-      "x": "Variação de +nan% nas últimas sessões."
-    },
-    {
-      "k": "GOOGL",
-      "n": "Alphabet Inc.",
-      "d": "dn",
-      "x": "Variação de +nan% nas últimas sessões."
-    },
-    {
-      "k": "TSLA",
-      "n": "Tesla, Inc.",
-      "d": "dn",
-      "x": "Variação de +nan% nas últimas sessões."
-    },
-    {
-      "k": "AMD",
-      "n": "Advanced Micro Devices, Inc.",
-      "d": "dn",
-      "x": "Variação de +nan% nas últimas sessões."
-    },
-    {
-      "k": "INTC",
-      "n": "Intel Corporation",
-      "d": "dn",
-      "x": "Variação de +nan% nas últimas sessões."
+      "x": "Variação de -1.74% nas últimas sessões."
     }
   ]
 }
