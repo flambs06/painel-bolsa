@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-12T08:53:24.751533+00:00",
+  "updated": "2026-11-12T09:52:09.415837+00:00",
   "news": [
+    {
+      "d": "12 nov",
+      "s": "Expresso",
+      "c": "Mercado",
+      "t": "Adão e Eva na Human Summit",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GeTRmR01LVHJwQklnc3k2OWZHRGdJemM2LUtrUVN0WXBfS25VVjdieW1LTkxla3hWVENUOHpqLWNweGp5TERwRzhPV3lBZ2k4ZmtLRFd0bDlhdlZVSWVzWTBCOWlGMy1kclA3dVQ5TmdDb0x2RmwyRkQzcnY4Mms?oc=5"
+    },
     {
       "d": "12 nov",
       "s": "CNN Portugal",
@@ -8,14 +16,6 @@
       "t": "Nvidia prepara-se para despedir Jensen Huang, avança o Wall Street Journal",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZVBnTl9YUHVDVm1OUnBtcEMxUnpXR3N5VHd5VGxTNzc5WXZmLV94MWQ2MHlKc1VKTmdKeV80T3RmZnNNbzI2Wk1UcG9vT3o4NjVqaURTTFI2T0RxU1Z3SXpLeWRpRlNMVFI0QV8yQWRRUzRmTnBEVmJtSDdTTmlKdG5EUktub3NBZ0Z5YWFVeFdWRWt4eWw2aGhxZFdpVUZla011N3Q0QS10VTROVDJQdjFjQjRmaWNCZ3RzTkdsVl9vZGJYOTh6Mm1uaUtfYnBIYnAtbGpXYzRPSHdTVThTMmZ4TkJSNEJDT0E?oc=5"
-    },
-    {
-      "d": "12 nov",
-      "s": "Expresso",
-      "c": "Mercado",
-      "t": "Web Summit abre com robôs chineses e um desafio à liderança tecnológica dos EUA: “As superestrelas do futuro vêm da China”, diz CEO",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMipgRBVV95cUxOWW5qVG1SYk55c2lPbUYtSEtaZ0Rva0xUTG8yYzBrWHIwRG9YZkRadW9yS2JCUkNwLTJ0NEFqME80NElLSjRSRHlNSTE0ODJtRVlwWFdyQXZSeFI4SDlfNXNRMkhhUHRvMm15RnVpOWRPdzNYRy13eWhrWGRaQlRoNzVJbElpMmV0aG8zUkFkUlFYZnhvVmpseGJDZFB4aXdZdWFiYkVpb0tPM3l0bzhJNUdmR2t0eXJmbzA1UTkxQVdBb3F3cUwyZmJoMERlaHU0MWhfZE9jbDI2cHRoMldJZ1ZuTGhHTzhRMzBFc0swMjR5LU00TC1oSHJhN2I5R0RLdVdfamhRTlViWmRJSXpvVDRnd0tIeTlmU1Q5bVFiYkpWcWltdUh2VHdydS1oVGZ2WlJFaWZTX2dxLTgzSHRtaDU4bFdnQUQ2RnlMM3V0Y2RUM2k1RHlnMi01QjZ0V3VIcW1YZFIxRng2aEpZZU9FZ0FVeUk3ZVhCYzREMFFEWl9GYi1hcnJwcm5qUVBoYTZmVzdkaktQYkVqSDEyR2pxbFJIVXVfamM5NW9RN0JzR2JaNWpyRXhNQkNOblZIMW42SXpYMHVkSnIzWXBxb0FUVGktd2VfOTJYY0gxczJjcVNwUEprTjgtSUloNWxsYk5NWWVrVmE0VVM4WFJxdV9DeW96NVhTdzcyNWQzN0xtTmdrcXp0bjAwYl96ZEgybmZPNDdic0h3?oc=5"
     },
     {
       "d": "12 nov",
@@ -59,11 +59,11 @@
     },
     {
       "d": "12 nov",
-      "s": "Expresso",
+      "s": "Correio da Manhã",
       "c": "Mercado",
-      "t": "Vai comprar carro em 2027? O apoio até 17 mil euros pode mudar os seus planos, mas há regras que não pode ignorar",
+      "t": "Carga fiscal sobre os combustíveis em Portugal entre as mais elevadas da União Europeia",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMinwRBVV95cUxNazJPV2trZ2NubmhfN2k4MllDNHVyaEFDZnJQTDc3cXh0Vm5USkVqMXNyMlN4QWJBa216MjRjRzJaZmZIZ0pLenJMemFtNnBFZHdIMmRoSUtGbk5xQzRIM3k4Z0hXcDR6a0dFLVJRQ2xyc3ZhSEVwQURBV1pQWVFvczVOR3lWMndwclhQOTJKbWFqcnUtQXAtaHE4T1g1blVQYWVDWjZRS05iM0pudTd6Wnc0NnNvZE9fSktTSlVEMFpucVFnakM4eVY2SkVobzdLUXFaRVFtNTZObFpFTlVVSklVNTZwbnJXVDZIdHVsLUgtQUd6MWNMeHdYWkJvRjI4MnNJQ0ptYURPdi1GUWNDVnlZZE55RUFIdkpoU1BrX2l2Wm05VmdlbDM1cFBUYXgwWk0wZ2VUS2otdF9HVW5vN2tkVHMyNGZ4QVBudnkwcEJsX3RkVFN1S0RIVHo2UjBxaGl3aF9NNTg0Qk8xSHZtc3VYby1RaVdZc1pCLWNaWmJfeEZiS011NnZrNXQxVWtUUHg2RWhhaXFmZDhISFRGd3dHbEotZTkwZGRXV0RnRGZTd0lKMVo1UU5qOVJhTXh0R0lxMVJodVJXcjhQMnNBTzBBYXlVaU1pQ2t2WWU5RUUtWUVXNTVMYWYzMmttakVxdTlBVldJX0N4Ync1dEpOWkZhSTdoY3hfenA4WkpjaEhKTl80Z0lUX3lqSmFBanM?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUG5OYW5ueEtQajRtX1FwX3ZHQzJjVEd2VWk0YXhlNFRfdXdRczZKR3N1TzlPMUExRUtMV2dwWnJnbVBZZDZYTEhoTFhBQWJYNmVNeUZqRFBuaUdVUk1WdllvMG9LZXJaZk42dVBQUW9NVGVOLWZGOEJBMG9vd0hMQlFZNWI0LWYwZVlYYlNuWkdSbnA1aE1vTkh1ZXJDZzJjOFdQeF9tYVktOTRyWW5XdHhQcEd6Tk1SbjlfZVRuUTI4ZWx2Nk9n0gHCAUFVX3lxTE9XZ1Z2NjFtcld3ZTNET3gycEloVlREalF6aThta0p3Y25oTkhyT1RuOTlkQ3FvMzZXQ1FFOTlxV0xsbmlSRkFZRzhvZ01Ta3JMeTN3ZlVDbDl6S1FVMVdBalpXTmQ0VlVSTGlTeDQ1YU9DdHJvbjJTVXpvVm5XbVRKa1d2YkZXbTZUVXZ3TFJ5bnViMGlyWmRBTktNeG9UWndQS19aNFZnWWlDblZIWkpoYkV1alVvbkNaVU1ocUdDQV9n?oc=5"
     }
   ],
   "stocks": [
