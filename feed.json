@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-12T18:46:10.920377+00:00",
+  "updated": "2026-11-12T19:47:53.695546+00:00",
   "news": [
     {
       "d": "12 nov",
       "s": "Jornal de Negócios",
       "c": "Mercado",
-      "t": "Jensen Huang demite-se do cargo de CEO da Nvidia",
+      "t": "Valor de Jensen Huang para a Nvidia é muito. Com a sua saída, cortes de preço-alvo começam a chegar",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjNSWHhVZFg1UjUwZjl3SENuTlROcXdzWTVUWlltZDNwMjlfQTk4ZVdzNlNRUnpZWWRHUVc1cWhNak53cXlaMXBUWWJ2TDJFakNrNUxCRm9MM2pJMTJtc2hJYzUzWnpkdlVvaU5PSHY1WnVaZTlTV0Q4UV9BeElQRHlRTlRiZFp3eHZwX25sZGdpYjk0TW9ZcWJ5SmNKRXM0d1HSAZwBQVVfeXFMTTMtZ18tV0ZHRDBEcExoNk9tVkdLdGtUVlNVSEdleUxBYVV3SVZJZEhFcmxJR2FtYTlsSklnaWpJVkNtNjF1QjBoV05TUHU3ZWltQXJkdHYwZG5uLU5uUl9SZDZETjNpMTNON2FwNURlbllXWS04d3JINFk5a1dNZ2dkYkxCQ2R4YUJoUGtVWDlySDhiZGp4REttVFVW?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSUJ4Q3drU25mUHZsS09KNlpzS1V4bGFyR3ZNNTFwS0h0QWtuSWNhZ2stSVZpY1VVY0lXVURQbkEyT0RTUExXM2FmLTViMHJJZVp6NDNDaGw5ZzdwdzE5Y0RzLVUwbkxwMEI2d2IzdjB4NUtGSmw1LUk5bHFLeW1rcDl1V25WT3hTNE5XVHI3WkVqZVR0SjVrSzlxbGp1ZWpWck41VHc2Q3hzNmpudm1ienVaX1ZKS2x5UWtNMWg2RWM0a0phR3h5Tzh5OEc1NHJrbUJvcTcya0hjQTgtU0xZZTRhYXhMUk0?oc=5"
     },
     {
       "d": "12 nov",
@@ -68,52 +68,52 @@
   ],
   "stocks": [
     {
-      "k": "NVDA",
-      "n": "NVIDIA Corporation",
-      "d": "dn",
-      "x": "Variação de -4.97% nas últimas sessões."
-    },
-    {
       "k": "AMD",
       "n": "Advanced Micro Devices, Inc.",
       "d": "up",
-      "x": "Variação de +4.90% nas últimas sessões."
+      "x": "Variação de +5.98% nas últimas sessões."
+    },
+    {
+      "k": "NVDA",
+      "n": "NVIDIA Corporation",
+      "d": "dn",
+      "x": "Variação de -5.88% nas últimas sessões."
     },
     {
       "k": "GOOGL",
       "n": "Alphabet Inc.",
       "d": "up",
-      "x": "Variação de +2.72% nas últimas sessões."
-    },
-    {
-      "k": "AMZN",
-      "n": "Amazon.com, Inc.",
-      "d": "up",
-      "x": "Variação de +1.14% nas últimas sessões."
+      "x": "Variação de +2.11% nas últimas sessões."
     },
     {
       "k": "INTC",
       "n": "Intel Corporation",
       "d": "dn",
-      "x": "Variação de -1.06% nas últimas sessões."
+      "x": "Variação de -1.01% nas últimas sessões."
+    },
+    {
+      "k": "AMZN",
+      "n": "Amazon.com, Inc.",
+      "d": "up",
+      "x": "Variação de +0.72% nas últimas sessões."
     },
     {
       "k": "MSFT",
       "n": "Microsoft Corporation",
       "d": "up",
-      "x": "Variação de +0.77% nas últimas sessões."
+      "x": "Variação de +0.34% nas últimas sessões."
     },
     {
       "k": "TSLA",
       "n": "Tesla, Inc.",
-      "d": "up",
-      "x": "Variação de +0.15% nas últimas sessões."
+      "d": "dn",
+      "x": "Variação de -0.10% nas últimas sessões."
     },
     {
       "k": "AAPL",
       "n": "Apple Inc.",
-      "d": "up",
-      "x": "Variação de +0.01% nas últimas sessões."
+      "d": "dn",
+      "x": "Variação de -0.02% nas últimas sessões."
     }
   ]
 }
