@@ -1,21 +1,13 @@
 {
-  "updated": "2026-11-12T14:15:47.415972+00:00",
+  "updated": "2026-11-12T15:52:21.063092+00:00",
   "news": [
     {
       "d": "12 nov",
-      "s": "Expresso",
+      "s": "Jornal de Negócios",
       "c": "Mercado",
-      "t": "Na novela da Nvidia há agora uma segunda traição, um convite de Elon Musk e uma potencial desvalorização de €1,6 biliões",
+      "t": "Jensen Huang demite-se do cargo de CEO da Nvidia",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPajEtM3VuMk1SUndOX0twZUlLa3hUT0FKMWZzRFZiOWk4Ui16SWwtemZNdGFXRWNVQmJSVXRURmM1MDVCR0hXaEJFSVpGZkFGQ0FXa3c3YWRhVGtVenlRMjJBSlRvWmgxNUxXdmpLSG4tQ3c1bGZQb0FTU0lhVDdsVWllQndrNld5Vk1EbXR2ejRQeW5KaUo1NlBhcDY2R19KTnZidE1NOThGVW5kLVUzZHBWdVd2YURucGF1U1pqQ1JudWFuMExsdEpiRFZjSkJoUDRaa1lvX3gyeWNGU3VkVUY5MzJoU0U5QU1VT3RLcjhqRUhoSFJxMU5FN01zQXhKdnhFRFFRMWtPVGFQVWNZSGFB?oc=5"
-    },
-    {
-      "d": "12 nov",
-      "s": "SAPO",
-      "c": "Mercado",
-      "t": "Sistema volta atinge os 600 milhões de embalagens devolvidas em Portugal e disponibiliza contador por município",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYzBKMWcwT2xEYzI0bGQ2TE14RGNXcG5pNE1HT1gwYW1CQ0MzcS1tU2dLdEVPcmtya1JXV0hlaVlUYV9wS0M3MGo5QWFvQklIeHNFcFBveVJ1S2I0Y2ZIeVpVeEQ5NlFtb2hOTzRNaGZjNVFKZzBMQjVfSnMyTjVqYmJCQTM4Y1VrcUdGUGRsdm1Bb1BqRUpOUldtQlNQQ0lHT3owSjVyQlZPRnVKY01yVzhOVmhSWVVJczludmNRdmNHSG04Mm93THVSN01RYlQyeXVZeU12NzBPVDRtU2NPcU90NlFzRnd5c1V1ajBQajk?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjNSWHhVZFg1UjUwZjl3SENuTlROcXdzWTVUWlltZDNwMjlfQTk4ZVdzNlNRUnpZWWRHUVc1cWhNak53cXlaMXBUWWJ2TDJFakNrNUxCRm9MM2pJMTJtc2hJYzUzWnpkdlVvaU5PSHY1WnVaZTlTV0Q4UV9BeElQRHlRTlRiZFp3eHZwX25sZGdpYjk0TW9ZcWJ5SmNKRXM0d1HSAZwBQVVfeXFMTTMtZ18tV0ZHRDBEcExoNk9tVkdLdGtUVlNVSEdleUxBYVV3SVZJZEhFcmxJR2FtYTlsSklnaWpJVkNtNjF1QjBoV05TUHU3ZWltQXJkdHYwZG5uLU5uUl9SZDZETjNpMTNON2FwNURlbllXWS04d3JINFk5a1dNZ2dkYkxCQ2R4YUJoUGtVWDlySDhiZGp4REttVFVW?oc=5"
     },
     {
       "d": "12 nov",
@@ -27,11 +19,11 @@
     },
     {
       "d": "12 nov",
-      "s": "Correio da Manhã",
+      "s": "SAPO",
       "c": "Mercado",
-      "t": "Comissão Europeia quer regular vendas de influenciadores digitais",
+      "t": "Sistema volta atinge os 600 milhões de embalagens devolvidas em Portugal e disponibiliza contador por município",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc05maUNzbG1lcGJERTNhR0JnbzRFMlNhYlVmUlNZTHQ0SFNlcEU0bkxmbGNaczFBRU9NNDZPbURHMGlfbjduaGtFUlpZNndpeUNNQ2ZiaTZ4b2RjYW5WTm4xZG9DNU8tVEY3UFRoWldXakdzR0U1MkliSmhZYjZ2OHFwOF91bjE0OURZRXRlRWxZX2NXdVhWYzlaRVBGQzJUbUNQem9YNjZBeTDSAaYBQVVfeXFMT3o1MklLbnN6cXVxYnhWbjVvUlZ6M0c3TTZ2eGhvazJoTmh6MVJuWjRLQ2JJRFJzRGg5TzFOaXFEYVZwTjB6a0I3cWFjbC1kd0ZSWnFodTZjWjZnYjdaS19uYkFlZkxlb3I2dDZjOHhxY1JhdEo3Uk0tRnRCcFlhYzM5RkpsVEJ1Y2RHQWNkbVhvYXlGblBLYnFvUGxIaWdPNDhiV0gyUQ?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYzBKMWcwT2xEYzI0bGQ2TE14RGNXcG5pNE1HT1gwYW1CQ0MzcS1tU2dLdEVPcmtya1JXV0hlaVlUYV9wS0M3MGo5QWFvQklIeHNFcFBveVJ1S2I0Y2ZIeVpVeEQ5NlFtb2hOTzRNaGZjNVFKZzBMQjVfSnMyTjVqYmJCQTM4Y1VrcUdGUGRsdm1Bb1BqRUpOUldtQlNQQ0lHT3owSjVyQlZPRnVKY01yVzhOVmhSWVVJczludmNRdmNHSG04Mm93THVSN01RYlQyeXVZeU12NzBPVDRtU2NPcU90NlFzRnd5c1V1ajBQajk?oc=5"
     },
     {
       "d": "12 nov",
@@ -43,19 +35,11 @@
     },
     {
       "d": "12 nov",
-      "s": "Público",
+      "s": "Correio da Manhã",
       "c": "Mercado",
-      "t": "UTAO alerta para “risco” de derrapagem no SNS em 2027, após “desvios grandes” neste ano",
+      "t": "Comissão Europeia quer regular vendas de influenciadores digitais",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbHdiZ3Y0eXhTZDVrZEs2eHRqY1pmVm5NMWV4YnJ4dDlZeEpnY0tURHNzeEd2Z2M3RElnUHcyc3lPRjZEM3FXNVRUT1ItZEhmTEE4YnNaSUlUOE05SHZXTHM0d2h6X3JHYVNLQUNpQTgxT25XLUVWNFVoRm5NdW1WWnNrb2taM2dVMHU4VlctY0RQOVhQVXpjN0hWTmVUQkNZOGs2MWJ5M2tnZExGdmFmaUlocXBYdUwydDEwam9VQQ?oc=5"
-    },
-    {
-      "d": "12 nov",
-      "s": "RTP",
-      "c": "Mercado",
-      "t": "Worten alvo de ciberataque que acedeu a dados de clientes e prestadores de serviços",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWHBFdTUtTzN6UjB0UGNHRS1WeU1IbXlvbm5GQ0gzOGJQSDhyY1dpUC1zZWxTRmFDbm95MU9NTkJqLWF4NHNvcWRYb1VmYWwwaFdQVmFLQ1FVUm4zTkktNGljcjlMVk1jUXU3ZUFWazAxTkNQV3B1d1NHblNxNU9OcDRESm5oU0E0WUQzVTFORDRMM3NNMjdrTGpHZ29hSmlhTFJCcVRMWU13dG9tSXBkRDFfeDdyR0hrZ3djVDktX1hNUWVLSEhSYw?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc05maUNzbG1lcGJERTNhR0JnbzRFMlNhYlVmUlNZTHQ0SFNlcEU0bkxmbGNaczFBRU9NNDZPbURHMGlfbjduaGtFUlpZNndpeUNNQ2ZiaTZ4b2RjYW5WTm4xZG9DNU8tVEY3UFRoWldXakdzR0U1MkliSmhZYjZ2OHFwOF91bjE0OURZRXRlRWxZX2NXdVhWYzlaRVBGQzJUbUNQem9YNjZBeTDSAaYBQVVfeXFMT3o1MklLbnN6cXVxYnhWbjVvUlZ6M0c3TTZ2eGhvazJoTmh6MVJuWjRLQ2JJRFJzRGg5TzFOaXFEYVZwTjB6a0I3cWFjbC1kd0ZSWnFodTZjWjZnYjdaS19uYkFlZkxlb3I2dDZjOHhxY1JhdEo3Uk0tRnRCcFlhYzM5RkpsVEJ1Y2RHQWNkbVhvYXlGblBLYnFvUGxIaWdPNDhiV0gyUQ?oc=5"
     },
     {
       "d": "12 nov",
@@ -64,56 +48,72 @@
       "t": "Subsídio de refeição em cartão: isenção de IRS vai aumentar em 2027 e beneficiar 2,4 milhões de trabalhadores",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOcE8xQ0ptWHFGQVFwaExHQzZVN1J3T1NVTFdET0pjSXU1S2VWMW8tZG9WRFdad2xreGpMSWRpMm81RDlQQTc2UEs5Skt0WWlJb0RtSHRYeV8tOUpvczNfWmJWSnYxZ1lUWEFTVWh2UXNyMmlUbjhDQ3c4UGN4TlRvdV9Lb0ZOSjBPWkgwTnFCbW9rR1FyMXRjRUFRbkVCTFlvSXdlVVRnaV9DbXJKQ2sxS3Bxc2twWlRhNjJoblhDTTUxWGszSUVPaUlJeWl3M3ptZVNVaGxYTzVSdDI4ME9nV1MzM0NhYWtNLTM2b3VJanRmeThkTlRibVN4YlRSczVuV3BUS0lDYUF5U1lDX0ZLdGZtbkR6WC1jZXpHcTBHYk5fWHFOcm16OTBiZWZRNzhJdHkw?oc=5"
+    },
+    {
+      "d": "12 nov",
+      "s": "Público",
+      "c": "Mercado",
+      "t": "UTAO alerta para “risco” de derrapagem no SNS em 2027, após “desvios grandes” neste ano",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbHdiZ3Y0eXhTZDVrZEs2eHRqY1pmVm5NMWV4YnJ4dDlZeEpnY0tURHNzeEd2Z2M3RElnUHcyc3lPRjZEM3FXNVRUT1ItZEhmTEE4YnNaSUlUOE05SHZXTHM0d2h6X3JHYVNLQUNpQTgxT25XLUVWNFVoRm5NdW1WWnNrb2taM2dVMHU4VlctY0RQOVhQVXpjN0hWTmVUQkNZOGs2MWJ5M2tnZExGdmFmaUlocXBYdUwydDEwam9VQQ?oc=5"
+    },
+    {
+      "d": "12 nov",
+      "s": "Economia e Finanças",
+      "c": "Mercado",
+      "t": "Inflação aproxima-se dos 4% com dados finais de outubro de 2026",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWtQWGlMWFdTZmVPMFNka1N6RWp2ZllBZVRvVG80bFh4MVNZSkFULTRYZUVub1N4czhJNVNncnMyeUtlbkpoRjBkdnFkS0VYTTVjSUFBSHBmWXFOVS1FTU03VXk2bTJQWHlNRmtHeEg2ZnBMOGZJX3RMVW1PV2JiQUZ0US1Da3dieWd2Mm1zSW5iaTVLaG9jakQyZk56dw?oc=5"
     }
   ],
   "stocks": [
     {
-      "k": "INTC",
-      "n": "Intel Corporation",
-      "d": "up",
-      "x": "Variação de +7.52% nas últimas sessões."
+      "k": "NVDA",
+      "n": "NVIDIA Corporation",
+      "d": "dn",
+      "x": "Variação de -5.31% nas últimas sessões."
     },
     {
       "k": "AMD",
       "n": "Advanced Micro Devices, Inc.",
       "d": "up",
-      "x": "Variação de +7.32% nas últimas sessões."
+      "x": "Variação de +4.05% nas últimas sessões."
     },
     {
-      "k": "TSLA",
-      "n": "Tesla, Inc.",
-      "d": "up",
-      "x": "Variação de +2.91% nas últimas sessões."
+      "k": "INTC",
+      "n": "Intel Corporation",
+      "d": "dn",
+      "x": "Variação de -1.61% nas últimas sessões."
     },
     {
-      "k": "NVDA",
-      "n": "NVIDIA Corporation",
+      "k": "AMZN",
+      "n": "Amazon.com, Inc.",
       "d": "up",
-      "x": "Variação de +2.87% nas últimas sessões."
+      "x": "Variação de +0.86% nas últimas sessões."
     },
     {
       "k": "MSFT",
       "n": "Microsoft Corporation",
-      "d": "dn",
-      "x": "Variação de -2.26% nas últimas sessões."
-    },
-    {
-      "k": "GOOGL",
-      "n": "Alphabet Inc.",
       "d": "up",
-      "x": "Variação de +2.11% nas últimas sessões."
+      "x": "Variação de +0.68% nas últimas sessões."
     },
     {
       "k": "AAPL",
       "n": "Apple Inc.",
       "d": "up",
-      "x": "Variação de +2.04% nas últimas sessões."
+      "x": "Variação de +0.59% nas últimas sessões."
     },
     {
-      "k": "AMZN",
-      "n": "Amazon.com, Inc.",
+      "k": "GOOGL",
+      "n": "Alphabet Inc.",
+      "d": "up",
+      "x": "Variação de +0.59% nas últimas sessões."
+    },
+    {
+      "k": "TSLA",
+      "n": "Tesla, Inc.",
       "d": "dn",
-      "x": "Variação de -1.74% nas últimas sessões."
+      "x": "Variação de -0.28% nas últimas sessões."
     }
   ]
 }
