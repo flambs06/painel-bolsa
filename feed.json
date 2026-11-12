@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-12T07:01:16.293323+00:00",
+  "updated": "2026-11-12T08:53:24.751533+00:00",
   "news": [
     {
       "d": "12 nov",
       "s": "CNN Portugal",
       "c": "Mercado",
-      "t": "Aconteceu outra vez: revelada mais uma relação extraconjugal do dono da Nvidia, desta vez dentro da empresa",
+      "t": "Nvidia prepara-se para despedir Jensen Huang, avança o Wall Street Journal",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOS0ltSjM0U2NDcTNNWGNfMW92WExrdjZ0SG5fbTZNLXdnV2tFeTR6R2d2TGJrdWJsa0hicmE5cHhUWGpicXhzdWcwdVZHci03ejNWMXZZZmJ2c21ZMU8zTnVEd29YeE9sUkFpRW5TN1ZCdjg5a2Z3S3hrQ1I4RENzSkphbDhxU1FyMXlCaVI5UWVLYVc4V3FZQm1tZm9CVjN5dFZ4UEdqUlM3NHJlRjEwOUhWY0hJellPNXczaEN1bl8yYnh2Rjh3a0g5R2tMVGdLUEVHM3hHZnZuajllQi1vSVRzRW1mdUJDN2FEaXpac0czaXBoMzU0X2stemRPUi1Ba1g5SHVZRTlMdjlndEswR05jcy0?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZVBnTl9YUHVDVm1OUnBtcEMxUnpXR3N5VHd5VGxTNzc5WXZmLV94MWQ2MHlKc1VKTmdKeV80T3RmZnNNbzI2Wk1UcG9vT3o4NjVqaURTTFI2T0RxU1Z3SXpLeWRpRlNMVFI0QV8yQWRRUzRmTnBEVmJtSDdTTmlKdG5EUktub3NBZ0Z5YWFVeFdWRWt4eWw2aGhxZFdpVUZla011N3Q0QS10VTROVDJQdjFjQjRmaWNCZ3RzTkdsVl9vZGJYOTh6Mm1uaUtfYnBIYnAtbGpXYzRPSHdTVThTMmZ4TkJSNEJDT0E?oc=5"
     },
     {
       "d": "12 nov",
@@ -19,6 +19,14 @@
     },
     {
       "d": "12 nov",
+      "s": "SIC Notícias",
+      "c": "Mercado",
+      "t": "Ataque informático à Worten acede a dados de clientes e prestadores de serviços",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY2NYNFVKVi02dnVmWWQ0SUZhNzVhYUVLVlBKQVJKcmN6Vmo1a2duc2JGRmx1T3p6amJGcWFIUEhjWk1XTzhDX29uanVLNy1GbzJETHpTZm9kcEpCdjV3N3BWOWhhN21fbTBaNjdFZnRmVHVXY3dVMzhMdmtHSzFXaGFiT2ZlYjc0TWk1RG11WURKMjdQN05Ha0x5RkVSMFhSZW9UdkZ3T0JVYjdFUmpJQXp0N1gydllIUV9Yc1lKQXZpMWFuM3c?oc=5"
+    },
+    {
+      "d": "12 nov",
       "s": "Economia e Finanças",
       "c": "Mercado",
       "t": "Inflação aproxima-se dos 4% com dados finais de outubro de 2026",
@@ -27,19 +35,19 @@
     },
     {
       "d": "12 nov",
-      "s": "Jornal de Negócios",
-      "c": "Mercado",
-      "t": "Worten alvo de ataque informático. Dados pessoais de clientes afetados",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQME9xQk5Xd3N4TUtoZk5vVXp6YmZzUlBVR2tZcEdPaFVoYTMyb2owV0ExUDRxZTZnUlZpcXc1ZU01QmFia2FQTkRVR0YyT1hBV3hDRWY5M255bW12cjhRZmM5RURESXpwcEpFeE0wRkg1Q0VnVFp4ZlVsUW04TUlZenM4NU8wWlpSNEtsX1drUHl6R21YenfSAZABQVVfeXFMT3dJSXBYRWtGYTJXc0syZnZDdmwxdVg4XzV6YXA1WVJQQXZEMWNJd3YwWlkzR013TThEdVJHMVJ1T3ZuZlZ5ZUJCb0dzeTNCQVQxa2thVzhxdXRHaG5hSlY0RWFwSUJtdk5udTJVTXVVbkJzb2tZdEFhWkJ2ZVpYd21KQ1QtOFlYRjV4VmtJdWlR?oc=5"
-    },
-    {
-      "d": "12 nov",
       "s": "Observador",
       "c": "Mercado",
       "t": "Ryanair: \"Temos 14 aeronaves no Porto. A TAP nenhuma\"",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPU1FqV05HV0w1Sm82STVtTXkxdHFGVTZXbzk4bTJfb3BYWWZpWldEZnFHbzJpWG9XUG1vQmE1b2NnY2J6V3BGMGtULUplOWFNQUcyUjhDVVdSSm05TEFrMHlHQzRWdTFmSDdWcHhLRVJ3Tml1ZE1PYXF4aDJKZEoyMkJCM3ZNX2E3VWpWMkU1dUNnSzZaMXpCYzk4elBUemhyX2d4LWN6X3NNZTIxb3RXb2VMR0tTSUlmbFRIdmo0NFRUX2RXak8xSzFGRHZ3clV5b3g1ZU0tYS1ZbkVhLV9hQkoyV2gxSWNPUXRXaS0xUi1EREN2XzJQSy0zUDhWN28?oc=5"
+    },
+    {
+      "d": "12 nov",
+      "s": "Jornal Económico",
+      "c": "Mercado",
+      "t": "Caças suecos vêm às compras em Portugal",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkNpYi1EWjE1dmRLdS15U2VVV1A5aUtFNE8weEtpZ3lELUNkeHROZmZfZXRCTFMzRGJyUzdTbUVfYVBaRTNhQW9hVG9kMkdja04yWldlR3BFTFk0VW1kdnNxTDVJY0xBdE1JRUsxdlZOVWk2TzJESVM4U0ZWQ1FKbkUtYmpKU0ZO?oc=5"
     },
     {
       "d": "12 nov",
@@ -53,17 +61,9 @@
       "d": "12 nov",
       "s": "Expresso",
       "c": "Mercado",
-      "t": "Fábrica na Marinha Grande vai produzir componentes para caças Gripen da Saab",
+      "t": "Vai comprar carro em 2027? O apoio até 17 mil euros pode mudar os seus planos, mas há regras que não pode ignorar",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNelB1a2VTTXlZRDNCMFF2U3RxVG5zN2NFSDE0cWc1dlZMMGlhX3RfOUo3QndybGcyOTE4UVBQSVZtNDU3YlpDZVpTU0pyYlNiSERiM3FQZmRLQWRlQzRnSjVIckY3QUVYeTltN3VvWDk4dWJMQ0xvYmtxUllKcmxaZm9meGdKTjNwV05KUk5POGR6aVFZdW91bkhybzdMSVkxY09tYWthZWNtQ2UwSEJuNkZUdzY0SG11RVBoX2I0U2l5NkxGOEE?oc=5"
-    },
-    {
-      "d": "12 nov",
-      "s": "Contas Poupança",
-      "c": "Mercado",
-      "t": "Combustíveis | Preço justo da gasolina e do gasóleo desce quase 10 cêntimos por litro",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQWF3MEF3QjJUcGhTeTdfZkE1aVZnN2psZW9RN3pMOUNtNXhhU1pWWEtIWlFHM2FFVkJWaTRjay05aF9UOFBob3F0cWFWalJWWmtIdGFLRWNZQWJEYXZwT3YyYjJ3TVQxY2NiQ1cxamZ5anlQWmxQN1doMjE0b1Z3bVlsOUhIYlh1TDFIOUpCeExJb1BoNXpRSDBUYnBPdGFCUUZlb2padGNOa0Eyc3ljYUowVTVieVVvcnlmdW5iZmFxZTVDSnBhUk1veFlrcnNTTFNHX3FtSm1SY1Y5akRoU2NIaw?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMinwRBVV95cUxNazJPV2trZ2NubmhfN2k4MllDNHVyaEFDZnJQTDc3cXh0Vm5USkVqMXNyMlN4QWJBa216MjRjRzJaZmZIZ0pLenJMemFtNnBFZHdIMmRoSUtGbk5xQzRIM3k4Z0hXcDR6a0dFLVJRQ2xyc3ZhSEVwQURBV1pQWVFvczVOR3lWMndwclhQOTJKbWFqcnUtQXAtaHE4T1g1blVQYWVDWjZRS05iM0pudTd6Wnc0NnNvZE9fSktTSlVEMFpucVFnakM4eVY2SkVobzdLUXFaRVFtNTZObFpFTlVVSklVNTZwbnJXVDZIdHVsLUgtQUd6MWNMeHdYWkJvRjI4MnNJQ0ptYURPdi1GUWNDVnlZZE55RUFIdkpoU1BrX2l2Wm05VmdlbDM1cFBUYXgwWk0wZ2VUS2otdF9HVW5vN2tkVHMyNGZ4QVBudnkwcEJsX3RkVFN1S0RIVHo2UjBxaGl3aF9NNTg0Qk8xSHZtc3VYby1RaVdZc1pCLWNaWmJfeEZiS011NnZrNXQxVWtUUHg2RWhhaXFmZDhISFRGd3dHbEotZTkwZGRXV0RnRGZTd0lKMVo1UU5qOVJhTXh0R0lxMVJodVJXcjhQMnNBTzBBYXlVaU1pQ2t2WWU5RUUtWUVXNTVMYWYzMmttakVxdTlBVldJX0N4Ync1dEpOWkZhSTdoY3hfenA4WkpjaEhKTl80Z0lUX3lqSmFBanM?oc=5"
     }
   ],
   "stocks": [
