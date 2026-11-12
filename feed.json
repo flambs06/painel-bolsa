@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T16:54:39.392414+00:00",
+  "updated": "2026-11-12T17:46:31.010856+00:00",
   "news": [
     {
       "d": "12 nov",
@@ -35,14 +35,6 @@
     },
     {
       "d": "12 nov",
-      "s": "CNN Portugal",
-      "c": "Mercado",
-      "t": "Subsídio de refeição em cartão: isenção de IRS vai aumentar em 2027 e beneficiar 2,4 milhões de trabalhadores",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOcE8xQ0ptWHFGQVFwaExHQzZVN1J3T1NVTFdET0pjSXU1S2VWMW8tZG9WRFdad2xreGpMSWRpMm81RDlQQTc2UEs5Skt0WWlJb0RtSHRYeV8tOUpvczNfWmJWSnYxZ1lUWEFTVWh2UXNyMmlUbjhDQ3c4UGN4TlRvdV9Lb0ZOSjBPWkgwTnFCbW9rR1FyMXRjRUFRbkVCTFlvSXdlVVRnaV9DbXJKQ2sxS3Bxc2twWlRhNjJoblhDTTUxWGszSUVPaUlJeWl3M3ptZVNVaGxYTzVSdDI4ME9nV1MzM0NhYWtNLTM2b3VJanRmeThkTlRibVN4YlRSczVuV3BUS0lDYUF5U1lDX0ZLdGZtbkR6WC1jZXpHcTBHYk5fWHFOcm16OTBiZWZRNzhJdHkw?oc=5"
-    },
-    {
-      "d": "12 nov",
       "s": "A Bola",
       "c": "Mercado",
       "t": "Nova queda no preço dos combustíveis prevista para a próxima semana",
@@ -51,19 +43,27 @@
     },
     {
       "d": "12 nov",
-      "s": "Economia e Finanças",
-      "c": "Mercado",
-      "t": "Inflação aproxima-se dos 4% com dados finais de outubro de 2026",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWtQWGlMWFdTZmVPMFNka1N6RWp2ZllBZVRvVG80bFh4MVNZSkFULTRYZUVub1N4czhJNVNncnMyeUtlbkpoRjBkdnFkS0VYTTVjSUFBSHBmWXFOVS1FTU03VXk2bTJQWHlNRmtHeEg2ZnBMOGZJX3RMVW1PV2JiQUZ0US1Da3dieWd2Mm1zSW5iaTVLaG9jakQyZk56dw?oc=5"
-    },
-    {
-      "d": "12 nov",
       "s": "Público",
       "c": "Mercado",
       "t": "UTAO alerta para “risco” de derrapagem no SNS em 2027, após “desvios grandes” neste ano",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbHdiZ3Y0eXhTZDVrZEs2eHRqY1pmVm5NMWV4YnJ4dDlZeEpnY0tURHNzeEd2Z2M3RElnUHcyc3lPRjZEM3FXNVRUT1ItZEhmTEE4YnNaSUlUOE05SHZXTHM0d2h6X3JHYVNLQUNpQTgxT25XLUVWNFVoRm5NdW1WWnNrb2taM2dVMHU4VlctY0RQOVhQVXpjN0hWTmVUQkNZOGs2MWJ5M2tnZExGdmFmaUlocXBYdUwydDEwam9VQQ?oc=5"
+    },
+    {
+      "d": "12 nov",
+      "s": "CNN Portugal",
+      "c": "Mercado",
+      "t": "Subsídio de refeição em cartão: isenção de IRS vai aumentar em 2027 e beneficiar 2,4 milhões de trabalhadores",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOcE8xQ0ptWHFGQVFwaExHQzZVN1J3T1NVTFdET0pjSXU1S2VWMW8tZG9WRFdad2xreGpMSWRpMm81RDlQQTc2UEs5Skt0WWlJb0RtSHRYeV8tOUpvczNfWmJWSnYxZ1lUWEFTVWh2UXNyMmlUbjhDQ3c4UGN4TlRvdV9Lb0ZOSjBPWkgwTnFCbW9rR1FyMXRjRUFRbkVCTFlvSXdlVVRnaV9DbXJKQ2sxS3Bxc2twWlRhNjJoblhDTTUxWGszSUVPaUlJeWl3M3ptZVNVaGxYTzVSdDI4ME9nV1MzM0NhYWtNLTM2b3VJanRmeThkTlRibVN4YlRSczVuV3BUS0lDYUF5U1lDX0ZLdGZtbkR6WC1jZXpHcTBHYk5fWHFOcm16OTBiZWZRNzhJdHkw?oc=5"
+    },
+    {
+      "d": "12 nov",
+      "s": "Economia e Finanças",
+      "c": "Mercado",
+      "t": "Inflação aproxima-se dos 4% com dados finais de outubro de 2026",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWtQWGlMWFdTZmVPMFNka1N6RWp2ZllBZVRvVG80bFh4MVNZSkFULTRYZUVub1N4czhJNVNncnMyeUtlbkpoRjBkdnFkS0VYTTVjSUFBSHBmWXFOVS1FTU03VXk2bTJQWHlNRmtHeEg2ZnBMOGZJX3RMVW1PV2JiQUZ0US1Da3dieWd2Mm1zSW5iaTVLaG9jakQyZk56dw?oc=5"
     }
   ],
   "stocks": [
@@ -71,49 +71,49 @@
       "k": "AMD",
       "n": "Advanced Micro Devices, Inc.",
       "d": "up",
-      "x": "Variação de +6.09% nas últimas sessões."
+      "x": "Variação de +5.33% nas últimas sessões."
     },
     {
       "k": "NVDA",
       "n": "NVIDIA Corporation",
       "d": "dn",
-      "x": "Variação de -5.05% nas últimas sessões."
+      "x": "Variação de -4.54% nas últimas sessões."
     },
     {
       "k": "GOOGL",
       "n": "Alphabet Inc.",
       "d": "up",
-      "x": "Variação de +2.15% nas últimas sessões."
-    },
-    {
-      "k": "AMZN",
-      "n": "Amazon.com, Inc.",
-      "d": "up",
-      "x": "Variação de +1.27% nas últimas sessões."
+      "x": "Variação de +2.79% nas últimas sessões."
     },
     {
       "k": "MSFT",
       "n": "Microsoft Corporation",
       "d": "up",
-      "x": "Variação de +1.12% nas últimas sessões."
+      "x": "Variação de +1.45% nas últimas sessões."
+    },
+    {
+      "k": "AMZN",
+      "n": "Amazon.com, Inc.",
+      "d": "up",
+      "x": "Variação de +1.33% nas últimas sessões."
     },
     {
       "k": "INTC",
       "n": "Intel Corporation",
       "d": "dn",
-      "x": "Variação de -0.74% nas últimas sessões."
-    },
-    {
-      "k": "AAPL",
-      "n": "Apple Inc.",
-      "d": "up",
-      "x": "Variação de +0.48% nas últimas sessões."
+      "x": "Variação de -0.50% nas últimas sessões."
     },
     {
       "k": "TSLA",
       "n": "Tesla, Inc.",
       "d": "up",
-      "x": "Variação de +0.27% nas últimas sessões."
+      "x": "Variação de +0.40% nas últimas sessões."
+    },
+    {
+      "k": "AAPL",
+      "n": "Apple Inc.",
+      "d": "dn",
+      "x": "Variação de -0.04% nas últimas sessões."
     }
   ]
 }
