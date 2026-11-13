@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T17:44:09.738166+00:00",
+  "updated": "2026-11-13T18:44:05.013140+00:00",
   "news": [
     {
       "d": "13 nov",
@@ -59,11 +59,11 @@
     },
     {
       "d": "13 nov",
-      "s": "RTP",
+      "s": "Jornal de Negócios",
       "c": "Mercado",
-      "t": "TEKEVER inaugura fábrica em França e prepara entrega dos primeiros 15 drones às Forças Armadas",
+      "t": "Tekever inaugura fábrica em Cahors e vai fornecer drones às Forças Armadas francesas",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVzFaNzQwTFJFQXEtV0g1SU4wSWJDQjM1R0ZTenJpdTgzekloT01pcUJGNjg2eDRCUGRvdVdMbnBuTTZlTFFmM09iTjJTcVFqMG5XWFZaWWs5UlRaSExfZERYWmR5bkx5Qlg3VUljQWh5U2Fic2ZvLXRkeFA5TFAxdG5yeW1CWE1OVlBnbUgzZXBVTnJMVXBGMVZQRzB1eXRZbERJQVRyby1NT1R2ZkFhT3BDMGlVU05SM2ZIWF9KZmhJbGRLbzlzVVRGZnJnRE0zLWtyVHJrUQ?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYTVXc3ZkdU1oeGwxZUdUbHBxZ094OFpMOWsxQ3Y2VVFraW5BX2pQUjVXcDdwNzlOdDZ0NVBlWmhXQmowT3dUOGlKX2JhV2kwSnBEMHFRS2dicXZVMVoxcDdjSVZ6SjhabDU1T0l1TjdEZmNvUVpTV01DOVpxa0lOMUVWeUk5NW9KanYyNHdwOEJvRUNralpPYkJSdC1mTHlOaEdmN1ZIUEJ0eEJ4bTd6M29nT0RFa3RPUmFUT19GRkpSYWVvcFk1NHF5bTN3XzFkTUdJUnI3bmZXeUdremfSAdgBQVVfeXFMTk80MkU3Y2lyOTVsTGNWczk4MWZoelByVFZyOFhWR093MDQyUG96ZnJPZXJVUThyMUZ1ZDhzYzh4U3N3c3pMZHlmVU5JeDFoWUUtSUlZQS1tajZBTDltQXFZVy04VFl3MWg3dFdMeDJrNnZxelROV2NFNXVKM09tbzR1WGlVREo4MHFKYmZmN3hpZDRqSHdvYXZRTzd0UTk2MlNkaXQ4aURhci13RVgyd0dQZWN5V20yb3hNdDVTd0dTbVlOVEpYdHA0eWJyelpUd2JYendCb2lr?oc=5"
     }
   ],
   "stocks": [
@@ -71,49 +71,49 @@
       "k": "AMD",
       "n": "Advanced Micro Devices, Inc.",
       "d": "dn",
-      "x": "Variação de -10.38% nas últimas sessões."
+      "x": "Variação de -9.62% nas últimas sessões."
     },
     {
       "k": "INTC",
       "n": "Intel Corporation",
       "d": "dn",
-      "x": "Variação de -4.00% nas últimas sessões."
+      "x": "Variação de -3.63% nas últimas sessões."
     },
     {
       "k": "NVDA",
       "n": "NVIDIA Corporation",
       "d": "dn",
-      "x": "Variação de -3.17% nas últimas sessões."
+      "x": "Variação de -2.49% nas últimas sessões."
     },
     {
       "k": "TSLA",
       "n": "Tesla, Inc.",
       "d": "dn",
-      "x": "Variação de -1.84% nas últimas sessões."
+      "x": "Variação de -1.78% nas últimas sessões."
     },
     {
       "k": "GOOGL",
       "n": "Alphabet Inc.",
       "d": "dn",
-      "x": "Variação de -1.18% nas últimas sessões."
+      "x": "Variação de -0.98% nas últimas sessões."
     },
     {
       "k": "AAPL",
       "n": "Apple Inc.",
       "d": "up",
-      "x": "Variação de +0.91% nas últimas sessões."
+      "x": "Variação de +0.90% nas últimas sessões."
     },
     {
       "k": "AMZN",
       "n": "Amazon.com, Inc.",
       "d": "dn",
-      "x": "Variação de -0.67% nas últimas sessões."
+      "x": "Variação de -0.61% nas últimas sessões."
     },
     {
       "k": "MSFT",
       "n": "Microsoft Corporation",
       "d": "up",
-      "x": "Variação de +0.22% nas últimas sessões."
+      "x": "Variação de +0.17% nas últimas sessões."
     }
   ]
 }
