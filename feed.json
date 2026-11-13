@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T14:07:27.673077+00:00",
+  "updated": "2026-11-13T15:42:19.224312+00:00",
   "news": [
     {
       "d": "13 nov",
@@ -8,14 +8,6 @@
       "t": "Outlook da Microsoft em baixo: como continuar a trabalhar e que alternativas usar",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQUF3VDlDdElub1Uwcnc2YllNenNyQnU3d0dlYlVnMGdFb0NSYlpKUWVJY2lrMDgtbllNVktocUIyRzctMkVlMm5reGZiSzNBWDd0My1vM3U3ajNwbjlRUHZUcElCY0ZmMmF1eENra0pJSm1aZm5URGt1cUJzQTlQYk1TbktIOHZsV0JXUlFlbG12UGdvcWF5eXM2b1hiSlVwVm00RzNBaE9mUmZGOG9SeUV4S3FsZw?oc=5"
-    },
-    {
-      "d": "13 nov",
-      "s": "RTP",
-      "c": "Mercado",
-      "t": "Ex-CEO da Nvidia manteve uma terceira relação extraconjugal, avança a Reuters",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQU1JRVd1WUMyeXFLc3V0ZUtYczNYN3hZWndzWEpqMVdiV3dHTUxGdTVGYmRrSnlyb3pHbXRIYmdvZUNmbDhwZEVPZXdDMTZ4bUtyNHIzd2EwckI5bU5WdmlObHBBNWMwYjJSMnFLcUVJV0xZeU4yTnU5dS13ZU5uZTk0bmk3Q2pUSHl1T3hIV1hVSUJ3Y29zVjltZWp5LWJFRUFaT0RyWi0ySWpWYnllc2p2YlpvY3F5MklR?oc=5"
     },
     {
       "d": "13 nov",
@@ -32,6 +24,14 @@
       "t": "Venda de casas dá 320 mil euros por dia à Câmara do Porto e 858 mil a Lisboa",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcldVZTdCNmhLV3RldnQwTWRwWHBLVElJcFpJam1HdVF5UHlQRE9TejlxcExidzZFbmVLQTItc3hyRmpKc1poSi1SY29vTldUT1AwcUVoX0tIdkpsLThpWnM4cEtxNl9yWlpWQmQ2V0ljT2YyWlhYWjJqaFVYeHMySzZjVG83TkswM1RJM1A2cFBhVEx6YjhCMFNCQXMxRGxGcjUxOUVoSU5tQTdUYmJrMUJlOHAtSkM4Zmh3?oc=5"
+    },
+    {
+      "d": "13 nov",
+      "s": "Expresso",
+      "c": "Mercado",
+      "t": "Ex-CEO da Nvidia teve afinal duas relações com funcionárias da empresa, além de uma terceira com a alegada espiã chinesa",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPUURScG5hdmI0ZXFyRm5GOWR6ZkUwdHh1YXpYN1lwb2xVOGc3WVVYVFJDNW5WZVV3MXQwb01lYUZFX2FhT2ZNek0zWlVvT0pyVHlkMVdva0N5V1RhTFRlemJkNUp6bUJvNE53UV9lb0lzR3ZJeU5xVzhCQjlMSEFYLXRCbFJQR2tZd3hocWlQS1ZXNHNza0R5VHJRb1Z4WUdTVUxHWmpSQ3JKUkE5S0d4N05vX2VieWswbnpBVDNQbFNkUVJNc2NscVU3YlliQlJpQ0Q1T2dld0lOeDQyNWxpX3pTQy01VEJnX20xb2M0RjZja2xoVHBPZ3ZUdTRwSGl2aVd1clNvcThoVXVRR0hudVJXOGM?oc=5"
     },
     {
       "d": "13 nov",
@@ -70,50 +70,50 @@
     {
       "k": "AMD",
       "n": "Advanced Micro Devices, Inc.",
-      "d": "up",
-      "x": "Variação de +5.86% nas últimas sessões."
-    },
-    {
-      "k": "NVDA",
-      "n": "NVIDIA Corporation",
       "d": "dn",
-      "x": "Variação de -4.34% nas últimas sessões."
+      "x": "Variação de -9.24% nas últimas sessões."
     },
     {
       "k": "INTC",
       "n": "Intel Corporation",
       "d": "dn",
-      "x": "Variação de -2.08% nas últimas sessões."
+      "x": "Variação de -6.05% nas últimas sessões."
     },
     {
-      "k": "GOOGL",
-      "n": "Alphabet Inc.",
-      "d": "up",
-      "x": "Variação de +1.79% nas últimas sessões."
+      "k": "NVDA",
+      "n": "NVIDIA Corporation",
+      "d": "dn",
+      "x": "Variação de -3.53% nas últimas sessões."
     },
     {
       "k": "TSLA",
       "n": "Tesla, Inc.",
-      "d": "up",
-      "x": "Variação de +1.69% nas últimas sessões."
+      "d": "dn",
+      "x": "Variação de -2.25% nas últimas sessões."
     },
     {
-      "k": "AMZN",
-      "n": "Amazon.com, Inc.",
-      "d": "up",
-      "x": "Variação de +0.48% nas últimas sessões."
-    },
-    {
-      "k": "MSFT",
-      "n": "Microsoft Corporation",
-      "d": "up",
-      "x": "Variação de +0.36% nas últimas sessões."
+      "k": "GOOGL",
+      "n": "Alphabet Inc.",
+      "d": "dn",
+      "x": "Variação de -1.30% nas últimas sessões."
     },
     {
       "k": "AAPL",
       "n": "Apple Inc.",
+      "d": "up",
+      "x": "Variação de +1.05% nas últimas sessões."
+    },
+    {
+      "k": "AMZN",
+      "n": "Amazon.com, Inc.",
       "d": "dn",
-      "x": "Variação de -0.14% nas últimas sessões."
+      "x": "Variação de -0.84% nas últimas sessões."
+    },
+    {
+      "k": "MSFT",
+      "n": "Microsoft Corporation",
+      "d": "dn",
+      "x": "Variação de -0.01% nas últimas sessões."
     }
   ]
 }
