@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T00:53:22.398764+00:00",
+  "updated": "2026-11-13T01:59:23.339406+00:00",
   "news": [
     {
       "d": "13 nov",
@@ -68,52 +68,52 @@
   ],
   "stocks": [
     {
-      "k": "AMD",
-      "n": "Advanced Micro Devices, Inc.",
-      "d": "up",
-      "x": "Variação de +5.86% nas últimas sessões."
+      "k": "AAPL",
+      "n": "Apple Inc.",
+      "d": "dn",
+      "x": "Variação de +nan% nas últimas sessões."
     },
     {
       "k": "NVDA",
       "n": "NVIDIA Corporation",
       "d": "dn",
-      "x": "Variação de -4.34% nas últimas sessões."
+      "x": "Variação de +nan% nas últimas sessões."
+    },
+    {
+      "k": "MSFT",
+      "n": "Microsoft Corporation",
+      "d": "dn",
+      "x": "Variação de +nan% nas últimas sessões."
+    },
+    {
+      "k": "AMZN",
+      "n": "Amazon.com, Inc.",
+      "d": "dn",
+      "x": "Variação de +nan% nas últimas sessões."
+    },
+    {
+      "k": "GOOGL",
+      "n": "Alphabet Inc.",
+      "d": "dn",
+      "x": "Variação de +nan% nas últimas sessões."
+    },
+    {
+      "k": "TSLA",
+      "n": "Tesla, Inc.",
+      "d": "dn",
+      "x": "Variação de +nan% nas últimas sessões."
+    },
+    {
+      "k": "AMD",
+      "n": "Advanced Micro Devices, Inc.",
+      "d": "dn",
+      "x": "Variação de +nan% nas últimas sessões."
     },
     {
       "k": "INTC",
       "n": "Intel Corporation",
       "d": "dn",
-      "x": "Variação de -2.08% nas últimas sessões."
-    },
-    {
-      "k": "GOOGL",
-      "n": "Alphabet Inc.",
-      "d": "up",
-      "x": "Variação de +1.79% nas últimas sessões."
-    },
-    {
-      "k": "TSLA",
-      "n": "Tesla, Inc.",
-      "d": "up",
-      "x": "Variação de +1.69% nas últimas sessões."
-    },
-    {
-      "k": "AMZN",
-      "n": "Amazon.com, Inc.",
-      "d": "up",
-      "x": "Variação de +0.48% nas últimas sessões."
-    },
-    {
-      "k": "MSFT",
-      "n": "Microsoft Corporation",
-      "d": "up",
-      "x": "Variação de +0.36% nas últimas sessões."
-    },
-    {
-      "k": "AAPL",
-      "n": "Apple Inc.",
-      "d": "dn",
-      "x": "Variação de -0.21% nas últimas sessões."
+      "x": "Variação de +nan% nas últimas sessões."
     }
   ]
 }
