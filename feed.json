@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-13T11:49:00.595621+00:00",
+  "updated": "2026-11-13T12:54:41.631538+00:00",
   "news": [
     {
       "d": "13 nov",
-      "s": "Euronews.com",
+      "s": "Jornal de Negócios",
       "c": "Mercado",
-      "t": "Outlook da Microsoft em baixo: como continuar a trabalhar e que alternativas usar",
+      "t": "Microsoft com dificuldades em corrigir falhas no Outlook, Copilot e Teams",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQUF3VDlDdElub1Uwcnc2YllNenNyQnU3d0dlYlVnMGdFb0NSYlpKUWVJY2lrMDgtbllNVktocUIyRzctMkVlMm5reGZiSzNBWDd0My1vM3U3ajNwbjlRUHZUcElCY0ZmMmF1eENra0pJSm1aZm5URGt1cUJzQTlQYk1TbktIOHZsV0JXUlFlbG12UGdvcWF5eXM2b1hiSlVwVm00RzNBaE9mUmZGOG9SeUV4S3FsZw?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcTVYS2Zncml4VE5QT2tnTHB2dGs2TVdheVhvVkFNbTE4T01TTm5IcHk1ZGg1ZjdDYnJfMlcwci1kOHloYTJDakJWLXl5RmphUjcxaHk5dVA3UC1QWXBobkNkUUFzb3RHQ1JtSkVUSnYxOXQ5MnhJVEV0WTdIb21na2hKWWE2a1JyR2NSV3ZRT2tULXhMNDg2Z3ZUaW1nc0xna3JWb0V5WDJRYjlROVBCa0NIdHkwV2szLUFYdDhnUk1tcnRNU19zOHFoUkduZ9IByAFBVV95cUxObEY5Zjdxdl9CZE5Fbm1fbXJZeERhQ1EyNW40UGZMVzFZWGFPSEl2bjhEdXBBRVNfcWVOcXNhUTdLQm1uY0lkTG1jOEczSG10Y3EzTjE5ZjBjckNraklQWTN4ZkQwVENpNjdPYldtOEZRRkxvemdJVHpNZC1xR05SSEVYcjdyVGRjS191cG54WkhkOW1PZmFSZjBvQVRsRFUzNzg1UDZ4Q3ZNVGJhY25CTGxkLWE5TnZndVJFeWdSYlltc3hQQjhZWg?oc=5"
     },
     {
       "d": "13 nov",
@@ -19,11 +19,11 @@
     },
     {
       "d": "13 nov",
-      "s": "Contas Poupança",
+      "s": "CNN Portugal",
       "c": "Mercado",
-      "t": "Preço dos combustíveis na próxima semana (16 a 22 de novembro)",
+      "t": "Gasolina ⬇️, gasóleo ⬇️⬇️: saiba o que esperar do preço dos combustíveis na próxima semana",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPekFUcmZsd3YzUUlYcHM5bm5qRFE1RHZMT1R0anNqX0xCNTdlOWZwc3I1aWdob1NzOEp5YTFsRnVHcUJIWUFGLTM2cGZnSXZuZVYta1A3ZDR1OEZvMEVZUWJqX3RWcUNocTRMR3BuZkpTaHl1eXp1NXVyQ0djemYxd0xzSkZnTlp1dk9nY09fLWptMEFUX0R3TlN0eWdmc2QyY3RiaHlsVF93c1E4Sk1FZncyYlFEMFI4T1liZHFxVGtSZHJQc0E?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOYTZSUU50NmZ4cFJXQ01ULXpXTlUtTzh4THJBeGxLNWc5V3R2NUEtcC1IeE9BcElGbUZRbmxWMTFLeUlkSWgtTXZKbzY2WTY0OVJhbFNjWGdISHg5ZWwwdjhOYTk2ZXY4c3ZBYmZxWERrcmdoUnB3WWhZdXROVEVtYzNSRWNMeXdUcGR5M3BaaU9UbDFUMl9oWnVMbHg0c05OVEVmclU5SjRuWXhRU1RKMXp0cHViLTdURGpfV1o4TjJmYkNNbVJDQ1BxWXhfd0ZDWnI2dGx2S1ZYNlcwNmR2UUdaSjdyTTZRR2NYem8wZWcyclY0SS1md0Y5MjVlcGlKVHRv?oc=5"
     },
     {
       "d": "13 nov",
@@ -32,6 +32,22 @@
       "t": "Venda de casas dá 320 mil euros por dia à Câmara do Porto e 858 mil a Lisboa",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcldVZTdCNmhLV3RldnQwTWRwWHBLVElJcFpJam1HdVF5UHlQRE9TejlxcExidzZFbmVLQTItc3hyRmpKc1poSi1SY29vTldUT1AwcUVoX0tIdkpsLThpWnM4cEtxNl9yWlpWQmQ2V0ljT2YyWlhYWjJqaFVYeHMySzZjVG83TkswM1RJM1A2cFBhVEx6YjhCMFNCQXMxRGxGcjUxOUVoSU5tQTdUYmJrMUJlOHAtSkM4Zmh3?oc=5"
+    },
+    {
+      "d": "13 nov",
+      "s": "Público",
+      "c": "Mercado",
+      "t": "Tekever inaugura fábrica em França com a ambição de “reforçar a soberania europeia”",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObm1nSkstejZlcWdZeTQ5clBwWjl2YXc0d1dwLXFJNWlXOU9KQl91cXBFSmptZnNXemd1RVoxLTBzMDFXMVl5cTdSTmhLQmdDaWFGc3IydTl4ejdpWUlIdFAyc1NmN3puUTVNTmE3YnZuRGQzanVuQTNEZkowNklkU2pta1hxbUhKMER3a2lfOWpRaFRtQnRxX0VNQ0hZSEJqWGdaREljTjA2UFV3bGtRNUpiM0hDNXZwSU1wQV9Wb2RUWGw4?oc=5"
+    },
+    {
+      "d": "13 nov",
+      "s": "Expresso",
+      "c": "Mercado",
+      "t": "Web Summit abre com robôs chineses e um desafio à liderança tecnológica dos EUA: “As superestrelas do futuro vêm da China”, diz CEO",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMipgRBVV95cUxOWW5qVG1SYk55c2lPbUYtSEtaZ0Rva0xUTG8yYzBrWHIwRG9YZkRadW9yS2JCUkNwLTJ0NEFqME80NElLSjRSRHlNSTE0ODJtRVlwWFdyQXZSeFI4SDlfNXNRMkhhUHRvMm15RnVpOWRPdzNYRy13eWhrWGRaQlRoNzVJbElpMmV0aG8zUkFkUlFYZnhvVmpseGJDZFB4aXdZdWFiYkVpb0tPM3l0bzhJNUdmR2t0eXJmbzA1UTkxQVdBb3F3cUwyZmJoMERlaHU0MWhfZE9jbDI2cHRoMldJZ1ZuTGhHTzhRMzBFc0swMjR5LU00TC1oSHJhN2I5R0RLdVdfamhRTlViWmRJSXpvVDRnd0tIeTlmU1Q5bVFiYkpWcWltdUh2VHdydS1oVGZ2WlJFaWZTX2dxLTgzSHRtaDU4bFdnQUQ2RnlMM3V0Y2RUM2k1RHlnMi01QjZ0V3VIcW1YZFIxRng2aEpZZU9FZ0FVeUk3ZVhCYzREMFFEWl9GYi1hcnJwcm5qUVBoYTZmVzdkaktQYkVqSDEyR2pxbFJIVXVfamM5NW9RN0JzR2JaNWpyRXhNQkNOblZIMW42SXpYMHVkSnIzWXBxb0FUVGktd2VfOTJYY0gxczJjcVNwUEprTjgtSUloNWxsYk5NWWVrVmE0VVM4WFJxdV9DeW96NVhTdzcyNWQzN0xtTmdrcXp0bjAwYl96ZEgybmZPNDdic0h3?oc=5"
     },
     {
       "d": "13 nov",
@@ -48,22 +64,6 @@
       "t": "Governo aumenta em 5% das ajudas de custo na Função Pública. “Acompanha aumento do custo de vida”",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT2M2YWdqVGZNcmJnRmo2RWFqcmVpMnhwMjd0UVZOTzVIbHJBVG5OZjJvQVQ3LV9DTmt1a1Zpd1VWZUpjSk84alVmdHFCeXRUd0Y5RW9hUVMyYkEzSFhNNkpnYXFjVDVKUEZtT3kwcVNyWGF0WVprbW1MdVJDVllRVWo5OHU0dGw5U0U0QXVyMjFsbWJjZDRBU0tnQm14UTVEbmc?oc=5"
-    },
-    {
-      "d": "13 nov",
-      "s": "Expresso",
-      "c": "Mercado",
-      "t": "Web Summit abre com robôs chineses e um desafio à liderança tecnológica dos EUA: “As superestrelas do futuro vêm da China”, diz CEO",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMipgRBVV95cUxOWW5qVG1SYk55c2lPbUYtSEtaZ0Rva0xUTG8yYzBrWHIwRG9YZkRadW9yS2JCUkNwLTJ0NEFqME80NElLSjRSRHlNSTE0ODJtRVlwWFdyQXZSeFI4SDlfNXNRMkhhUHRvMm15RnVpOWRPdzNYRy13eWhrWGRaQlRoNzVJbElpMmV0aG8zUkFkUlFYZnhvVmpseGJDZFB4aXdZdWFiYkVpb0tPM3l0bzhJNUdmR2t0eXJmbzA1UTkxQVdBb3F3cUwyZmJoMERlaHU0MWhfZE9jbDI2cHRoMldJZ1ZuTGhHTzhRMzBFc0swMjR5LU00TC1oSHJhN2I5R0RLdVdfamhRTlViWmRJSXpvVDRnd0tIeTlmU1Q5bVFiYkpWcWltdUh2VHdydS1oVGZ2WlJFaWZTX2dxLTgzSHRtaDU4bFdnQUQ2RnlMM3V0Y2RUM2k1RHlnMi01QjZ0V3VIcW1YZFIxRng2aEpZZU9FZ0FVeUk3ZVhCYzREMFFEWl9GYi1hcnJwcm5qUVBoYTZmVzdkaktQYkVqSDEyR2pxbFJIVXVfamM5NW9RN0JzR2JaNWpyRXhNQkNOblZIMW42SXpYMHVkSnIzWXBxb0FUVGktd2VfOTJYY0gxczJjcVNwUEprTjgtSUloNWxsYk5NWWVrVmE0VVM4WFJxdV9DeW96NVhTdzcyNWQzN0xtTmdrcXp0bjAwYl96ZEgybmZPNDdic0h3?oc=5"
-    },
-    {
-      "d": "13 nov",
-      "s": "CNN Portugal",
-      "c": "Mercado",
-      "t": "Famílias carenciadas vão poder comprar carros elétricos com isenção de IVA",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNQnYtSlc1ZlViZEp4c0xQeWZEcmRiY2kxdHBDcHNZQ0xpWTF6ZFZRNTd0TDlhLUluR29CUXNqNkNfckFuS1gtXzR1cEpxUG1TekZQMGt4ME5DWGo3WTlsbFhULUUxWFZfSHVvN1dYcENwaXMwUnNPRklfUGc0emNybmozdVFoZUE1N09mbzRDbHBvd0RTajNTN3J3em5kLTVHQVVWOVdtekRCTXdvTU1VcFdDUjVNU0ZQV0dwVU1GTVR6OExsT3RfbHZWeTk2WnBXYmxfZ3RaWEdRODNLZGZaUUk0SFZsaE94ejNwOUc5NW5wTFBySVRXbms4TDhjZHFhT0I4?oc=5"
     }
   ],
   "stocks": [
