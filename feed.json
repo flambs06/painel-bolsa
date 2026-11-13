@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T05:53:36.614730+00:00",
+  "updated": "2026-11-13T07:00:00.648348+00:00",
   "news": [
     {
       "d": "13 nov",
@@ -27,19 +27,27 @@
     },
     {
       "d": "13 nov",
+      "s": "Euronews.com",
+      "c": "Mercado",
+      "t": "Microsoft: falha no Outlook e Teams deixa milhares de utilizadores sem email",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdkdERFJaMWJKa1pnTkdhdlNQYWVFUUZreXRYb2FvRkxqZWM3ZEEzWVhfVHlxa3lPc3UzMWNxLS1Cd2dELUJpbVlkRjlsb0RjVWQxZWxTTm92d2xvLUhDYkhwNEs1SjBuamhXdG8zQjNYWVFkdWZmOU4zLVVsSzhQRmlnbmN2RE9ZaDliZjhSR3d1Q0JrWXlnWXFjX1VsLVMxdDNYUVdmWnZZRFVUM1ZV?oc=5"
+    },
+    {
+      "d": "13 nov",
+      "s": "Jornal de Negócios",
+      "c": "Mercado",
+      "t": "Lucros da REN sobem 34% para 139 milhões até setembro",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON05hU2Jkdjh5NmJ5RjRjbXFDY1J0Mld5dW5nR0ZTdFkxT25MYjZOdmlMZmVqVFNhQmdwVUkySld5LW55TUw5MFNSQllUbU9pUlQ2V29JVVBxRUdzdUp5bTZPRUVuMF9ySzcyQ1YxVUJzNWY0WXJoTHA4UzVocEZnQ3JDOEg0TUZBa01MMTZLS0RpXzlXZWl3UExEVXhLaDQzdmtocDJkTmJhSHlqeHfSAagBQVVfeXFMUFJ2blhYZzhDVjNUMnU3QTJYYmg3SlRERGdsQXN2UW1uSFZSamJWZkV3MzY4S1VXOHRhaU1nc3YwaVZuaFpEUjNkUTJLOUlYOXVXdVdGbXMyam9oQ0dzR3pnM0lfZWFpWEtlU0tiN1FseG9yLVRTOGRwa3Nua1ZsVHdZanFXazJ0X19IZkF3TU42OElFNFhxVE9hSm1Va0dDSUFCZEItNzV0?oc=5"
+    },
+    {
+      "d": "13 nov",
       "s": "Público",
       "c": "Mercado",
       "t": "Alta velocidade: Alstom usa conforto, experiência e Guifões para vender comboios a Portugal",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORFA5RDl0c1lrMVVNWjY1WXBSUzJhY3JNVUYxRVhjQS1fUDFXMlg5UFl3VlkwTEZCQU1iRnVTaTVxa1B4UlpkdXR6TEFhT0VNQTRMX1lnSF9VRmp2ZVFHaVA4dXpDdjVhOVZwWlkyRFpMbDlIUFJFOFpuUDA0a2dxakhNdlNwaElxUzdNN2F0am4xcS1wdGRONFBJQ0tBYjFscm9temxxM0RLZnVib0lhN1FGSThPd3F0YllyMTdWc1I1XzlhYllzYzA2Y2NkTVdaV1pTQUh3?oc=5"
-    },
-    {
-      "d": "13 nov",
-      "s": "Tek Notícias",
-      "c": "Mercado",
-      "t": "Falha global na Microsoft afeta Outlook, Teams e Microsoft 365 e deixa milhares de utilizadores a braços com problemas",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNkFzTi1JNGlsc1RSYXR0WVA1WjM0ekZiVHEzckxPdHFNb3R6dTZHZFpocWl0V21iSlJza0RjRTlHY1hZMzgwQUhYTjJDOEwzQTBkV2pxTXFZTjNDTEFlMmVFVVM0SW5QdkVPbURla2Z5elhxNWl0Y1NsWkdySGx1UGZXbkVXYXlHMEc1ZFlzazVoR3NuQjVNWkp5M2F2dWE2LTZyQ09vTk83cUFISmlXQVdZTlQxQ1Byb1plOWRxQ1NCc1BSM2ZrUS1HNmpuekJ1RW9lNWNKd0twNVdkbUxZSndycVM1aS1YREZRWTYxeTg1Y090Wjdj?oc=5"
     },
     {
       "d": "13 nov",
@@ -51,19 +59,11 @@
     },
     {
       "d": "13 nov",
-      "s": "SAPO",
+      "s": "Público",
       "c": "Mercado",
-      "t": "Sistema volta atinge os 600 milhões de embalagens devolvidas em Portugal e disponibiliza contador por município",
+      "t": "Ministro não vê razão para entrar já no BCP, mas vê motivos para intervir na banca",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYzBKMWcwT2xEYzI0bGQ2TE14RGNXcG5pNE1HT1gwYW1CQ0MzcS1tU2dLdEVPcmtya1JXV0hlaVlUYV9wS0M3MGo5QWFvQklIeHNFcFBveVJ1S2I0Y2ZIeVpVeEQ5NlFtb2hOTzRNaGZjNVFKZzBMQjVfSnMyTjVqYmJCQTM4Y1VrcUdGUGRsdm1Bb1BqRUpOUldtQlNQQ0lHT3owSjVyQlZPRnVKY01yVzhOVmhSWVVJczludmNRdmNHSG04Mm93THVSN01RYlQyeXVZeU12NzBPVDRtU2NPcU90NlFzRnd5c1V1ajBQajk?oc=5"
-    },
-    {
-      "d": "13 nov",
-      "s": "Jornal de Negócios",
-      "c": "Mercado",
-      "t": "Lucros da REN sobem 34% para 139 milhões até setembro",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON05hU2Jkdjh5NmJ5RjRjbXFDY1J0Mld5dW5nR0ZTdFkxT25MYjZOdmlMZmVqVFNhQmdwVUkySld5LW55TUw5MFNSQllUbU9pUlQ2V29JVVBxRUdzdUp5bTZPRUVuMF9ySzcyQ1YxVUJzNWY0WXJoTHA4UzVocEZnQ3JDOEg0TUZBa01MMTZLS0RpXzlXZWl3UExEVXhLaDQzdmtocDJkTmJhSHlqeHfSAagBQVVfeXFMUFJ2blhYZzhDVjNUMnU3QTJYYmg3SlRERGdsQXN2UW1uSFZSamJWZkV3MzY4S1VXOHRhaU1nc3YwaVZuaFpEUjNkUTJLOUlYOXVXdVdGbXMyam9oQ0dzR3pnM0lfZWFpWEtlU0tiN1FseG9yLVRTOGRwa3Nua1ZsVHdZanFXazJ0X19IZkF3TU42OElFNFhxVE9hSm1Va0dDSUFCZEItNzV0?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSHAzczY2TzRYbG1XbmlXVmpYR3ZrclU1cThrNmd5bzJBRWhBUVFaTDhtYmRsQmpXdGhoanhKM1lMaTJQdjBiRll0a2VXczlKZW9DV2xlQzh6akw2emdHUEFaemN4eXlKY2hYRkFHVHBmaW1scnZ1U2FtVkRITU5QQ3BJQlluWllzdXJEZVBfUGpTODdXR0g2MHlGbEIwR1ItS3kxRnVKbjRzQlUxNXFrS05pdU9WYm9XYm5QcQ?oc=5"
     }
   ],
   "stocks": [
