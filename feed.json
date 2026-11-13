@@ -1,11 +1,19 @@
 {
-  "updated": "2026-11-13T20:46:43.592218+00:00",
+  "updated": "2026-11-13T21:41:40.477081+00:00",
   "news": [
+    {
+      "d": "13 nov",
+      "s": "RTP",
+      "c": "Mercado",
+      "t": "À procura de um novo CEO. Nvidia abordou chefe da Arm, Rene Haas",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZHpaa2FrMXkyV1dLTFgzRElPaWpzM1pTME9aNDZsQ21MUG9faHAzNDdkaVlnZmg1LUgyTktuUWllZkstV2dqdXBPcEttWUVUWUNSM3Nab3hYeWZjQXdzY2c5cTctTVBDcDZSbkg5Xzh2cnBrbXhqbUQ0a19YUTQwQ3EwYjNpeW51eS1mUmpvcTgyM0FjSUpvVm0xN29ic3ZyZ0E1azg2MFE?oc=5"
+    },
     {
       "d": "13 nov",
       "s": "Contas Poupança",
       "c": "Mercado",
-      "t": "Preço dos combustíveis na próxima semana (16 a 22 de novembro)",
+      "t": "ATUALIZAÇÃO | Preço dos combustíveis na próxima semana (16 a 22 de novembro)",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPekFUcmZsd3YzUUlYcHM5bm5qRFE1RHZMT1R0anNqX0xCNTdlOWZwc3I1aWdob1NzOEp5YTFsRnVHcUJIWUFGLTM2cGZnSXZuZVYta1A3ZDR1OEZvMEVZUWJqX3RWcUNocTRMR3BuZkpTaHl1eXp1NXVyQ0djemYxd0xzSkZnTlp1dk9nY09fLWptMEFUX0R3TlN0eWdmc2QyY3RiaHlsVF93c1E4Sk1FZncyYlFEMFI4T1liZHFxVGtSZHJQc0E?oc=5"
     },
@@ -16,14 +24,6 @@
       "t": "Outlook da Microsoft em baixo: como continuar a trabalhar e que alternativas usar",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQUF3VDlDdElub1Uwcnc2YllNenNyQnU3d0dlYlVnMGdFb0NSYlpKUWVJY2lrMDgtbllNVktocUIyRzctMkVlMm5reGZiSzNBWDd0My1vM3U3ajNwbjlRUHZUcElCY0ZmMmF1eENra0pJSm1aZm5URGt1cUJzQTlQYk1TbktIOHZsV0JXUlFlbG12UGdvcWF5eXM2b1hiSlVwVm00RzNBaE9mUmZGOG9SeUV4S3FsZw?oc=5"
-    },
-    {
-      "d": "13 nov",
-      "s": "RTP",
-      "c": "Mercado",
-      "t": "Ex-CEO da Nvidia manteve uma terceira relação extraconjugal, avança a Reuters",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQU1JRVd1WUMyeXFLc3V0ZUtYczNYN3hZWndzWEpqMVdiV3dHTUxGdTVGYmRrSnlyb3pHbXRIYmdvZUNmbDhwZEVPZXdDMTZ4bUtyNHIzd2EwckI5bU5WdmlObHBBNWMwYjJSMnFLcUVJV0xZeU4yTnU5dS13ZU5uZTk0bmk3Q2pUSHl1T3hIV1hVSUJ3Y29zVjltZWp5LWJFRUFaT0RyWi0ySWpWYnllc2p2YlpvY3F5MklR?oc=5"
     },
     {
       "d": "13 nov",
@@ -51,19 +51,19 @@
     },
     {
       "d": "13 nov",
-      "s": "SIC Notícias",
-      "c": "Mercado",
-      "t": "PSD e CDS querem facilitar os 'vistos gold' para quem investir no apoio social",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcFU5dkNhWng0NFpnUUZEaUNyVl9ZV01qNjhGM204RkZXX0xVYjQxTW9ReFdnUHFQUjA3MWpreENQWjZwX010RFJfOTRRT1RaUHhCcTE0T2ZkYlBxRHpzdG1fb2xVUDktMHNCWmhPbWEzVnNHTFFYby0zOGNad0hudmlkWnFBX1owd0laaEFSSlBEZEItY1o0d1JIMmtpOWNZTGRFdW9CWkppY1I0QllJbmgxXzZvUnM3T3RKQ3FWZ1VHUmxvc3Yw?oc=5"
-    },
-    {
-      "d": "13 nov",
       "s": "Notícias ao Minuto",
       "c": "Mercado",
       "t": "Remuneração bruta mensal aumentou: Quanto se está a ganhar em Portugal?",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOODFydVUwTkxwN3l2U0lBTmZ5a0p6eW1NLWwzV0RjUElfT045VGVxaDR0UjV6elVjeGNQQzdPZ3FCT0tKVUtNeDE5Z3ZseFVQd0tpZjVBaVN0TmpOTUpHc3BLUEFnMkpxc0M4QUNWS3BQTXBtRVg1d1I0RVdsRjMtM0MtdkZKbndFVWN0d1kwQ3E0dEo0dTNoeUpzWWNJWVZSUVAtU3EzMGEteTZjRkw2bkZR?oc=5"
+    },
+    {
+      "d": "13 nov",
+      "s": "SIC Notícias",
+      "c": "Mercado",
+      "t": "PSD e CDS querem facilitar os 'vistos gold' para quem investir no apoio social",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcFU5dkNhWng0NFpnUUZEaUNyVl9ZV01qNjhGM204RkZXX0xVYjQxTW9ReFdnUHFQUjA3MWpreENQWjZwX010RFJfOTRRT1RaUHhCcTE0T2ZkYlBxRHpzdG1fb2xVUDktMHNCWmhPbWEzVnNHTFFYby0zOGNad0hudmlkWnFBX1owd0laaEFSSlBEZEItY1o0d1JIMmtpOWNZTGRFdW9CWkppY1I0QllJbmgxXzZvUnM3T3RKQ3FWZ1VHUmxvc3Yw?oc=5"
     }
   ],
   "stocks": [
@@ -71,49 +71,49 @@
       "k": "AMD",
       "n": "Advanced Micro Devices, Inc.",
       "d": "dn",
-      "x": "Variação de -9.10% nas últimas sessões."
+      "x": "Variação de -8.75% nas últimas sessões."
     },
     {
       "k": "INTC",
       "n": "Intel Corporation",
       "d": "dn",
-      "x": "Variação de -2.90% nas últimas sessões."
+      "x": "Variação de -2.52% nas últimas sessões."
     },
     {
       "k": "NVDA",
       "n": "NVIDIA Corporation",
       "d": "dn",
-      "x": "Variação de -2.38% nas últimas sessões."
+      "x": "Variação de -2.01% nas últimas sessões."
     },
     {
       "k": "TSLA",
       "n": "Tesla, Inc.",
       "d": "dn",
-      "x": "Variação de -1.67% nas últimas sessões."
+      "x": "Variação de -1.82% nas últimas sessões."
     },
     {
       "k": "GOOGL",
       "n": "Alphabet Inc.",
       "d": "dn",
-      "x": "Variação de -0.99% nas últimas sessões."
-    },
-    {
-      "k": "AMZN",
-      "n": "Amazon.com, Inc.",
-      "d": "dn",
-      "x": "Variação de -0.38% nas últimas sessões."
+      "x": "Variação de -0.98% nas últimas sessões."
     },
     {
       "k": "AAPL",
       "n": "Apple Inc.",
       "d": "up",
-      "x": "Variação de +0.26% nas últimas sessões."
+      "x": "Variação de +0.39% nas últimas sessões."
+    },
+    {
+      "k": "AMZN",
+      "n": "Amazon.com, Inc.",
+      "d": "dn",
+      "x": "Variação de -0.29% nas últimas sessões."
     },
     {
       "k": "MSFT",
       "n": "Microsoft Corporation",
       "d": "up",
-      "x": "Variação de +0.19% nas últimas sessões."
+      "x": "Variação de +0.17% nas últimas sessões."
     }
   ]
 }
