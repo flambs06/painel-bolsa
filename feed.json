@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T11:30:01.930333+00:00",
+  "updated": "2026-11-14T12:38:33.538722+00:00",
   "news": [
     {
       "d": "14 nov",
@@ -35,14 +35,6 @@
     },
     {
       "d": "14 nov",
-      "s": "RTP",
-      "c": "Mercado",
-      "t": "DBRS confirma `rating` de Portugal em \"A\" elevado com tendência positiva",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2dWZHg0clA3a3E0cEp6dl9xSkY1SWw2dTEwckNzNi1FLWV0U243VVl4ak1sZG5pWlQ4QWlodHdVYWlQWml1ZjIyR092bnpSaHE4Zk5VLXcxZk1UWDVuYzhyRDl2MEs1VkNGNUxlX3BVTWdRTkFVZGFsT1FqNlNmb0lpMXdyWWVXMk5BSzFwMldka0JlZjh6SU1IczZ3RFJSVEpCbnlxQnhTY3VZQk1VWUV4NXE?oc=5"
-    },
-    {
-      "d": "14 nov",
       "s": "Jornal de Notícias",
       "c": "Mercado",
       "t": "Venda de casas dá 320 mil euros por dia à Câmara do Porto e 858 mil a Lisboa",
@@ -51,19 +43,27 @@
     },
     {
       "d": "14 nov",
-      "s": "Público",
+      "s": "Jornal de Notícias",
       "c": "Mercado",
-      "t": "Lisboa aposta forte em repavimentações em 2027 e vai relançar PPP de renda acessível | Habitação",
+      "t": "Preço do bacalhau mais do que duplicou desde o início da guerra na Ucrânia",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSmUteUZGTU52MGExZUZWbnM5eU5wN2wyWFozSF9ybWtQa1cyRUo1MlNTc2dsczBmYmFHY1pSMkFCNGVOSklfcjRHT21EeEFGNHlTN0FvRlE1aERWMEVqR3BJTGVMbmd0SGFtOTNPZzBSU2MyTHFxTXQ1OGw5RkpGNjYwRHZfYTJMT1kwMnFnSFpTdTNXSDhGMTFLYzAyRjBsM215bDZXNUVlQUtLb3ZtVXFyZWpHX2JNRGZLOG9fV3llSVdpZUJZbQ?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONmFQZTBNYkZqdVV4amRVVG9aOXh4U09HelNHeHlfVzRST01WRHhWT05IQ1VLU3VoQkRuWklQVTNpdll2LUphcU9tUHZOT3l6dXdDWXVUQjhEX3RPY0RweU5jbDBOdnlVT3djRlM5dEV3VWJwdng2M2NoYWVmZWgtSzNYNEhMT1kzLVRUc2dLQU93Z0o2MzJHZnZXM2l3Rm10b2hBSTZVcGh4R19nemhRNUNNTkdlOVU4?oc=5"
     },
     {
       "d": "14 nov",
-      "s": "Observador",
+      "s": "RTP",
       "c": "Mercado",
-      "t": "Trabalhadores da Ecco terão entrevistas na própria fábrica com agência local de emprego",
+      "t": "DBRS confirma `rating` de Portugal em \"A\" elevado com tendência positiva",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQzZHVE8zNWJJOFFVcENQYW4tVE5vNS1MQ3pMS3oyZTRZWVVGX0NTX216Sm5fN19UdlRkSlpXb2ktUlZwV08tU1J3N3hEVXZsNzVQX3RtUVFPWEpDcDI2aF9fNWZFdEp2N3JxbFpLTVdoRUk0MUlDeHFBRGhFRzZfQno0WU1fcjk4MWVWTHNKanBOVER5WFBmLUg0SzFKZU9wUDl2LWdoVG5JZXJNM3E2WEVzTlQ1VnppZHdKdzFn?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2dWZHg0clA3a3E0cEp6dl9xSkY1SWw2dTEwckNzNi1FLWV0U243VVl4ak1sZG5pWlQ4QWlodHdVYWlQWml1ZjIyR092bnpSaHE4Zk5VLXcxZk1UWDVuYzhyRDl2MEs1VkNGNUxlX3BVTWdRTkFVZGFsT1FqNlNmb0lpMXdyWWVXMk5BSzFwMldka0JlZjh6SU1IczZ3RFJSVEpCbnlxQnhTY3VZQk1VWUV4NXE?oc=5"
+    },
+    {
+      "d": "14 nov",
+      "s": "Correio da Manhã",
+      "c": "Mercado",
+      "t": "Crescimento do salário médio trava a fundo",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYXF5NGtIQTVZMXZZVHl4bXpSaHpNanRObURzWk1SZ01yNWdOQkpCR2lfTkcxcUpZUndrSmJudjVNWTFNV19ROUZ3NzZidTJKTXBhWUFRb3RjYjFwc1pBUWZwVE1rTkR3OUZGVnkyc2JMNHpMRlU4RG1RYjFnaFN4djVCZk1Mc20zOEYw0gGGAUFVX3lxTE1zV09UMTlGRDBpM2hGQmtSaGRYSktkb0tpQ19hVS1ZSFJaZm1Ud1lfTm1nX3k0bUIzcld3NnBoNUZubXQ2U1hncWVUazN1UDItamJreXBhYlNydkhCbXNYZ2p6XzNtNVpMbmV0Qzh5VUZvR0NIMTRWclFfbnA1Z3o1SlVsQVR3?oc=5"
     }
   ],
   "stocks": [
