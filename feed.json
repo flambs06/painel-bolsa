@@ -1,13 +1,29 @@
 {
-  "updated": "2026-11-16T11:59:36.059571+00:00",
+  "updated": "2026-11-16T15:02:02.085829+00:00",
   "news": [
+    {
+      "d": "16 nov",
+      "s": "CNN Portugal",
+      "c": "Mercado",
+      "t": "Jensen Huang está a ponderar o regresso à liderança da Nvidia",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMmRrOFFEdnRSazh5clBZazZseExOZ29wRDZ5VE9EcDZ1cnAtaGJBNGpEdi16ZFFIZUlRVThIaTdfaXFRR1M2UHJqOFRnWGFoVElVSVpfNXhacDlnNUZRNmt1UGpDVF9aMU5kdWZjY0gxOEdzS2wxTFltYzhzRS1ZaENUdE1xZmxJam0xQzV4NjI4M2RkOXhFSXBNeEdXQy1rUE9mOElRTWlfV29ONTFobEl3VnZidTJkWEJvblpBSFNUUmVaU2JCWkN0UnNjdw?oc=5"
+    },
     {
       "d": "16 nov",
       "s": "Jornal de Negócios",
       "c": "Mercado",
-      "t": "Bolsa de Lisboa em máximos de setembro. Mota-Engil salta 2,6% com melhoria do preço-alvo",
+      "t": "Mais lucro e ações \"baratas\". Mota-Engil dispara em bolsa após JB Capital subir preço-alvo",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVG05LVVXUmZCRjdSQTdUaER0X1JFQjBSN19IeldYR2loeVB0REJWeVlGOGdicW9YeC1EaHlGQW56eUFrOE5fSVNrek5kbUFfT0ZnVmNrZ1FMT28xX0xfa1hYUXJzZElBVXZsZW1sR0NRby1vTFNmbjJZZWd6V1dVOFdiUXhfQTh0V1ZJS2tlY0pCWUk3WlNzdllCM1J4MHdmSzlHdm9SRG9NZ2RJVkpTamZBUm1obFExOFNIcGp6MDdxUGpvMzJTam1BN2lpNlE2MmN5bW1NQ1rSAdMBQVVfeXFMTWpWWi1YTlpCSW5UcFBfSTk0ZmYtODRrTmZ2d21fN3J4UjRidElaU0pIMzI1LXdXS1p4VWtDdmw1NElBRGY1YjhMaUN1M2ptY0RFVnBNSEVoUzd2VExwQWh5bUc1VDNlYnNZVURTZzdTOFBIU1pUczY3dU9uTzNnRkVEUmdtTU1GN2NIcHExOEg1QkNRSnVFQzdnQjNoMTV4dnZSbHppWUlGYzcwZlY3bXNpZ3FpZEdfZ2lHVElyR2E0WnJTNHkza1hCVzBfN2JWQWZJWQ?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOGg5X20xUGtsckZ1NkVYUFFMU2J2WllTakFMTkVGY19fS1JsWlYzYmZyRDE3RGtEelVMZ3U3MjB5MUdKN1FiYU41M2kzUkJUaHNmT1huN0xwVmJxV05Mbm9VLWtTMUtMcl85WTk0bF9FV1NrSXFEd0JoUGgweVNaWVBWZDVPX1pBTWVfNjNWeFpFTWt2WnlCalYxTy1RYktjX2FpS3BFbEtjWGduejAzZE5UTzhaYUd3a0ZiWXJzYkgzSjZFNDQ3VEthcnBTNldlOHR2ZkNuWU1ndFJNZk4ybDFOUzZxUQ?oc=5"
+    },
+    {
+      "d": "16 nov",
+      "s": "Jornal de Negócios",
+      "c": "Mercado",
+      "t": "Bolsas europeias resistem a \"sell-off\" tecnológico. Ouro recua e atinge mínimos de um ano",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOTMxWjF5TXdsQWlqMElwMGN1QnAzTGF4dGhjX2VOWWRIdzFHQ3IzcWl4Q3NpaUt6ejFIcXRYZ0JpZThzejZWbE4wZ2lOaEoyR3cwUUNuc19NVHpkaEVKLUlvQXlMa1F6SnBNYnBwektfRVpkWnp1VjRYSnVlcUVRckE4YTlXQzk0WTJsQ2ZVaWNkVmJZYTNIa0xERjFPT19BRUJtOVJxMjB5N0dvek9LNUtJejdiLUpsS0ZMTWxMTkNVdWdPTXg3ejFfTDFvc0NzdE81WTRtakxjMzdpQ01lUC1DWdIB3gFBVV95cUxQeEs1Y19DdGVlRGpGbGxsQWpfTjltb1NrQWs1YjZYXzdjdUFRWWVoUkw4dHIwR21aalNTSU9NcWtrMTFzcGpXcWo1bWhNNHlkbXRmeVh1S1JWUHA3STBQYWdVS1pucUlWRV9xRi1RY3EzSjZBb0RDYWZRc2lWRXN2UzJoZjF2cWU2UVlzdWF3aDJtZnVuSmtZY3JqMG5oMVc1bEgxdDg1TU5aSzZaQ1hxY2xCMFFzczJtb1Rva05qRDhFR241OHc1TWZleFo4VzIzM2dXeUl1VzRJMW9iQ3c?oc=5"
     },
     {
       "d": "16 nov",
@@ -19,11 +35,11 @@
     },
     {
       "d": "16 nov",
-      "s": "Expresso",
+      "s": "RTP",
       "c": "Mercado",
-      "t": "Impostos sobre o imobiliário valem mais de metade das receitas em seis municípios: Loulé, Grândola e Cascais entre os mais dependentes",
+      "t": "Descida de preços dos combustíveis esta semana",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQblRITF9PcHdIYUM4QVNiMTl3T1Y0b3RmREpGMXVDc2VQRk5WZzAyXzFjY19wTDEySGFqSzY1QTF4VjUwN3h3bHlSanZORkI4Y2cybXBORHN4OC1GZ2Rud29VbHBfTkdIblpRUS1Ub1N5SVpFZ3Vab24xUThsdkoxanBNZERRVmVwbTVzR0RTbTdzamVJNUxKM0VDNXVPYkdHLVgtR2g1QmtCN3JMRlQzMkphWUxfSThoSkRQNktjRE9Ncm40anlrWkQwVmI0RU5qaXJ1d1NZQlY3LWZycXpKWFcwYVN2WEtrUXpTd3g0a1cyN3hGcVhVYlZHU0NtYWw1NFV1S0NZaTBPdXJRNGc?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOem9nanhUN1BGQllMUXBYbC1paTdKaTQta2ZUSlMxX2dQVWRVTXY0RkxuZ2VPVWdzbkJOYmRVdTU5YzFjQVZLMnZIdmxDRjl0RkJTem9ua0RDNnVnamFqTFBWYldKSFNrVHRRMlNuUHNOM001WndUNWVKVVdFSHM3dTAyZWQzRVd2TE1RYy1UbWs1NXdxd19Z?oc=5"
     },
     {
       "d": "16 nov",
@@ -35,85 +51,69 @@
     },
     {
       "d": "16 nov",
-      "s": "Jornal de Negócios",
-      "c": "Mercado",
-      "t": "A sua semana dia a dia: IPO da Anthropic, contas da Nvidia e rating da Moody's",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd01uWkFIV3pjWXc2SV96bkZhaXA1b3FoaXF2Mm4zQmNQZHRWYnN2UmRRU1ZBOW1zc2hfU0VmYUQ1TnRFYTBDSENxcjZBcy1PVUtkM1N4eF9hZzN4a2E0Um83RzJZZ1QtWUtQNDAtbnJYRko4aktXcVhmaThiYmhfakpNTHN6bzA3MHJuRmdTYXQ0LTVJQ0l6eGlOSEdrV2hFc29xSE41WTJSS3kxdzdQbjdDRnJ2WUZvQzhzNEhuMS1UQzg?oc=5"
-    },
-    {
-      "d": "16 nov",
-      "s": "Observador",
-      "c": "Mercado",
-      "t": "Aliados de Jensen Huang montaram \"gabinete de crise\" e tentam regresso de ex-líder da Nvidia",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQzBfck12MU91WDVoOGpEV1Boc2NUcDlIUFdqT2d4QnhtbFVaVWRtaHhIZ1Z3U1Q1djMyN2NVa0xPNHRNZ29zS3oxWUdLVDZnbXVuc3oydHhZdjhiZVlsNEZ1M1ZCM3FxM2tfY00xcktvMy1mZnhsSTAzUFRnOC1DT29DOTgxczBkRkZMRDIzUk14YmV5ZFRvcVV1MTN5aTdWdkxuTkZCdzZSLVJjaHcxaFNBQWFpektXS25fTnR6elM5dw?oc=5"
-    },
-    {
-      "d": "16 nov",
-      "s": "Contas Poupança",
-      "c": "Mercado",
-      "t": "ATUALIZAÇÃO ISP | Preço dos combustíveis na próxima semana (16 a 22 de novembro)",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORDFwQ0NUQUpsVk5qTUdDZHZlLUgyWFNMS0VERzZRY0I3ZDQ2S1BKTTlHcGtzSzdoOXd2U0dMSEwwVkJaVHF5T0dnVTF5UXlDSzR2a2hEaERrcUxQZXFtRHJTWnNNdnRYNU9acmlrUHZUOEZaY1NIR3AwbDRUWVN4WVNRbTF2clZBNkdnNE1pOVhVczF1a00tbkpNbTdfQUxyVHhyQ0FsMnltbkxIZExYalQ3TWFZVnlWSk1pUm4xdHFBd2ZFU09zeGlhS2ItU2ZCLV9jeVdSQ0lfR0RrR3BINE5JV0tZRjM4cTUzYw?oc=5"
-    },
-    {
-      "d": "16 nov",
       "s": "Expresso",
       "c": "Mercado",
-      "t": "Fábrica em França é um novo passo da Tekever para criar empresa pan-europeia, avança Ricardo Mendes",
+      "t": "Impostos sobre o imobiliário valem mais de metade das receitas em seis municípios: Loulé, Grândola e Cascais entre os mais dependentes",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNWpYU1ZvMTFvU1JMdm1UVmVHVy1BX3N2T2E1NV83RURUVHhiU2VvUmlPd0YyUzFfU3JQX2dlWG5Gd3BxUFB5d09KV2x4amVXdXk3clNiUFYxTVQ1ZkhSd0k0OGJpWHNIQVMtSnUtcFpuTldQNmgycGc3YWpYLW9tRzFTOFloTW9pS1NOVC1ZM0I2dTM0Y0RBbEpSUVpHekQwMGNBaE5Yel9iRFZ2Vzl2dTJlb056cDJKQkY2MEh3NnloM2xkX2ZWZmJQUmhSVW1OOW4yV2FuYldJWlR0aTE2MQ?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQblRITF9PcHdIYUM4QVNiMTl3T1Y0b3RmREpGMXVDc2VQRk5WZzAyXzFjY19wTDEySGFqSzY1QTF4VjUwN3h3bHlSanZORkI4Y2cybXBORHN4OC1GZ2Rud29VbHBfTkdIblpRUS1Ub1N5SVpFZ3Vab24xUThsdkoxanBNZERRVmVwbTVzR0RTbTdzamVJNUxKM0VDNXVPYkdHLVgtR2g1QmtCN3JMRlQzMkphWUxfSThoSkRQNktjRE9Ncm40anlrWkQwVmI0RU5qaXJ1d1NZQlY3LWZycXpKWFcwYVN2WEtrUXpTd3g0a1cyN3hGcVhVYlZHU0NtYWw1NFV1S0NZaTBPdXJRNGc?oc=5"
+    },
+    {
+      "d": "16 nov",
+      "s": "SAPO",
+      "c": "Mercado",
+      "t": "Insolvências no alojamento e restauração sobem pelo terceiro ano consecutivo com aumento de 15% até outubro",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWE1XZGxyd1RKSHhGQ3hZeFRZRjhLNkV3V1ZoZ3JXa0pRaVRWeEwtcU51NUt5ajU3am1vRS03WVRtQUlJVlBBaldEQTcxd1hsTk5LNXBXanBwb20wNHZOYWFaZmtpdnJKX1ByZnFVVkVBY19UTVc4NDFYaHZzSTJsN1BZRWtGRFZJY1BpNFhfN2l3Z3ZFUFBQbm1vSzdOU09zaHoyaE5KOUlLcG5jMmN5YWhFNVpXbFZPRmdOQWljSksxZEFqM2g4RUVXLUdobjZReU5XZjRrRDJkaTV2VkhUandTcS1TeF8tcGc?oc=5"
     }
   ],
   "stocks": [
     {
-      "k": "AMD",
-      "n": "Advanced Micro Devices, Inc.",
-      "d": "dn",
-      "x": "Variação de -8.75% nas últimas sessões."
-    },
-    {
       "k": "INTC",
       "n": "Intel Corporation",
       "d": "dn",
-      "x": "Variação de -2.52% nas últimas sessões."
+      "x": "Variação de -5.77% nas últimas sessões."
     },
     {
-      "k": "NVDA",
-      "n": "NVIDIA Corporation",
+      "k": "AMD",
+      "n": "Advanced Micro Devices, Inc.",
       "d": "dn",
-      "x": "Variação de -2.01% nas últimas sessões."
+      "x": "Variação de -4.20% nas últimas sessões."
     },
     {
       "k": "TSLA",
       "n": "Tesla, Inc.",
       "d": "dn",
-      "x": "Variação de -1.82% nas últimas sessões."
+      "x": "Variação de -3.22% nas últimas sessões."
     },
     {
       "k": "GOOGL",
       "n": "Alphabet Inc.",
       "d": "dn",
-      "x": "Variação de -0.98% nas últimas sessões."
-    },
-    {
-      "k": "AAPL",
-      "n": "Apple Inc.",
-      "d": "up",
-      "x": "Variação de +0.39% nas últimas sessões."
+      "x": "Variação de -2.68% nas últimas sessões."
     },
     {
       "k": "AMZN",
       "n": "Amazon.com, Inc.",
       "d": "dn",
-      "x": "Variação de -0.29% nas últimas sessões."
+      "x": "Variação de -2.02% nas últimas sessões."
+    },
+    {
+      "k": "NVDA",
+      "n": "NVIDIA Corporation",
+      "d": "dn",
+      "x": "Variação de -1.85% nas últimas sessões."
+    },
+    {
+      "k": "AAPL",
+      "n": "Apple Inc.",
+      "d": "dn",
+      "x": "Variação de -0.66% nas últimas sessões."
     },
     {
       "k": "MSFT",
       "n": "Microsoft Corporation",
-      "d": "up",
-      "x": "Variação de +0.17% nas últimas sessões."
+      "d": "dn",
+      "x": "Variação de -0.44% nas últimas sessões."
     }
   ]
 }
