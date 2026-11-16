@@ -37,9 +37,11 @@ def obter_noticias():
         
     return noticias
 
-def obter_movimentacoes():
-    tickers = ["AAPL", "NVDA", "MSFT", "AMZN", "GOOGL", "TSLA", "AMD", "INTC"]
-    acoes = []
+def extrair_variacao(item):
+    try:
+        return abs(float(item["x"].split()[-1].replace("%", "").replace(",", ".").replace("+", "")))
+    except (ValueError, IndexError):
+        return 0.0
     
     for ticker in tickers:
         try:
@@ -61,7 +63,7 @@ def obter_movimentacoes():
         except Exception:
             continue
             
-    acoes.sort(key=lambda item: item["var_abs"], reverse=True)
+    acoes.sort(key=extrair_variacao, reverse=True)
     
     for item in acoes:
         del item["var_abs"]
