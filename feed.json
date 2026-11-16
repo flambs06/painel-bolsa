@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-16T04:00:03.296618+00:00",
+  "updated": "2026-11-16T05:33:15.095040+00:00",
   "news": [
+    {
+      "d": "16 nov",
+      "s": "Jornal de Negócios",
+      "c": "Mercado",
+      "t": "Jensen Huang procura aliados para regressar ao cargo de CEO da Nvidia",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORmxwckJnLXcwN2FHLTBlUUNDZW9iVW1EVnN0bVhMemJPc3JlSDZpczU2TVFZWEhvSXF4QkdyVVQ4NnNGX0pRcXpfRWlzejRiU21JWWFBOFZUVjNTZTBaV0ZpRWZOenNURVQyNjVpeTc2T3RkdEpPR1NUV1JyMGlLblI2T1ZQRlc0M1psbXR5aXMwUnFZc21CTGJOWl9UMk4wWWZOU1BBZ1hwYUxMZDZyZzJFSElmZG14Y1ROaTJmRTJkS29jYW9qdnJR0gHEAUFVX3lxTE5oMTdhUXZNdnNMdUdRWGl0azB5MmsxN2NmQUtLUDJROVh5T0w3TWQtYzZqUngxN1lxTXd0WG9oX1VsdGhRV2RxUGhPR1NaQkE0dlF1a2c4MUxZSDNReDVvb3d6QkFHSzAtTmN1RTdKMFRYZDNzYnlpa04zZVI5Sk5TYWFQQ3FSd1FOdHpXRGk1dVF1MC15bi1rQThWMmUwN181SHZ2TGFXU0RPTkFyZC02QmNJclBFWkYxNFVrb3cySW1NcjA?oc=5"
+    },
     {
       "d": "16 nov",
       "s": "RTP",
@@ -8,14 +16,6 @@
       "t": "Presidente da Agência para o PTRR: Governo deveria ter sido \"mais cauteloso\" na classificação das medidas",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbEZBWFF2cndrOVdqX00ydkRyaXJSaEhUQmpuQm1YMmFaa2xTTUpkcDVNR0dyMHZoWGthVjN6d2M3SXkyMzFDVlI0THpTdnRqZEltalg4TWtNX2VuX21FNEs2c21ualo3cGNQRTZPYWxYdWZweS13N2xjTkFUc2R6dnY0Q2tfNUtzYnhmRUVmTzZNWHBEWnMwUEF3SktCN1ZHYzFEeTJxSl81ZTlLdVYzWHNlWGpfdjlnNVBrUk9tdXFLMkpINGl4MmZydTFqbFU1UkhlYUgtTURjejc1SzRIQndB?oc=5"
-    },
-    {
-      "d": "16 nov",
-      "s": "Expresso",
-      "c": "Mercado",
-      "t": "Fábrica em França é um novo passo da Tekever para criar empresa pan-europeia, avança Ricardo Mendes",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNWpYU1ZvMTFvU1JMdm1UVmVHVy1BX3N2T2E1NV83RURUVHhiU2VvUmlPd0YyUzFfU3JQX2dlWG5Gd3BxUFB5d09KV2x4amVXdXk3clNiUFYxTVQ1ZkhSd0k0OGJpWHNIQVMtSnUtcFpuTldQNmgycGc3YWpYLW9tRzFTOFloTW9pS1NOVC1ZM0I2dTM0Y0RBbEpSUVpHekQwMGNBaE5Yel9iRFZ2Vzl2dTJlb056cDJKQkY2MEh3NnloM2xkX2ZWZmJQUmhSVW1OOW4yV2FuYldJWlR0aTE2MQ?oc=5"
     },
     {
       "d": "16 nov",
@@ -27,11 +27,11 @@
     },
     {
       "d": "16 nov",
-      "s": "Jornal de Negócios",
+      "s": "Expresso",
       "c": "Mercado",
-      "t": "Jensen Huang procura aliados para regressar ao cargo de CEO da Nvidia",
+      "t": "Fábrica em França é um novo passo da Tekever para criar empresa pan-europeia, avança Ricardo Mendes",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORmxwckJnLXcwN2FHLTBlUUNDZW9iVW1EVnN0bVhMemJPc3JlSDZpczU2TVFZWEhvSXF4QkdyVVQ4NnNGX0pRcXpfRWlzejRiU21JWWFBOFZUVjNTZTBaV0ZpRWZOenNURVQyNjVpeTc2T3RkdEpPR1NUV1JyMGlLblI2T1ZQRlc0M1psbXR5aXMwUnFZc21CTGJOWl9UMk4wWWZOU1BBZ1hwYUxMZDZyZzJFSElmZG14Y1ROaTJmRTJkS29jYW9qdnJR0gHEAUFVX3lxTE5oMTdhUXZNdnNMdUdRWGl0azB5MmsxN2NmQUtLUDJROVh5T0w3TWQtYzZqUngxN1lxTXd0WG9oX1VsdGhRV2RxUGhPR1NaQkE0dlF1a2c4MUxZSDNReDVvb3d6QkFHSzAtTmN1RTdKMFRYZDNzYnlpa04zZVI5Sk5TYWFQQ3FSd1FOdHpXRGk1dVF1MC15bi1rQThWMmUwN181SHZ2TGFXU0RPTkFyZC02QmNJclBFWkYxNFVrb3cySW1NcjA?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNWpYU1ZvMTFvU1JMdm1UVmVHVy1BX3N2T2E1NV83RURUVHhiU2VvUmlPd0YyUzFfU3JQX2dlWG5Gd3BxUFB5d09KV2x4amVXdXk3clNiUFYxTVQ1ZkhSd0k0OGJpWHNIQVMtSnUtcFpuTldQNmgycGc3YWpYLW9tRzFTOFloTW9pS1NOVC1ZM0I2dTM0Y0RBbEpSUVpHekQwMGNBaE5Yel9iRFZ2Vzl2dTJlb056cDJKQkY2MEh3NnloM2xkX2ZWZmJQUmhSVW1OOW4yV2FuYldJWlR0aTE2MQ?oc=5"
     },
     {
       "d": "16 nov",
@@ -51,19 +51,19 @@
     },
     {
       "d": "16 nov",
-      "s": "ZAP Notícias",
+      "s": "Notícias ao Minuto",
       "c": "Mercado",
-      "t": "Agente do FBI rouba 2,5 milhões e pede ao ChatGPT um destino para fugir: Portugal",
+      "t": "Ex-agente do FBI roubou milhões e queria comprar vinha em Portugal",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZEpMOTh1VFBuUTVIenlRUzNPQjI1eE93TUtKNDZhTWE3MnZWeU85NkV6cFh2VUxuYlZHajF4UGdIaXlpclkwVGhhRXh1ZlE1RHZWeEhIU1pDQWdOMl9tZjdEYTZpVjJrY1RvVUV6c1loS3V0ZkhLSFpGUkt0NXpOaEVSbGhGVG1lNHRkbkJaTXdFUlVPM2xfaUU0aHpYLUIxRHAtRTFxbFBtSzg?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTGNmczJSNzc1ZUt0Ulk4bThYc0hyRkItQlZuNnZtMU5peGl4U0JtdUlMU1A2d0RJYXN0blFTdWNmWDRvNGNqOVhMZmNRNTBEV1BRRW51ekhMcFBLZXF3MmRNTHlLNHNNeWNidHRZdkZPWWtGaDBiSXBkMDZ4MnVQck1JT3JlektIcXpZTGFkSmV0cTVFNHh0SDMwWkVkMTA0M0JnX1FTSEZpVzMwMkdWSjVCcw?oc=5"
     },
     {
       "d": "16 nov",
-      "s": "Diário de Notícias",
+      "s": "Expresso",
       "c": "Mercado",
-      "t": "Revolut rejeita ideia de compra do Banco CTT. \"Não faz sentido\"",
+      "t": "EDP junta sol e água para dar energia a 52 mil famílias e quer repetir a fórmula noutras barragens",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd0dlbmE4QkE2bXR4QVVBUFRuV3JUQXNGVmRUSnFENXpTMkUwb013ZXBtTnE2c0JYRzE3SFhHMHlwS2hLZ3BIZFZkQXU5d3JkNTFiYXJ5MlROTG1wTXR4VUoxOXJrQm5pekpKdm1RV3F6ZTdORmMxMG9mbGVLYzN4QWxDTmF1OVkwb1NMS0Ztaw?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOM2gtOTlpSV9lLUo5cDV6T3d6S2c3MHotSWNfT2NoTkxVQ05ndW9qT1lENGtMb0JmdmpCYWpaNHZvbEY3SjE5NHFnYXlrdTF3ZEp2NXNsVU92QzlJaDZtRURHc1cyMjNrY1dlUHVNdVJsOWEteDNQVk1GSDVWeTF0TlNYYWVRUTVmeE4tRGZNTndCOGw3bjBIbGtoVjFiczZYQms5N0pkMEF6UTA4YlltVEhxTmxnVmRxN2hENTJ0ZTh6cGw2cHl6THN2MmhOYVIyTTM0ckNXd3pZMXFJaFRkUmhtTU80blZnNmF1SUExLTdMTml2aVdJ?oc=5"
     }
   ],
   "stocks": [
