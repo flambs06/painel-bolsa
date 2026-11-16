@@ -1,14 +1,6 @@
 {
-  "updated": "2026-11-16T20:44:16.756180+00:00",
+  "updated": "2026-11-16T21:42:03.606659+00:00",
   "news": [
-    {
-      "d": "16 nov",
-      "s": "CNN Portugal",
-      "c": "Mercado",
-      "t": "Jensen Huang está a ponderar o regresso à liderança da Nvidia",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMmRrOFFEdnRSazh5clBZazZseExOZ29wRDZ5VE9EcDZ1cnAtaGJBNGpEdi16ZFFIZUlRVThIaTdfaXFRR1M2UHJqOFRnWGFoVElVSVpfNXhacDlnNUZRNmt1UGpDVF9aMU5kdWZjY0gxOEdzS2wxTFltYzhzRS1ZaENUdE1xZmxJam0xQzV4NjI4M2RkOXhFSXBNeEdXQy1rUE9mOElRTWlfV29ONTFobEl3VnZidTJkWEJvblpBSFNUUmVaU2JCWkN0UnNjdw?oc=5"
-    },
     {
       "d": "16 nov",
       "s": "Jornal de Negócios",
@@ -29,9 +21,33 @@
       "d": "16 nov",
       "s": "Jornal de Negócios",
       "c": "Mercado",
-      "t": "Contas de poupança em Portugal? \"Ontem seria uma data ótima para começar\", diz Maria Luís Albuquerque",
+      "t": "Luís Morais Sarmento é o novo presidente do Fundo de Resolução",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNVJUX2NsR3BTR1NuM3V2djgzU29VRTFOcU1DUTRqOWJaTVRWdnVMVWpBWGFla1JJaUhwOEc1bDd4Vnp0UElFQzZfbllEMkNkamV1UGptbkZhOTJXemJET1hnQjlUV1pWMmp2Qkh2dFpWdmNqcWpmbU5CdGNZWUFxVTJlUm9HWHdzVGtnclNxa0FzeTdXWXFqdXZsUjRHdkUyRkxVTGE3alE3TXRRNGFBcGp1TnZwOHlKLTJtTmRueURNNjhqOTZ2ZFMwSDJGcDZGUXlRaDE3bVRfRTRXcGxTSVJDTGVCbzdySGtvZFIwRHhUeHM4WVJtTA?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWnZhOHF5bG9Qa2JtMDJCOXdMWEJvZUJhcnk1WWpwd0JTbmdiNkJOdW5zZl9RRkpRNmVzaFZVeDdpa2kxcFA0UHZCQ1h1cVZ1MFhEc29zTUliblJkdTAzMHJLVnBRYy05RFdBVER0X0tyLUMxakczOU52ZUxocDd3azNMMElWZjZIbnNycTRSU0dZQkhwLWdsbEk2c1VoTk1iMm9WQzBhUmUzYlVfdnBrVXFBNTNOOElyWTRLbWVjU1Q2Ump1ZGs4?oc=5"
+    },
+    {
+      "d": "16 nov",
+      "s": "Pplware",
+      "c": "Mercado",
+      "t": "Estado português deve exigir indemnização à Microsoft após apagão global",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUUVNTzkzR2NyWlU3THJtME9ieWlPQ2VuQWlkblpWQ0JQZjRLU3R0VUN6dFU1OEtIbHBWb3JkNzU1YndnTkFEeV9ZTVU0MHdOT1c5NVlvS0hNN01EQWtoeGpOZ3dlM09HQkZtSmlzM2l6eUlpSnVnNlA1YmpIbkc0OUhWUHRIeVFsd1hwMzVhUmFZOWZ3MjYxMGl0eXhQUmlLVlp1YklVSzdpYmRy0gGyAUFVX3lxTFA0Y3RwdlBybnh4RF9PekM5RkRqb3IwTU9UOWtkdG54bHE3YXJoaHpwS0pkVHEzQVlkU3NKUkNwOVVxSXRnRUhYUklfT0pVS2ZJT2ZsbHJwd3hOZ0I0RzA3SWNhRUNNX0gxV2hKMTJiRHU4Mlk3bENmTHcyWVo5dFRrOEpyWE4wUU1fSFg5LUVqZlRETmV4eG1pazY5WUtDR05pbHJ3R1EyeXFTMEZ4V1NGWWc?oc=5"
+    },
+    {
+      "d": "16 nov",
+      "s": "Expresso",
+      "c": "Mercado",
+      "t": "Reforçar poupança para a reforma \"é uma questão de inclusão e de justiça social\", defende Maria Luís Albuquerque",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOT3ExWkh6MlRnRzI3ME1KOHhwTXVyVHRpV3ZlVHBoeE9XTlRSWTRxWldhMkVFUkl6aXZ3dEtvakFCVVppWDloMUtMMHFLWk5idDM1cjltMVI1MmpkV08yczZIMnhTbGNRc2tBZmRNTVJMSWhVWDliWWVxcXJmTkpIMzVYVVdnV0dJVERVMEhKVkdwN3BJMEdhMFFTOUE0Q0pWSjVQM0J3a1NaMk9aVmx4MWRzVjZyYWhqUHRWdW9iV2p4SHhKRXFUUU1jOFNET0RGWmtEZHh0SC1BYllxUk1OY1dKWTliQk9XTTJrcno3S3BjT29nZnEyR2hEYXpfSzVlSjdjbTl3?oc=5"
+    },
+    {
+      "d": "16 nov",
+      "s": "SAPO",
+      "c": "Mercado",
+      "t": "Insolvências no alojamento e restauração sobem pelo terceiro ano consecutivo com aumento de 15% até outubro",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWE1XZGxyd1RKSHhGQ3hZeFRZRjhLNkV3V1ZoZ3JXa0pRaVRWeEwtcU51NUt5ajU3am1vRS03WVRtQUlJVlBBaldEQTcxd1hsTk5LNXBXanBwb20wNHZOYWFaZmtpdnJKX1ByZnFVVkVBY19UTVc4NDFYaHZzSTJsN1BZRWtGRFZJY1BpNFhfN2l3Z3ZFUFBQbm1vSzdOU09zaHoyaE5KOUlLcG5jMmN5YWhFNVpXbFZPRmdOQWljSksxZEFqM2g4RUVXLUdobjZReU5XZjRrRDJkaTV2VkhUandTcS1TeF8tcGc?oc=5"
     },
     {
       "d": "16 nov",
@@ -45,25 +61,9 @@
       "d": "16 nov",
       "s": "SAPO",
       "c": "Mercado",
-      "t": "Insolvências no alojamento e restauração sobem pelo terceiro ano consecutivo com aumento de 15% até outubro",
+      "t": "Do IVA da casa ao apoio oncológico: o que os cidadãos querem ver no OE",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWE1XZGxyd1RKSHhGQ3hZeFRZRjhLNkV3V1ZoZ3JXa0pRaVRWeEwtcU51NUt5ajU3am1vRS03WVRtQUlJVlBBaldEQTcxd1hsTk5LNXBXanBwb20wNHZOYWFaZmtpdnJKX1ByZnFVVkVBY19UTVc4NDFYaHZzSTJsN1BZRWtGRFZJY1BpNFhfN2l3Z3ZFUFBQbm1vSzdOU09zaHoyaE5KOUlLcG5jMmN5YWhFNVpXbFZPRmdOQWljSksxZEFqM2g4RUVXLUdobjZReU5XZjRrRDJkaTV2VkhUandTcS1TeF8tcGc?oc=5"
-    },
-    {
-      "d": "16 nov",
-      "s": "dnoticias.pt",
-      "c": "Mercado",
-      "t": "Apagão na Microsoft: o que aconteceu?",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVW5pQTZrMlF5TnM3aXlYdDgtd01KQmFEb0RkWDJ1TXlMazFzbG9JRDk0dmtMZ0d0akVoallPMlQ1Vmw1OGI0QjMzUG4yT1g4TFdmN1R5N0U3NU1hSHV4R1doNEloVTBFZ1ZXMThQTzVxQmdvdGJoZUlSS25jSF9zeUtrMjJEZw?oc=5"
-    },
-    {
-      "d": "16 nov",
-      "s": "Público",
-      "c": "Mercado",
-      "t": "Apagão: Repsol processa Iberdrola, Naturgy, Endesa e Red Eléctrica por prejuízos causados",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNDVjRGdiVHQ4d2dDYlAzR0xTUUlKR3BGc3ROTzdCXzBhRENuUlM3UzJmUDVoY3NQdGVPTE9xbkJWMHZCTzUyWUltYWtxcjQ1ZVB2emZieHRHZG1sY0JmUTZfaFYtM1lqbGg0a0ZsYk04WkVDNjBmeVhUNzdCTFNvZDBwLXhGQjZ4Q1F1TDVScWRQYnVvU3owX2NIZHBaS19mRnppT05MZlhDTFZJaVAwSGxSSTJBUDRMcmoxUEtia1lqdFpYVGZNUFBOQ0NLWFRfbENIZzBn?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc3R3SHV4Zk92eTh0bzQzM0l5VmhQbUJXMm5jTGx2Vmh6akN6V0NHLXROc3RZT19xandBNW1MdDNRQUpKQXFONTZIQkdFQ1JsdU10VjQ4aFV6N1hLc0dMOV9MUGNSaVNzNmtyWWpMd3ZiTXVwdU5CZEFfUThVMDQyaGJMNUEzWFRjZEdqRVFKaUI4UUxqU0ZjYWV5QU9OZjB6N0JTU1VNQ3k4SXE3NkZnZE5fdDhBeDE0?oc=5"
     }
   ],
   "stocks": [
@@ -71,36 +71,29 @@
       "k": "NVDA",
       "n": "NVIDIA Corporation",
       "d": "dn",
-      "x": "Variação de -4.57% na última sessão.",
-      "v": -4.57
+      "x": "Variação de -4.12% na última sessão.",
+      "v": -4.12
     },
     {
       "k": "GOOGL",
       "n": "Alphabet Inc.",
       "d": "dn",
-      "x": "Variação de -3.84% na última sessão.",
-      "v": -3.84
-    },
-    {
-      "k": "TSLA",
-      "n": "Tesla, Inc.",
-      "d": "dn",
-      "x": "Variação de -3.35% na última sessão.",
-      "v": -3.35
+      "x": "Variação de -4.07% na última sessão.",
+      "v": -4.07
     },
     {
       "k": "AMZN",
       "n": "Amazon.com, Inc.",
       "d": "dn",
-      "x": "Variação de -3.32% na última sessão.",
-      "v": -3.32
+      "x": "Variação de -3.34% na última sessão.",
+      "v": -3.34
     },
     {
-      "k": "META",
-      "n": "Meta Platforms, Inc.",
+      "k": "TSLA",
+      "n": "Tesla, Inc.",
       "d": "dn",
-      "x": "Variação de -2.45% na última sessão.",
-      "v": -2.45
+      "x": "Variação de -2.69% na última sessão.",
+      "v": -2.69
     },
     {
       "k": "SIE.DE",
@@ -110,18 +103,25 @@
       "v": -2.45
     },
     {
-      "k": "AAPL",
-      "n": "Apple Inc.",
+      "k": "META",
+      "n": "Meta Platforms, Inc.",
       "d": "dn",
-      "x": "Variação de -1.31% na última sessão.",
-      "v": -1.31
+      "x": "Variação de -2.38% na última sessão.",
+      "v": -2.38
     },
     {
       "k": "MSFT",
       "n": "Microsoft Corporation",
       "d": "dn",
-      "x": "Variação de -1.09% na última sessão.",
-      "v": -1.09
+      "x": "Variação de -1.12% na última sessão.",
+      "v": -1.12
+    },
+    {
+      "k": "AAPL",
+      "n": "Apple Inc.",
+      "d": "dn",
+      "x": "Variação de -0.98% na última sessão.",
+      "v": -0.98
     }
   ]
 }
