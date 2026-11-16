@@ -1,22 +1,6 @@
 {
-  "updated": "2026-11-16T02:48:51.063834+00:00",
+  "updated": "2026-11-16T04:00:03.296618+00:00",
   "news": [
-    {
-      "d": "16 nov",
-      "s": "Jornal de Negócios",
-      "c": "Mercado",
-      "t": "Jensen Huang procura aliados para regressar ao cargo de CEO da Nvidia",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORmxwckJnLXcwN2FHLTBlUUNDZW9iVW1EVnN0bVhMemJPc3JlSDZpczU2TVFZWEhvSXF4QkdyVVQ4NnNGX0pRcXpfRWlzejRiU21JWWFBOFZUVjNTZTBaV0ZpRWZOenNURVQyNjVpeTc2T3RkdEpPR1NUV1JyMGlLblI2T1ZQRlc0M1psbXR5aXMwUnFZc21CTGJOWl9UMk4wWWZOU1BBZ1hwYUxMZDZyZzJFSElmZG14Y1ROaTJmRTJkS29jYW9qdnJR0gHEAUFVX3lxTE5oMTdhUXZNdnNMdUdRWGl0azB5MmsxN2NmQUtLUDJROVh5T0w3TWQtYzZqUngxN1lxTXd0WG9oX1VsdGhRV2RxUGhPR1NaQkE0dlF1a2c4MUxZSDNReDVvb3d6QkFHSzAtTmN1RTdKMFRYZDNzYnlpa04zZVI5Sk5TYWFQQ3FSd1FOdHpXRGk1dVF1MC15bi1rQThWMmUwN181SHZ2TGFXU0RPTkFyZC02QmNJclBFWkYxNFVrb3cySW1NcjA?oc=5"
-    },
-    {
-      "d": "16 nov",
-      "s": "Pplware",
-      "c": "Mercado",
-      "t": "Microsoft 365 falhou em todo o mundo e o LibreOffice aproveitou para fazer história",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXhGTzNaeVVjMXJoV3gwS0gtajN1cW0zT2c1MlR2V0dTR3k3RjFlRjE4amlJTFJKX0ROXzI1a1BxMDNLaDhuNGozNjg1bGV5RExKQ0VfR0loWmlJRFI3SVpEOVYzeDRkU2pGZnBrNTZpd182dnpjYUFBcDFzT0t6eU9ZNzd4QUlYVzd1bHJEM0p4LUNLS1ZhWUhLMUxEdFlITl80dEkwSUxwVlBfcGpZN0FIYlQwTXhf0gG-AUFVX3lxTFBaMHVUMjVrZzlUcVhOdHJKYllWSjVYS0daY3o0Vzh4YmRCbjUwM25IclJGa0ljR3RzLTU1UzY1bGMxRnM0ZzcyYVZ4cVhYTDlnOS00YUZEUDRwZDJ1T01zSl9nd1FwZDZmUjZrclc3c3N1cV9yTjZVOE10RnYwYWFUOVB0ZEpZdWdSSlp5SnlDeDhOZnBWUUJHOVM0aEN0X1ZUMHQ3ZUhVLWVoZmNxOEwxak9CbjFaT2c4b1FSckE?oc=5"
-    },
     {
       "d": "16 nov",
       "s": "RTP",
@@ -32,6 +16,22 @@
       "t": "Fábrica em França é um novo passo da Tekever para criar empresa pan-europeia, avança Ricardo Mendes",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNWpYU1ZvMTFvU1JMdm1UVmVHVy1BX3N2T2E1NV83RURUVHhiU2VvUmlPd0YyUzFfU3JQX2dlWG5Gd3BxUFB5d09KV2x4amVXdXk3clNiUFYxTVQ1ZkhSd0k0OGJpWHNIQVMtSnUtcFpuTldQNmgycGc3YWpYLW9tRzFTOFloTW9pS1NOVC1ZM0I2dTM0Y0RBbEpSUVpHekQwMGNBaE5Yel9iRFZ2Vzl2dTJlb056cDJKQkY2MEh3NnloM2xkX2ZWZmJQUmhSVW1OOW4yV2FuYldJWlR0aTE2MQ?oc=5"
+    },
+    {
+      "d": "16 nov",
+      "s": "Pplware",
+      "c": "Mercado",
+      "t": "Microsoft 365 falhou em todo o mundo e o LibreOffice aproveitou para fazer história",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXhGTzNaeVVjMXJoV3gwS0gtajN1cW0zT2c1MlR2V0dTR3k3RjFlRjE4amlJTFJKX0ROXzI1a1BxMDNLaDhuNGozNjg1bGV5RExKQ0VfR0loWmlJRFI3SVpEOVYzeDRkU2pGZnBrNTZpd182dnpjYUFBcDFzT0t6eU9ZNzd4QUlYVzd1bHJEM0p4LUNLS1ZhWUhLMUxEdFlITl80dEkwSUxwVlBfcGpZN0FIYlQwTXhf0gG-AUFVX3lxTFBaMHVUMjVrZzlUcVhOdHJKYllWSjVYS0daY3o0Vzh4YmRCbjUwM25IclJGa0ljR3RzLTU1UzY1bGMxRnM0ZzcyYVZ4cVhYTDlnOS00YUZEUDRwZDJ1T01zSl9nd1FwZDZmUjZrclc3c3N1cV9yTjZVOE10RnYwYWFUOVB0ZEpZdWdSSlp5SnlDeDhOZnBWUUJHOVM0aEN0X1ZUMHQ3ZUhVLWVoZmNxOEwxak9CbjFaT2c4b1FSckE?oc=5"
+    },
+    {
+      "d": "16 nov",
+      "s": "Jornal de Negócios",
+      "c": "Mercado",
+      "t": "Jensen Huang procura aliados para regressar ao cargo de CEO da Nvidia",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORmxwckJnLXcwN2FHLTBlUUNDZW9iVW1EVnN0bVhMemJPc3JlSDZpczU2TVFZWEhvSXF4QkdyVVQ4NnNGX0pRcXpfRWlzejRiU21JWWFBOFZUVjNTZTBaV0ZpRWZOenNURVQyNjVpeTc2T3RkdEpPR1NUV1JyMGlLblI2T1ZQRlc0M1psbXR5aXMwUnFZc21CTGJOWl9UMk4wWWZOU1BBZ1hwYUxMZDZyZzJFSElmZG14Y1ROaTJmRTJkS29jYW9qdnJR0gHEAUFVX3lxTE5oMTdhUXZNdnNMdUdRWGl0azB5MmsxN2NmQUtLUDJROVh5T0w3TWQtYzZqUngxN1lxTXd0WG9oX1VsdGhRV2RxUGhPR1NaQkE0dlF1a2c4MUxZSDNReDVvb3d6QkFHSzAtTmN1RTdKMFRYZDNzYnlpa04zZVI5Sk5TYWFQQ3FSd1FOdHpXRGk1dVF1MC15bi1rQThWMmUwN181SHZ2TGFXU0RPTkFyZC02QmNJclBFWkYxNFVrb3cySW1NcjA?oc=5"
     },
     {
       "d": "16 nov",
@@ -51,19 +51,19 @@
     },
     {
       "d": "16 nov",
+      "s": "ZAP Notícias",
+      "c": "Mercado",
+      "t": "Agente do FBI rouba 2,5 milhões e pede ao ChatGPT um destino para fugir: Portugal",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZEpMOTh1VFBuUTVIenlRUzNPQjI1eE93TUtKNDZhTWE3MnZWeU85NkV6cFh2VUxuYlZHajF4UGdIaXlpclkwVGhhRXh1ZlE1RHZWeEhIU1pDQWdOMl9tZjdEYTZpVjJrY1RvVUV6c1loS3V0ZkhLSFpGUkt0NXpOaEVSbGhGVG1lNHRkbkJaTXdFUlVPM2xfaUU0aHpYLUIxRHAtRTFxbFBtSzg?oc=5"
+    },
+    {
+      "d": "16 nov",
       "s": "Diário de Notícias",
       "c": "Mercado",
       "t": "Revolut rejeita ideia de compra do Banco CTT. \"Não faz sentido\"",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd0dlbmE4QkE2bXR4QVVBUFRuV3JUQXNGVmRUSnFENXpTMkUwb013ZXBtTnE2c0JYRzE3SFhHMHlwS2hLZ3BIZFZkQXU5d3JkNTFiYXJ5MlROTG1wTXR4VUoxOXJrQm5pekpKdm1RV3F6ZTdORmMxMG9mbGVLYzN4QWxDTmF1OVkwb1NMS0Ztaw?oc=5"
-    },
-    {
-      "d": "16 nov",
-      "s": "Notícias ao Minuto",
-      "c": "Mercado",
-      "t": "Ex-agente do FBI roubou milhões e queria comprar vinha em Portugal",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTGNmczJSNzc1ZUt0Ulk4bThYc0hyRkItQlZuNnZtMU5peGl4U0JtdUlMU1A2d0RJYXN0blFTdWNmWDRvNGNqOVhMZmNRNTBEV1BRRW51ekhMcFBLZXF3MmRNTHlLNHNNeWNidHRZdkZPWWtGaDBiSXBkMDZ4MnVQck1JT3JlektIcXpZTGFkSmV0cTVFNHh0SDMwWkVkMTA0M0JnX1FTSEZpVzMwMkdWSjVCcw?oc=5"
     }
   ],
   "stocks": [
