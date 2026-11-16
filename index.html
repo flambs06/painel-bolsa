@@ -10,6 +10,8 @@
     .sentiment-bar {
       background: linear-gradient(to right, #ef4444, #f59e0b, #10b981);
     }
+    .scrollbar-none { scrollbar-width: none; }
+    .scrollbar-none::-webkit-scrollbar { display: none; }
   </style>
 </head>
 <body class="text-slate-800 antialiased p-3 md:p-6">
@@ -69,7 +71,7 @@
       <!-- Tema Dominante -->
       <div class="bg-white p-4 rounded-2xl border border-slate-100 shadow-sm">
         <span class="text-xs font-semibold text-slate-400 uppercase tracking-wider">Tema Dominante</span>
-        <p id="dominant-theme" class="text-base font-bold text-slate-800 mt-2 truncate">Tecnologia & Mercado</p>
+        <p id="dominant-theme" class="text-base font-bold text-slate-800 mt-2 truncate">Tecnologia &amp; Mercado</p>
       </div>
     </div>
 
@@ -94,9 +96,173 @@
   </div>
 
   <script>
+    const $ = (id) => document.getElementById(id);
+
+    function esc(s) {
+      const d = document.createElement('div');
+      d.textContent = s == null ? '' : String(s);
+      return d.innerHTML;
+    }
+
+    /* ---------- Relógio ---------- */
     function updateClock() {
       const now = new Date();
       const options = { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit' };
-      document.getElementById('clock').textContent = now.toLocaleDateString('pt-PT', options).replace(',', ' ·');
-      
-      const day = now
+      $('clock').textContent = now.toLocaleDateString('pt-PT', options).replace(',', ' ·');
+      updateMarkets(now);
+    }
+
+    /* ---------- Estado das bolsas ---------- */
+    function partsIn(tz, date) {
+      const f = new Intl.DateTimeFormat('en-GB', {
+        timeZone: tz, weekday: 'short', hour: '2-digit', minute: '2-digit', hour12: false
+      });
+      const p = {};
+      f.formatToParts(date).forEach(x => { p[x.type] = x.value; });
+      return { wd: p.weekday, min: (parseInt(p.hour, 10) % 24) * 60 + parseInt(p.minute, 10) };
+    }
+
+    function isOpen(tz, date, openMin, closeMin) {
+      const { wd, min } = partsIn(tz, date);
+      if (wd === 'Sat' || wd === 'Sun') return false;
+      return min >= openMin && min < closeMin;
+    }
+
+    function setMarket(prefix, open) {
+      $(prefix + '-status').textContent = open ? 'Aberto' : 'Fechado';
+      $(prefix + '-dot').className = 'w-3 h-3 rounded-full ' + (open ? 'bg-emerald-500' : 'bg-red-400');
+    }
+
+    function updateMarkets(now) {
+      setMarket('nyse', isOpen('America/New_York', now, 9 * 60 + 30, 16 * 60));
+      setMarket('db', isOpen('Europe/Berlin', now, 9 * 60, 17 * 60 + 30));
+    }
+
+    /* ---------- Sentimento e tema ---------- */
+    const POSITIVE = ['sobe', 'sobem', 'subida', 'dispara', 'disparam', 'lucro', 'lucros', 'máximos', 'ganhos', 'valoriza', 'recupera', 'avança', 'cresce', 'crescimento', 'positivo', 'otimismo', 'acordo', 'aumenta'];
+    const NEGATIVE = ['cai', 'caem', 'queda', 'desce', 'descem', 'recua', 'recuam', 'perdas', 'prejuízo', 'sell-off', 'mínimos', 'afunda', 'crise', 'tombam', 'tomba', 'receio', 'receios', 'medo', 'cortes', 'despede', 'falência'];
+
+    function scoreSentiment(news) {
+      let score = 0, hits = 0;
+      news.forEach(n => {
+        const t = (n.t || '').toLowerCase();
+        POSITIVE.forEach(w => { if (t.includes(w)) { score++; hits++; } });
+        NEGATIVE.forEach(w => { if (t.includes(w)) { score--; hits++; } });
+      });
+      return hits === 0 ? 0 : Math.max(-1, Math.min(1, score / hits));
+    }
+
+    const THEMES = {
+      'Tecnologia': ['nvidia', 'tecnologia', 'tecnológic', 'apple', 'microsoft', 'tesla', 'google', 'meta', 'amazon', 'chip', 'inteligência artificial', ' ia '],
+      'Energia': ['petróleo', 'brent', 'gás', 'energia', 'galp', 'eletricidade'],
+      'Banca e juros': ['banco', 'bancos', 'bcp', 'bce', 'juros', 'taxas', 'euribor', 'fed '],
+      'Matérias-primas': ['ouro', 'prata', 'cobre', 'commodities'],
+      'Construção e imobiliário': ['mota-engil', 'construção', 'imobiliário', 'habitação'],
+      'Economia e inflação': ['inflação', 'pib', 'desemprego', 'défice', 'dívida', 'orçamento']
+    };
+
+    function dominantTheme(news) {
+      const counts = {};
+      news.forEach(n => {
+        const t = ' ' + (n.t || '').toLowerCase() + ' ';
+        Object.entries(THEMES).forEach(([name, words]) => {
+          if (words.some(w => t.includes(w))) counts[name] = (counts[name] || 0) + 1;
+        });
+      });
+      const top = Object.entries(counts).sort((a, b) => b[1] - a[1])[0];
+      return top ? top[0] : 'Mercado em geral';
+    }
+
+    /* ---------- Desenho ---------- */
+    function varOf(s) {
+      if (typeof s.v === 'number') return s.v;
+      const m = String(s.x || '').match(/([+-]?\d+[.,]?\d*)\s*%/);
+      return m ? parseFloat(m[1].replace(',', '.')) : 0;
+    }
+
+    function renderTape(stocks) {
+      if (!stocks.length) { $('ticker-tape').innerHTML = ''; return; }
+      $('ticker-tape').innerHTML = stocks.map(s => {
+        const v = varOf(s);
+        const up = v >= 0;
+        return `<span class="px-3 py-1.5 bg-white rounded-full border border-slate-100 shadow-sm">
+          ${esc(s.k)} <span class="${up ? 'text-emerald-600' : 'text-red-500'}">${up ? '▲' : '▼'} ${v >= 0 ? '+' : ''}${v.toFixed(2)}%</span></span>`;
+      }).join('');
+    }
+
+    function renderNews(news) {
+      if (!news.length) {
+        $('news-container').innerHTML = '<p class="text-sm text-slate-500">Sem notícias disponíveis neste momento.</p>';
+        return;
+      }
+      $('news-container').innerHTML = news.map(n => `
+        <a href="${esc(n.u)}" target="_blank" rel="noopener noreferrer"
+           class="block bg-white p-4 rounded-2xl border border-slate-100 shadow-sm hover:border-slate-300">
+          <div class="text-xs text-slate-400 font-semibold mb-1">${esc(n.s)} · ${esc(n.d)} · ${esc(n.c)}</div>
+          <div class="text-sm md:text-base font-semibold text-slate-900">${esc(n.t)}</div>
+        </a>`).join('');
+    }
+
+    function renderStocks(stocks) {
+      if (!stocks.length) {
+        $('stocks-container').innerHTML = '<p class="text-sm text-slate-500">Sem dados de ações neste momento.</p>';
+        return;
+      }
+      $('stocks-container').innerHTML = stocks.map(s => {
+        const v = varOf(s);
+        const up = s.d ? s.d === 'up' : v >= 0;
+        return `<div class="bg-white p-4 rounded-2xl border border-slate-100 shadow-sm">
+          <div class="flex items-center justify-between gap-2">
+            <div class="min-w-0">
+              <div class="font-bold text-slate-900 truncate">${esc(s.n || s.k)}</div>
+              <div class="text-xs text-slate-400 font-semibold">${esc(s.k)}</div>
+            </div>
+            <span class="text-sm font-bold px-2.5 py-1 rounded-full ${up ? 'bg-emerald-50 text-emerald-700' : 'bg-red-50 text-red-600'}">${v >= 0 ? '+' : ''}${v.toFixed(2)}%</span>
+          </div>
+          <p class="text-xs text-slate-500 mt-2">${esc(s.x)}</p>
+        </div>`;
+      }).join('');
+    }
+
+    function renderSentiment(news) {
+      const sc = scoreSentiment(news);           // -1 a 1
+      $('sentiment-indicator').style.left = ((sc + 1) / 2 * 100).toFixed(0) + '%';
+      $('sentiment-text').textContent = sc > 0.25 ? 'Positivo' : sc < -0.25 ? 'Negativo' : 'Neutro';
+    }
+
+    /* ---------- Carregar o feed ---------- */
+    async function loadFeed() {
+      try {
+        const res = await fetch('feed.json?t=' + Date.now(), { cache: 'no-store' });
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        const data = await res.json();
+        const news = data.news || [];
+        const stocks = data.stocks || [];
+
+        renderTape(stocks);
+        renderNews(news);
+        renderStocks(stocks);
+        renderSentiment(news);
+        $('dominant-theme').textContent = dominantTheme(news);
+
+        if (data.updated) {
+          const when = new Date(data.updated).toLocaleString('pt-PT', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
+          $('feed-time').textContent = 'Atualizado em ' + when;
+        } else {
+          $('feed-time').textContent = 'Dados carregados';
+        }
+      } catch (err) {
+        console.error('Erro ao carregar feed.json:', err);
+        $('feed-time').textContent = 'Erro ao carregar dados';
+        $('news-container').innerHTML = '<p class="text-sm text-red-500">Não foi possível ler o feed.json. Se abriste o ficheiro diretamente do computador, usa o endereço do GitHub Pages.</p>';
+        $('stocks-container').innerHTML = '';
+      }
+    }
+
+    updateClock();
+    setInterval(updateClock, 1000);
+    loadFeed();
+    setInterval(loadFeed, 5 * 60 * 1000);   // volta a ler o feed de 5 em 5 minutos
+  </script>
+</body>
+</html>
