@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T17:05:04.012573+00:00",
+  "updated": "2026-11-16T18:48:11.890213+00:00",
   "news": [
     {
       "d": "16 nov",
@@ -13,41 +13,9 @@
       "d": "16 nov",
       "s": "Jornal de Negócios",
       "c": "Mercado",
-      "t": "Euribor desce no prazo a seis meses. Bolsas europeias resistem ao \"sell-off\" tecnológico",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOTMxWjF5TXdsQWlqMElwMGN1QnAzTGF4dGhjX2VOWWRIdzFHQ3IzcWl4Q3NpaUt6ejFIcXRYZ0JpZThzejZWbE4wZ2lOaEoyR3cwUUNuc19NVHpkaEVKLUlvQXlMa1F6SnBNYnBwektfRVpkWnp1VjRYSnVlcUVRckE4YTlXQzk0WTJsQ2ZVaWNkVmJZYTNIa0xERjFPT19BRUJtOVJxMjB5N0dvek9LNUtJejdiLUpsS0ZMTWxMTkNVdWdPTXg3ejFfTDFvc0NzdE81WTRtakxjMzdpQ01lUC1DWdIB3gFBVV95cUxQeEs1Y19DdGVlRGpGbGxsQWpfTjltb1NrQWs1YjZYXzdjdUFRWWVoUkw4dHIwR21aalNTSU9NcWtrMTFzcGpXcWo1bWhNNHlkbXRmeVh1S1JWUHA3STBQYWdVS1pucUlWRV9xRi1RY3EzSjZBb0RDYWZRc2lWRXN2UzJoZjF2cWU2UVlzdWF3aDJtZnVuSmtZY3JqMG5oMVc1bEgxdDg1TU5aSzZaQ1hxY2xCMFFzczJtb1Rva05qRDhFR241OHc1TWZleFo4VzIzM2dXeUl1VzRJMW9iQ3c?oc=5"
-    },
-    {
-      "d": "16 nov",
-      "s": "Jornal de Negócios",
-      "c": "Mercado",
       "t": "Mais lucro e ações \"baratas\". Mota-Engil dispara em bolsa após JB Capital subir preço-alvo",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOGg5X20xUGtsckZ1NkVYUFFMU2J2WllTakFMTkVGY19fS1JsWlYzYmZyRDE3RGtEelVMZ3U3MjB5MUdKN1FiYU41M2kzUkJUaHNmT1huN0xwVmJxV05Mbm9VLWtTMUtMcl85WTk0bF9FV1NrSXFEd0JoUGgweVNaWVBWZDVPX1pBTWVfNjNWeFpFTWt2WnlCalYxTy1RYktjX2FpS3BFbEtjWGduejAzZE5UTzhaYUd3a0ZiWXJzYkgzSjZFNDQ3VEthcnBTNldlOHR2ZkNuWU1ndFJNZk4ybDFOUzZxUQ?oc=5"
-    },
-    {
-      "d": "16 nov",
-      "s": "RTP",
-      "c": "Mercado",
-      "t": "Descida de preços dos combustíveis esta semana",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOem9nanhUN1BGQllMUXBYbC1paTdKaTQta2ZUSlMxX2dQVWRVTXY0RkxuZ2VPVWdzbkJOYmRVdTU5YzFjQVZLMnZIdmxDRjl0RkJTem9ua0RDNnVnamFqTFBWYldKSFNrVHRRMlNuUHNOM001WndUNWVKVVdFSHM3dTAyZWQzRVd2TE1RYy1UbWs1NXdxd19Z?oc=5"
-    },
-    {
-      "d": "16 nov",
-      "s": "dnoticias.pt",
-      "c": "Mercado",
-      "t": "Apagão na Microsoft: o que aconteceu?",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVW5pQTZrMlF5TnM3aXlYdDgtd01KQmFEb0RkWDJ1TXlMazFzbG9JRDk0dmtMZ0d0akVoallPMlQ1Vmw1OGI0QjMzUG4yT1g4TFdmN1R5N0U3NU1hSHV4R1doNEloVTBFZ1ZXMThQTzVxQmdvdGJoZUlSS25jSF9zeUtrMjJEZw?oc=5"
-    },
-    {
-      "d": "16 nov",
-      "s": "Executive Digest",
-      "c": "Mercado",
-      "t": "Moeve prepara venda de 1.700 postos de combustível depois de acordo com a Galp não avançar",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORmV0N2RiVWx0eVhmLWUwRXNUUXhPbENjY1d4NmRaSHhfRV9PYlQ0WExSd21FdWF5UGlqNDlUemZIdHZtT1RVd29lLURIVTF3bVRxbWRRY1FJVDBEaFVBODk3d1R6WW5pMmJZTktPeTNzNzNPcnRQQjc4SnZqby1ETVJ4RFFsWU9DZ3ZqUEp2Z3lXVEJpcUVkclZyZjJEWjZWeGdSVWIyUnhKOTRNYV9tT3V6WUZxWUM5X1RQQVN3WlY?oc=5"
     },
     {
       "d": "16 nov",
@@ -61,32 +29,71 @@
       "d": "16 nov",
       "s": "RTP",
       "c": "Mercado",
-      "t": "Presidente da Agência para o PTRR: Governo deveria ter sido \"mais cauteloso\" na classificação das medidas",
+      "t": "Descida de preços dos combustíveis esta semana",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbEZBWFF2cndrOVdqX00ydkRyaXJSaEhUQmpuQm1YMmFaa2xTTUpkcDVNR0dyMHZoWGthVjN6d2M3SXkyMzFDVlI0THpTdnRqZEltalg4TWtNX2VuX21FNEs2c21ualo3cGNQRTZPYWxYdWZweS13N2xjTkFUc2R6dnY0Q2tfNUtzYnhmRUVmTzZNWHBEWnMwUEF3SktCN1ZHYzFEeTJxSl81ZTlLdVYzWHNlWGpfdjlnNVBrUk9tdXFLMkpINGl4MmZydTFqbFU1UkhlYUgtTURjejc1SzRIQndB?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOem9nanhUN1BGQllMUXBYbC1paTdKaTQta2ZUSlMxX2dQVWRVTXY0RkxuZ2VPVWdzbkJOYmRVdTU5YzFjQVZLMnZIdmxDRjl0RkJTem9ua0RDNnVnamFqTFBWYldKSFNrVHRRMlNuUHNOM001WndUNWVKVVdFSHM3dTAyZWQzRVd2TE1RYy1UbWs1NXdxd19Z?oc=5"
+    },
+    {
+      "d": "16 nov",
+      "s": "SAPO",
+      "c": "Mercado",
+      "t": "Insolvências no alojamento e restauração sobem pelo terceiro ano consecutivo com aumento de 15% até outubro",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWE1XZGxyd1RKSHhGQ3hZeFRZRjhLNkV3V1ZoZ3JXa0pRaVRWeEwtcU51NUt5ajU3am1vRS03WVRtQUlJVlBBaldEQTcxd1hsTk5LNXBXanBwb20wNHZOYWFaZmtpdnJKX1ByZnFVVkVBY19UTVc4NDFYaHZzSTJsN1BZRWtGRFZJY1BpNFhfN2l3Z3ZFUFBQbm1vSzdOU09zaHoyaE5KOUlLcG5jMmN5YWhFNVpXbFZPRmdOQWljSksxZEFqM2g4RUVXLUdobjZReU5XZjRrRDJkaTV2VkhUandTcS1TeF8tcGc?oc=5"
+    },
+    {
+      "d": "16 nov",
+      "s": "dnoticias.pt",
+      "c": "Mercado",
+      "t": "Apagão na Microsoft: o que aconteceu?",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVW5pQTZrMlF5TnM3aXlYdDgtd01KQmFEb0RkWDJ1TXlMazFzbG9JRDk0dmtMZ0d0akVoallPMlQ1Vmw1OGI0QjMzUG4yT1g4TFdmN1R5N0U3NU1hSHV4R1doNEloVTBFZ1ZXMThQTzVxQmdvdGJoZUlSS25jSF9zeUtrMjJEZw?oc=5"
+    },
+    {
+      "d": "16 nov",
+      "s": "Jornal de Negócios",
+      "c": "Mercado",
+      "t": "Empresas de chips voltam a pressionar Wall Street. Petróleo recua com abastecimento em alta",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOTMxWjF5TXdsQWlqMElwMGN1QnAzTGF4dGhjX2VOWWRIdzFHQ3IzcWl4Q3NpaUt6ejFIcXRYZ0JpZThzejZWbE4wZ2lOaEoyR3cwUUNuc19NVHpkaEVKLUlvQXlMa1F6SnBNYnBwektfRVpkWnp1VjRYSnVlcUVRckE4YTlXQzk0WTJsQ2ZVaWNkVmJZYTNIa0xERjFPT19BRUJtOVJxMjB5N0dvek9LNUtJejdiLUpsS0ZMTWxMTkNVdWdPTXg3ejFfTDFvc0NzdE81WTRtakxjMzdpQ01lUC1DWdIB3gFBVV95cUxQeEs1Y19DdGVlRGpGbGxsQWpfTjltb1NrQWs1YjZYXzdjdUFRWWVoUkw4dHIwR21aalNTSU9NcWtrMTFzcGpXcWo1bWhNNHlkbXRmeVh1S1JWUHA3STBQYWdVS1pucUlWRV9xRi1RY3EzSjZBb0RDYWZRc2lWRXN2UzJoZjF2cWU2UVlzdWF3aDJtZnVuSmtZY3JqMG5oMVc1bEgxdDg1TU5aSzZaQ1hxY2xCMFFzczJtb1Rva05qRDhFR241OHc1TWZleFo4VzIzM2dXeUl1VzRJMW9iQ3c?oc=5"
+    },
+    {
+      "d": "16 nov",
+      "s": "Executive Digest",
+      "c": "Mercado",
+      "t": "Moeve prepara venda de 1.700 postos de combustível depois de acordo com a Galp não avançar",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORmV0N2RiVWx0eVhmLWUwRXNUUXhPbENjY1d4NmRaSHhfRV9PYlQ0WExSd21FdWF5UGlqNDlUemZIdHZtT1RVd29lLURIVTF3bVRxbWRRY1FJVDBEaFVBODk3d1R6WW5pMmJZTktPeTNzNzNPcnRQQjc4SnZqby1ETVJ4RFFsWU9DZ3ZqUEp2Z3lXVEJpcUVkclZyZjJEWjZWeGdSVWIyUnhKOTRNYV9tT3V6WUZxWUM5X1RQQVN3WlY?oc=5"
     }
   ],
   "stocks": [
     {
-      "k": "AMZN",
-      "n": "Amazon.com, Inc.",
+      "k": "NVDA",
+      "n": "NVIDIA Corporation",
       "d": "dn",
-      "x": "Variação de -2.68% na última sessão.",
-      "v": -2.68
+      "x": "Variação de -4.28% na última sessão.",
+      "v": -4.28
     },
     {
       "k": "GOOGL",
       "n": "Alphabet Inc.",
       "d": "dn",
-      "x": "Variação de -2.58% na última sessão.",
-      "v": -2.58
+      "x": "Variação de -3.45% na última sessão.",
+      "v": -3.45
     },
     {
-      "k": "NVDA",
-      "n": "NVIDIA Corporation",
+      "k": "AMZN",
+      "n": "Amazon.com, Inc.",
       "d": "dn",
-      "x": "Variação de -2.57% na última sessão.",
-      "v": -2.57
+      "x": "Variação de -3.21% na última sessão.",
+      "v": -3.21
+    },
+    {
+      "k": "TSLA",
+      "n": "Tesla, Inc.",
+      "d": "dn",
+      "x": "Variação de -3.14% na última sessão.",
+      "v": -3.14
     },
     {
       "k": "SIE.DE",
@@ -96,18 +103,18 @@
       "v": -2.45
     },
     {
-      "k": "TSLA",
-      "n": "Tesla, Inc.",
-      "d": "dn",
-      "x": "Variação de -2.36% na última sessão.",
-      "v": -2.36
-    },
-    {
       "k": "META",
       "n": "Meta Platforms, Inc.",
       "d": "dn",
-      "x": "Variação de -2.05% na última sessão.",
-      "v": -2.05
+      "x": "Variação de -2.34% na última sessão.",
+      "v": -2.34
+    },
+    {
+      "k": "AAPL",
+      "n": "Apple Inc.",
+      "d": "dn",
+      "x": "Variação de -1.03% na última sessão.",
+      "v": -1.03
     },
     {
       "k": "BMW.DE",
@@ -115,13 +122,6 @@
       "d": "dn",
       "x": "Variação de -0.94% na última sessão.",
       "v": -0.94
-    },
-    {
-      "k": "AAPL",
-      "n": "Apple Inc.",
-      "d": "dn",
-      "x": "Variação de -0.75% na última sessão.",
-      "v": -0.75
     }
   ]
 }
