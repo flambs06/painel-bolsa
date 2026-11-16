@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T10:35:39.304368+00:00",
+  "updated": "2026-11-16T11:59:36.059571+00:00",
   "news": [
     {
       "d": "16 nov",
@@ -19,11 +19,27 @@
     },
     {
       "d": "16 nov",
+      "s": "Expresso",
+      "c": "Mercado",
+      "t": "Impostos sobre o imobiliário valem mais de metade das receitas em seis municípios: Loulé, Grândola e Cascais entre os mais dependentes",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQblRITF9PcHdIYUM4QVNiMTl3T1Y0b3RmREpGMXVDc2VQRk5WZzAyXzFjY19wTDEySGFqSzY1QTF4VjUwN3h3bHlSanZORkI4Y2cybXBORHN4OC1GZ2Rud29VbHBfTkdIblpRUS1Ub1N5SVpFZ3Vab24xUThsdkoxanBNZERRVmVwbTVzR0RTbTdzamVJNUxKM0VDNXVPYkdHLVgtR2g1QmtCN3JMRlQzMkphWUxfSThoSkRQNktjRE9Ncm40anlrWkQwVmI0RU5qaXJ1d1NZQlY3LWZycXpKWFcwYVN2WEtrUXpTd3g0a1cyN3hGcVhVYlZHU0NtYWw1NFV1S0NZaTBPdXJRNGc?oc=5"
+    },
+    {
+      "d": "16 nov",
       "s": "RTP",
       "c": "Mercado",
       "t": "Presidente da Agência para o PTRR: Governo deveria ter sido \"mais cauteloso\" na classificação das medidas",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbEZBWFF2cndrOVdqX00ydkRyaXJSaEhUQmpuQm1YMmFaa2xTTUpkcDVNR0dyMHZoWGthVjN6d2M3SXkyMzFDVlI0THpTdnRqZEltalg4TWtNX2VuX21FNEs2c21ualo3cGNQRTZPYWxYdWZweS13N2xjTkFUc2R6dnY0Q2tfNUtzYnhmRUVmTzZNWHBEWnMwUEF3SktCN1ZHYzFEeTJxSl81ZTlLdVYzWHNlWGpfdjlnNVBrUk9tdXFLMkpINGl4MmZydTFqbFU1UkhlYUgtTURjejc1SzRIQndB?oc=5"
+    },
+    {
+      "d": "16 nov",
+      "s": "Jornal de Negócios",
+      "c": "Mercado",
+      "t": "A sua semana dia a dia: IPO da Anthropic, contas da Nvidia e rating da Moody's",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd01uWkFIV3pjWXc2SV96bkZhaXA1b3FoaXF2Mm4zQmNQZHRWYnN2UmRRU1ZBOW1zc2hfU0VmYUQ1TnRFYTBDSENxcjZBcy1PVUtkM1N4eF9hZzN4a2E0Um83RzJZZ1QtWUtQNDAtbnJYRko4aktXcVhmaThiYmhfakpNTHN6bzA3MHJuRmdTYXQ0LTVJQ0l6eGlOSEdrV2hFc29xSE41WTJSS3kxdzdQbjdDRnJ2WUZvQzhzNEhuMS1UQzg?oc=5"
     },
     {
       "d": "16 nov",
@@ -48,22 +64,6 @@
       "t": "Fábrica em França é um novo passo da Tekever para criar empresa pan-europeia, avança Ricardo Mendes",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNWpYU1ZvMTFvU1JMdm1UVmVHVy1BX3N2T2E1NV83RURUVHhiU2VvUmlPd0YyUzFfU3JQX2dlWG5Gd3BxUFB5d09KV2x4amVXdXk3clNiUFYxTVQ1ZkhSd0k0OGJpWHNIQVMtSnUtcFpuTldQNmgycGc3YWpYLW9tRzFTOFloTW9pS1NOVC1ZM0I2dTM0Y0RBbEpSUVpHekQwMGNBaE5Yel9iRFZ2Vzl2dTJlb056cDJKQkY2MEh3NnloM2xkX2ZWZmJQUmhSVW1OOW4yV2FuYldJWlR0aTE2MQ?oc=5"
-    },
-    {
-      "d": "16 nov",
-      "s": "Jornal de Negócios",
-      "c": "Mercado",
-      "t": "A sua semana dia a dia: IPO da Anthropic, contas da Nvidia e rating da Moody's",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd01uWkFIV3pjWXc2SV96bkZhaXA1b3FoaXF2Mm4zQmNQZHRWYnN2UmRRU1ZBOW1zc2hfU0VmYUQ1TnRFYTBDSENxcjZBcy1PVUtkM1N4eF9hZzN4a2E0Um83RzJZZ1QtWUtQNDAtbnJYRko4aktXcVhmaThiYmhfakpNTHN6bzA3MHJuRmdTYXQ0LTVJQ0l6eGlOSEdrV2hFc29xSE41WTJSS3kxdzdQbjdDRnJ2WUZvQzhzNEhuMS1UQzg?oc=5"
-    },
-    {
-      "d": "16 nov",
-      "s": "Público",
-      "c": "Mercado",
-      "t": "Salário mínimo está a aproximar-se do salário médio a um ritmo mais lento",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTEVFWFdFLUQwWV9QWkU5LXBYaHkzcmNFcHBtMkRDcTVQUzdmaVJ1d3E4WE54X2RXVk5McHlfY2lTWDhPQTJzbkVjdkVnRURLV3FUdVl1NDBXYTdKaXB5Y3lQRGhBUnc1U3RtZzU1cV9kckN4MjJjYXVRd1kwWnZtUVhxVmRrY0NHM1lsZEVVRWpwbERBMG9yb1RXeXc2TFI2OXlMbHhQaFRsVmlrdDFsZw?oc=5"
     }
   ],
   "stocks": [
