@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T01:04:53.541269+00:00",
+  "updated": "2026-11-16T02:48:51.063834+00:00",
   "news": [
     {
       "d": "16 nov",
@@ -8,6 +8,14 @@
       "t": "Jensen Huang procura aliados para regressar ao cargo de CEO da Nvidia",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORmxwckJnLXcwN2FHLTBlUUNDZW9iVW1EVnN0bVhMemJPc3JlSDZpczU2TVFZWEhvSXF4QkdyVVQ4NnNGX0pRcXpfRWlzejRiU21JWWFBOFZUVjNTZTBaV0ZpRWZOenNURVQyNjVpeTc2T3RkdEpPR1NUV1JyMGlLblI2T1ZQRlc0M1psbXR5aXMwUnFZc21CTGJOWl9UMk4wWWZOU1BBZ1hwYUxMZDZyZzJFSElmZG14Y1ROaTJmRTJkS29jYW9qdnJR0gHEAUFVX3lxTE5oMTdhUXZNdnNMdUdRWGl0azB5MmsxN2NmQUtLUDJROVh5T0w3TWQtYzZqUngxN1lxTXd0WG9oX1VsdGhRV2RxUGhPR1NaQkE0dlF1a2c4MUxZSDNReDVvb3d6QkFHSzAtTmN1RTdKMFRYZDNzYnlpa04zZVI5Sk5TYWFQQ3FSd1FOdHpXRGk1dVF1MC15bi1rQThWMmUwN181SHZ2TGFXU0RPTkFyZC02QmNJclBFWkYxNFVrb3cySW1NcjA?oc=5"
+    },
+    {
+      "d": "16 nov",
+      "s": "Pplware",
+      "c": "Mercado",
+      "t": "Microsoft 365 falhou em todo o mundo e o LibreOffice aproveitou para fazer história",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXhGTzNaeVVjMXJoV3gwS0gtajN1cW0zT2c1MlR2V0dTR3k3RjFlRjE4amlJTFJKX0ROXzI1a1BxMDNLaDhuNGozNjg1bGV5RExKQ0VfR0loWmlJRFI3SVpEOVYzeDRkU2pGZnBrNTZpd182dnpjYUFBcDFzT0t6eU9ZNzd4QUlYVzd1bHJEM0p4LUNLS1ZhWUhLMUxEdFlITl80dEkwSUxwVlBfcGpZN0FIYlQwTXhf0gG-AUFVX3lxTFBaMHVUMjVrZzlUcVhOdHJKYllWSjVYS0daY3o0Vzh4YmRCbjUwM25IclJGa0ljR3RzLTU1UzY1bGMxRnM0ZzcyYVZ4cVhYTDlnOS00YUZEUDRwZDJ1T01zSl9nd1FwZDZmUjZrclc3c3N1cV9yTjZVOE10RnYwYWFUOVB0ZEpZdWdSSlp5SnlDeDhOZnBWUUJHOVM0aEN0X1ZUMHQ3ZUhVLWVoZmNxOEwxak9CbjFaT2c4b1FSckE?oc=5"
     },
     {
       "d": "16 nov",
@@ -27,19 +35,19 @@
     },
     {
       "d": "16 nov",
-      "s": "Pplware",
-      "c": "Mercado",
-      "t": "Microsoft 365 falhou em todo o mundo e o LibreOffice aproveitou para fazer história",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXhGTzNaeVVjMXJoV3gwS0gtajN1cW0zT2c1MlR2V0dTR3k3RjFlRjE4amlJTFJKX0ROXzI1a1BxMDNLaDhuNGozNjg1bGV5RExKQ0VfR0loWmlJRFI3SVpEOVYzeDRkU2pGZnBrNTZpd182dnpjYUFBcDFzT0t6eU9ZNzd4QUlYVzd1bHJEM0p4LUNLS1ZhWUhLMUxEdFlITl80dEkwSUxwVlBfcGpZN0FIYlQwTXhf0gG-AUFVX3lxTFBaMHVUMjVrZzlUcVhOdHJKYllWSjVYS0daY3o0Vzh4YmRCbjUwM25IclJGa0ljR3RzLTU1UzY1bGMxRnM0ZzcyYVZ4cVhYTDlnOS00YUZEUDRwZDJ1T01zSl9nd1FwZDZmUjZrclc3c3N1cV9yTjZVOE10RnYwYWFUOVB0ZEpZdWdSSlp5SnlDeDhOZnBWUUJHOVM0aEN0X1ZUMHQ3ZUhVLWVoZmNxOEwxak9CbjFaT2c4b1FSckE?oc=5"
-    },
-    {
-      "d": "16 nov",
       "s": "Contas Poupança",
       "c": "Mercado",
       "t": "ATUALIZAÇÃO ISP | Preço dos combustíveis na próxima semana (16 a 22 de novembro)",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORDFwQ0NUQUpsVk5qTUdDZHZlLUgyWFNMS0VERzZRY0I3ZDQ2S1BKTTlHcGtzSzdoOXd2U0dMSEwwVkJaVHF5T0dnVTF5UXlDSzR2a2hEaERrcUxQZXFtRHJTWnNNdnRYNU9acmlrUHZUOEZaY1NIR3AwbDRUWVN4WVNRbTF2clZBNkdnNE1pOVhVczF1a00tbkpNbTdfQUxyVHhyQ0FsMnltbkxIZExYalQ3TWFZVnlWSk1pUm4xdHFBd2ZFU09zeGlhS2ItU2ZCLV9jeVdSQ0lfR0RrR3BINE5JV0tZRjM4cTUzYw?oc=5"
+    },
+    {
+      "d": "16 nov",
+      "s": "Jornal de Notícias",
+      "c": "Mercado",
+      "t": "Salários perdem força e sindicatos apertam Governo",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeFlSY095NDQySDRVa253RUs4a1RDNmVIRF9XN3FTQ1ZSaXpYMFpJY3VFODBVQUVpUW11eVNqSlpxM2JTeXZraFhMQV9JVFcwRmZUZ21fOVR0M2N4SG5pcjdjbjMwRFFhWkJXcWJiM2dlamdGQVNyc25ubHoyZVpGcmYxZEpwazlpejNTXzVRbHRtVFhXMkR1cNIBiAFBVV95cUxOcGRLb0Y0MTYzcmtVN3FpNXNMdllBWkw2eUtDbHd0N3huQkVvSGtoMFprM0h1MUpIN2x6X0xJc2NNRS1YUDJ2VXo2QU93aTlpNzBXd3lrZy1oRjlpT1lRWjlSOWpybzhOWDlSRTF2Z1lXNlZMVktVWVNobTMtMUNDaEQ4RDlCWnFy?oc=5"
     },
     {
       "d": "16 nov",
@@ -56,14 +64,6 @@
       "t": "Ex-agente do FBI roubou milhões e queria comprar vinha em Portugal",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTGNmczJSNzc1ZUt0Ulk4bThYc0hyRkItQlZuNnZtMU5peGl4U0JtdUlMU1A2d0RJYXN0blFTdWNmWDRvNGNqOVhMZmNRNTBEV1BRRW51ekhMcFBLZXF3MmRNTHlLNHNNeWNidHRZdkZPWWtGaDBiSXBkMDZ4MnVQck1JT3JlektIcXpZTGFkSmV0cTVFNHh0SDMwWkVkMTA0M0JnX1FTSEZpVzMwMkdWSjVCcw?oc=5"
-    },
-    {
-      "d": "16 nov",
-      "s": "Expresso",
-      "c": "Mercado",
-      "t": "EDP junta sol e água para dar energia a 52 mil famílias e quer repetir a fórmula noutras barragens",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOM2gtOTlpSV9lLUo5cDV6T3d6S2c3MHotSWNfT2NoTkxVQ05ndW9qT1lENGtMb0JmdmpCYWpaNHZvbEY3SjE5NHFnYXlrdTF3ZEp2NXNsVU92QzlJaDZtRURHc1cyMjNrY1dlUHVNdVJsOWEteDNQVk1GSDVWeTF0TlNYYWVRUTVmeE4tRGZNTndCOGw3bjBIbGtoVjFiczZYQms5N0pkMEF6UTA4YlltVEhxTmxnVmRxN2hENTJ0ZTh6cGw2cHl6THN2MmhOYVIyTTM0ckNXd3pZMXFJaFRkUmhtTU80blZnNmF1SUExLTdMTml2aVdJ?oc=5"
     }
   ],
   "stocks": [
