@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T15:50:21.415977+00:00",
+  "updated": "2026-11-17T16:55:36.235558+00:00",
   "news": [
     {
       "d": "17 nov",
@@ -11,11 +11,27 @@
     },
     {
       "d": "17 nov",
+      "s": "Público",
+      "c": "Mercado",
+      "t": "Deutsche Bank: fuga de 15 milhões de documentos expõe falhas sistémicas",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOW1VQVRYb1NiVTZva2E0NG54czcxWUVvQVpibDQzYUJHTV9KUEd5dmEyMkpLZXhpS1RjOXhGaVRfZWstWTlTdnZlX1NpdHl0NnhkQ1Y1ODlhQ1UxNzg5d2hfUmdCR3Y1MjdDNGVFbi1TeWJXMGpTZG04MkMzVmZMQjlaOTFkeFhHWHAzTEhiRGhvWmFoYlNRSE8zc01menpCWWVHXzlud0JLb0dlb0RSSXBlREp3MG5iRmlGVnpKSjA?oc=5"
+    },
+    {
+      "d": "17 nov",
       "s": "CNN Portugal",
       "c": "Mercado",
       "t": "Jensen Huang está a ponderar o regresso à liderança da Nvidia",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMmRrOFFEdnRSazh5clBZazZseExOZ29wRDZ5VE9EcDZ1cnAtaGJBNGpEdi16ZFFIZUlRVThIaTdfaXFRR1M2UHJqOFRnWGFoVElVSVpfNXhacDlnNUZRNmt1UGpDVF9aMU5kdWZjY0gxOEdzS2wxTFltYzhzRS1ZaENUdE1xZmxJam0xQzV4NjI4M2RkOXhFSXBNeEdXQy1rUE9mOElRTWlfV29ONTFobEl3VnZidTJkWEJvblpBSFNUUmVaU2JCWkN0UnNjdw?oc=5"
+    },
+    {
+      "d": "17 nov",
+      "s": "Jornal de Negócios",
+      "c": "Mercado",
+      "t": "Sonae transforma GaiaShopping por 35 milhões",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORFY1emhVZ0JHcjJ2SFl1SGx6NVlGeHZ6U01QbmtjM01JQkZicDIxZHdaWkZPdi12M19VaUlTX2RwTUZrbVhHd2F6WWNyX2hTUXcxZmJ3WmpDQWNDU0NFRklyeVpndEdLaDlob3lGSVhlVm9qdm9NLXc4YW5TTFRiaGNZdUhOVzZ6MktXbHlwUGNLeUVzZjZ0NW52cW9GTHBfLXVVOWFmVmrSAaMBQVVfeXFMTVhBR1NPTk4xdlYwdFhSelVSVHh2UTdPZGlRMnZKamR0TF81M091amQ2QUNHVDNteHdpSEJIUEM4cTI0dzBfR0ZGYWJxS2Q1d1FiTTh4LVZXamduWUR2c2lteE9MZmxpNGp5cUFEcTZoM3RMallyMzVXZm1nbDU5SmVzSjBMSFJJZUtvVnljSHJPTjNlOFg5WFhfSmdSN0ZIZmVzdw?oc=5"
     },
     {
       "d": "17 nov",
@@ -35,35 +51,19 @@
     },
     {
       "d": "17 nov",
-      "s": "Público",
+      "s": "Correio da Manhã",
       "c": "Mercado",
-      "t": "Deutsche Bank: fuga de 15 milhões de documentos expõe falhas sistémicas",
+      "t": "Nova administração da RTP divide membros do CGI",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOW1VQVRYb1NiVTZva2E0NG54czcxWUVvQVpibDQzYUJHTV9KUEd5dmEyMkpLZXhpS1RjOXhGaVRfZWstWTlTdnZlX1NpdHl0NnhkQ1Y1ODlhQ1UxNzg5d2hfUmdCR3Y1MjdDNGVFbi1TeWJXMGpTZG04MkMzVmZMQjlaOTFkeFhHWHAzTEhiRGhvWmFoYlNRSE8zc01menpCWWVHXzlud0JLb0dlb0RSSXBlREp3MG5iRmlGVnpKSjA?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYVVkSmF2UDE5TUFycmd2ajh4SDJpRnV5WmFOOTJZeG9vMXRjRVk3MkpQYWxpd29MM1hSNXBNb2w1Nk8tUFBpNVV3LW9fUnctZDFpV1l4REo4TDhLakFiN3VvYnpJT2VWX05zRGJOblV0YWR0MG1vNUxTQ2tLZzRnSElET2Iybk1aNVJkNmVrV0djd9IBjAFBVV95cUxOTW96M2Zmdm9TTHU3c1VBSDFRcGx3MEI4eG9faWdLdllaZXoxNjhLV2JiZ29CZUVURDZOZFgwYXpjMUJkdm5GbTd1UV9NelFXaFBiQWlZZENJdXhkUl8za0s5djNPSmRPZmZmX0xkUVdESkk3dDRLbmxSNTFHR0RsRnRxYjVBWFVNbGNveQ?oc=5"
     },
     {
       "d": "17 nov",
       "s": "Jornal de Negócios",
       "c": "Mercado",
-      "t": "Sonae transforma GaiaShopping por 35 milhões",
+      "t": "Navigator aumenta preços no “packaging” entre 8% e 12% em janeiro",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORFY1emhVZ0JHcjJ2SFl1SGx6NVlGeHZ6U01QbmtjM01JQkZicDIxZHdaWkZPdi12M19VaUlTX2RwTUZrbVhHd2F6WWNyX2hTUXcxZmJ3WmpDQWNDU0NFRklyeVpndEdLaDlob3lGSVhlVm9qdm9NLXc4YW5TTFRiaGNZdUhOVzZ6MktXbHlwUGNLeUVzZjZ0NW52cW9GTHBfLXVVOWFmVmrSAaMBQVVfeXFMTVhBR1NPTk4xdlYwdFhSelVSVHh2UTdPZGlRMnZKamR0TF81M091amQ2QUNHVDNteHdpSEJIUEM4cTI0dzBfR0ZGYWJxS2Q1d1FiTTh4LVZXamduWUR2c2lteE9MZmxpNGp5cUFEcTZoM3RMallyMzVXZm1nbDU5SmVzSjBMSFJJZUtvVnljSHJPTjNlOFg5WFhfSmdSN0ZIZmVzdw?oc=5"
-    },
-    {
-      "d": "17 nov",
-      "s": "Jornal de Negócios",
-      "c": "Mercado",
-      "t": "Mais lucro e ações \"baratas\". Mota-Engil dispara em bolsa após JB Capital subir preço-alvo",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOGg5X20xUGtsckZ1NkVYUFFMU2J2WllTakFMTkVGY19fS1JsWlYzYmZyRDE3RGtEelVMZ3U3MjB5MUdKN1FiYU41M2kzUkJUaHNmT1huN0xwVmJxV05Mbm9VLWtTMUtMcl85WTk0bF9FV1NrSXFEd0JoUGgweVNaWVBWZDVPX1pBTWVfNjNWeFpFTWt2WnlCalYxTy1RYktjX2FpS3BFbEtjWGduejAzZE5UTzhaYUd3a0ZiWXJzYkgzSjZFNDQ3VEthcnBTNldlOHR2ZkNuWU1ndFJNZk4ybDFOUzZxUQ?oc=5"
-    },
-    {
-      "d": "17 nov",
-      "s": "Jornal de Negócios",
-      "c": "Mercado",
-      "t": "Wall Street no vermelho pressionada por \"sell-off\" tecnológico. Nvidia cai mais de 4%",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbUtyQko3VGRXb2loSEJPNGRzaWJsazF6NXF6VEdRVlhDaXJPV05meURUVGVNR1RoSGFvYjQzbHhzbU9nTm1hV3hjS0JvSHdTNlBnYmFvUzVVWDdKVlBURS04aEZXd0JPd0RHMmlNSFZJUTZQTFlYQkpOQmlsSDliX1ZwTHVtQWJNN3RIZVY5VmVYak11RnVrR0VLZ2d1Q2I5blBlN1VVMmExTERJUGpVYXlvTXpQRTFLTnltclIyQ2RfZF8yV3pjM2JxUjZweWRmbFHSAcwBQVVfeXFMUENISTJodmNFNVVwbVdjTkNYaW9QWkluakhtbmJucGlILTBiMjh6aEI3ZGxsWEQ0VUJRU0tGRXRsdExDNjhrc2xDWkpwa0xxR2hOTlBxVjhSeW1RV1BkOUprWUVocFFhQl9uejZZNUZBWnpLV3U4UFpYeklweDN4WlpNbThTZXdYNTVjZFF4ckgweWo1TUZ5Q29ad194YzVvTEphS0M2eDRlMkl5RHVHS0hpVVAxMUdVeDdoQ2YzdEdUTHJKT2RZSXVyS000?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMXRYZl9HSkcxUjdqZEk5Y180RDY1eVFscXZWMy12dC1EUHI3Y01xWUEwbUd2YktNaHdvT1VLcmZWV0tTdGJtMlk0cDZYYm40X0NnWmljN1NNRkplczdfN0lGSE9uMnJaOEdIcXF3ZnAtS1V1MUI2YVFRdy1qUjI5cHhENm9FNFhOaDZkQjRfQjMtMm1qV0ZJUjEtT0ZzdnBFaU1pcDBDUVRhTjN3ZTlTMWw4cjBQU2hkbm03TA?oc=5"
     }
   ],
   "stocks": [
@@ -71,26 +71,40 @@
       "k": "SAP.DE",
       "n": "SAP SE                        I",
       "d": "dn",
-      "x": "Variação de -4.78% na última sessão.",
-      "v": -4.78
+      "x": "Variação de -5.58% na última sessão.",
+      "v": -5.58
     },
     {
       "k": "MSFT",
       "n": "Microsoft Corporation",
       "d": "dn",
-      "x": "Variação de -3.25% na última sessão.",
-      "v": -3.25
+      "x": "Variação de -3.91% na última sessão.",
+      "v": -3.91
     },
     {
       "k": "NVDA",
       "n": "NVIDIA Corporation",
       "d": "dn",
-      "x": "Variação de -3.22% na última sessão.",
-      "v": -3.22
+      "x": "Variação de -1.99% na última sessão.",
+      "v": -1.99
+    },
+    {
+      "k": "ALV.DE",
+      "n": "Allianz SE                    v",
+      "d": "dn",
+      "x": "Variação de -1.83% na última sessão.",
+      "v": -1.83
     },
     {
       "k": "META",
       "n": "Meta Platforms, Inc.",
+      "d": "dn",
+      "x": "Variação de -1.79% na última sessão.",
+      "v": -1.79
+    },
+    {
+      "k": "BMW.DE",
+      "n": "BAYERISCHE MOTOREN WERKE AG   S",
       "d": "dn",
       "x": "Variação de -1.54% na última sessão.",
       "v": -1.54
@@ -99,29 +113,15 @@
       "k": "GOOGL",
       "n": "Alphabet Inc.",
       "d": "dn",
-      "x": "Variação de -1.43% na última sessão.",
-      "v": -1.43
-    },
-    {
-      "k": "ALV.DE",
-      "n": "Allianz SE                    v",
-      "d": "dn",
-      "x": "Variação de -1.07% na última sessão.",
-      "v": -1.07
+      "x": "Variação de -1.18% na última sessão.",
+      "v": -1.18
     },
     {
       "k": "AMZN",
       "n": "Amazon.com, Inc.",
       "d": "dn",
-      "x": "Variação de -1.00% na última sessão.",
-      "v": -1.0
-    },
-    {
-      "k": "TSLA",
-      "n": "Tesla, Inc.",
-      "d": "dn",
-      "x": "Variação de -0.92% na última sessão.",
-      "v": -0.92
+      "x": "Variação de -1.13% na última sessão.",
+      "v": -1.13
     }
   ]
 }
