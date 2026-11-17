@@ -1,14 +1,6 @@
 {
-  "updated": "2026-11-17T09:56:06.146933+00:00",
+  "updated": "2026-11-17T10:56:46.782556+00:00",
   "news": [
-    {
-      "d": "17 nov",
-      "s": "CNN Portugal",
-      "c": "Mercado",
-      "t": "Jensen Huang está a ponderar o regresso à liderança da Nvidia",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMmRrOFFEdnRSazh5clBZazZseExOZ29wRDZ5VE9EcDZ1cnAtaGJBNGpEdi16ZFFIZUlRVThIaTdfaXFRR1M2UHJqOFRnWGFoVElVSVpfNXhacDlnNUZRNmt1UGpDVF9aMU5kdWZjY0gxOEdzS2wxTFltYzhzRS1ZaENUdE1xZmxJam0xQzV4NjI4M2RkOXhFSXBNeEdXQy1rUE9mOElRTWlfV29ONTFobEl3VnZidTJkWEJvblpBSFNUUmVaU2JCWkN0UnNjdw?oc=5"
-    },
     {
       "d": "17 nov",
       "s": "Jornal de Negócios",
@@ -16,6 +8,14 @@
       "t": "Mais lucro e ações \"baratas\". Mota-Engil dispara em bolsa após JB Capital subir preço-alvo",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOGg5X20xUGtsckZ1NkVYUFFMU2J2WllTakFMTkVGY19fS1JsWlYzYmZyRDE3RGtEelVMZ3U3MjB5MUdKN1FiYU41M2kzUkJUaHNmT1huN0xwVmJxV05Mbm9VLWtTMUtMcl85WTk0bF9FV1NrSXFEd0JoUGgweVNaWVBWZDVPX1pBTWVfNjNWeFpFTWt2WnlCalYxTy1RYktjX2FpS3BFbEtjWGduejAzZE5UTzhaYUd3a0ZiWXJzYkgzSjZFNDQ3VEthcnBTNldlOHR2ZkNuWU1ndFJNZk4ybDFOUzZxUQ?oc=5"
+    },
+    {
+      "d": "17 nov",
+      "s": "Correio da Manhã",
+      "c": "Mercado",
+      "t": "Nova administração da RTP divide membros do CGI",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYVVkSmF2UDE5TUFycmd2ajh4SDJpRnV5WmFOOTJZeG9vMXRjRVk3MkpQYWxpd29MM1hSNXBNb2w1Nk8tUFBpNVV3LW9fUnctZDFpV1l4REo4TDhLakFiN3VvYnpJT2VWX05zRGJOblV0YWR0MG1vNUxTQ2tLZzRnSElET2Iybk1aNVJkNmVrV0djd9IBjAFBVV95cUxOTW96M2Zmdm9TTHU3c1VBSDFRcGx3MEI4eG9faWdLdllaZXoxNjhLV2JiZ29CZUVURDZOZFgwYXpjMUJkdm5GbTd1UV9NelFXaFBiQWlZZENJdXhkUl8za0s5djNPSmRPZmZmX0xkUVdESkk3dDRLbmxSNTFHR0RsRnRxYjVBWFVNbGNveQ?oc=5"
     },
     {
       "d": "17 nov",
@@ -27,11 +27,11 @@
     },
     {
       "d": "17 nov",
-      "s": "ECO",
+      "s": "CNN Portugal",
       "c": "Mercado",
-      "t": "Alemã Thyssenkrupp traz cadeia do hidrogénio para Gaia com fábrica de 14 milhões",
+      "t": "Há uma guerra nas telecomunicações que pode pesar na carteira. Digi ameaça sair de Portugal em rutura com a decisão da Anacom",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZTl4Zm13WGwtaHhxckd3NHVtUGV5b040a1RiTE1JSmFiUmxiT3d4VGtFZlJOdFNjcjJQT1FscmNPMXdadkl5aWJtdk91allmWmZQT1QzZjV5VkF1UnU1cmhoRDZCY3M1UlNUckR6ZnFDakpmVG5NbVFGN1hZMGFEX3JQY0ZmZ1YxNmE1TWZyLUNFNTg0LUx4V3o0R3BqaDQ0ZnY4NDlpZDVxMlZKMWVRTWx3?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQVFB2dTNCUVhrb2hQMHlXeWhtR3ZCbTA1LWo5TFdOWVVJMlY0MlBsM2loTHIwTlBvdjRDQlhSWUlHbXlHYXFxRUhxakczTmZjYzc3TlBKQnZZVzVnM0xNVlZhYjB3N1RHdkluZ2tTQUxmWVRiN2pWaEhkVnFReGQyUGxjMU50MXJwbkZ0RTRXblVQRkRUU0N0bVRmYmJ4MnpITDVxTlduMWktZzlQRzVzTzFGNldJQ2YzREF3SEE2M3dPLUVXU2hQWVNtcGZhd0ZDTEl4Y3J3OGlLRnQ1b1VuZmlmQU0zbkFqMGNOWUJvd3BFeklqV0JSQ0NTdmx5YXB1WHlVX3NXTkVtN01Qd244TW5DWlVHTWRibDRCdWdySTlWUC00blFOeUxFYWg0WlVm?oc=5"
     },
     {
       "d": "17 nov",
@@ -43,19 +43,19 @@
     },
     {
       "d": "17 nov",
+      "s": "ECO",
+      "c": "Mercado",
+      "t": "Alemã Thyssenkrupp traz cadeia do hidrogénio para Gaia com fábrica de 14 milhões",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZTl4Zm13WGwtaHhxckd3NHVtUGV5b040a1RiTE1JSmFiUmxiT3d4VGtFZlJOdFNjcjJQT1FscmNPMXdadkl5aWJtdk91allmWmZQT1QzZjV5VkF1UnU1cmhoRDZCY3M1UlNUckR6ZnFDakpmVG5NbVFGN1hZMGFEX3JQY0ZmZ1YxNmE1TWZyLUNFNTg0LUx4V3o0R3BqaDQ0ZnY4NDlpZDVxMlZKMWVRTWx3?oc=5"
+    },
+    {
+      "d": "17 nov",
       "s": "Pplware",
       "c": "Mercado",
       "t": "Estado português deve exigir indemnização à Microsoft após apagão global",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUUVNTzkzR2NyWlU3THJtME9ieWlPQ2VuQWlkblpWQ0JQZjRLU3R0VUN6dFU1OEtIbHBWb3JkNzU1YndnTkFEeV9ZTVU0MHdOT1c5NVlvS0hNN01EQWtoeGpOZ3dlM09HQkZtSmlzM2l6eUlpSnVnNlA1YmpIbkc0OUhWUHRIeVFsd1hwMzVhUmFZOWZ3MjYxMGl0eXhQUmlLVlp1YklVSzdpYmRy0gGyAUFVX3lxTFA0Y3RwdlBybnh4RF9PekM5RkRqb3IwTU9UOWtkdG54bHE3YXJoaHpwS0pkVHEzQVlkU3NKUkNwOVVxSXRnRUhYUklfT0pVS2ZJT2ZsbHJwd3hOZ0I0RzA3SWNhRUNNX0gxV2hKMTJiRHU4Mlk3bENmTHcyWVo5dFRrOEpyWE4wUU1fSFg5LUVqZlRETmV4eG1pazY5WUtDR05pbHJ3R1EyeXFTMEZ4V1NGWWc?oc=5"
-    },
-    {
-      "d": "17 nov",
-      "s": "Expresso",
-      "c": "Mercado",
-      "t": "Reforçar poupança para a reforma \"é uma questão de inclusão e de justiça social\", defende Maria Luís Albuquerque",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOT3ExWkh6MlRnRzI3ME1KOHhwTXVyVHRpV3ZlVHBoeE9XTlRSWTRxWldhMkVFUkl6aXZ3dEtvakFCVVppWDloMUtMMHFLWk5idDM1cjltMVI1MmpkV08yczZIMnhTbGNRc2tBZmRNTVJMSWhVWDliWWVxcXJmTkpIMzVYVVdnV0dJVERVMEhKVkdwN3BJMEdhMFFTOUE0Q0pWSjVQM0J3a1NaMk9aVmx4MWRzVjZyYWhqUHRWdW9iV2p4SHhKRXFUUU1jOFNET0RGWmtEZHh0SC1BYllxUk1OY1dKWTliQk9XTTJrcno3S3BjT29nZnEyR2hEYXpfSzVlSjdjbTl3?oc=5"
     },
     {
       "d": "17 nov",
@@ -106,15 +106,8 @@
       "k": "SAP.DE",
       "n": "SAP SE                        I",
       "d": "dn",
-      "x": "Variação de -1.85% na última sessão.",
-      "v": -1.85
-    },
-    {
-      "k": "VOW3.DE",
-      "n": "VOLKSWAGEN AG                 V",
-      "d": "dn",
-      "x": "Variação de -1.52% na última sessão.",
-      "v": -1.52
+      "x": "Variação de -1.97% na última sessão.",
+      "v": -1.97
     },
     {
       "k": "MSFT",
@@ -122,6 +115,13 @@
       "d": "dn",
       "x": "Variação de -1.12% na última sessão.",
       "v": -1.12
+    },
+    {
+      "k": "AAPL",
+      "n": "Apple Inc.",
+      "d": "dn",
+      "x": "Variação de -0.98% na última sessão.",
+      "v": -0.98
     }
   ]
 }
