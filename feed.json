@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T22:47:33.435424+00:00",
+  "updated": "2026-11-17T23:44:08.313016+00:00",
   "news": [
     {
       "d": "17 nov",
@@ -59,41 +59,20 @@
     },
     {
       "d": "17 nov",
-      "s": "ECO",
+      "s": "Jornal de Negócios",
       "c": "Mercado",
-      "t": "Alemã Thyssenkrupp traz cadeia do hidrogénio para Gaia com fábrica de 14 milhões",
+      "t": "Sonae transforma GaiaShopping por 35 milhões",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZTl4Zm13WGwtaHhxckd3NHVtUGV5b040a1RiTE1JSmFiUmxiT3d4VGtFZlJOdFNjcjJQT1FscmNPMXdadkl5aWJtdk91allmWmZQT1QzZjV5VkF1UnU1cmhoRDZCY3M1UlNUckR6ZnFDakpmVG5NbVFGN1hZMGFEX3JQY0ZmZ1YxNmE1TWZyLUNFNTg0LUx4V3o0R3BqaDQ0ZnY4NDlpZDVxMlZKMWVRTWx3?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORFY1emhVZ0JHcjJ2SFl1SGx6NVlGeHZ6U01QbmtjM01JQkZicDIxZHdaWkZPdi12M19VaUlTX2RwTUZrbVhHd2F6WWNyX2hTUXcxZmJ3WmpDQWNDU0NFRklyeVpndEdLaDlob3lGSVhlVm9qdm9NLXc4YW5TTFRiaGNZdUhOVzZ6MktXbHlwUGNLeUVzZjZ0NW52cW9GTHBfLXVVOWFmVmrSAaMBQVVfeXFMTVhBR1NPTk4xdlYwdFhSelVSVHh2UTdPZGlRMnZKamR0TF81M091amQ2QUNHVDNteHdpSEJIUEM4cTI0dzBfR0ZGYWJxS2Q1d1FiTTh4LVZXamduWUR2c2lteE9MZmxpNGp5cUFEcTZoM3RMallyMzVXZm1nbDU5SmVzSjBMSFJJZUtvVnljSHJPTjNlOFg5WFhfSmdSN0ZIZmVzdw?oc=5"
     }
   ],
   "stocks": [
-    {
-      "k": "SAP.DE",
-      "n": "SAP SE                        I",
-      "d": "dn",
-      "x": "Variação de -5.58% na última sessão.",
-      "v": -5.58
-    },
     {
       "k": "MSFT",
       "n": "Microsoft Corporation",
       "d": "dn",
       "x": "Variação de -2.27% na última sessão.",
       "v": -2.27
-    },
-    {
-      "k": "ALV.DE",
-      "n": "Allianz SE                    v",
-      "d": "dn",
-      "x": "Variação de -1.83% na última sessão.",
-      "v": -1.83
-    },
-    {
-      "k": "BMW.DE",
-      "n": "BAYERISCHE MOTOREN WERKE AG   S",
-      "d": "dn",
-      "x": "Variação de -1.54% na última sessão.",
-      "v": -1.54
     },
     {
       "k": "GOOGL",
@@ -110,18 +89,39 @@
       "v": -1.2
     },
     {
-      "k": "VOW3.DE",
-      "n": "VOLKSWAGEN AG                 V",
+      "k": "NVDA",
+      "n": "NVIDIA Corporation",
       "d": "dn",
-      "x": "Variação de -1.10% na última sessão.",
-      "v": -1.1
+      "x": "Variação de -0.44% na última sessão.",
+      "v": -0.44
     },
     {
-      "k": "SIE.DE",
-      "n": "SIEMENS AG                    N",
+      "k": "AAPL",
+      "n": "Apple Inc.",
       "d": "dn",
-      "x": "Variação de -1.01% na última sessão.",
-      "v": -1.01
+      "x": "Variação de -0.25% na última sessão.",
+      "v": -0.25
+    },
+    {
+      "k": "TSLA",
+      "n": "Tesla, Inc.",
+      "d": "up",
+      "x": "Variação de +0.10% na última sessão.",
+      "v": 0.1
+    },
+    {
+      "k": "AMZN",
+      "n": "Amazon.com, Inc.",
+      "d": "up",
+      "x": "Variação de +0.05% na última sessão.",
+      "v": 0.05
+    },
+    {
+      "k": "SAP.DE",
+      "n": "SAP SE                        I",
+      "d": "dn",
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
     }
   ]
 }
