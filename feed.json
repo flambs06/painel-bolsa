@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-17T08:53:35.105174+00:00",
+  "updated": "2026-11-17T09:56:06.146933+00:00",
   "news": [
+    {
+      "d": "17 nov",
+      "s": "CNN Portugal",
+      "c": "Mercado",
+      "t": "Jensen Huang está a ponderar o regresso à liderança da Nvidia",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMmRrOFFEdnRSazh5clBZazZseExOZ29wRDZ5VE9EcDZ1cnAtaGJBNGpEdi16ZFFIZUlRVThIaTdfaXFRR1M2UHJqOFRnWGFoVElVSVpfNXhacDlnNUZRNmt1UGpDVF9aMU5kdWZjY0gxOEdzS2wxTFltYzhzRS1ZaENUdE1xZmxJam0xQzV4NjI4M2RkOXhFSXBNeEdXQy1rUE9mOElRTWlfV29ONTFobEl3VnZidTJkWEJvblpBSFNUUmVaU2JCWkN0UnNjdw?oc=5"
+    },
     {
       "d": "17 nov",
       "s": "Jornal de Negócios",
@@ -35,14 +43,6 @@
     },
     {
       "d": "17 nov",
-      "s": "Expresso",
-      "c": "Mercado",
-      "t": "Reforçar poupança para a reforma \"é uma questão de inclusão e de justiça social\", defende Maria Luís Albuquerque",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOT3ExWkh6MlRnRzI3ME1KOHhwTXVyVHRpV3ZlVHBoeE9XTlRSWTRxWldhMkVFUkl6aXZ3dEtvakFCVVppWDloMUtMMHFLWk5idDM1cjltMVI1MmpkV08yczZIMnhTbGNRc2tBZmRNTVJMSWhVWDliWWVxcXJmTkpIMzVYVVdnV0dJVERVMEhKVkdwN3BJMEdhMFFTOUE0Q0pWSjVQM0J3a1NaMk9aVmx4MWRzVjZyYWhqUHRWdW9iV2p4SHhKRXFUUU1jOFNET0RGWmtEZHh0SC1BYllxUk1OY1dKWTliQk9XTTJrcno3S3BjT29nZnEyR2hEYXpfSzVlSjdjbTl3?oc=5"
-    },
-    {
-      "d": "17 nov",
       "s": "Pplware",
       "c": "Mercado",
       "t": "Estado português deve exigir indemnização à Microsoft após apagão global",
@@ -51,19 +51,19 @@
     },
     {
       "d": "17 nov",
-      "s": "Público",
+      "s": "Expresso",
       "c": "Mercado",
-      "t": "Banco de Portugal põe administrador Luís Morais Sarmento à frente do Fundo de Resolução",
+      "t": "Reforçar poupança para a reforma \"é uma questão de inclusão e de justiça social\", defende Maria Luís Albuquerque",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcUVScVhYd3JfVXljQkVZS1Rxd3R5WjlFcTdtdm1sdC1kVWY5R1FUQnlhV19iUndDM0VaQmtpM3huY3ZNYnRmSnZJSldHSHpBQ3dORGlXQmxOeURTWmFPZzZ3aUFaTXpvc19rUWxsQkhIYjg4aU95ZnFLekE5OVEzc3RBVzAtWHNHUU81blhweE5qSndDeUxMY1AycHN2U0ItbUhPX2FyZ1g1Wm5IX2hteHgxZkNHd2QyYWJLTk9HY1RyRmNGdTY5ZktGWEdDVzZs?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOT3ExWkh6MlRnRzI3ME1KOHhwTXVyVHRpV3ZlVHBoeE9XTlRSWTRxWldhMkVFUkl6aXZ3dEtvakFCVVppWDloMUtMMHFLWk5idDM1cjltMVI1MmpkV08yczZIMnhTbGNRc2tBZmRNTVJMSWhVWDliWWVxcXJmTkpIMzVYVVdnV0dJVERVMEhKVkdwN3BJMEdhMFFTOUE0Q0pWSjVQM0J3a1NaMk9aVmx4MWRzVjZyYWhqUHRWdW9iV2p4SHhKRXFUUU1jOFNET0RGWmtEZHh0SC1BYllxUk1OY1dKWTliQk9XTTJrcno3S3BjT29nZnEyR2hEYXpfSzVlSjdjbTl3?oc=5"
     },
     {
       "d": "17 nov",
-      "s": "Público",
+      "s": "ECO",
       "c": "Mercado",
-      "t": "Crise da habitação ameaça ser também um travão à produtividade",
+      "t": "Moeve contrata Rothschild para encontrar comprador para postos de gasolina",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFRhYmJwSDUyamI3NmJnZDM5bGpqYkpJQXE5dE1faXZIZkhha09ZbHZkX0ZwTWlrWmh4N3pLSlVOSHMxZHpnazFLLTZ6MXQtWmtxRnhFZElZRzJLWTR2cEFMd0hlMnA1cElSRzhtS3pDeWpVZGIwVlFzQzBfR0NpdmgySVEzcHlJM1pVbXRGTUhzV3gtc1dtZVR6VTBhWDNWZGVWS1hzS1ZnY1lERnc?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNXpxODRhckF4NkVJOHVCak5QTTRyVXliVDlUeDlzWkJabzY1cmY3Wng2cUxuUmVqdTBLZ1M5UHZBVmxGSGF0aThvemZ4SjFVS0k2RkI5WGJ3OS1hai13S3FmRnVLalk2a1hNb1ppMXd4aEhFblRnR010dGgzMnBjYlQ5NnREdkdHVTl6QmdIRjVvaUJOYm43WGlYbVE2UUhXeFhOSEt0UENZQQ?oc=5"
     }
   ],
   "stocks": [
@@ -106,8 +106,15 @@
       "k": "SAP.DE",
       "n": "SAP SE                        I",
       "d": "dn",
-      "x": "Variação de -1.45% na última sessão.",
-      "v": -1.45
+      "x": "Variação de -1.85% na última sessão.",
+      "v": -1.85
+    },
+    {
+      "k": "VOW3.DE",
+      "n": "VOLKSWAGEN AG                 V",
+      "d": "dn",
+      "x": "Variação de -1.52% na última sessão.",
+      "v": -1.52
     },
     {
       "k": "MSFT",
@@ -115,13 +122,6 @@
       "d": "dn",
       "x": "Variação de -1.12% na última sessão.",
       "v": -1.12
-    },
-    {
-      "k": "AAPL",
-      "n": "Apple Inc.",
-      "d": "dn",
-      "x": "Variação de -0.98% na última sessão.",
-      "v": -0.98
     }
   ]
 }
