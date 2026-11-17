@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T17:55:44.331174+00:00",
+  "updated": "2026-11-17T18:53:03.111189+00:00",
   "news": [
     {
       "d": "17 nov",
@@ -27,19 +27,27 @@
     },
     {
       "d": "17 nov",
+      "s": "ECO",
+      "c": "Mercado",
+      "t": "O dia em direto nos mercados e na economia – 17 de novembro",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV2MtS2x1NndxUlZYdkpmaTBGMEdqbFJ0MEpsRmJaS2d2Ymd3d21aOU1zY0VDQ1VoUm1sYWwzSGF0NjJ6Z3BmSkIzMzFnajVidGJpdmJnLS1IZWJJeTJOcVp1Q19IekY4VjZndnJOLURQSVBUMTNjQlZsdndTMWxPMTE2QU9GWTZNcUhkWS1vQzBsQU9UQWc?oc=5"
+    },
+    {
+      "d": "17 nov",
+      "s": "CNN Portugal",
+      "c": "Mercado",
+      "t": "Exclusivo: comunicações internas em agência das secretas dos EUA estão em baixo",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOOE5WMlE5ekNaRlFkV2g1SUZUTkx5S3ZOQ205NS1ndzBHMVNodjZZUUs0dGxtT1dYUGI2MTZKM3lpWmhNMmNYS1BuSTllcXV6TTF0NHNBSWFFbDhkRmJkci1Fam5SOXFULXJLLXF1UHdGZEl5WUQydGpaeGhpWUI1V0ZmU1lBZlBVcXAxNzk2MmZVZUhyNHlueWRKQXNNb0IxWGFiQVRFUXp5Z0ZqeTFJZnpESEtuQURtYXY0STFJWkRHNkZxMHJDWTEtWi16dUFhb0xPdldUUWVwMXU4cDRucHBMT2R5V1AwM3ZBZ3hnLWlaS3ZtUnd5TWJGQ0JtdllCenVkaFhSc0xCUQ?oc=5"
+    },
+    {
+      "d": "17 nov",
       "s": "Jornal de Negócios",
       "c": "Mercado",
       "t": "Sonae transforma GaiaShopping por 35 milhões",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORFY1emhVZ0JHcjJ2SFl1SGx6NVlGeHZ6U01QbmtjM01JQkZicDIxZHdaWkZPdi12M19VaUlTX2RwTUZrbVhHd2F6WWNyX2hTUXcxZmJ3WmpDQWNDU0NFRklyeVpndEdLaDlob3lGSVhlVm9qdm9NLXc4YW5TTFRiaGNZdUhOVzZ6MktXbHlwUGNLeUVzZjZ0NW52cW9GTHBfLXVVOWFmVmrSAaMBQVVfeXFMTVhBR1NPTk4xdlYwdFhSelVSVHh2UTdPZGlRMnZKamR0TF81M091amQ2QUNHVDNteHdpSEJIUEM4cTI0dzBfR0ZGYWJxS2Q1d1FiTTh4LVZXamduWUR2c2lteE9MZmxpNGp5cUFEcTZoM3RMallyMzVXZm1nbDU5SmVzSjBMSFJJZUtvVnljSHJPTjNlOFg5WFhfSmdSN0ZIZmVzdw?oc=5"
-    },
-    {
-      "d": "17 nov",
-      "s": "ECO",
-      "c": "Mercado",
-      "t": "Alemã Thyssenkrupp traz cadeia do hidrogénio para Gaia com fábrica de 14 milhões",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZTl4Zm13WGwtaHhxckd3NHVtUGV5b040a1RiTE1JSmFiUmxiT3d4VGtFZlJOdFNjcjJQT1FscmNPMXdadkl5aWJtdk91allmWmZQT1QzZjV5VkF1UnU1cmhoRDZCY3M1UlNUckR6ZnFDakpmVG5NbVFGN1hZMGFEX3JQY0ZmZ1YxNmE1TWZyLUNFNTg0LUx4V3o0R3BqaDQ0ZnY4NDlpZDVxMlZKMWVRTWx3?oc=5"
     },
     {
       "d": "17 nov",
@@ -51,19 +59,11 @@
     },
     {
       "d": "17 nov",
-      "s": "Jornal de Negócios",
+      "s": "ECO",
       "c": "Mercado",
-      "t": "Navigator aumenta preços no “packaging” entre 8% e 12% em janeiro",
+      "t": "Alemã Thyssenkrupp traz cadeia do hidrogénio para Gaia com fábrica de 14 milhões",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMXRYZl9HSkcxUjdqZEk5Y180RDY1eVFscXZWMy12dC1EUHI3Y01xWUEwbUd2YktNaHdvT1VLcmZWV0tTdGJtMlk0cDZYYm40X0NnWmljN1NNRkplczdfN0lGSE9uMnJaOEdIcXF3ZnAtS1V1MUI2YVFRdy1qUjI5cHhENm9FNFhOaDZkQjRfQjMtMm1qV0ZJUjEtT0ZzdnBFaU1pcDBDUVRhTjN3ZTlTMWw4cjBQU2hkbm03TA?oc=5"
-    },
-    {
-      "d": "17 nov",
-      "s": "Jornal de Negócios",
-      "c": "Mercado",
-      "t": "Wall Street no vermelho pressionada por \"sell-off\" tecnológico. Nvidia cai mais de 4%",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbUtyQko3VGRXb2loSEJPNGRzaWJsazF6NXF6VEdRVlhDaXJPV05meURUVGVNR1RoSGFvYjQzbHhzbU9nTm1hV3hjS0JvSHdTNlBnYmFvUzVVWDdKVlBURS04aEZXd0JPd0RHMmlNSFZJUTZQTFlYQkpOQmlsSDliX1ZwTHVtQWJNN3RIZVY5VmVYak11RnVrR0VLZ2d1Q2I5blBlN1VVMmExTERJUGpVYXlvTXpQRTFLTnltclIyQ2RfZF8yV3pjM2JxUjZweWRmbFHSAcwBQVVfeXFMUENISTJodmNFNVVwbVdjTkNYaW9QWkluakhtbmJucGlILTBiMjh6aEI3ZGxsWEQ0VUJRU0tGRXRsdExDNjhrc2xDWkpwa0xxR2hOTlBxVjhSeW1RV1BkOUprWUVocFFhQl9uejZZNUZBWnpLV3U4UFpYeklweDN4WlpNbThTZXdYNTVjZFF4ckgweWo1TUZ5Q29ad194YzVvTEphS0M2eDRlMkl5RHVHS0hpVVAxMUdVeDdoQ2YzdEdUTHJKT2RZSXVyS000?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZTl4Zm13WGwtaHhxckd3NHVtUGV5b040a1RiTE1JSmFiUmxiT3d4VGtFZlJOdFNjcjJQT1FscmNPMXdadkl5aWJtdk91allmWmZQT1QzZjV5VkF1UnU1cmhoRDZCY3M1UlNUckR6ZnFDakpmVG5NbVFGN1hZMGFEX3JQY0ZmZ1YxNmE1TWZyLUNFNTg0LUx4V3o0R3BqaDQ0ZnY4NDlpZDVxMlZKMWVRTWx3?oc=5"
     }
   ],
   "stocks": [
@@ -78,8 +78,8 @@
       "k": "MSFT",
       "n": "Microsoft Corporation",
       "d": "dn",
-      "x": "Variação de -3.31% na última sessão.",
-      "v": -3.31
+      "x": "Variação de -2.60% na última sessão.",
+      "v": -2.6
     },
     {
       "k": "ALV.DE",
@@ -92,8 +92,8 @@
       "k": "NVDA",
       "n": "NVIDIA Corporation",
       "d": "dn",
-      "x": "Variação de -1.54% na última sessão.",
-      "v": -1.54
+      "x": "Variação de -1.78% na última sessão.",
+      "v": -1.78
     },
     {
       "k": "BMW.DE",
@@ -101,13 +101,6 @@
       "d": "dn",
       "x": "Variação de -1.54% na última sessão.",
       "v": -1.54
-    },
-    {
-      "k": "META",
-      "n": "Meta Platforms, Inc.",
-      "d": "dn",
-      "x": "Variação de -1.18% na última sessão.",
-      "v": -1.18
     },
     {
       "k": "VOW3.DE",
@@ -122,6 +115,13 @@
       "d": "dn",
       "x": "Variação de -1.01% na última sessão.",
       "v": -1.01
+    },
+    {
+      "k": "META",
+      "n": "Meta Platforms, Inc.",
+      "d": "dn",
+      "x": "Variação de -0.85% na última sessão.",
+      "v": -0.85
     }
   ]
 }
