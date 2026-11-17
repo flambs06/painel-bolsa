@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-17T11:47:28.175733+00:00",
+  "updated": "2026-11-17T12:54:59.329908+00:00",
   "news": [
     {
       "d": "17 nov",
-      "s": "Jornal de Negócios",
+      "s": "RTP",
       "c": "Mercado",
-      "t": "Europa pintada de vermelho cede à turbulência da tecnologia. Deutsche Bank cai 6% com polémicas",
+      "t": "Bruxelas prevê excedente de 0,1% este ano e défice em Portugal em 2027 e 2028",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd19wYW96dm5mOGpia0NJWGJHcFBrd00zY2FVcFAxSzQtMDZ4YXp5akxPSlE2SFJtVi1PRUNoemsyRkRMajBleXRpbUdBaFpVZ3NNTzhZSy1ObEhobHAxV3VsX3puT2NBdnlVbjdmTzBGWGhOdVFvMlVmR29yeEdMTGVyMlotVnNsMkhWRmEtaW9ZMHZnMWgwcmZLMWstckFYU3hwczNIWHFidkpUUlB3WDFLRDB6dG9jVHZVeFJCZFBST3hEMUxuRlgtdlIxVjZ6azJLOHRFcWE4NlYzX19zMk5iVGtybEcwaVhJUdIB5wFBVV95cUxPdkJybVh0cGt0c0hVdW55d2pINnNZZ0g1a3ozdDNpMmZ3QXNvWTg2UDE5cHpIMXoxSUh3TDJwSUpMc1NDY2Z3UEpRWWRYS1VLbVVOLS16SkZWX3hPWFFMczZTdDhOU2lMOEg4ZkxFY01tZG9hS0dMUzdUNzBIZGVVTzMwMW9kUFozZjNMM25QT3N3ZF9PMXNSRGhYelQ5LTYxSmVrOGJ2V0ZpNndkV0pfZFVQUzIxdTlsbmFEZGh5dkl0a3VPQmFmMHdtNFZDTXZsOG9kaWVPbGQ2SEl6M0JvMEE0NlpMcFU?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTDZsOVctQ0RSSHNyV1VzM2Nnbm9VZEdCb00xb2JBOWVxbDY1YlJ2a1gwMW56ai13SUdKMHFySUJUakRqTDlyLUx1dmo1ZlN4bkY3UEt1UG44S0NHdWI5X3dDcmV3T3Yyb2F1aDdlbWNNdzdTRlJhcHJXSTZQT1lkSVA4S1hhNS1TNHB4MEtNUDBzdGtCMThCejktR21WSnRCNlY1YWMzMC0yclpqeTNHRmwwTXh6d0RvUTFKdmppMA?oc=5"
     },
     {
       "d": "17 nov",
@@ -37,17 +37,25 @@
       "d": "17 nov",
       "s": "Jornal de Negócios",
       "c": "Mercado",
-      "t": "Wall Street no vermelho pressionada por \"sell-off\" tecnológico. Nvidia cai mais de 4%",
+      "t": "Europa pintada de vermelho cede à turbulência da tecnologia. Deutsche Bank cai 6% com polémicas",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbUtyQko3VGRXb2loSEJPNGRzaWJsazF6NXF6VEdRVlhDaXJPV05meURUVGVNR1RoSGFvYjQzbHhzbU9nTm1hV3hjS0JvSHdTNlBnYmFvUzVVWDdKVlBURS04aEZXd0JPd0RHMmlNSFZJUTZQTFlYQkpOQmlsSDliX1ZwTHVtQWJNN3RIZVY5VmVYak11RnVrR0VLZ2d1Q2I5blBlN1VVMmExTERJUGpVYXlvTXpQRTFLTnltclIyQ2RfZF8yV3pjM2JxUjZweWRmbFHSAcwBQVVfeXFMUENISTJodmNFNVVwbVdjTkNYaW9QWkluakhtbmJucGlILTBiMjh6aEI3ZGxsWEQ0VUJRU0tGRXRsdExDNjhrc2xDWkpwa0xxR2hOTlBxVjhSeW1RV1BkOUprWUVocFFhQl9uejZZNUZBWnpLV3U4UFpYeklweDN4WlpNbThTZXdYNTVjZFF4ckgweWo1TUZ5Q29ad194YzVvTEphS0M2eDRlMkl5RHVHS0hpVVAxMUdVeDdoQ2YzdEdUTHJKT2RZSXVyS000?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd19wYW96dm5mOGpia0NJWGJHcFBrd00zY2FVcFAxSzQtMDZ4YXp5akxPSlE2SFJtVi1PRUNoemsyRkRMajBleXRpbUdBaFpVZ3NNTzhZSy1ObEhobHAxV3VsX3puT2NBdnlVbjdmTzBGWGhOdVFvMlVmR29yeEdMTGVyMlotVnNsMkhWRmEtaW9ZMHZnMWgwcmZLMWstckFYU3hwczNIWHFidkpUUlB3WDFLRDB6dG9jVHZVeFJCZFBST3hEMUxuRlgtdlIxVjZ6azJLOHRFcWE4NlYzX19zMk5iVGtybEcwaVhJUdIB5wFBVV95cUxPdkJybVh0cGt0c0hVdW55d2pINnNZZ0g1a3ozdDNpMmZ3QXNvWTg2UDE5cHpIMXoxSUh3TDJwSUpMc1NDY2Z3UEpRWWRYS1VLbVVOLS16SkZWX3hPWFFMczZTdDhOU2lMOEg4ZkxFY01tZG9hS0dMUzdUNzBIZGVVTzMwMW9kUFozZjNMM25QT3N3ZF9PMXNSRGhYelQ5LTYxSmVrOGJ2V0ZpNndkV0pfZFVQUzIxdTlsbmFEZGh5dkl0a3VPQmFmMHdtNFZDTXZsOG9kaWVPbGQ2SEl6M0JvMEE0NlpMcFU?oc=5"
     },
     {
       "d": "17 nov",
-      "s": "CNN Portugal",
+      "s": "Jornal de Negócios",
       "c": "Mercado",
-      "t": "Há uma guerra nas telecomunicações que pode pesar na carteira. Digi ameaça sair de Portugal em rutura com a decisão da Anacom",
+      "t": "Mota-Engil assegura novo contrato ferroviário de 1,1 mil milhões no México",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQVFB2dTNCUVhrb2hQMHlXeWhtR3ZCbTA1LWo5TFdOWVVJMlY0MlBsM2loTHIwTlBvdjRDQlhSWUlHbXlHYXFxRUhxakczTmZjYzc3TlBKQnZZVzVnM0xNVlZhYjB3N1RHdkluZ2tTQUxmWVRiN2pWaEhkVnFReGQyUGxjMU50MXJwbkZ0RTRXblVQRkRUU0N0bVRmYmJ4MnpITDVxTlduMWktZzlQRzVzTzFGNldJQ2YzREF3SEE2M3dPLUVXU2hQWVNtcGZhd0ZDTEl4Y3J3OGlLRnQ1b1VuZmlmQU0zbkFqMGNOWUJvd3BFeklqV0JSQ0NTdmx5YXB1WHlVX3NXTkVtN01Qd244TW5DWlVHTWRibDRCdWdySTlWUC00blFOeUxFYWg0WlVm?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN0ktel9QYjI1RU9HX3FYM1dISjF5cXVJenFnX1FiQ3ZTckVGUlBlQVdMNmlMZDNaRmZQVUpseDg5NE1hTGVHVG1aZXR2dF9yRVhQWjZhX0t1alk3dDY0bmtFWDd5RFZFZTVYWFR3NzNlWTMzblJlZU5qZzBiVW9ScV9VaVZ2WGVoOUt3Q2szNF9VSExVcDRvQUt1SzIwM3VGaHQ1UU1wZzVxeGJsMjQwNWxjWnNXV0UtVHdkNXlIWnRWS2tvdERtejJ0UmN3Unpw?oc=5"
+    },
+    {
+      "d": "17 nov",
+      "s": "Jornal de Negócios",
+      "c": "Mercado",
+      "t": "Wall Street no vermelho pressionada por \"sell-off\" tecnológico. Nvidia cai mais de 4%",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbUtyQko3VGRXb2loSEJPNGRzaWJsazF6NXF6VEdRVlhDaXJPV05meURUVGVNR1RoSGFvYjQzbHhzbU9nTm1hV3hjS0JvSHdTNlBnYmFvUzVVWDdKVlBURS04aEZXd0JPd0RHMmlNSFZJUTZQTFlYQkpOQmlsSDliX1ZwTHVtQWJNN3RIZVY5VmVYak11RnVrR0VLZ2d1Q2I5blBlN1VVMmExTERJUGpVYXlvTXpQRTFLTnltclIyQ2RfZF8yV3pjM2JxUjZweWRmbFHSAcwBQVVfeXFMUENISTJodmNFNVVwbVdjTkNYaW9QWkluakhtbmJucGlILTBiMjh6aEI3ZGxsWEQ0VUJRU0tGRXRsdExDNjhrc2xDWkpwa0xxR2hOTlBxVjhSeW1RV1BkOUprWUVocFFhQl9uejZZNUZBWnpLV3U4UFpYeklweDN4WlpNbThTZXdYNTVjZFF4ckgweWo1TUZ5Q29ad194YzVvTEphS0M2eDRlMkl5RHVHS0hpVVAxMUdVeDdoQ2YzdEdUTHJKT2RZSXVyS000?oc=5"
     },
     {
       "d": "17 nov",
@@ -56,14 +64,6 @@
       "t": "Insolvências no alojamento e restauração sobem pelo terceiro ano consecutivo com aumento de 15% até outubro",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWE1XZGxyd1RKSHhGQ3hZeFRZRjhLNkV3V1ZoZ3JXa0pRaVRWeEwtcU51NUt5ajU3am1vRS03WVRtQUlJVlBBaldEQTcxd1hsTk5LNXBXanBwb20wNHZOYWFaZmtpdnJKX1ByZnFVVkVBY19UTVc4NDFYaHZzSTJsN1BZRWtGRFZJY1BpNFhfN2l3Z3ZFUFBQbm1vSzdOU09zaHoyaE5KOUlLcG5jMmN5YWhFNVpXbFZPRmdOQWljSksxZEFqM2g4RUVXLUdobjZReU5XZjRrRDJkaTV2VkhUandTcS1TeF8tcGc?oc=5"
-    },
-    {
-      "d": "17 nov",
-      "s": "Pplware",
-      "c": "Mercado",
-      "t": "Estado português deve exigir indemnização à Microsoft após apagão global",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUUVNTzkzR2NyWlU3THJtME9ieWlPQ2VuQWlkblpWQ0JQZjRLU3R0VUN6dFU1OEtIbHBWb3JkNzU1YndnTkFEeV9ZTVU0MHdOT1c5NVlvS0hNN01EQWtoeGpOZ3dlM09HQkZtSmlzM2l6eUlpSnVnNlA1YmpIbkc0OUhWUHRIeVFsd1hwMzVhUmFZOWZ3MjYxMGl0eXhQUmlLVlp1YklVSzdpYmRy0gGyAUFVX3lxTFA0Y3RwdlBybnh4RF9PekM5RkRqb3IwTU9UOWtkdG54bHE3YXJoaHpwS0pkVHEzQVlkU3NKUkNwOVVxSXRnRUhYUklfT0pVS2ZJT2ZsbHJwd3hOZ0I0RzA3SWNhRUNNX0gxV2hKMTJiRHU4Mlk3bENmTHcyWVo5dFRrOEpyWE4wUU1fSFg5LUVqZlRETmV4eG1pazY5WUtDR05pbHJ3R1EyeXFTMEZ4V1NGWWc?oc=5"
     }
   ],
   "stocks": [
@@ -89,18 +89,18 @@
       "v": -3.34
     },
     {
+      "k": "SAP.DE",
+      "n": "SAP SE                        I",
+      "d": "dn",
+      "x": "Variação de -2.98% na última sessão.",
+      "v": -2.98
+    },
+    {
       "k": "TSLA",
       "n": "Tesla, Inc.",
       "d": "dn",
       "x": "Variação de -2.69% na última sessão.",
       "v": -2.69
-    },
-    {
-      "k": "SAP.DE",
-      "n": "SAP SE                        I",
-      "d": "dn",
-      "x": "Variação de -2.62% na última sessão.",
-      "v": -2.62
     },
     {
       "k": "META",
@@ -117,11 +117,11 @@
       "v": -1.12
     },
     {
-      "k": "AAPL",
-      "n": "Apple Inc.",
+      "k": "ALV.DE",
+      "n": "Allianz SE                    v",
       "d": "dn",
-      "x": "Variação de -0.98% na última sessão.",
-      "v": -0.98
+      "x": "Variação de -1.12% na última sessão.",
+      "v": -1.12
     }
   ]
 }
