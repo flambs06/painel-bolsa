@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T19:53:03.262795+00:00",
+  "updated": "2026-11-18T20:48:36.089598+00:00",
   "news": [
     {
       "d": "18 nov",
@@ -43,6 +43,14 @@
     },
     {
       "d": "18 nov",
+      "s": "O MINHO",
+      "c": "Mercado",
+      "t": "Santo Tirso vai ter fábrica têxtil de 30 milhões que é única em Portugal e a maior da Europa",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWVYTjBtZVFtUGt3azZyamxqTEFhWlp2UEgxOUxuVFR5cVR6d1lkNnF3cGd1clQ0SmZXREpSenpVS1I0M3R1Z25kVzh0Z3FlWVlSZmVVanlPY2xlaXNDR3Z0VlVYUV9xSk5mUFJ3MlZGemxqMnVMa0xhWHpIczF4TmVPNnlfeVVpZ2I4WG5ZNkREUDRxWng4X0xyTGRjUjFVZDlzdlFZQ1lrNnBnT1lBOQ?oc=5"
+    },
+    {
+      "d": "18 nov",
       "s": "RTP",
       "c": "Mercado",
       "t": "Administração da Nvidia mantém a porta fechada ao regresso de Jensen Huang",
@@ -51,19 +59,11 @@
     },
     {
       "d": "18 nov",
-      "s": "Jornal de Negócios",
-      "c": "Mercado",
-      "t": "Santo Tirso vai ter uma têxtil de 30 milhões que é única em Portugal e a maior da Europa",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNHJEbXJudldJdktKQ0Y5bVRseXUwUnEwRV9QX21pSXhUcVlCdHhOVUwyVXJVVm1iTFlLZFpCNXFFZmhZR25OeFkzZ3pLV2MtZkwxWkttYllZSmhIal9MWDcwX3BTN002N0RWUEZQUWp6OGplaWNYUlJBOGY5MXZLcTgyd1lmdXlMWDg5T2pMdUx4TjM3aTFtNkFzcU9IR0c5cFlCNFRSekhaS0ZZVGw3Q2N2RUFmTXdNWk9sMUVqOVlNUEItMzRUMTBSOU9EVWwtNk1lbUF1dExfRXVLMnBHQ9IB2wFBVV95cUxOSmx2MGtTeVE1WHE0bFpoTWVveEJsRTQySHhVVll3MExIQTd6WG9QVEVWa1FpbjJyOEVCcDdsTVBvZXBtQ05DRFE4TXhtY3JkMW9YRk03dnZ6V2dPbXkzLUg4TXlhVy1HeXpWSXcyNDFIM1Y1SncwVWc1UFA5dDJaNFJCWmswNXpyUVFfa2VJWnRLZFpxVVoxSm1ERjZNM1dER1dMZGdfNUFQQnZBN2xlc19RZkJiMkVldGRFQ3MyQlp4UWhMYlh3NmtOR3VsNVVPQVgxcjV0enU4R3M?oc=5"
-    },
-    {
-      "d": "18 nov",
       "s": "Público",
       "c": "Mercado",
-      "t": "Sem informação, PS admite limitar acesso do Governo ao saldo dos activos financeiros",
+      "t": "Portugal terá em 2027 uma das políticas mais contraccionistas da UE",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYWJjUTRqRFczaWdsbmg2QUpDMTlBQ0RRVGRuQkxmTElRUEkxY1B2SWtrY1ZfSHg0TmoxRkN0RmVQb1V4ampxVjhIVTlsODdIX2NaVnpuWGxGYXQxb0tHbHdkRjlYckVESV8tNGpkV3JqXzlPbTNRNUhQVzRQSTlzWVoxaElTcUNfVXBhQWFISjIyZ0ZMSGVxTmpxLUNmMnR5N1Ewcy1EVjA1UVh2anR3cFBVMDVEYjhRd2hDQ0ZsRlZDNjhUZEkw?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUnNZV1ZRQXQ2d2lYalc0TnBueUJwYzU3T3o0cGZPay0yZ0pLc3NKNTRfVEJzNU9HMnZSR0pYbDNldEczMzRkZHl3SG5xMTJPeF9GelNwNjNSVi1rVXZ5bk5CbFdwdm9KMTZGZjBmQW4wdEZjTnZhb3BSakthN0J6cVk1ejM2MTZ4N2NveU5jRjhtaDZRSmZzRDN2YTNPWkNCWk1sbXp1amdBaTA?oc=5"
     }
   ],
   "stocks": [
@@ -78,15 +78,15 @@
       "k": "AMZN",
       "n": "Amazon.com, Inc.",
       "d": "up",
-      "x": "Variação de +3.67% na última sessão.",
-      "v": 3.67
+      "x": "Variação de +3.47% na última sessão.",
+      "v": 3.47
     },
     {
       "k": "NVDA",
       "n": "NVIDIA Corporation",
       "d": "dn",
-      "x": "Variação de -3.02% na última sessão.",
-      "v": -3.02
+      "x": "Variação de -2.82% na última sessão.",
+      "v": -2.82
     },
     {
       "k": "BMW.DE",
@@ -110,11 +110,11 @@
       "v": -1.41
     },
     {
-      "k": "GOOGL",
-      "n": "Alphabet Inc.",
+      "k": "TSLA",
+      "n": "Tesla, Inc.",
       "d": "up",
-      "x": "Variação de +1.12% na última sessão.",
-      "v": 1.12
+      "x": "Variação de +1.07% na última sessão.",
+      "v": 1.07
     },
     {
       "k": "ALV.DE",
