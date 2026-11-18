@@ -1,14 +1,6 @@
 {
-  "updated": "2026-11-18T22:46:55.038799+00:00",
+  "updated": "2026-11-18T23:44:31.933410+00:00",
   "news": [
-    {
-      "d": "18 nov",
-      "s": "Jornal de Notícias",
-      "c": "Mercado",
-      "t": "Governo quer reduzir mais de metade do consumo de combustíveis nos transportes",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSWkwT3k1QjFqRjNmSFJkMWJqX2dCaGRhVVY1NUVLRGYzd0JuTnV0clpEZUp3OXFpdDFGWldFaWhZR1lkb2Nzc3REUDNZeng4X1NEUGRtWllsWTFlSkJxVHV1c2tWNWtQd1NGdzRkWV9CRndQZmJZcTNjcE1yU1ZXYWF5OFRyel9waVRqRW13eXIzVG9pSUZ2U2U1SktXSFpYQUJaQVVLa09qMXdDa28yQ0U3THpLMUxUM2pGR2pn0gGuAUFVX3lxTE1WNWsyX0VqSHBUN05peF9oRHYtZFh1THhZOGNfc1MwMllYb2VpN3pGS2JUaHR5MzdUZTFEUzd0SjRFdk5vb2t1SzFkUFJ5dFUyamdIMGM3aDlNaHdmQ01ucVE1M3VXUmx4dDZ2ZG81NDBxQl9hVGRjclo5amtDZi1rQ0FkaDd0cU94UGdlaDB6T1dtWE9veFkyVEVjVWFabHpPQVdwQ1FsVHMtYzNHZw?oc=5"
-    },
     {
       "d": "18 nov",
       "s": "Jornal de Negócios",
@@ -16,6 +8,14 @@
       "t": "Lisboa segue perdas europeias sob pressão do BCP e Mota-Engil",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVzF0T0ZBOWdVRklEc0ljQ0JZd0xaaHFlWmpaekRLclJmVm8tLVl0QlBISldxb0J0MXRiemNRMFVtclp0c3BCOXlsLWp0TWJSSHdncWVKTXdVb2ZZYmcwNU9DUFE4M0RZSU1SZmJuTkQtTXZ0WWNwb2o0NERCTHQwLWhibkwteVFMWlEwcUplUUNzREFhRFpEWTlDRGN4WE1tYl9yNmNSRHpWam9Sd1RENjlWSk1VUWPSAbIBQVVfeXFMTmJkUldJTjhsZjRJVFVqbFZaWEVPZl9xNi1JMlVtSGVUVDZhcVZfY0V6bVZaVUY0dWpNZzFxMDFGZ3R2STZaaFFiM0tfempvd2hUUklxVU9NZnRQY3BPTGM3Q3lnZ01YRVFTd3poZWNrQ3dmUnc2MFA2aE95Y2xOUGR5NWdmZDhsSm92VDM3UDRIMzNzVjlEN2p4VDRnNGgzd05hYWpmM0NRbkNSSEFnT2Vsdw?oc=5"
+    },
+    {
+      "d": "18 nov",
+      "s": "Notícias ao Minuto",
+      "c": "Mercado",
+      "t": "Governo quer cortar consumo de gasolina e gasóleo em 52% até 2040",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWnRPd250OUhMdmJETTI3ckVYVFlqbXJBTmtjTjZxb2c4ejdpYWRpVzdwd0k2cmZfdnlpekFCNWRfMUVzbWlNdzhaMXRJd1dRWjE2NUc2TWNVbEVVMEg2dVBrNXZSbEttdm5lcmpaVHhsdG1LRE4zRkw1Q2lWaHF4bWdzV1AyQXBfeExmZGNGeUFRSFEyZ2JwcDNKZ1F1RzRaZ2tLa1hCMWltaUdPRDRYemR5bTc?oc=5"
     },
     {
       "d": "18 nov",
@@ -51,19 +51,19 @@
     },
     {
       "d": "18 nov",
+      "s": "ECO",
+      "c": "Mercado",
+      "t": "Comissão de amortização antecipada do crédito à habitação chega ao fim",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYU1uSnVha0tRbEtzRUUzUXY4dXlfdFQwd3pFU2Rwb2NWbGVybzBONkhHS2syTHZlVnZDUDJobzY2eFU3M3ZtQmRrbkQ1VlpRNk1yVnpBWUFPX1VGWDBveGhpaXZBMjg2VFkzY052LVJpQ01OZUMtRjVGZlQxdzVYeXBWZDhEN1RRNVRRaTE0dFBQdFpwNzFZU1FlaDE5M0RpdzEycFd2OUtkR1pDQlE?oc=5"
+    },
+    {
+      "d": "18 nov",
       "s": "RTP",
       "c": "Mercado",
       "t": "Administração da Nvidia mantém a porta fechada ao regresso de Jensen Huang",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdkpJSTRxR05XSzhLZEV4blBJUE5zOHJBb2ZNMDZfejNfRXptYlVaSzNnd1JTQ2JXV0VXRld6MWs3SllfSFdlTlBKMFd5Mmd3aEFwUFJjMTY1TjFNWVI2WW9ZLWtoMDdUZHh3WFNjOGdCVVZvbERORGZjUFVBUHo0RFVpU2lpRGh5QTNheFNEYUdaVE1qUm80S2hkdXc0XzZNUllGcFpvbGtEZXdsNzVtbzFRRGl4UEZFQ21tMg?oc=5"
-    },
-    {
-      "d": "18 nov",
-      "s": "Público",
-      "c": "Mercado",
-      "t": "Portugal terá em 2027 uma das políticas mais contraccionistas da UE",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUnNZV1ZRQXQ2d2lYalc0TnBueUJwYzU3T3o0cGZPay0yZ0pLc3NKNTRfVEJzNU9HMnZSR0pYbDNldEczMzRkZHl3SG5xMTJPeF9GelNwNjNSVi1rVXZ5bk5CbFdwdm9KMTZGZjBmQW4wdEZjTnZhb3BSakthN0J6cVk1ejM2MTZ4N2NveU5jRjhtaDZRSmZzRDN2YTNPWkNCWk1sbXp1amdBaTA?oc=5"
     }
   ],
   "stocks": [
@@ -75,13 +75,6 @@
       "v": 3.82
     },
     {
-      "k": "SAP.DE",
-      "n": "SAP SE                        I",
-      "d": "dn",
-      "x": "Variação de -3.76% na última sessão.",
-      "v": -3.76
-    },
-    {
       "k": "NVDA",
       "n": "NVIDIA Corporation",
       "d": "dn",
@@ -89,39 +82,46 @@
       "v": -2.89
     },
     {
-      "k": "BMW.DE",
-      "n": "BAYERISCHE MOTOREN WERKE AG   S",
-      "d": "dn",
-      "x": "Variação de -1.96% na última sessão.",
-      "v": -1.96
-    },
-    {
-      "k": "VOW3.DE",
-      "n": "VOLKSWAGEN AG                 V",
-      "d": "dn",
-      "x": "Variação de -1.54% na última sessão.",
-      "v": -1.54
-    },
-    {
-      "k": "SIE.DE",
-      "n": "SIEMENS AG                    N",
-      "d": "dn",
-      "x": "Variação de -1.41% na última sessão.",
-      "v": -1.41
-    },
-    {
-      "k": "ALV.DE",
-      "n": "Allianz SE                    v",
-      "d": "dn",
-      "x": "Variação de -1.05% na última sessão.",
-      "v": -1.05
-    },
-    {
       "k": "TSLA",
       "n": "Tesla, Inc.",
       "d": "up",
       "x": "Variação de +0.95% na última sessão.",
       "v": 0.95
+    },
+    {
+      "k": "GOOGL",
+      "n": "Alphabet Inc.",
+      "d": "up",
+      "x": "Variação de +0.80% na última sessão.",
+      "v": 0.8
+    },
+    {
+      "k": "MSFT",
+      "n": "Microsoft Corporation",
+      "d": "up",
+      "x": "Variação de +0.40% na última sessão.",
+      "v": 0.4
+    },
+    {
+      "k": "META",
+      "n": "Meta Platforms, Inc.",
+      "d": "dn",
+      "x": "Variação de -0.40% na última sessão.",
+      "v": -0.4
+    },
+    {
+      "k": "AAPL",
+      "n": "Apple Inc.",
+      "d": "up",
+      "x": "Variação de +0.15% na última sessão.",
+      "v": 0.15
+    },
+    {
+      "k": "SAP.DE",
+      "n": "SAP SE                        I",
+      "d": "dn",
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
     }
   ]
 }
