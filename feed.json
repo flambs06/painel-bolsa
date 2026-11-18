@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-18T07:10:12.823830+00:00",
+  "updated": "2026-11-18T08:55:30.812503+00:00",
   "news": [
     {
       "d": "18 nov",
       "s": "RTP",
       "c": "Mercado",
-      "t": "De volta à casa de partida? Jensen Huang disposto a retomar o leme da Nvidia",
+      "t": "Administração da Nvidia mantém a porta fechada ao regresso de Jensen Huang",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTmxjUGF0ZGdvS05ad1BQTEdReEM4a2tNM1pWSy1hd1hjakxMZThrMHVmSjd0aFlCdzJrNVdqS0o0X3FySHhSWEllTzI0ampoZXZtSFljdWwwU2I2TXJla2FrTmtYQ0FnNllsSm5aSHNWT3RiaGRTeFVKVzVDT3ZHczVuNXVBdnJLbEk2MnkyQlJTTzBDUHBJODNxeWhGSnh2dVlwTHllMW01Rkh2OEQzODJlYXVrc1NDeGducnZR?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdkpJSTRxR05XSzhLZEV4blBJUE5zOHJBb2ZNMDZfejNfRXptYlVaSzNnd1JTQ2JXV0VXRld6MWs3SllfSFdlTlBKMFd5Mmd3aEFwUFJjMTY1TjFNWVI2WW9ZLWtoMDdUZHh3WFNjOGdCVVZvbERORGZjUFVBUHo0RFVpU2lpRGh5QTNheFNEYUdaVE1qUm80S2hkdXc0XzZNUllGcFpvbGtEZXdsNzVtbzFRRGl4UEZFQ21tMg?oc=5"
     },
     {
       "d": "18 nov",
@@ -16,6 +16,14 @@
       "t": "Portugal tem a quarta maior contração orçamental da Zona Euro após fim dos PRR",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxON24xZkJuRHZYbjlVVFZtNDJuUm1kLUNtdjhfYkxqMjUwREI5VDRDVWxGX01Rczd5b0ttenZmMmJ3aDhKV1BWaDZiMlRCb1VINDBMV3VfVDg1dW1rVGVRRTVmNVdDeXRHX0dsLXRaV3dOTEJpS1hnM1g4XzJ3cjdwbmhPeVcwOWpUTEhIT2pOUW05ZC15YmdGcV9MbUpTRkkzQ0FTNXRIWmxfenVBQ1l2bzdienBiSk53TXR5R0doTlJ6Z2FYbUhyMjY2NWVxeERId1d2ZGNUQTZRb3ZTVnc?oc=5"
+    },
+    {
+      "d": "18 nov",
+      "s": "Observador",
+      "c": "Mercado",
+      "t": "PS, Chega e PSD propõem-se mudar OE com desafio ao Governo",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaGZZYjZwbDM0Wi1EMnQzWXhZOVdMekhMeXJkUGFTeDhoR1h0enE3eVlaZ2NyZ044VlVWc0s4QTJzcm52NUxrbTNIZWkxcnBaUUoySklfWmdyUl80TTBsN2I1ak5UYlpRNFJMcEoxbUU1amg2ckc0elg1d01VT0lhR3Zxc3Y4Um9Zd2NveXo0anhIdXZrZVlxZmkzMndrdVVHajE1WTlBX3UtM1BSTktUUXJhVGgySG9jakRQekw3ZnMxbE1NdXdxTWlpUlNLbV9lTDNqaGpDMzQtb1l1Sm9EZjR4U25HZ3k2NlNkT3d2NXIxMDZtd1BTTEs5TDVlUQ?oc=5"
     },
     {
       "d": "18 nov",
@@ -35,11 +43,11 @@
     },
     {
       "d": "18 nov",
-      "s": "CNN Portugal",
+      "s": "dnoticias.pt",
       "c": "Mercado",
-      "t": "Euromilhões: conheça a chave desta terça-feira",
+      "t": "Conheça a chave vencedora do Euromilhões",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa0x3NzQ0NkpwblNOSWFNTXgxSXc1cDgxNXRQWmdpakliZDdSa3hCVXc5eS1LbXBYNGduZ2xaQm9nMDhJVHNnckZFbmtlMjFSanFjRXEwSllERXNJWHdFS0h3QUIxM3l0Y1pUNWpaU0ZEYVdwZEdrYlU0bTFsYWpaNUVySjdBel9jOFVEUGNOVUdaN091V2lTZ0ZmUlBtU0Rmd1FpRk92bFhPbms1RXdGeUxlS1lsclJvU3VOSlFONVJVa2RaUUVadlZBZ3hET2JjMmVjcEQzWkdiUQ?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1RCVjlnVEp3a0JWVmNJeW9NeENWTG1SNlJVSVduWktGejJrYVZzQ2w0V2t3QTRDZE9CdjRCU2lPdjZlOE4tV1Fwa1Y2M3dtS0xtTVJyTHloRTBsU2VKVF9fS0o2dFRMY21lek00N2t2eHJibWQzSWo2ZTQzSHZCSVVlbjYxNlBfVXdPdg?oc=5"
     },
     {
       "d": "18 nov",
@@ -56,14 +64,6 @@
       "t": "CEO do Deutsche Bank reage a fuga de documentos: \"Não sou infalível\"",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQVRTXzJpZ25hZE5xbVRscHBrLXp3bGhCZVU2YzUxalg2dkN4MWh5NUpfYUo3cER4SmhVS1hNNTFEX01EbWpTbmJndUVXNXNMZXA2Q0plV3BWaUh6ZW5mV2ZvWGlFUmoyck5NWDNxTTY5SzkzT2NfMkt1VzUzRWVrX1RpUnhNTmh1NS1Ja21ocVROTDdwNEU4Zm0yNVJ5aW93cWlDNG5rSGtleVdk?oc=5"
-    },
-    {
-      "d": "18 nov",
-      "s": "ZAP Notícias",
-      "c": "Mercado",
-      "t": "Subida de 16,5%: crise na habitação é risco para economia portuguesa",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0ybTI5WHgtLVdlUExSUEtEXzhta3dIM3J0THIxcVZ1aG5SSUVLdU5zYW5MSHBMd01aSEJIYUFqSldJandVU0NTeDhhSUhMZjBWMTJQSmVlcm9lVEttdi0yajlKbkZKdEJOeEE?oc=5"
     }
   ],
   "stocks": [
@@ -73,6 +73,13 @@
       "d": "dn",
       "x": "Variação de -2.27% na última sessão.",
       "v": -2.27
+    },
+    {
+      "k": "VOW3.DE",
+      "n": "VOLKSWAGEN AG                 V",
+      "d": "dn",
+      "x": "Variação de -1.30% na última sessão.",
+      "v": -1.3
     },
     {
       "k": "GOOGL",
@@ -87,6 +94,13 @@
       "d": "dn",
       "x": "Variação de -1.20% na última sessão.",
       "v": -1.2
+    },
+    {
+      "k": "BMW.DE",
+      "n": "BAYERISCHE MOTOREN WERKE AG   S",
+      "d": "dn",
+      "x": "Variação de -1.00% na última sessão.",
+      "v": -1.0
     },
     {
       "k": "NVDA",
@@ -108,20 +122,6 @@
       "d": "up",
       "x": "Variação de +0.10% na última sessão.",
       "v": 0.1
-    },
-    {
-      "k": "AMZN",
-      "n": "Amazon.com, Inc.",
-      "d": "up",
-      "x": "Variação de +0.05% na última sessão.",
-      "v": 0.05
-    },
-    {
-      "k": "SAP.DE",
-      "n": "SAP SE                        I",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
     }
   ]
 }
