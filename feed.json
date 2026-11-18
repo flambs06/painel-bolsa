@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T02:15:38.313921+00:00",
+  "updated": "2026-11-18T03:50:11.670636+00:00",
   "news": [
     {
       "d": "18 nov",
@@ -19,11 +19,11 @@
     },
     {
       "d": "18 nov",
-      "s": "Jornal de Negócios",
+      "s": "ECO",
       "c": "Mercado",
-      "t": "Do preço ao horário. Sete coisas que precisa de saber sobre o IPO da Anthropic",
+      "t": "Anthropic deixa Portugal fora da venda de ações antes do IPO",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWm1oQ0JxSkVlYTFpVG00YjN6ZDVGY3BvZjBaLUZlTGtUbm5tZHZMbl95M24tN0lWdndkSTRobEZRaTByanptMUx3MmxIWVNoWGYyN1M5OC0zU3FicXRITUdaMlI3TFlLeEN5c2p3czNDRWJYaUFPRVk1alo1U3R0dXdxeEdpekU0a0VpWkJZV0JBUTFDN2trWWNuNkdhbjhwbGFXUnVkd3ZQZ0J3ZVR2U0cyWkN1Zmt3NXg0X2wyMDF1dmlBUXRobUppNFY?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUUw5NGx2bXV6RmdJbzg3NHhBUnZoZmZNX1FqdFRReVlEZ05NZmhWNm5nNnFLa24ybTM1bTMyaEttR3V3SVBNMURYeThqMFRBTUotUDRtN0E1aUFtOU9FNlRPUVpRNEtwMlhWZWtqa1ZHSkNwY1huYXVmWUZydUVBS1ZqRkpOTlp3RU9pSlBnTmU0XzBzOEZz?oc=5"
     },
     {
       "d": "18 nov",
@@ -32,6 +32,14 @@
       "t": "CEO do Deutsche Bank reage a fuga de documentos: \"Não sou infalível\"",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQVRTXzJpZ25hZE5xbVRscHBrLXp3bGhCZVU2YzUxalg2dkN4MWh5NUpfYUo3cER4SmhVS1hNNTFEX01EbWpTbmJndUVXNXNMZXA2Q0plV3BWaUh6ZW5mV2ZvWGlFUmoyck5NWDNxTTY5SzkzT2NfMkt1VzUzRWVrX1RpUnhNTmh1NS1Ja21ocVROTDdwNEU4Zm0yNVJ5aW93cWlDNG5rSGtleVdk?oc=5"
+    },
+    {
+      "d": "18 nov",
+      "s": "CNN Portugal",
+      "c": "Mercado",
+      "t": "Euromilhões: conheça a chave desta terça-feira",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa0x3NzQ0NkpwblNOSWFNTXgxSXc1cDgxNXRQWmdpakliZDdSa3hCVXc5eS1LbXBYNGduZ2xaQm9nMDhJVHNnckZFbmtlMjFSanFjRXEwSllERXNJWHdFS0h3QUIxM3l0Y1pUNWpaU0ZEYVdwZEdrYlU0bTFsYWpaNUVySjdBel9jOFVEUGNOVUdaN091V2lTZ0ZmUlBtU0Rmd1FpRk92bFhPbms1RXdGeUxlS1lsclJvU3VOSlFONVJVa2RaUUVadlZBZ3hET2JjMmVjcEQzWkdiUQ?oc=5"
     },
     {
       "d": "18 nov",
@@ -56,65 +64,57 @@
       "t": "Portugal recebe primeiro carregador de um megawatt para camiões elétricos",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdDBkaGVDRVR4Y1cwdjFMcEdKWUFVOFZqYkttQjFhaUFRT0JuWnlVZmlFaEtTZ3hvSmFfSGZUbVVyalVRZVlwamU5VWtvekQxby1PZ3U1eEQwbUtRQ2liVVREdzhDWkljNU9JODZtWW5WVTY2MnNteUpqMWFINFFWVm1weDVJaVhKYTZJWTh0SDk4R05UQmRJc1pGQVNFbVljSkVlZ2F4aGhXQTd0VVJabUtrcS1XOHhTN0k4QXdR?oc=5"
-    },
-    {
-      "d": "18 nov",
-      "s": "ECO",
-      "c": "Mercado",
-      "t": "Alemã Thyssenkrupp traz cadeia do hidrogénio para Gaia com fábrica de 14 milhões",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZTl4Zm13WGwtaHhxckd3NHVtUGV5b040a1RiTE1JSmFiUmxiT3d4VGtFZlJOdFNjcjJQT1FscmNPMXdadkl5aWJtdk91allmWmZQT1QzZjV5VkF1UnU1cmhoRDZCY3M1UlNUckR6ZnFDakpmVG5NbVFGN1hZMGFEX3JQY0ZmZ1YxNmE1TWZyLUNFNTg0LUx4V3o0R3BqaDQ0ZnY4NDlpZDVxMlZKMWVRTWx3?oc=5"
     }
   ],
   "stocks": [
     {
-      "k": "AAPL",
-      "n": "Apple Inc.",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
-    },
-    {
       "k": "MSFT",
       "n": "Microsoft Corporation",
       "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
-    },
-    {
-      "k": "NVDA",
-      "n": "NVIDIA Corporation",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
-    },
-    {
-      "k": "AMZN",
-      "n": "Amazon.com, Inc.",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
+      "x": "Variação de -2.27% na última sessão.",
+      "v": -2.27
     },
     {
       "k": "GOOGL",
       "n": "Alphabet Inc.",
       "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
+      "x": "Variação de -1.24% na última sessão.",
+      "v": -1.24
     },
     {
       "k": "META",
       "n": "Meta Platforms, Inc.",
       "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
+      "x": "Variação de -1.20% na última sessão.",
+      "v": -1.2
+    },
+    {
+      "k": "NVDA",
+      "n": "NVIDIA Corporation",
+      "d": "dn",
+      "x": "Variação de -0.44% na última sessão.",
+      "v": -0.44
+    },
+    {
+      "k": "AAPL",
+      "n": "Apple Inc.",
+      "d": "dn",
+      "x": "Variação de -0.25% na última sessão.",
+      "v": -0.25
     },
     {
       "k": "TSLA",
       "n": "Tesla, Inc.",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
+      "d": "up",
+      "x": "Variação de +0.10% na última sessão.",
+      "v": 0.1
+    },
+    {
+      "k": "AMZN",
+      "n": "Amazon.com, Inc.",
+      "d": "up",
+      "x": "Variação de +0.05% na última sessão.",
+      "v": 0.05
     },
     {
       "k": "SAP.DE",
