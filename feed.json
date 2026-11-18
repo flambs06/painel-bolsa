@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T10:57:00.377590+00:00",
+  "updated": "2026-11-18T11:56:08.177909+00:00",
   "news": [
     {
       "d": "18 nov",
@@ -19,19 +19,19 @@
     },
     {
       "d": "18 nov",
-      "s": "RTP",
-      "c": "Mercado",
-      "t": "Administração da Nvidia mantém a porta fechada ao regresso de Jensen Huang",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdkpJSTRxR05XSzhLZEV4blBJUE5zOHJBb2ZNMDZfejNfRXptYlVaSzNnd1JTQ2JXV0VXRld6MWs3SllfSFdlTlBKMFd5Mmd3aEFwUFJjMTY1TjFNWVI2WW9ZLWtoMDdUZHh3WFNjOGdCVVZvbERORGZjUFVBUHo0RFVpU2lpRGh5QTNheFNEYUdaVE1qUm80S2hkdXc0XzZNUllGcFpvbGtEZXdsNzVtbzFRRGl4UEZFQ21tMg?oc=5"
-    },
-    {
-      "d": "18 nov",
       "s": "Jornal de Negócios",
       "c": "Mercado",
       "t": "Já há procura de investidores portugueses mesmo antes da entrada em bolsa da Anthropic",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVmZFQ2lVZXNudXZaOGFKWmxpb09ia3UyUDlIa0NHVlkydUpLdlY0LXB1M1pQOGlGLTJQS0hFeUJpblNaUjJVNUVmUVlzSjQteTY5UVhkZXpSOG1FcWxTVU1jYlhJZTRmWVBMTEdzYWoweVR6cUsxQWUyNDRFdS1zTGo2SklYS1BFTHV4UnhDSkFsMm9KMEZZelFCaGJzQ1dKb3paZlZtTlItcUJEaFVmQzZ6YW5VS3BKV1BUSlpHbU5GTEZ1M0xGMWpoeE5lal9WQUZ4Y09NM1c?oc=5"
+    },
+    {
+      "d": "18 nov",
+      "s": "RTP",
+      "c": "Mercado",
+      "t": "Administração da Nvidia mantém a porta fechada ao regresso de Jensen Huang",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdkpJSTRxR05XSzhLZEV4blBJUE5zOHJBb2ZNMDZfejNfRXptYlVaSzNnd1JTQ2JXV0VXRld6MWs3SllfSFdlTlBKMFd5Mmd3aEFwUFJjMTY1TjFNWVI2WW9ZLWtoMDdUZHh3WFNjOGdCVVZvbERORGZjUFVBUHo0RFVpU2lpRGh5QTNheFNEYUdaVE1qUm80S2hkdXc0XzZNUllGcFpvbGtEZXdsNzVtbzFRRGl4UEZFQ21tMg?oc=5"
     },
     {
       "d": "18 nov",
@@ -59,11 +59,11 @@
     },
     {
       "d": "18 nov",
-      "s": "dnoticias.pt",
+      "s": "Jornal de Notícias",
       "c": "Mercado",
-      "t": "Conheça a chave vencedora do Euromilhões",
+      "t": "Google alerta sobre ataques informáticos autónomos com IA",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1RCVjlnVEp3a0JWVmNJeW9NeENWTG1SNlJVSVduWktGejJrYVZzQ2w0V2t3QTRDZE9CdjRCU2lPdjZlOE4tV1Fwa1Y2M3dtS0xtTVJyTHloRTBsU2VKVF9fS0o2dFRMY21lek00N2t2eHJibWQzSWo2ZTQzSHZCSVVlbjYxNlBfVXdPdg?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdi1tZ3NIWFJkQXJVcGNkaUJ0VWN3SmkzVGF2OEZMbnIyR3ZjdWJLZWpZa19HQnVVZUtnSG1SYS1ubU5qUVRZSkYtY2p6MW5YWkVFdHdma0ZwYlZnVTNLRjM3VzZQS01wS2NkSjNSSVM2Yk9zSVNSeUstZDh3ZHpqa21Xams3ZUZjYnJRSm1iendIRUN3c0FMUnM2d1JqQdIBkgFBVV95cUxOMjQ5X3JUVjQxb0tyLWxqVjR5NDk1c21NMkdVUEdLZWpNVDlOTk5MMVNFUU9pQVpWQ0lQb1JOSF9MbVg1VnE2TUtTZU94TEVnZHlyaVNJMFVqNHdQVGlrNGJvZ0NYOGRVekduVjYtZ3pnUXNQWWpoRkd5ZnhBMWx4Z213dW5yeGdLcjlGODZYdGVJdw?oc=5"
     }
   ],
   "stocks": [
@@ -92,22 +92,22 @@
       "k": "SIE.DE",
       "n": "SIEMENS AG                    N",
       "d": "dn",
-      "x": "Variação de -0.89% na última sessão.",
-      "v": -0.89
+      "x": "Variação de -1.06% na última sessão.",
+      "v": -1.06
     },
     {
       "k": "VOW3.DE",
       "n": "VOLKSWAGEN AG                 V",
       "d": "dn",
-      "x": "Variação de -0.63% na última sessão.",
-      "v": -0.63
+      "x": "Variação de -0.87% na última sessão.",
+      "v": -0.87
     },
     {
       "k": "BMW.DE",
       "n": "BAYERISCHE MOTOREN WERKE AG   S",
       "d": "dn",
-      "x": "Variação de -0.57% na última sessão.",
-      "v": -0.57
+      "x": "Variação de -0.68% na última sessão.",
+      "v": -0.68
     },
     {
       "k": "NVDA",
@@ -117,11 +117,11 @@
       "v": -0.44
     },
     {
-      "k": "AAPL",
-      "n": "Apple Inc.",
+      "k": "SAP.DE",
+      "n": "SAP SE                        I",
       "d": "dn",
-      "x": "Variação de -0.25% na última sessão.",
-      "v": -0.25
+      "x": "Variação de -0.42% na última sessão.",
+      "v": -0.42
     }
   ]
 }
