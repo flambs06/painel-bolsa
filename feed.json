@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T02:12:39.969488+00:00",
+  "updated": "2026-11-19T03:51:41.577100+00:00",
   "news": [
     {
       "d": "19 nov",
@@ -27,14 +27,6 @@
     },
     {
       "d": "19 nov",
-      "s": "RTP",
-      "c": "Mercado",
-      "t": "Accenture prepara saída de 17% dos trabalhadores em Portugal",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa3NDaGlDU1o1Qm1ydVlHdk1sbzlvSjQ4YWlpellRZFV5WFpGeS10eG1lX1BkY0o5ejN6TXpfcE9Ba19LcmhRWDhsdjVqdUNLVy1sZUZPZkk3SmNxVmZsTGhEQ0FlWXdYNDZZNjRHWFBlYmlCVTU0N3JjS0ViU1hmSy1BYmhJVno3d2c4N1hKZmJxZFg3NklKNGJlZFZlRTB6ajB1ejN3cFk?oc=5"
-    },
-    {
-      "d": "19 nov",
       "s": "Jornal de Notícias",
       "c": "Mercado",
       "t": "Duas novas fábricas prometem 300 empregos em Santo Tirso",
@@ -43,11 +35,19 @@
     },
     {
       "d": "19 nov",
-      "s": "Pplware",
+      "s": "RTP",
       "c": "Mercado",
-      "t": "Nvidia garante que não vai readmitir Jensen Huang como CEO",
+      "t": "Administração da Nvidia mantém a porta fechada ao regresso de Jensen Huang",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWGRaSkFaUllVMHpQQ3lrYWkxY1NPQXlNVWdzLVNlUm5KTVhYUXl2QUp6VXB2VWREVW8yUG5MUm5QeTJ1aWFOc3gxTkwxYVhHXzZha29CQ1Q2Y2JTalRuLUROaUxKVF9tUVhrdF9yb1RmLXQ0SzloamVNNGgzX3lhTVphWEJZRHdFcEtodFA4SFVSeXBUQmVnZjQtRXhzdnVoa1HSAacBQVVfeXFMTUZsT2VSaFRtVDE4a1lRUlluVmFwekhlejNpX3Z0akJCQ2NfUHpDZzRoc0VHT25waXVJbjJxbmVZNjJWWmpPdl9EY055ZDNjUXd5YlpaY01sQm9JSGZnWmVvVjdfUTVfRVBFTGJWWFoweWhST0kyZ09uTkdkYXd4UmRtUkpUei1uUmVxWDZvN1F0bnlQUDY2ZmVONTdmZW9IREl1OXpTRnc?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdkpJSTRxR05XSzhLZEV4blBJUE5zOHJBb2ZNMDZfejNfRXptYlVaSzNnd1JTQ2JXV0VXRld6MWs3SllfSFdlTlBKMFd5Mmd3aEFwUFJjMTY1TjFNWVI2WW9ZLWtoMDdUZHh3WFNjOGdCVVZvbERORGZjUFVBUHo0RFVpU2lpRGh5QTNheFNEYUdaVE1qUm80S2hkdXc0XzZNUllGcFpvbGtEZXdsNzVtbzFRRGl4UEZFQ21tMg?oc=5"
+    },
+    {
+      "d": "19 nov",
+      "s": "ECO",
+      "c": "Mercado",
+      "t": "Accenture prepara saída voluntária de 950 pessoas em Lisboa até janeiro",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWVBQY09oZXJ5a0tMRlNpZlVuS3BUSlYtdllRS0dhODB4ZGZwNWMyU1FoU2Z6bm1vX0NZUWI2c20yQmYzVmJqakVnWnpZYkR4am5kckxKMGtPQ2hTTTNldnptOW1tSFU2RUhzMXdaLXhCc3Z3QlE3MDdybGVPNG1faWxzVXlUNjlGSGFfeHFSRlNVSTFiN01rNGRwSkh1UUM0YUJ3bHB3?oc=5"
     },
     {
       "d": "19 nov",
@@ -59,62 +59,62 @@
     },
     {
       "d": "19 nov",
-      "s": "Diário de Notícias",
+      "s": "SIC Notícias",
       "c": "Mercado",
-      "t": "BCE compara boom da IA com bolha do subprime que levou à grande crise da dívida",
+      "t": "Parlamento aprova proposta do Chega para RTP transmitir touradas",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3dQcV9nOVA3WjlFdkQ4VWgybEFzYU9va3gtSXpOWjloYUxvckhnNDJsZzItUEthM1JOSHJYQzg3emNPS0lWWF9PU2lWWFlYdmRyOUpWcDdRSVRFYkxJLVFlNy1xZmRVVXRXQ3dGYzJ3WFpnOTNaVTdPSVo5VXZZWlFFUF9GWjUtdW1sVFdLc1ZrMVNybmdlZUtteDBEN1pNVjBQc2ZB?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOazZJelBVZUNNc1dPZW52WnJFaXJsdlNadzR6dFQ1ZXNqX25JdmxQSVp2anpteW4tVWM3SEhmTjVEejYtbHRmbFVJWHZLNGFwTTlaMS1yQThrc2VyWjB4R0ZoVnRnTWxiX3BUenFSNkw5MGd6azdha1V6ZS1mU2dNcjhkUEtfdzZmZk1TOFFRQmJ0WVA2Wi1qeDhWdlQxNkFvN0tySGN2R1RFTG1PbnhJOXZ3?oc=5"
     }
   ],
   "stocks": [
     {
-      "k": "AAPL",
-      "n": "Apple Inc.",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
-    },
-    {
-      "k": "MSFT",
-      "n": "Microsoft Corporation",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
+      "k": "AMZN",
+      "n": "Amazon.com, Inc.",
+      "d": "up",
+      "x": "Variação de +3.82% na última sessão.",
+      "v": 3.82
     },
     {
       "k": "NVDA",
       "n": "NVIDIA Corporation",
       "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
+      "x": "Variação de -2.89% na última sessão.",
+      "v": -2.89
     },
     {
-      "k": "AMZN",
-      "n": "Amazon.com, Inc.",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
+      "k": "TSLA",
+      "n": "Tesla, Inc.",
+      "d": "up",
+      "x": "Variação de +0.95% na última sessão.",
+      "v": 0.95
     },
     {
       "k": "GOOGL",
       "n": "Alphabet Inc.",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
+      "d": "up",
+      "x": "Variação de +0.80% na última sessão.",
+      "v": 0.8
+    },
+    {
+      "k": "MSFT",
+      "n": "Microsoft Corporation",
+      "d": "up",
+      "x": "Variação de +0.40% na última sessão.",
+      "v": 0.4
     },
     {
       "k": "META",
       "n": "Meta Platforms, Inc.",
       "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
+      "x": "Variação de -0.40% na última sessão.",
+      "v": -0.4
     },
     {
-      "k": "TSLA",
-      "n": "Tesla, Inc.",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
+      "k": "AAPL",
+      "n": "Apple Inc.",
+      "d": "up",
+      "x": "Variação de +0.15% na última sessão.",
+      "v": 0.15
     },
     {
       "k": "SAP.DE",
