@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T08:56:00.594873+00:00",
+  "updated": "2026-11-19T09:58:07.123131+00:00",
   "news": [
     {
       "d": "19 nov",
@@ -43,11 +43,11 @@
     },
     {
       "d": "19 nov",
-      "s": "Jornal de Notícias",
+      "s": "Jornal de Negócios",
       "c": "Mercado",
-      "t": "Duas novas fábricas prometem 300 empregos em Santo Tirso",
+      "t": "Fim da bazuca deixa Portugal com o investimento público mais baixo da UE",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaEYxX1BSSktUNTg0NTVFa0N2R2w0X1pVbkdpX2dhaTdSTmxaWk0wWHR0c1h0ZG1SWm1QYzZmOWQ1VVJ1Z0lKMHZxU0lWM053UmZtaUlfRExjNHNRdThHZ3VnWlg1cXVUSk5GVEphakl0dlVab1N0SGhBYndBMnVNV01lWlRBT3BaMzNHYkV4b2hYenRIaUxDcEtQNNIBkAFBVV95cUxQaHVaRnIxaTZxMXFXaFJEX29JM2UtUjZfczZiSkhQN1RUOVhzb25NTnEtU3Q5Q0FEdGh6Ull5VV9SYmctZUhRMElPZ3FiU3R6djZSYnZXZEZWSEY4c1hFYWFUTEtHTjRaOHZyQ19WajM1cUFoaEpRVUZIWDg4OFRDQmdfYXplTFFUQ180TGpxT3c?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPczhFTDFGc1NfMV9QeXFWeE05UlVUbHN1dmZ1SUZSQ0xYYS1Ca3JMMzZTWUNuMEFJM1RNTmpWVXlkaEtCbGZrc1VNblZuSGJjaE1yeFJtQXd1eWRDTVU0bXZMYlc0bmZJNnZETEZheUlXOHlmZlh5bXhuYkw0Um5ucEFoWmpMLVhIVTZNUGlqVDR4d2tYSWxfRHJnRlJkTHFoQ0NGMjhycE5URldSUEpSUmZUSF9mZ0E3aDZ3Q0NMQkw5RjNybU1vZF92N0FCc3dDMlJCTUlR?oc=5"
     },
     {
       "d": "19 nov",
@@ -59,11 +59,11 @@
     },
     {
       "d": "19 nov",
-      "s": "Público",
+      "s": "Jornal de Notícias",
       "c": "Mercado",
-      "t": "Portugal terá em 2027 uma das políticas mais contraccionistas da UE",
+      "t": "Duas novas fábricas prometem 300 empregos em Santo Tirso",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUnNZV1ZRQXQ2d2lYalc0TnBueUJwYzU3T3o0cGZPay0yZ0pLc3NKNTRfVEJzNU9HMnZSR0pYbDNldEczMzRkZHl3SG5xMTJPeF9GelNwNjNSVi1rVXZ5bk5CbFdwdm9KMTZGZjBmQW4wdEZjTnZhb3BSakthN0J6cVk1ejM2MTZ4N2NveU5jRjhtaDZRSmZzRDN2YTNPWkNCWk1sbXp1amdBaTA?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaEYxX1BSSktUNTg0NTVFa0N2R2w0X1pVbkdpX2dhaTdSTmxaWk0wWHR0c1h0ZG1SWm1QYzZmOWQ1VVJ1Z0lKMHZxU0lWM053UmZtaUlfRExjNHNRdThHZ3VnWlg1cXVUSk5GVEphakl0dlVab1N0SGhBYndBMnVNV01lWlRBT3BaMzNHYkV4b2hYenRIaUxDcEtQNNIBkAFBVV95cUxQaHVaRnIxaTZxMXFXaFJEX29JM2UtUjZfczZiSkhQN1RUOVhzb25NTnEtU3Q5Q0FEdGh6Ull5VV9SYmctZUhRMElPZ3FiU3R6djZSYnZXZEZWSEY4c1hFYWFUTEtHTjRaOHZyQ19WajM1cUFoaEpRVUZIWDg4OFRDQmdfYXplTFFUQ180TGpxT3c?oc=5"
     }
   ],
   "stocks": [
@@ -82,11 +82,18 @@
       "v": -2.89
     },
     {
+      "k": "SAP.DE",
+      "n": "SAP SE                        I",
+      "d": "dn",
+      "x": "Variação de -2.48% na última sessão.",
+      "v": -2.48
+    },
+    {
       "k": "SIE.DE",
       "n": "SIEMENS AG                    N",
       "d": "up",
-      "x": "Variação de +2.11% na última sessão.",
-      "v": 2.11
+      "x": "Variação de +2.05% na última sessão.",
+      "v": 2.05
     },
     {
       "k": "TSLA",
@@ -96,13 +103,6 @@
       "v": 0.95
     },
     {
-      "k": "SAP.DE",
-      "n": "SAP SE                        I",
-      "d": "dn",
-      "x": "Variação de -0.87% na última sessão.",
-      "v": -0.87
-    },
-    {
       "k": "GOOGL",
       "n": "Alphabet Inc.",
       "d": "up",
@@ -110,18 +110,18 @@
       "v": 0.8
     },
     {
+      "k": "BMW.DE",
+      "n": "BAYERISCHE MOTOREN WERKE AG   S",
+      "d": "dn",
+      "x": "Variação de -0.47% na última sessão.",
+      "v": -0.47
+    },
+    {
       "k": "VOW3.DE",
       "n": "VOLKSWAGEN AG                 V",
       "d": "up",
-      "x": "Variação de +0.49% na última sessão.",
-      "v": 0.49
-    },
-    {
-      "k": "MSFT",
-      "n": "Microsoft Corporation",
-      "d": "up",
-      "x": "Variação de +0.40% na última sessão.",
-      "v": 0.4
+      "x": "Variação de +0.46% na última sessão.",
+      "v": 0.46
     }
   ]
 }
