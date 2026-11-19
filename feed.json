@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T16:57:37.406590+00:00",
+  "updated": "2026-11-19T17:53:29.032986+00:00",
   "news": [
     {
       "d": "19 nov",
@@ -19,9 +19,17 @@
     },
     {
       "d": "19 nov",
+      "s": "Economia e Finanças",
+      "c": "Mercado",
+      "t": "Parte isenta de IRS do subsídio de refeição vai aumentar em 2027",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaTNxaDM3ZEFTRjlFX0RkQm1LNkd4U21SWXhKem40cVZ5c2xld3JSbUdjRHhmUFRwclhUa0FOWTgtbDJZY05Ua3Ric3FLY3h2dHNyOFd4T2NmcTZrejFJd0NfVjFib3hTNnpXV3ptRERoV3pnTUVjeGZfN2UxQTZXOUxzbl94SGlWc2x1Sy1DaGUzQzRmN3BGd3BNa2dVS2tF?oc=5"
+    },
+    {
+      "d": "19 nov",
       "s": "Público",
       "c": "Mercado",
-      "t": "Comissão Europeia alvo de ciberataque gerado por Inteligência Artificial",
+      "t": "Comissão Europeia alvo de ciberataque gerado por inteligência artificial",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON3dkR2dXRkM5bjRwT05IemFVd21ZbG9IYmwzR1I2U3Z3NnpPT1hmUGlLZ094SU9mNVF3VmhNZk9TUmEtVUdjb0hBMUstTzIzbXVkNnZXLWFFeDRKbzlNeDNPYUVkeFozS3J4bkNYM2x1dFFfeURJdzNoUTltajVlNUNvdjBDbkxZb3FMem9acmJ0bWUxUC1fZFNGVFp1MGJWc0xGdkppQUgtdGlxZlNPUGgza0R0Ym5MZkE?oc=5"
     },
@@ -35,22 +43,6 @@
     },
     {
       "d": "19 nov",
-      "s": "SAPO",
-      "c": "Mercado",
-      "t": "Mercado imobiliário arrefece. Desde 2021 que os preços não subiam tão pouco",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVWw5M0hDWmc5N3hGbHFJV2VheG90bzNHeVVqVUVZY1Z1TmJiOXZkN1ZTLURfS3RjWlpNT29OdkZGbklveld4eXNDcE96RzZYRG9JOG1NVjdyOWY3WUdaNURwRVdZRGYyS001allGRUZEbU1OZTA5Z2FHWnRIYm5UV0psRzdsYnJDakluUUJzd0JRdENMNmNyVjRHWVhVTXFtVV84LU1oTE1QSFNkOXd3M1QxV2cyRDVZbEVQV3BVVQ?oc=5"
-    },
-    {
-      "d": "19 nov",
-      "s": "Jornal de Negócios",
-      "c": "Mercado",
-      "t": "Alargar a todos a dedução dos juros da casa no IRS custaria 655 milhões, diz a UTAO",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNenc2VEtTMDYwQ24tWjZudExENEctOUw4ODZWTE9yT3ItLVRVU0ZhNlNBTDh3THJHNWpRRF9OWUY3cXJXd3k1RjhQbjFVYzBhYU9iblVIek4zaHE5eV9Edk1Ud3VVLUtiSWJES2hLUFloOVAwX19sVUl3RTJpMnd4LXoya25rLU5vTjJCVDV3TTJXS1lDUDBzdHltWVM4ZURMTi0wSWVsakJPeXVVbzIyRlgtdThURDFGWWlZQms2dFNWS3NxdXpQdGc3Ukdodm4wX3BKVmUzQ19ZS0lK?oc=5"
-    },
-    {
-      "d": "19 nov",
       "s": "Jornal de Negócios",
       "c": "Mercado",
       "t": "Lisboa segue perdas europeias sob pressão do BCP e Mota-Engil",
@@ -59,11 +51,19 @@
     },
     {
       "d": "19 nov",
-      "s": "Jornal de Notícias",
+      "s": "ECO",
       "c": "Mercado",
-      "t": "Tempestade Charles provocou a maior quebra na atividade económica desde o apagão",
+      "t": "Oposição força garantia pública para arrendamento contra vontade do Governo",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSVc2Rno5bHpkXzJwVHFYQl9GVVNUeXVJTy15Q2k1V001SE9oOUEzdkhVTzlNMzM3cU9SNXJaODA3RnlxMUExWUp5WUZIRkgycWRhQ3dseWpxSUdzVGl2bWZ1VURYaGlmSWNaajE1clU4eUZqTHFYWEJyS2d6RlkwdTdsVkJ5MUxCUHBpRnBoVGVrVFZmQnhIT1dtLS1Yb1U2NTJFUjU1UUpPbFAycnpsOWJvcFZRaTJ3YlBmbG54TUPSAbABQVVfeXFMTXliaDRNTGcwZGFjQU1xS1BVRGpzT0hkc0NOTlpFMDE4ZUN3M0NSNUEyb3Z1eFF5WTc5OGtkT1QzZWhxdkR2dnQwdE1CN3FwUndDVVEyUW5iSXctY2lvMUNZRm5lUm1yenZhbDNUSTFtNWJ2TmRJRWNEZGVSVEszRU5wRXBXcjE2VTdiVllmbXF5WlNKbWZwS181VU5yRWFybzVNYUNLN0ZFN1BQVm4yT2k?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbXRMR0R6dE1ybDdVdlJFLW40V0xBYmhuTV96QnFlZlpNakZ4eUU5bmE4aUp0NnBxUDBwajRyekFKVW44QW9neUtHSXhyMmhjVmJCTnUxN1QyQU00aTZxR0RxZXpiX0ZzR091d0p3TGxCcGdYMzVSYUMxVXdZZVRMNXhpRUI0T0tLVGFreTlJeUlNUnRuWUtBVkxHRExGY084QmVtLTFpWkZjMTg?oc=5"
+    },
+    {
+      "d": "19 nov",
+      "s": "SAPO",
+      "c": "Mercado",
+      "t": "Mercado imobiliário arrefece. Desde 2021 que os preços não subiam tão pouco",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVWw5M0hDWmc5N3hGbHFJV2VheG90bzNHeVVqVUVZY1Z1TmJiOXZkN1ZTLURfS3RjWlpNT29OdkZGbklveld4eXNDcE96RzZYRG9JOG1NVjdyOWY3WUdaNURwRVdZRGYyS001allGRUZEbU1OZTA5Z2FHWnRIYm5UV0psRzdsYnJDakluUUJzd0JRdENMNmNyVjRHWVhVTXFtVV84LU1oTE1QSFNkOXd3M1QxV2cyRDVZbEVQV3BVVQ?oc=5"
     }
   ],
   "stocks": [
@@ -75,11 +75,11 @@
       "v": -3.56
     },
     {
-      "k": "TSLA",
-      "n": "Tesla, Inc.",
+      "k": "AMZN",
+      "n": "Amazon.com, Inc.",
       "d": "dn",
-      "x": "Variação de -1.50% na última sessão.",
-      "v": -1.5
+      "x": "Variação de -1.58% na última sessão.",
+      "v": -1.58
     },
     {
       "k": "BMW.DE",
@@ -89,18 +89,18 @@
       "v": -1.2
     },
     {
-      "k": "AAPL",
-      "n": "Apple Inc.",
+      "k": "TSLA",
+      "n": "Tesla, Inc.",
       "d": "dn",
-      "x": "Variação de -1.02% na última sessão.",
-      "v": -1.02
+      "x": "Variação de -1.14% na última sessão.",
+      "v": -1.14
     },
     {
-      "k": "GOOGL",
-      "n": "Alphabet Inc.",
-      "d": "up",
-      "x": "Variação de +1.02% na última sessão.",
-      "v": 1.02
+      "k": "META",
+      "n": "Meta Platforms, Inc.",
+      "d": "dn",
+      "x": "Variação de -1.09% na última sessão.",
+      "v": -1.09
     },
     {
       "k": "VOW3.DE",
@@ -110,18 +110,18 @@
       "v": -0.98
     },
     {
-      "k": "ALV.DE",
-      "n": "Allianz SE                    v",
+      "k": "NVDA",
+      "n": "NVIDIA Corporation",
       "d": "dn",
       "x": "Variação de -0.89% na última sessão.",
       "v": -0.89
     },
     {
-      "k": "META",
-      "n": "Meta Platforms, Inc.",
+      "k": "ALV.DE",
+      "n": "Allianz SE                    v",
       "d": "dn",
-      "x": "Variação de -0.63% na última sessão.",
-      "v": -0.63
+      "x": "Variação de -0.89% na última sessão.",
+      "v": -0.89
     }
   ]
 }
