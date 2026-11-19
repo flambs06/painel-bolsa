@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-19T00:57:47.221482+00:00",
+  "updated": "2026-11-19T02:12:39.969488+00:00",
   "news": [
+    {
+      "d": "19 nov",
+      "s": "Jornal de Negócios",
+      "c": "Mercado",
+      "t": "Anthropic arrecada 81 mil milhões de dólares no IPO e supera recorde da SpaceX",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOTY4VGF4WVkwUlVMMHRKcEhiZVdmeGFrTVEwWnc2Z09qU2ltOW1uQjVRNGpSa3cyaTlMeTFscU8yZjlsYXI5T2M4SktwS1JyNHlkN2pXN2xfV3pyMm9pejYyNmx1bmFBQ1JxZV9ENi1Pb1lKS0k0RXVDT3VPMkxnRm5QaFpEWHhmTWRpbGV2dU1JeFNhbThOR3QwalJKakNTRGJCV3h6YVVHVUV0VlVvak1XOF9fZGowLThr?oc=5"
+    },
     {
       "d": "19 nov",
       "s": "Jornal de Negócios",
@@ -35,27 +43,11 @@
     },
     {
       "d": "19 nov",
-      "s": "ECO",
+      "s": "Pplware",
       "c": "Mercado",
-      "t": "PS acaba com a comissão de amortização antecipada do crédito à habitação",
+      "t": "Nvidia garante que não vai readmitir Jensen Huang como CEO",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYU1uSnVha0tRbEtzRUUzUXY4dXlfdFQwd3pFU2Rwb2NWbGVybzBONkhHS2syTHZlVnZDUDJobzY2eFU3M3ZtQmRrbkQ1VlpRNk1yVnpBWUFPX1VGWDBveGhpaXZBMjg2VFkzY052LVJpQ01OZUMtRjVGZlQxdzVYeXBWZDhEN1RRNVRRaTE0dFBQdFpwNzFZU1FlaDE5M0RpdzEycFd2OUtkR1pDQlE?oc=5"
-    },
-    {
-      "d": "19 nov",
-      "s": "Jornal de Negócios",
-      "c": "Mercado",
-      "t": "Já há procura de investidores portugueses mesmo antes da entrada em bolsa da Anthropic",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVmZFQ2lVZXNudXZaOGFKWmxpb09ia3UyUDlIa0NHVlkydUpLdlY0LXB1M1pQOGlGLTJQS0hFeUJpblNaUjJVNUVmUVlzSjQteTY5UVhkZXpSOG1FcWxTVU1jYlhJZTRmWVBMTEdzYWoweVR6cUsxQWUyNDRFdS1zTGo2SklYS1BFTHV4UnhDSkFsMm9KMEZZelFCaGJzQ1dKb3paZlZtTlItcUJEaFVmQzZ6YW5VS3BKV1BUSlpHbU5GTEZ1M0xGMWpoeE5lal9WQUZ4Y09NM1c?oc=5"
-    },
-    {
-      "d": "19 nov",
-      "s": "Eurogamer.pt",
-      "c": "Mercado",
-      "t": "Jensen Huang aceita voltar à Nvidia",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Vd3dyNHZLdWhQVkV4U3JCb0JkWEZNN2tCMFpTWW8wcGdHVWFjeFlUWUJaZUJEM1kzTXBqS1hOVjhrTXpTMzJ1bi1jMXBuaXZ3SFNiRTNfQWZDZkhFVkgyc2kxYi1YWnBoZ0hEdw?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWGRaSkFaUllVMHpQQ3lrYWkxY1NPQXlNVWdzLVNlUm5KTVhYUXl2QUp6VXB2VWREVW8yUG5MUm5QeTJ1aWFOc3gxTkwxYVhHXzZha29CQ1Q2Y2JTalRuLUROaUxKVF9tUVhrdF9yb1RmLXQ0SzloamVNNGgzX3lhTVphWEJZRHdFcEtodFA4SFVSeXBUQmVnZjQtRXhzdnVoa1HSAacBQVVfeXFMTUZsT2VSaFRtVDE4a1lRUlluVmFwekhlejNpX3Z0akJCQ2NfUHpDZzRoc0VHT25waXVJbjJxbmVZNjJWWmpPdl9EY055ZDNjUXd5YlpaY01sQm9JSGZnWmVvVjdfUTVfRVBFTGJWWFoweWhST0kyZ09uTkdkYXd4UmRtUkpUei1uUmVxWDZvN1F0bnlQUDY2ZmVONTdmZW9IREl1OXpTRnc?oc=5"
     },
     {
       "d": "19 nov",
@@ -64,57 +56,65 @@
       "t": "Lucros da Sonae aumentam 23% para 245 milhões até setembro",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd05xYUtwWGVtX0lxUTF2c3hDbVBXa3JPcXdFMFBNNnczZVMyaVdJQm9JNXpOcGxKZC1rcUZ4Z29yN1hPTTlydDA4MHY4MDJKYlpWZ0lxQkU3d1BTUlpjaUdZVl81TEY2QUxsamg2TU5DeHRJTjZ6WjRKUE5aNE5Ea2hsM3RScXdZbEVsQS1wNHM4VEN6bGZJN2dDeVNPWnJpUXlHWE90ck4zRjYyTmNMVkliOGlJQdIBsAFBVV95cUxPUTZQLU1CQlpyWnFyNWRGeDVDQUNMemc1QUZkMlBBdE04YXZxWUcwTHhOdEp4N1hHcE9yR1ZwV0YzcGlqT0VmNlRPcmdtdGdMRXZjME1mV180cElVb1dYS0xyMzZMYjEtbkl3eWRCU213YlV5azB4NGkwa1Q1TklIMVF6SHllNmtTbERxVWhhNXhjQzctQi1DN3RRaVgtWUs3VzJHb1RWbmdZLTMweEw4VA?oc=5"
+    },
+    {
+      "d": "19 nov",
+      "s": "Diário de Notícias",
+      "c": "Mercado",
+      "t": "BCE compara boom da IA com bolha do subprime que levou à grande crise da dívida",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS3dQcV9nOVA3WjlFdkQ4VWgybEFzYU9va3gtSXpOWjloYUxvckhnNDJsZzItUEthM1JOSHJYQzg3emNPS0lWWF9PU2lWWFlYdmRyOUpWcDdRSVRFYkxJLVFlNy1xZmRVVXRXQ3dGYzJ3WFpnOTNaVTdPSVo5VXZZWlFFUF9GWjUtdW1sVFdLc1ZrMVNybmdlZUtteDBEN1pNVjBQc2ZB?oc=5"
     }
   ],
   "stocks": [
     {
-      "k": "AMZN",
-      "n": "Amazon.com, Inc.",
-      "d": "up",
-      "x": "Variação de +3.82% na última sessão.",
-      "v": 3.82
+      "k": "AAPL",
+      "n": "Apple Inc.",
+      "d": "dn",
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
+    },
+    {
+      "k": "MSFT",
+      "n": "Microsoft Corporation",
+      "d": "dn",
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
     },
     {
       "k": "NVDA",
       "n": "NVIDIA Corporation",
       "d": "dn",
-      "x": "Variação de -2.89% na última sessão.",
-      "v": -2.89
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
     },
     {
-      "k": "TSLA",
-      "n": "Tesla, Inc.",
-      "d": "up",
-      "x": "Variação de +0.95% na última sessão.",
-      "v": 0.95
+      "k": "AMZN",
+      "n": "Amazon.com, Inc.",
+      "d": "dn",
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
     },
     {
       "k": "GOOGL",
       "n": "Alphabet Inc.",
-      "d": "up",
-      "x": "Variação de +0.80% na última sessão.",
-      "v": 0.8
-    },
-    {
-      "k": "MSFT",
-      "n": "Microsoft Corporation",
-      "d": "up",
-      "x": "Variação de +0.40% na última sessão.",
-      "v": 0.4
+      "d": "dn",
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
     },
     {
       "k": "META",
       "n": "Meta Platforms, Inc.",
       "d": "dn",
-      "x": "Variação de -0.40% na última sessão.",
-      "v": -0.4
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
     },
     {
-      "k": "AAPL",
-      "n": "Apple Inc.",
-      "d": "up",
-      "x": "Variação de +0.15% na última sessão.",
-      "v": 0.15
+      "k": "TSLA",
+      "n": "Tesla, Inc.",
+      "d": "dn",
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
     },
     {
       "k": "SAP.DE",
