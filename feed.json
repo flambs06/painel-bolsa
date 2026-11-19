@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-19T11:57:15.816859+00:00",
+  "updated": "2026-11-19T13:07:55.303268+00:00",
   "news": [
+    {
+      "d": "19 nov",
+      "s": "Jornal de Notícias",
+      "c": "Mercado",
+      "t": "Nove máquinas Volta começam a fazer reembolso na conta bancária",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWTU4YnlvaEIzRzlTeFAtR0VvYXpIelVhdXlQYmV3UG9ObEZKRTdFRmwzcWs2dlVZU0pwcFIxT2xtTjNLbmtzZGs5T1ItVzVhbHpRN2FFeWl3eWxQdWxTT0tBQTRFUXBTOTJ3blA2LVo2ejUtOG1DbEdDMlZGWkUzWlJBeEQzLXpmMWJ3NkduWGhZU21VMkd0RnI1elhFSkNiRFVJOUc3WF91WE5sVHBDNHgtd1l4VWxL0gGoAUFVX3lxTE9qR1lYbDJVMkdJS09EQjVzNEU3NjRidnl0R1NxMC1uN0lGN0JfMElkbzA4b1h1MmtTS0pkMUFRQ3k5VzVuSVExdGhyV1BHZjRrZVJsNkhSb1NqSnl4X0hWNTdRS0gyT2FBUlVDRzh0QUR6MEdqckxONE9SUm4tUUpfRDlsNm5SUU9fNHlPbm1vLUE3S0RlcjNIN251MUI0T3pyZFBHOWFEeg?oc=5"
+    },
     {
       "d": "19 nov",
       "s": "SIC Notícias",
@@ -27,6 +35,14 @@
     },
     {
       "d": "19 nov",
+      "s": "ECO",
+      "c": "Mercado",
+      "t": "Comissão de amortização antecipada do crédito à habitação chega ao fim",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYU1uSnVha0tRbEtzRUUzUXY4dXlfdFQwd3pFU2Rwb2NWbGVybzBONkhHS2syTHZlVnZDUDJobzY2eFU3M3ZtQmRrbkQ1VlpRNk1yVnpBWUFPX1VGWDBveGhpaXZBMjg2VFkzY052LVJpQ01OZUMtRjVGZlQxdzVYeXBWZDhEN1RRNVRRaTE0dFBQdFpwNzFZU1FlaDE5M0RpdzEycFd2OUtkR1pDQlE?oc=5"
+    },
+    {
+      "d": "19 nov",
       "s": "Jornal de Negócios",
       "c": "Mercado",
       "t": "Lisboa segue perdas europeias sob pressão do BCP e Mota-Engil",
@@ -43,22 +59,6 @@
     },
     {
       "d": "19 nov",
-      "s": "Expresso",
-      "c": "Mercado",
-      "t": "Accenture quer cortar 950 postos de trabalho em Portugal até janeiro",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdHhQay14VXRfT29DRGJlZmZ1bmEzUjJmdVU3cl9SNFplWUc1aEZUMC1fcmRfdFF5MXhEY3RSLUtIT3FraXcya3R1R1RtX0k1ZHhOLTEtaTl5U3pPbnhJT2xhSTJuYjdGazFwcklpSWxwWlpVcVpnb0p6Uzd2Sks0SGpNbFp0UnRkZVdkbHRXSjV0ZzBBdHgweHREZHZaTFhidklJazBXSnd0MGtDd1BmZlJraHdxTDZsc013MlI1WF9QUUoz?oc=5"
-    },
-    {
-      "d": "19 nov",
-      "s": "Jornal de Notícias",
-      "c": "Mercado",
-      "t": "Nove máquinas Volta começam a fazer reembolso na conta bancária",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWTU4YnlvaEIzRzlTeFAtR0VvYXpIelVhdXlQYmV3UG9ObEZKRTdFRmwzcWs2dlVZU0pwcFIxT2xtTjNLbmtzZGs5T1ItVzVhbHpRN2FFeWl3eWxQdWxTT0tBQTRFUXBTOTJ3blA2LVo2ejUtOG1DbEdDMlZGWkUzWlJBeEQzLXpmMWJ3NkduWGhZU21VMkd0RnI1elhFSkNiRFVJOUc3WF91WE5sVHBDNHgtd1l4VWxL0gGoAUFVX3lxTE9qR1lYbDJVMkdJS09EQjVzNEU3NjRidnl0R1NxMC1uN0lGN0JfMElkbzA4b1h1MmtTS0pkMUFRQ3k5VzVuSVExdGhyV1BHZjRrZVJsNkhSb1NqSnl4X0hWNTdRS0gyT2FBUlVDRzh0QUR6MEdqckxONE9SUm4tUUpfRDlsNm5SUU9fNHlPbm1vLUE3S0RlcjNIN251MUI0T3pyZFBHOWFEeg?oc=5"
-    },
-    {
-      "d": "19 nov",
       "s": "SIC Notícias",
       "c": "Mercado",
       "t": "Maquinistas convocam greve de uma semana, CP alerta para perturbações na circulação",
@@ -69,59 +69,59 @@
   "stocks": [
     {
       "k": "AMZN",
-      "n": "AMZN",
+      "n": "Amazon.com, Inc.",
       "d": "up",
       "x": "Variação de +3.82% na última sessão.",
       "v": 3.82
     },
     {
+      "k": "SAP.DE",
+      "n": "SAP SE                        I",
+      "d": "dn",
+      "x": "Variação de -3.11% na última sessão.",
+      "v": -3.11
+    },
+    {
       "k": "NVDA",
-      "n": "NVDA",
+      "n": "NVIDIA Corporation",
       "d": "dn",
       "x": "Variação de -2.89% na última sessão.",
       "v": -2.89
     },
     {
-      "k": "SAP.DE",
-      "n": "SAP.DE",
-      "d": "dn",
-      "x": "Variação de -2.68% na última sessão.",
-      "v": -2.68
-    },
-    {
       "k": "SIE.DE",
-      "n": "SIE.DE",
+      "n": "SIEMENS AG                    N",
       "d": "up",
-      "x": "Variação de +2.07% na última sessão.",
-      "v": 2.07
+      "x": "Variação de +1.97% na última sessão.",
+      "v": 1.97
     },
     {
       "k": "TSLA",
-      "n": "TSLA",
+      "n": "Tesla, Inc.",
       "d": "up",
       "x": "Variação de +0.95% na última sessão.",
       "v": 0.95
     },
     {
+      "k": "BMW.DE",
+      "n": "BAYERISCHE MOTOREN WERKE AG   S",
+      "d": "dn",
+      "x": "Variação de -0.87% na última sessão.",
+      "v": -0.87
+    },
+    {
       "k": "GOOGL",
-      "n": "GOOGL",
+      "n": "Alphabet Inc.",
       "d": "up",
       "x": "Variação de +0.80% na última sessão.",
       "v": 0.8
     },
     {
-      "k": "BMW.DE",
-      "n": "BMW.DE",
-      "d": "dn",
-      "x": "Variação de -0.62% na última sessão.",
-      "v": -0.62
-    },
-    {
       "k": "VOW3.DE",
-      "n": "VOW3.DE",
+      "n": "VOLKSWAGEN AG                 V",
       "d": "up",
-      "x": "Variação de +0.52% na última sessão.",
-      "v": 0.52
+      "x": "Variação de +0.55% na última sessão.",
+      "v": 0.55
     }
   ]
 }
