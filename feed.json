@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-19T09:58:07.123131+00:00",
+  "updated": "2026-11-19T10:58:44.028351+00:00",
   "news": [
+    {
+      "d": "19 nov",
+      "s": "SIC Notícias",
+      "c": "Mercado",
+      "t": "Comissão Europeia alvo de ataque informático em grande escala",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQXAxYjZteW52S25qZ1dMNTRNdGItbG8wUHVCSEZfWlQzeUZLRWFSTU1hSEtfLXJjVjNCRFlxQ0EwUzNEUWRmOGJmZXlOeHVtSXMzTHE1U1RIQWtQd2FMRXNyNDJwOUd2TXdBVklxRTZZOFdRRHdibUtrLW51Y3ppVXRYWVBuZlhPSTNHZEs2NTZjMVVBUHQzNmZlM0NrSUFpeEdsR2FfaGNpSmdGOHVV?oc=5"
+    },
     {
       "d": "19 nov",
       "s": "Jornal de Negócios",
@@ -56,14 +64,6 @@
       "t": "Accenture prepara saída de 17% dos trabalhadores em Portugal",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa3NDaGlDU1o1Qm1ydVlHdk1sbzlvSjQ4YWlpellRZFV5WFpGeS10eG1lX1BkY0o5ejN6TXpfcE9Ba19LcmhRWDhsdjVqdUNLVy1sZUZPZkk3SmNxVmZsTGhEQ0FlWXdYNDZZNjRHWFBlYmlCVTU0N3JjS0ViU1hmSy1BYmhJVno3d2c4N1hKZmJxZFg3NklKNGJlZFZlRTB6ajB1ejN3cFk?oc=5"
-    },
-    {
-      "d": "19 nov",
-      "s": "Jornal de Notícias",
-      "c": "Mercado",
-      "t": "Duas novas fábricas prometem 300 empregos em Santo Tirso",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaEYxX1BSSktUNTg0NTVFa0N2R2w0X1pVbkdpX2dhaTdSTmxaWk0wWHR0c1h0ZG1SWm1QYzZmOWQ1VVJ1Z0lKMHZxU0lWM053UmZtaUlfRExjNHNRdThHZ3VnWlg1cXVUSk5GVEphakl0dlVab1N0SGhBYndBMnVNV01lWlRBT3BaMzNHYkV4b2hYenRIaUxDcEtQNNIBkAFBVV95cUxQaHVaRnIxaTZxMXFXaFJEX29JM2UtUjZfczZiSkhQN1RUOVhzb25NTnEtU3Q5Q0FEdGh6Ull5VV9SYmctZUhRMElPZ3FiU3R6djZSYnZXZEZWSEY4c1hFYWFUTEtHTjRaOHZyQ19WajM1cUFoaEpRVUZIWDg4OFRDQmdfYXplTFFUQ180TGpxT3c?oc=5"
     }
   ],
   "stocks": [
@@ -85,15 +85,15 @@
       "k": "SAP.DE",
       "n": "SAP SE                        I",
       "d": "dn",
-      "x": "Variação de -2.48% na última sessão.",
-      "v": -2.48
+      "x": "Variação de -2.64% na última sessão.",
+      "v": -2.64
     },
     {
       "k": "SIE.DE",
       "n": "SIEMENS AG                    N",
       "d": "up",
-      "x": "Variação de +2.05% na última sessão.",
-      "v": 2.05
+      "x": "Variação de +1.77% na última sessão.",
+      "v": 1.77
     },
     {
       "k": "TSLA",
@@ -110,18 +110,18 @@
       "v": 0.8
     },
     {
+      "k": "VOW3.DE",
+      "n": "VOLKSWAGEN AG                 V",
+      "d": "up",
+      "x": "Variação de +0.58% na última sessão.",
+      "v": 0.58
+    },
+    {
       "k": "BMW.DE",
       "n": "BAYERISCHE MOTOREN WERKE AG   S",
       "d": "dn",
       "x": "Variação de -0.47% na última sessão.",
       "v": -0.47
-    },
-    {
-      "k": "VOW3.DE",
-      "n": "VOLKSWAGEN AG                 V",
-      "d": "up",
-      "x": "Variação de +0.46% na última sessão.",
-      "v": 0.46
     }
   ]
 }
