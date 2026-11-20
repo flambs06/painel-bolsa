@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T00:52:18.498683+00:00",
+  "updated": "2026-11-20T02:02:25.568757+00:00",
   "news": [
     {
       "d": "20 nov",
@@ -61,64 +61,64 @@
       "d": "20 nov",
       "s": "Jornal de Negócios",
       "c": "Mercado",
-      "t": "Lactogal e Pascual preparam fusão dos negócios de lacticínios",
+      "t": "Alargar a todos a dedução dos juros da casa no IRS custaria 655 milhões, diz a UTAO",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWG5QTHp1VU1mWWlqZy1SNUdtckNRYWFCLV9iZ2xQUGJpdFdBczQzMS1DSGc3dXYxRS11Ymp3bkNqbGFXVFNybHZCeFJBU3RUT0t5NEhrM2ptMURFT2tKbDhMd0JIaGNGNEp1dkhqaU9WUmxfeXp3ZFdtOVNZd013SGJYcHhZUzU3TWo0QWNQLXFoZ0E5c3EtZHQxMzVScGJQSmcyS2c2ckRLZksxV3RNcnF2NlJ0TS0yMDRwVTJaTTVkX1Y5RHc3Rk1WTdIBxgFBVV95cUxNMU1UV0tPWG4wdkdVZWN1R0tzTWd5enB1WWcyY2ptallUVWlWTGhVeVB6R0VBc1k5bmdldWRVR0hBRXFQMldvZ18wdkwwNElzQ3ZPOEtSbHdTcXhCbjJITmZ3enR3Y19LYllDQlNKRGU3SlBfZjhXM1FibUc2N1ppRkRLVFVackNhOUFUNnZVU2hEM0g2U09JWWVzZS14Q1VNT2RSVWppYUNhb09Mb1d6WUJCNVB5bEF5VDc0SXpranMzbFl0N3c?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNenc2VEtTMDYwQ24tWjZudExENEctOUw4ODZWTE9yT3ItLVRVU0ZhNlNBTDh3THJHNWpRRF9OWUY3cXJXd3k1RjhQbjFVYzBhYU9iblVIek4zaHE5eV9Edk1Ud3VVLUtiSWJES2hLUFloOVAwX19sVUl3RTJpMnd4LXoya25rLU5vTjJCVDV3TTJXS1lDUDBzdHltWVM4ZURMTi0wSWVsakJPeXVVbzIyRlgtdThURDFGWWlZQms2dFNWS3NxdXpQdGc3Ukdodm4wX3BKVmUzQ19ZS0lK?oc=5"
     }
   ],
   "stocks": [
     {
-      "k": "AMZN",
-      "n": "Amazon.com, Inc.",
+      "k": "AAPL",
+      "n": "AAPL",
       "d": "dn",
-      "x": "Variação de -3.87% na última sessão.",
-      "v": -3.87
-    },
-    {
-      "k": "GOOGL",
-      "n": "Alphabet Inc.",
-      "d": "dn",
-      "x": "Variação de -3.46% na última sessão.",
-      "v": -3.46
-    },
-    {
-      "k": "NVDA",
-      "n": "NVIDIA Corporation",
-      "d": "dn",
-      "x": "Variação de -3.30% na última sessão.",
-      "v": -3.3
-    },
-    {
-      "k": "META",
-      "n": "Meta Platforms, Inc.",
-      "d": "dn",
-      "x": "Variação de -3.27% na última sessão.",
-      "v": -3.27
-    },
-    {
-      "k": "TSLA",
-      "n": "Tesla, Inc.",
-      "d": "dn",
-      "x": "Variação de -2.43% na última sessão.",
-      "v": -2.43
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
     },
     {
       "k": "MSFT",
-      "n": "Microsoft Corporation",
+      "n": "MSFT",
       "d": "dn",
-      "x": "Variação de -1.97% na última sessão.",
-      "v": -1.97
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
     },
     {
-      "k": "AAPL",
-      "n": "Apple Inc.",
+      "k": "NVDA",
+      "n": "NVDA",
       "d": "dn",
-      "x": "Variação de -0.92% na última sessão.",
-      "v": -0.92
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
+    },
+    {
+      "k": "AMZN",
+      "n": "AMZN",
+      "d": "dn",
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
+    },
+    {
+      "k": "GOOGL",
+      "n": "GOOGL",
+      "d": "dn",
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
+    },
+    {
+      "k": "META",
+      "n": "META",
+      "d": "dn",
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
+    },
+    {
+      "k": "TSLA",
+      "n": "TSLA",
+      "d": "dn",
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
     },
     {
       "k": "SAP.DE",
-      "n": "SAP SE                        I",
+      "n": "SAP.DE",
       "d": "dn",
       "x": "Variação de +nan% na última sessão.",
       "v": NaN
