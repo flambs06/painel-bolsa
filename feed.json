@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T02:02:25.568757+00:00",
+  "updated": "2026-11-20T03:48:28.028734+00:00",
   "news": [
     {
       "d": "20 nov",
@@ -68,57 +68,57 @@
   ],
   "stocks": [
     {
-      "k": "AAPL",
-      "n": "AAPL",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
-    },
-    {
-      "k": "MSFT",
-      "n": "MSFT",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
-    },
-    {
-      "k": "NVDA",
-      "n": "NVDA",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
-    },
-    {
       "k": "AMZN",
-      "n": "AMZN",
+      "n": "Amazon.com, Inc.",
       "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
+      "x": "Variação de -3.87% na última sessão.",
+      "v": -3.87
     },
     {
       "k": "GOOGL",
-      "n": "GOOGL",
+      "n": "Alphabet Inc.",
       "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
+      "x": "Variação de -3.46% na última sessão.",
+      "v": -3.46
+    },
+    {
+      "k": "NVDA",
+      "n": "NVIDIA Corporation",
+      "d": "dn",
+      "x": "Variação de -3.30% na última sessão.",
+      "v": -3.3
     },
     {
       "k": "META",
-      "n": "META",
+      "n": "Meta Platforms, Inc.",
       "d": "dn",
       "x": "Variação de +nan% na última sessão.",
       "v": NaN
     },
     {
       "k": "TSLA",
-      "n": "TSLA",
+      "n": "Tesla, Inc.",
       "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
+      "x": "Variação de -2.43% na última sessão.",
+      "v": -2.43
+    },
+    {
+      "k": "MSFT",
+      "n": "Microsoft Corporation",
+      "d": "dn",
+      "x": "Variação de -1.78% na última sessão.",
+      "v": -1.78
+    },
+    {
+      "k": "AAPL",
+      "n": "Apple Inc.",
+      "d": "dn",
+      "x": "Variação de -0.92% na última sessão.",
+      "v": -0.92
     },
     {
       "k": "SAP.DE",
-      "n": "SAP.DE",
+      "n": "SAP SE                        I",
       "d": "dn",
       "x": "Variação de +nan% na última sessão.",
       "v": NaN
