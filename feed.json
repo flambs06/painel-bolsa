@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T07:08:57.302266+00:00",
+  "updated": "2026-11-20T08:55:20.094167+00:00",
   "news": [
     {
       "d": "20 nov",
@@ -27,19 +27,19 @@
     },
     {
       "d": "20 nov",
+      "s": "Contas Poupança",
+      "c": "Mercado",
+      "t": "Acaba a comissão de amortização do crédito à habitação com taxa variável: o que muda em 2027 e quanto pode poupar",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNeDFfcklfZHVidk9mLWJmTHphVFk5TVd6VVFGWjRWdm5wUGotUTFNal9JdUZUbFJreU1ibU0tZ3NUZTBTZHRmalJnRThoLUcwTV9TS1REc0xvOEc2cU9lbG9MQXhicTlvUkFjTk1PTTFqZm1QNHlIT2x3VkpKbGRGQzRxVHg2SmtWNGZ6MmRsUUtfb2JDc01kRjJXaWZMM2J6azFJY2YwRVc3Qy1zbGd6UWpQUy1oNTZHX2dpbHdOZFQteXl4aEVKcEgtNEdwRU9NbW9Zc2VIc3o1WFkza0k0Rnc0cEk2TTFSQzhvaEktVTVReW9ZMHBzdnAySUZLSm9LZDJYWWxNNVZhWi1QeDBZYjN3aw?oc=5"
+    },
+    {
+      "d": "20 nov",
       "s": "Dinheiro Vivo",
       "c": "Mercado",
       "t": "Preço das casas em Lisboa afasta compradores e promotores da capital",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNHR1OUdqRmtFcjBVaENDaUp5bXVMSnVtZE9BMGVCLXZQVllEM2NUR25obXJCemdnejlXZ1RBTzU1dUVvVDVFYzZzLVFuM3RyTXVFOW9sZXB0NFRvS2VzYlpzbnZtNmloeDVXeVRBSFhRVFJoZVkwdGxFc0xOLWlHYXIxTmx0UFFhWnJ0dm1kWVMtdTdXdk1jZkJXVzV1OW10QTdnOEtR?oc=5"
-    },
-    {
-      "d": "20 nov",
-      "s": "O MINHO",
-      "c": "Mercado",
-      "t": "Multinacional avança para a segunda fábrica e vai chegar aos 2.000 trabalhadores em Viana do Castelo",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSlFGX3J2d2d6RW9VS21fMUJNQ3VHWmZIWGhvZjVVamRIazBYTGhoWHQ2QkVMS3lUa0ZxOG1sb0Q3NHU5c3d5T0xFRkFXRjgxLURxMFNvenRTWER0YW9uN2UwZWwwb0NMbFdxZi12X1dJSjM0Tk94emtPdV9xRjZCdXhOX1BLc01hSlV5WDJmd0tsdmR2RGU1d19hZF9idkk1MUM1eXdtT2FtcmRBcE9VeUNHbWJuLVpuZlln?oc=5"
     },
     {
       "d": "20 nov",
@@ -51,11 +51,11 @@
     },
     {
       "d": "20 nov",
-      "s": "Contas Poupança",
+      "s": "O MINHO",
       "c": "Mercado",
-      "t": "Acaba a comissão de amortização do crédito à habitação com taxa variável: o que muda em 2027 e quanto pode poupar",
+      "t": "Multinacional avança para a segunda fábrica e vai chegar aos 2.000 trabalhadores em Viana do Castelo",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNeDFfcklfZHVidk9mLWJmTHphVFk5TVd6VVFGWjRWdm5wUGotUTFNal9JdUZUbFJreU1ibU0tZ3NUZTBTZHRmalJnRThoLUcwTV9TS1REc0xvOEc2cU9lbG9MQXhicTlvUkFjTk1PTTFqZm1QNHlIT2x3VkpKbGRGQzRxVHg2SmtWNGZ6MmRsUUtfb2JDc01kRjJXaWZMM2J6azFJY2YwRVc3Qy1zbGd6UWpQUy1oNTZHX2dpbHdOZFQteXl4aEVKcEgtNEdwRU9NbW9Zc2VIc3o1WFkza0k0Rnc0cEk2TTFSQzhvaEktVTVReW9ZMHBzdnAySUZLSm9LZDJYWWxNNVZhWi1QeDBZYjN3aw?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSlFGX3J2d2d6RW9VS21fMUJNQ3VHWmZIWGhvZjVVamRIazBYTGhoWHQ2QkVMS3lUa0ZxOG1sb0Q3NHU5c3d5T0xFRkFXRjgxLURxMFNvenRTWER0YW9uN2UwZWwwb0NMbFdxZi12X1dJSjM0Tk94emtPdV9xRjZCdXhOX1BLc01hSlV5WDJmd0tsdmR2RGU1d19hZF9idkk1MUM1eXdtT2FtcmRBcE9VeUNHbWJuLVpuZlln?oc=5"
     },
     {
       "d": "20 nov",
@@ -96,6 +96,13 @@
       "v": -3.27
     },
     {
+      "k": "SIE.DE",
+      "n": "SIEMENS AG                    N",
+      "d": "dn",
+      "x": "Variação de -2.87% na última sessão.",
+      "v": -2.87
+    },
+    {
       "k": "TSLA",
       "n": "Tesla, Inc.",
       "d": "dn",
@@ -115,13 +122,6 @@
       "d": "dn",
       "x": "Variação de -0.92% na última sessão.",
       "v": -0.92
-    },
-    {
-      "k": "SAP.DE",
-      "n": "SAP SE                        I",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
     }
   ]
 }
