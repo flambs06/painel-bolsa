@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T18:53:00.693129+00:00",
+  "updated": "2026-11-20T19:55:04.614415+00:00",
   "news": [
     {
       "d": "20 nov",
@@ -19,14 +19,6 @@
     },
     {
       "d": "20 nov",
-      "s": "Jornal de Negócios",
-      "c": "Mercado",
-      "t": "Wall Street no vermelho apesar de estreia sólida da Anthropic em bolsa. Tecnológica disparou 17%",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQU0N3alVNYXd1Q2hhSC1ERDJmUDVWeGJjRndhd2dOUS1pZkJqMFQyaVkyNEpLX1BZWjhJTGJfMWtKVUJZakdiY09ael9QQ0NkLWg0V2E4VTZGclloUzdBNWRpSTNlTFQ0dk83dmJnMExXa1I3aVozT3YzTVJsc1JTMDFVVTJrOEY4VGdaekRaSVVoN3p0bzRFNVhmWGhqVkVYN2d6TUVCREhDVGE2N0xNNU1DT2RXdFBhb215MmtOU1BWZUFzaWJxR0pzbXRLNDRzTWtqNEx6ZlV1dw?oc=5"
-    },
-    {
-      "d": "20 nov",
       "s": "SIC Notícias",
       "c": "Mercado",
       "t": "Vem aí mais uma descida significativa no preço da gasolina e do gasóleo",
@@ -35,11 +27,27 @@
     },
     {
       "d": "20 nov",
+      "s": "Jornal de Negócios",
+      "c": "Mercado",
+      "t": "Wall Street no vermelho apesar de estreia sólida da Anthropic em bolsa. Tecnológica disparou 17%",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQU0N3alVNYXd1Q2hhSC1ERDJmUDVWeGJjRndhd2dOUS1pZkJqMFQyaVkyNEpLX1BZWjhJTGJfMWtKVUJZakdiY09ael9QQ0NkLWg0V2E4VTZGclloUzdBNWRpSTNlTFQ0dk83dmJnMExXa1I3aVozT3YzTVJsc1JTMDFVVTJrOEY4VGdaekRaSVVoN3p0bzRFNVhmWGhqVkVYN2d6TUVCREhDVGE2N0xNNU1DT2RXdFBhb215MmtOU1BWZUFzaWJxR0pzbXRLNDRzTWtqNEx6ZlV1dw?oc=5"
+    },
+    {
+      "d": "20 nov",
       "s": "Contas Poupança",
       "c": "Mercado",
       "t": "Acaba a comissão de amortização do crédito à habitação com taxa variável: o que muda em 2027 e quanto pode poupar",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNeDFfcklfZHVidk9mLWJmTHphVFk5TVd6VVFGWjRWdm5wUGotUTFNal9JdUZUbFJreU1ibU0tZ3NUZTBTZHRmalJnRThoLUcwTV9TS1REc0xvOEc2cU9lbG9MQXhicTlvUkFjTk1PTTFqZm1QNHlIT2x3VkpKbGRGQzRxVHg2SmtWNGZ6MmRsUUtfb2JDc01kRjJXaWZMM2J6azFJY2YwRVc3Qy1zbGd6UWpQUy1oNTZHX2dpbHdOZFQteXl4aEVKcEgtNEdwRU9NbW9Zc2VIc3o1WFkza0k0Rnc0cEk2TTFSQzhvaEktVTVReW9ZMHBzdnAySUZLSm9LZDJYWWxNNVZhWi1QeDBZYjN3aw?oc=5"
+    },
+    {
+      "d": "20 nov",
+      "s": "Jornal de Negócios",
+      "c": "Mercado",
+      "t": "Álvaro Santos Pereira: \"Há margem para subir taxas dos depósitos e penso que isso vai acontecer\"",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNHJ6NTRYUlRnUzhlVzRhZ0FxTmtQVk9FdUpNVjR2c2F3aHlqWmlRenJYOGxBMnZtNlRkZkh3RmRqNXB0bGVVTWx1a2RXaWhQOE1UaTZoaFk0Rmt0TGJFZVRGbEFKZmVMSWVLWXQyZkEwdjdyY3NKUm1nSlNDVmhUazBmbzVJQzVpWHlTWllac1E1TEtWdkljdFc0R29zUmtOSzA3U0ROZ3dIZ3pNTTZueHJVYUZvVjhhREQ3TWRhZU9JNXpYYnNfV3puMDBidHNVTkJCeUhnZHZJaXBiOElSOEJFMWY2NnFTSmNDamR4MVc?oc=5"
     },
     {
       "d": "20 nov",
@@ -56,14 +64,6 @@
       "t": "Em oito anos, preço das casas aumentou 140%, diz Banco de Portugal. Rendas subiram 114%",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX0wxbFFTZzdZdElUbzd3aXVYeWpJUW9kWHc0MmIyeWVsUnN6LTlGME5qU2pwczR3QmxraENJdEdsZkhMMXVCd1JrU1N2Z2NCdnVQYXMtU2hNUW05eWxKX3FzSGt2bjNuOExqMXliaGkxRWxUaS1Ja2dWOUpuV1dUQjRYREhjQWViXzNKX2pHQWxuNE1lNzhSRzJRMjc5WDZaQXdsRXNHOWlfa01Ham10b21TNHYtdnFfZzA0bVNETGYzb1M1LWNPR2lR?oc=5"
-    },
-    {
-      "d": "20 nov",
-      "s": "RTP",
-      "c": "Mercado",
-      "t": "IMT alvo de ciberataques suspende serviços por precaução",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMjJneDJlZjFlSEtiUFlsdklVVmZENUJPNGk0Vmk2YmhkMGxsM095a0plSTVrTVF0VkYyb3RUcWQzWmd1NEJMME1uRDZ5MUxidjlMcWN5SXA4TDVzYjk2WHRNbENlSWJGUVNEdEpnSjYtNDNfYVlkcjhITG9rMFhUb3ZPY01jRnk0MXJnYW54YWFvdGdtcE95dGdOZWxmdkE?oc=5"
     }
   ],
   "stocks": [
@@ -71,15 +71,22 @@
       "k": "NVDA",
       "n": "NVIDIA Corporation",
       "d": "dn",
-      "x": "Variação de -7.05% na última sessão.",
-      "v": -7.05
+      "x": "Variação de -11.72% na última sessão.",
+      "v": -11.72
     },
     {
       "k": "TSLA",
       "n": "Tesla, Inc.",
       "d": "dn",
-      "x": "Variação de -6.11% na última sessão.",
-      "v": -6.11
+      "x": "Variação de -6.79% na última sessão.",
+      "v": -6.79
+    },
+    {
+      "k": "META",
+      "n": "Meta Platforms, Inc.",
+      "d": "dn",
+      "x": "Variação de -4.97% na última sessão.",
+      "v": -4.97
     },
     {
       "k": "SIE.DE",
@@ -89,11 +96,11 @@
       "v": -4.59
     },
     {
-      "k": "META",
-      "n": "Meta Platforms, Inc.",
+      "k": "AMZN",
+      "n": "Amazon.com, Inc.",
       "d": "dn",
-      "x": "Variação de -4.34% na última sessão.",
-      "v": -4.34
+      "x": "Variação de -3.42% na última sessão.",
+      "v": -3.42
     },
     {
       "k": "VOW3.DE",
@@ -103,11 +110,11 @@
       "v": -3.13
     },
     {
-      "k": "AMZN",
-      "n": "Amazon.com, Inc.",
+      "k": "MSFT",
+      "n": "Microsoft Corporation",
       "d": "dn",
-      "x": "Variação de -2.77% na última sessão.",
-      "v": -2.77
+      "x": "Variação de -2.03% na última sessão.",
+      "v": -2.03
     },
     {
       "k": "SAP.DE",
@@ -115,13 +122,6 @@
       "d": "dn",
       "x": "Variação de -1.79% na última sessão.",
       "v": -1.79
-    },
-    {
-      "k": "MSFT",
-      "n": "Microsoft Corporation",
-      "d": "dn",
-      "x": "Variação de -1.75% na última sessão.",
-      "v": -1.75
     }
   ]
 }
