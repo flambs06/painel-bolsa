@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T14:17:58.587901+00:00",
+  "updated": "2026-11-20T15:51:43.755779+00:00",
   "news": [
     {
       "d": "20 nov",
@@ -19,11 +19,11 @@
     },
     {
       "d": "20 nov",
-      "s": "CNN Portugal",
+      "s": "Público",
       "c": "Mercado",
-      "t": "Quase todos os funcionários da Anthropic viraram milionários da noite para o dia",
+      "t": "Com lançamento em bolsa, funcionários da Anthropic ficaram milionários da noite para o dia",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQ1FHSXg4MlpZcV9TRGZ4aTZfWU1aSkZfNXMwUnh2d1ZJU1otdklEQXZmXzVTNXhxMEt4d1NmeUhGRmgyY1o2SjJUelo5RGUtV28wQlBNbE1GdUVsekJuVHpYT0ZQUFJVQlRZZXR1MTBWZ2lyRkJ0Z2JNM0hGU2NqN0tNNjJ3SVcxamI3bHBIYWRRVllhSEtpUGVYdVpHWEhUbnJBUk9HSXg1MzlkdDdBYXBDRi1uSHVLTGRlSlNHUURRMkl0QmNsX2dvdmpsSkZlYUJDbEVrU2h3RDY3Y3hJMEQyU2ZlMW1Bc3F3MV9XUnVBa1JJNXc?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbjh0a0JPSTZ3T290dlBoeTB1TnZ3TGZpMl84MmJUb01VbXVUVmNkczliQzA1bEwwT3ZQbXBjUW5xVy1hRFpKVTBiSF8wSWVVNmlrbzJXVmZyUkRJamJYZXhWbmZXS1RqVmVITHYwQ2I4VjBYY2lmOEg1dTh0Z0djVDA0X0o5SXpheHFKSWhnXzRIMnIxNUlvZEtnZXlLTHBxRGVjN1BhVkdLYl84NUkwQURlS0VEUVZ0SVdfWlJxUHptdmc?oc=5"
     },
     {
       "d": "20 nov",
@@ -35,19 +35,11 @@
     },
     {
       "d": "20 nov",
-      "s": "RTP",
+      "s": "Contas Poupança",
       "c": "Mercado",
-      "t": "IMT alvo de ciberataques suspende serviços por precaução",
+      "t": "Acaba a comissão de amortização do crédito à habitação com taxa variável: o que muda em 2027 e quanto pode poupar",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMjJneDJlZjFlSEtiUFlsdklVVmZENUJPNGk0Vmk2YmhkMGxsM095a0plSTVrTVF0VkYyb3RUcWQzWmd1NEJMME1uRDZ5MUxidjlMcWN5SXA4TDVzYjk2WHRNbENlSWJGUVNEdEpnSjYtNDNfYVlkcjhITG9rMFhUb3ZPY01jRnk0MXJnYW54YWFvdGdtcE95dGdOZWxmdkE?oc=5"
-    },
-    {
-      "d": "20 nov",
-      "s": "Jornal de Negócios",
-      "c": "Mercado",
-      "t": "Bolsas europeias e ouro a caminho da pior semana desde março",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTV9OQWxUbENMYVI4YmRNREo5aG1wSUo0bTB0eURvT2h3WWVRblpXUFlPSzY5QkRpSmFJQ2JzX0hmRWpiTzdiNXBSTmhvVHp1SHpNalJvMjBlZWhoTWlKZjFfM2RxVEFWYVExS0lkRVZxaUhKVHlTaGdJX29TY3VkMDJnZS0xTko2dkRPdW16UHBMUmducUpNZWh2RXNfZ1BTaW9qRndOMS1ndWg3WmE3Z1VIREh3ODFzX2RYb1FfMm7SAbsBQVVfeXFMTkdjWU1sWjZvVGdsSHIxajlDQlVleXVsV2VIeEtFXzdJR0h6VW1lUHNXMFI5cHkwS0NoSENiZW5DNGNqYzQ1ZnhhYXVCRUNXMHBBYjluRlE5d0hDanVmclBxVTNXQ0V4N3R6elhCQzlOY1RoalE1MFVZV0VFLVkxR2VqQ0xqWmNrX0V0cTE0LWQyS1pPcm5Ucl8xQ2ktLVBjZndKQy13NElWbU51ZHRxbHV2NHlyOFVTWDV3RQ?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNeDFfcklfZHVidk9mLWJmTHphVFk5TVd6VVFGWjRWdm5wUGotUTFNal9JdUZUbFJreU1ibU0tZ3NUZTBTZHRmalJnRThoLUcwTV9TS1REc0xvOEc2cU9lbG9MQXhicTlvUkFjTk1PTTFqZm1QNHlIT2x3VkpKbGRGQzRxVHg2SmtWNGZ6MmRsUUtfb2JDc01kRjJXaWZMM2J6azFJY2YwRVc3Qy1zbGd6UWpQUy1oNTZHX2dpbHdOZFQteXl4aEVKcEgtNEdwRU9NbW9Zc2VIc3o1WFkza0k0Rnc0cEk2TTFSQzhvaEktVTVReW9ZMHBzdnAySUZLSm9LZDJYWWxNNVZhWi1QeDBZYjN3aw?oc=5"
     },
     {
       "d": "20 nov",
@@ -59,69 +51,77 @@
     },
     {
       "d": "20 nov",
-      "s": "Contas Poupança",
+      "s": "Jornal de Negócios",
       "c": "Mercado",
-      "t": "Acaba a comissão de amortização do crédito à habitação com taxa variável: o que muda em 2027 e quanto pode poupar",
+      "t": "Bolsas europeias e ouro a caminho da pior semana desde março",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNeDFfcklfZHVidk9mLWJmTHphVFk5TVd6VVFGWjRWdm5wUGotUTFNal9JdUZUbFJreU1ibU0tZ3NUZTBTZHRmalJnRThoLUcwTV9TS1REc0xvOEc2cU9lbG9MQXhicTlvUkFjTk1PTTFqZm1QNHlIT2x3VkpKbGRGQzRxVHg2SmtWNGZ6MmRsUUtfb2JDc01kRjJXaWZMM2J6azFJY2YwRVc3Qy1zbGd6UWpQUy1oNTZHX2dpbHdOZFQteXl4aEVKcEgtNEdwRU9NbW9Zc2VIc3o1WFkza0k0Rnc0cEk2TTFSQzhvaEktVTVReW9ZMHBzdnAySUZLSm9LZDJYWWxNNVZhWi1QeDBZYjN3aw?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTV9OQWxUbENMYVI4YmRNREo5aG1wSUo0bTB0eURvT2h3WWVRblpXUFlPSzY5QkRpSmFJQ2JzX0hmRWpiTzdiNXBSTmhvVHp1SHpNalJvMjBlZWhoTWlKZjFfM2RxVEFWYVExS0lkRVZxaUhKVHlTaGdJX29TY3VkMDJnZS0xTko2dkRPdW16UHBMUmducUpNZWh2RXNfZ1BTaW9qRndOMS1ndWg3WmE3Z1VIREh3ODFzX2RYb1FfMm7SAbsBQVVfeXFMTkdjWU1sWjZvVGdsSHIxajlDQlVleXVsV2VIeEtFXzdJR0h6VW1lUHNXMFI5cHkwS0NoSENiZW5DNGNqYzQ1ZnhhYXVCRUNXMHBBYjluRlE5d0hDanVmclBxVTNXQ0V4N3R6elhCQzlOY1RoalE1MFVZV0VFLVkxR2VqQ0xqWmNrX0V0cTE0LWQyS1pPcm5Ucl8xQ2ktLVBjZndKQy13NElWbU51ZHRxbHV2NHlyOFVTWDV3RQ?oc=5"
+    },
+    {
+      "d": "20 nov",
+      "s": "RTP",
+      "c": "Mercado",
+      "t": "IMT alvo de ciberataques suspende serviços por precaução",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMjJneDJlZjFlSEtiUFlsdklVVmZENUJPNGk0Vmk2YmhkMGxsM095a0plSTVrTVF0VkYyb3RUcWQzWmd1NEJMME1uRDZ5MUxidjlMcWN5SXA4TDVzYjk2WHRNbENlSWJGUVNEdEpnSjYtNDNfYVlkcjhITG9rMFhUb3ZPY01jRnk0MXJnYW54YWFvdGdtcE95dGdOZWxmdkE?oc=5"
     }
   ],
   "stocks": [
     {
-      "k": "AMZN",
-      "n": "Amazon.com, Inc.",
+      "k": "NVDA",
+      "n": "NVIDIA Corporation",
       "d": "dn",
-      "x": "Variação de -3.87% na última sessão.",
-      "v": -3.87
+      "x": "Variação de -6.17% na última sessão.",
+      "v": -6.17
     },
     {
       "k": "SIE.DE",
       "n": "SIEMENS AG                    N",
       "d": "dn",
-      "x": "Variação de -3.52% na última sessão.",
-      "v": -3.52
-    },
-    {
-      "k": "GOOGL",
-      "n": "Alphabet Inc.",
-      "d": "dn",
-      "x": "Variação de -3.46% na última sessão.",
-      "v": -3.46
-    },
-    {
-      "k": "NVDA",
-      "n": "NVIDIA Corporation",
-      "d": "dn",
-      "x": "Variação de -3.30% na última sessão.",
-      "v": -3.3
+      "x": "Variação de -4.44% na última sessão.",
+      "v": -4.44
     },
     {
       "k": "META",
       "n": "Meta Platforms, Inc.",
       "d": "dn",
-      "x": "Variação de -3.27% na última sessão.",
-      "v": -3.27
+      "x": "Variação de -3.08% na última sessão.",
+      "v": -3.08
     },
     {
       "k": "TSLA",
       "n": "Tesla, Inc.",
       "d": "dn",
-      "x": "Variação de -2.43% na última sessão.",
-      "v": -2.43
-    },
-    {
-      "k": "SAP.DE",
-      "n": "SAP SE                        I",
-      "d": "dn",
-      "x": "Variação de -2.34% na última sessão.",
-      "v": -2.34
+      "x": "Variação de -2.99% na última sessão.",
+      "v": -2.99
     },
     {
       "k": "VOW3.DE",
       "n": "VOLKSWAGEN AG                 V",
       "d": "dn",
-      "x": "Variação de -2.13% na última sessão.",
-      "v": -2.13
+      "x": "Variação de -2.26% na última sessão.",
+      "v": -2.26
+    },
+    {
+      "k": "GOOGL",
+      "n": "Alphabet Inc.",
+      "d": "up",
+      "x": "Variação de +1.94% na última sessão.",
+      "v": 1.94
+    },
+    {
+      "k": "SAP.DE",
+      "n": "SAP SE                        I",
+      "d": "dn",
+      "x": "Variação de -1.43% na última sessão.",
+      "v": -1.43
+    },
+    {
+      "k": "BMW.DE",
+      "n": "BAYERISCHE MOTOREN WERKE AG   S",
+      "d": "dn",
+      "x": "Variação de -1.14% na última sessão.",
+      "v": -1.14
     }
   ]
 }
