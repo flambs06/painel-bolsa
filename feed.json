@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-20T09:54:18.459346+00:00",
+  "updated": "2026-11-20T10:55:13.456105+00:00",
   "news": [
+    {
+      "d": "20 nov",
+      "s": "Contas Poupança",
+      "c": "Mercado",
+      "t": "Preço dos combustíveis na próxima semana (23 a 29 de novembro)",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX3BUNDB4RWdjaGlSekJLcW5xSHJWWGZrdlVKT25iR01iX29hV3A3dUw3cHNiZG9rUVgzUjg4UFMybnAwc0R4QWs3R19leVdXMG1XNjFhSU9MNFA2SV9tMnFOS01DZE50NkdaZktBVXdlamp2QVNYVlUyNkJNNG5aN1dhckJfSDdOVFRsaGdyR0xxSFFYZkhFXzZNUTlQMGZsVUlwQ1dBSEF5bFI1WHhUSXMzVjBrWGF0NGlQdHdWd00xRGZXTUE?oc=5"
+    },
     {
       "d": "20 nov",
       "s": "Jornal de Negócios",
@@ -11,51 +19,35 @@
     },
     {
       "d": "20 nov",
-      "s": "Público",
+      "s": "CNN Portugal",
       "c": "Mercado",
-      "t": "Anthropic promete resistir a pressões ao entrar na bolsa a valer dois biliões de dólares",
+      "t": "Quase todos os funcionários da Anthropic viraram milionários da noite para o dia",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObXZ1NEcxd0Y4U25wQ0d1QnI2SUtTNG1ZNV9TU2ZvclRIeG1YX3hKQmFST05RaUhIaUozNm5EMGIxRk9fR0dtcGVpdjhWTVphSEFVa0ZLNlFVel9na0lDcDhlamw4S21RZzU5eXRXYmhDYm9uNFNsSDl4eVhkVnpZQUtRTnMycERjc2c1ZFk1LWdOT0dwS09aZy1raG8wc0tJOVdNVkJoN2ZUWlZwNHY0YzdoS3ZrRDIzZmgydXgteTc2bnhBbnF2aC12UWQ2dDQ?oc=5"
-    },
-    {
-      "d": "20 nov",
-      "s": "RTP",
-      "c": "Mercado",
-      "t": "IMT alvo de ciberataques suspende serviços por precaução",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMjJneDJlZjFlSEtiUFlsdklVVmZENUJPNGk0Vmk2YmhkMGxsM095a0plSTVrTVF0VkYyb3RUcWQzWmd1NEJMME1uRDZ5MUxidjlMcWN5SXA4TDVzYjk2WHRNbENlSWJGUVNEdEpnSjYtNDNfYVlkcjhITG9rMFhUb3ZPY01jRnk0MXJnYW54YWFvdGdtcE95dGdOZWxmdkE?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQ1FHSXg4MlpZcV9TRGZ4aTZfWU1aSkZfNXMwUnh2d1ZJU1otdklEQXZmXzVTNXhxMEt4d1NmeUhGRmgyY1o2SjJUelo5RGUtV28wQlBNbE1GdUVsekJuVHpYT0ZQUFJVQlRZZXR1MTBWZ2lyRkJ0Z2JNM0hGU2NqN0tNNjJ3SVcxamI3bHBIYWRRVllhSEtpUGVYdVpHWEhUbnJBUk9HSXg1MzlkdDdBYXBDRi1uSHVLTGRlSlNHUURRMkl0QmNsX2dvdmpsSkZlYUJDbEVrU2h3RDY3Y3hJMEQyU2ZlMW1Bc3F3MV9XUnVBa1JJNXc?oc=5"
     },
     {
       "d": "20 nov",
       "s": "Jornal de Notícias",
       "c": "Mercado",
-      "t": "Entre o presunto e o coco, há um Orçamento para todos",
+      "t": "Falhas no IMT foram provocadas por ataque informático. Site continua inacessível",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb2RMbEtzbFNXMnZVZGNSa21wQm9wWDlVQmhrUnY1UVExbTNUT1hJa0w0MDBVN0xsT29GNVRjdnplZmtNZDZvMVotZmU0bk1NTUlZZU5FMVR2NWozWVlqakR5Q3ltWVlDc1NpcHZRYTdpVFphTmY2QlNHenVTRDZrMWR3R0xjVU04MzhIenc5S0k0bXBIczV5U0Vuaw?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZS1tLXhNNUFHN1lqYmJKM1BWb1E0aHFBVXpJVzA1NEh0clkyMC1aVlhYTTZzUHZQbTNmTkV4MUhIRU1jYzZZSTQ5VEtmNGplRjFuM1hibmhFZlBYLXFGSTFCNWFON1ZhQ3ZUQmFPVURaOG5VVEdfOWdubGNfdFJsNE9HdWoxS09BMVZiRjluQlZjTERqS2g0cDRyczZta0pxUXZNaE5UVVpRR1JITFI1OWxPbHE4bmwxbFRGaFRxVdIBrwFBVV95cUxONUJPZUs2bzZ1bnAyYUNneVFTanhMYzZsMlR2ZVZUYlpwT25Cd2o3NTBVaU91WW9ZWkNHWjliODdXWW9MMTJST0tPV2o1dHU5ZVk5bUo2dG1UUHRaZHoxcGE1MzFRLWc4ejRoNnIyZXRxYkJneDg0aXdmd2ZhTlBQMXZnN0liNGZtU1RNT0lxMEtlRDhjUVV6ZW9yUS1nM3YxR1dmRG92ekVFc2tycV8w?oc=5"
     },
     {
       "d": "20 nov",
-      "s": "Contas Poupança",
+      "s": "Expresso",
       "c": "Mercado",
-      "t": "Acaba a comissão de amortização do crédito à habitação com taxa variável: o que muda em 2027 e quanto pode poupar",
+      "t": "2027 não vai trazer alívio sobre o bolso das famílias",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNeDFfcklfZHVidk9mLWJmTHphVFk5TVd6VVFGWjRWdm5wUGotUTFNal9JdUZUbFJreU1ibU0tZ3NUZTBTZHRmalJnRThoLUcwTV9TS1REc0xvOEc2cU9lbG9MQXhicTlvUkFjTk1PTTFqZm1QNHlIT2x3VkpKbGRGQzRxVHg2SmtWNGZ6MmRsUUtfb2JDc01kRjJXaWZMM2J6azFJY2YwRVc3Qy1zbGd6UWpQUy1oNTZHX2dpbHdOZFQteXl4aEVKcEgtNEdwRU9NbW9Zc2VIc3o1WFkza0k0Rnc0cEk2TTFSQzhvaEktVTVReW9ZMHBzdnAySUZLSm9LZDJYWWxNNVZhWi1QeDBZYjN3aw?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV2paUkRTc1d3dHVzWWVDei1hUi1sSk5ZUFBaSTBNcExMZTFZZUxBUHNZY2R2SXc4UDNlSzAyMUtsVlY4UGUtcFRkNS1SOHRaRE9mQ0NZckYzbHVuY1pVUGxyZ3JEdldhUG1QQWdZX1dEb09UTzYyMGE1VkNWMW9kVjBJSWcwT0hleG5Qa3A0dkoxNDRXNDJrMVhvdVZvTUpvNTkybGZn?oc=5"
     },
     {
       "d": "20 nov",
-      "s": "SIC Notícias",
+      "s": "Público",
       "c": "Mercado",
-      "t": "Precisa de abastecer? Espere pela próxima semana, pode trazer (mais) uma descida",
+      "t": "Aprovada a suspensão da comissão de reembolso antecipado de créditos à habitação | Orçamento do Estado 2027",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeldkWXNoZU5DNFVZOGUxTGNCaXlxd0FQY1hQeEEzV0lyYXdrVVZBMGhVdVZCWWxKWUVGY1RQRUJyeVVqcVotczUyeEg0d3NFSURZdTlCV0VKNERFR3NDSnlwaEdwUXRJNDVOUlpLN2xsS2x1SmMzTjJmQ3p6OWtqelRTOG5TUTIwMmZmYklvY0ZXZlJaaHlLaUktS1liYnY2Q2JiMlA4a2UyNzBZS2FkLVVUemUtakZ3Ul95S1Y3aEt6RVl2VktaZ3hVMXlfeTItSEVoelh1SjlVbHVzQTdGT2owUTV2QQ?oc=5"
-    },
-    {
-      "d": "20 nov",
-      "s": "O MINHO",
-      "c": "Mercado",
-      "t": "Multinacional avança para a segunda fábrica e vai chegar aos 2.000 trabalhadores em Viana do Castelo",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSlFGX3J2d2d6RW9VS21fMUJNQ3VHWmZIWGhvZjVVamRIazBYTGhoWHQ2QkVMS3lUa0ZxOG1sb0Q3NHU5c3d5T0xFRkFXRjgxLURxMFNvenRTWER0YW9uN2UwZWwwb0NMbFdxZi12X1dJSjM0Tk94emtPdV9xRjZCdXhOX1BLc01hSlV5WDJmd0tsdmR2RGU1d19hZF9idkk1MUM1eXdtT2FtcmRBcE9VeUNHbWJuLVpuZlln?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN0ZUMktfZDI4OVo5aXlXRkowbHVCTVRmSkNjNDQ2S2lmNzNXZzVPMHNZcUxOYXloRTR6NXpiYjFIT0RvR21Gc1VGUmdEdzRFbXpVUjlXR2dXT0I3YWFJT1lhN29qLVNVbVVLYmVKSkh3R2E4V3VHWUZldVVvZVFRUjJGU0hGM3B5cFYwT2RfMnBFalh3elgwQ3hLSzNBbmJmeFZKTElJR0NlQmRlZUtXa0ZKbGtkbzVxUFp2a2pzby1VdGo5?oc=5"
     },
     {
       "d": "20 nov",
@@ -64,6 +56,14 @@
       "t": "Salário não chega para renda acessível do Governo em mais de metade dos municípios",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX1FIZXpqUWJJT3hDUjgtdnpZZ0hXZU1NcjZXSWRHVHM3eURrVGhhbHowVFBJdmtLY0tIdzMyUVBVQVZpT3lvRFN2MVNHZTF4Sk41TUJEN2xGNVYxRnhDWkJ3OHN4bkJESXY5cnlzOVFlbHA1bHJkYmpiZE93TU90T2phQ2hpU1FHM0JWUWVDUGVKR2t5SURsMFlNMHg0TWlpTXA0T1JIQ3Z5Y2FxZC0yUjIzeFhPNlRFN0ZmRDZqa2ZTdnM?oc=5"
+    },
+    {
+      "d": "20 nov",
+      "s": "Jornal de Negócios",
+      "c": "Mercado",
+      "t": "Alargar a todos a dedução dos juros da casa no IRS custaria 655 milhões, diz a UTAO",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNenc2VEtTMDYwQ24tWjZudExENEctOUw4ODZWTE9yT3ItLVRVU0ZhNlNBTDh3THJHNWpRRF9OWUY3cXJXd3k1RjhQbjFVYzBhYU9iblVIek4zaHE5eV9Edk1Ud3VVLUtiSWJES2hLUFloOVAwX19sVUl3RTJpMnd4LXoya25rLU5vTjJCVDV3TTJXS1lDUDBzdHltWVM4ZURMTi0wSWVsakJPeXVVbzIyRlgtdThURDFGWWlZQms2dFNWS3NxdXpQdGc3Ukdodm4wX3BKVmUzQ19ZS0lK?oc=5"
     }
   ],
   "stocks": [
@@ -73,13 +73,6 @@
       "d": "dn",
       "x": "Variação de -3.87% na última sessão.",
       "v": -3.87
-    },
-    {
-      "k": "SIE.DE",
-      "n": "SIEMENS AG                    N",
-      "d": "dn",
-      "x": "Variação de -3.47% na última sessão.",
-      "v": -3.47
     },
     {
       "k": "GOOGL",
@@ -103,6 +96,13 @@
       "v": -3.27
     },
     {
+      "k": "SIE.DE",
+      "n": "SIEMENS AG                    N",
+      "d": "dn",
+      "x": "Variação de -2.64% na última sessão.",
+      "v": -2.64
+    },
+    {
       "k": "TSLA",
       "n": "Tesla, Inc.",
       "d": "dn",
@@ -120,8 +120,8 @@
       "k": "SAP.DE",
       "n": "SAP SE                        I",
       "d": "dn",
-      "x": "Variação de -1.28% na última sessão.",
-      "v": -1.28
+      "x": "Variação de -1.18% na última sessão.",
+      "v": -1.18
     }
   ]
 }
