@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-20T16:53:57.234219+00:00",
+  "updated": "2026-11-20T17:52:17.482540+00:00",
   "news": [
     {
       "d": "20 nov",
       "s": "ECO",
       "c": "Mercado",
-      "t": "PS e Chega aprovam IVA Zero. Benefícios fiscais das rendas moderadas caem",
+      "t": "OE2027. PS vitorioso no segundo dia de votações faz mossa nas rendas moderadas do Governo",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbkdBUG5ocGpTTlY0VTFJdV9rZUpIekVXYmY4NWQ3X290dmJnMmZlRktvZG1DbVE4QzMzXzFmZk5Gb05DN3hwdlktQjJ6WTR2bFFGTmdmWGgzVzhkcDBjdy11MllDVlVMZWM0NGpGejFGbjZfblV1VjZVTU9Ic01SVkdjSmlIM1lVX0JscldpeVhxMVZGdFdyenBnWllFSXRLMUlnaGZUcw?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOUgxcDRYRElJei1HNE5KZU8yd3h3T1F6dFRMallEUWlwaWtmYjRZSE5wWFVxQ01qWkN4T1VPd25xQ2tpTjg2MHVmQkpmdjBqX1hEaUpLT0t5a1l6bi1LM01zTnhfYzN4aDA4N0xiblNXMXFnRkthSksxRmJGczdUdWhXT1M5TExkeFZpRDVxbXIyVUh4X0FES0tVVkU?oc=5"
     },
     {
       "d": "20 nov",
@@ -27,11 +27,11 @@
     },
     {
       "d": "20 nov",
-      "s": "CNN Portugal",
+      "s": "Jornal de Negócios",
       "c": "Mercado",
-      "t": "Quase todos os funcionários da Anthropic viraram milionários da noite para o dia",
+      "t": "Wall Street no vermelho apesar de estreia sólida da Anthropic em bolsa. Tecnológica disparou 17%",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQ1FHSXg4MlpZcV9TRGZ4aTZfWU1aSkZfNXMwUnh2d1ZJU1otdklEQXZmXzVTNXhxMEt4d1NmeUhGRmgyY1o2SjJUelo5RGUtV28wQlBNbE1GdUVsekJuVHpYT0ZQUFJVQlRZZXR1MTBWZ2lyRkJ0Z2JNM0hGU2NqN0tNNjJ3SVcxamI3bHBIYWRRVllhSEtpUGVYdVpHWEhUbnJBUk9HSXg1MzlkdDdBYXBDRi1uSHVLTGRlSlNHUURRMkl0QmNsX2dvdmpsSkZlYUJDbEVrU2h3RDY3Y3hJMEQyU2ZlMW1Bc3F3MV9XUnVBa1JJNXc?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQU0N3alVNYXd1Q2hhSC1ERDJmUDVWeGJjRndhd2dOUS1pZkJqMFQyaVkyNEpLX1BZWjhJTGJfMWtKVUJZakdiY09ael9QQ0NkLWg0V2E4VTZGclloUzdBNWRpSTNlTFQ0dk83dmJnMExXa1I3aVozT3YzTVJsc1JTMDFVVTJrOEY4VGdaekRaSVVoN3p0bzRFNVhmWGhqVkVYN2d6TUVCREhDVGE2N0xNNU1DT2RXdFBhb215MmtOU1BWZUFzaWJxR0pzbXRLNDRzTWtqNEx6ZlV1dw?oc=5"
     },
     {
       "d": "20 nov",
@@ -51,19 +51,19 @@
     },
     {
       "d": "20 nov",
-      "s": "RTP",
-      "c": "Mercado",
-      "t": "IMT alvo de ciberataques suspende serviços por precaução",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMjJneDJlZjFlSEtiUFlsdklVVmZENUJPNGk0Vmk2YmhkMGxsM095a0plSTVrTVF0VkYyb3RUcWQzWmd1NEJMME1uRDZ5MUxidjlMcWN5SXA4TDVzYjk2WHRNbENlSWJGUVNEdEpnSjYtNDNfYVlkcjhITG9rMFhUb3ZPY01jRnk0MXJnYW54YWFvdGdtcE95dGdOZWxmdkE?oc=5"
-    },
-    {
-      "d": "20 nov",
       "s": "Jornal de Negócios",
       "c": "Mercado",
       "t": "Bolsas europeias e ouro a caminho da pior semana desde março",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTV9OQWxUbENMYVI4YmRNREo5aG1wSUo0bTB0eURvT2h3WWVRblpXUFlPSzY5QkRpSmFJQ2JzX0hmRWpiTzdiNXBSTmhvVHp1SHpNalJvMjBlZWhoTWlKZjFfM2RxVEFWYVExS0lkRVZxaUhKVHlTaGdJX29TY3VkMDJnZS0xTko2dkRPdW16UHBMUmducUpNZWh2RXNfZ1BTaW9qRndOMS1ndWg3WmE3Z1VIREh3ODFzX2RYb1FfMm7SAbsBQVVfeXFMTkdjWU1sWjZvVGdsSHIxajlDQlVleXVsV2VIeEtFXzdJR0h6VW1lUHNXMFI5cHkwS0NoSENiZW5DNGNqYzQ1ZnhhYXVCRUNXMHBBYjluRlE5d0hDanVmclBxVTNXQ0V4N3R6elhCQzlOY1RoalE1MFVZV0VFLVkxR2VqQ0xqWmNrX0V0cTE0LWQyS1pPcm5Ucl8xQ2ktLVBjZndKQy13NElWbU51ZHRxbHV2NHlyOFVTWDV3RQ?oc=5"
+    },
+    {
+      "d": "20 nov",
+      "s": "Expresso",
+      "c": "Mercado",
+      "t": "2027 não vai trazer alívio sobre o bolso das famílias",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV2paUkRTc1d3dHVzWWVDei1hUi1sSk5ZUFBaSTBNcExMZTFZZUxBUHNZY2R2SXc4UDNlSzAyMUtsVlY4UGUtcFRkNS1SOHRaRE9mQ0NZckYzbHVuY1pVUGxyZ3JEdldhUG1QQWdZX1dEb09UTzYyMGE1VkNWMW9kVjBJSWcwT0hleG5Qa3A0dkoxNDRXNDJrMVhvdVZvTUpvNTkybGZn?oc=5"
     }
   ],
   "stocks": [
@@ -71,15 +71,15 @@
       "k": "NVDA",
       "n": "NVIDIA Corporation",
       "d": "dn",
-      "x": "Variação de -6.97% na última sessão.",
-      "v": -6.97
+      "x": "Variação de -7.14% na última sessão.",
+      "v": -7.14
     },
     {
       "k": "TSLA",
       "n": "Tesla, Inc.",
       "d": "dn",
-      "x": "Variação de -5.23% na última sessão.",
-      "v": -5.23
+      "x": "Variação de -5.81% na última sessão.",
+      "v": -5.81
     },
     {
       "k": "SIE.DE",
@@ -92,8 +92,8 @@
       "k": "META",
       "n": "Meta Platforms, Inc.",
       "d": "dn",
-      "x": "Variação de -3.79% na última sessão.",
-      "v": -3.79
+      "x": "Variação de -4.30% na última sessão.",
+      "v": -4.3
     },
     {
       "k": "VOW3.DE",
@@ -106,8 +106,8 @@
       "k": "AMZN",
       "n": "Amazon.com, Inc.",
       "d": "dn",
-      "x": "Variação de -2.11% na última sessão.",
-      "v": -2.11
+      "x": "Variação de -2.82% na última sessão.",
+      "v": -2.82
     },
     {
       "k": "MSFT",
