@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T00:55:53.771227+00:00",
+  "updated": "2026-11-21T02:06:30.542227+00:00",
   "news": [
     {
       "d": "21 nov",
@@ -13,9 +13,17 @@
       "d": "21 nov",
       "s": "ECO",
       "c": "Mercado",
-      "t": "⛽ Combustíveis voltam a descer na próxima semana",
+      "t": "Moody’s sobe rating de Portugal para A2 com perspetiva estável",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VZHhfZHNTMGNDbGp2SE5GMUQ4cDRUd3hHV2RqQXhoTnh6eWFfbUU2RERKYVBBc2x5RHlfVy1rSlVIbmZQclRJaFdERFhsVkh5cnRnMXRtRQ?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdVJhZ2YzTnVycjFDXzlzUmlacWZfQk5lS0Zsd1M1NFV1ZjhkeHpWdkpQTnE3eGVWYWxWS29ZTVhiWGI2M2QydGIzSnJnbVR4Y0hsa3R6Z2x4Vjhtdk9SdlJOanpzdUxRT0R2VWhNb3hCY2ZiWHpMaWVyWlpKUks3UnhfY0RJMnFVWHdGSDVJUVFfazViMU5nRg?oc=5"
+    },
+    {
+      "d": "21 nov",
+      "s": "SIC Notícias",
+      "c": "Mercado",
+      "t": "Vem aí mais uma descida significativa no preço da gasolina e do gasóleo",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTlFuWkR2Y09ITGpYR28ya3A5eWJzeTlENzU5dG1VQUJGRXpTSkFiWkVia1NCTlVKQy1oRGViUU1QQkxwd0N6YkgyV081S0xwc3lfVHJyWmJMdkJ1a1lGb1V1Ti1pV1BvSEdDdGwzRFBQYkExSHNmQ2hYLTBDaExnazIxYmhqSVZFc3JUdWdMOGx5Nk95dkhSdnRGM1RaUmJGbGx6V19nYTdCeWxsWXNPYTFqNHNxR2xoQUJLazBVS0pYM1V4dlBwaFJRRk94eDNmWG5j?oc=5"
     },
     {
       "d": "21 nov",
@@ -43,78 +51,70 @@
     },
     {
       "d": "21 nov",
-      "s": "CNN Portugal",
+      "s": "Público",
       "c": "Mercado",
-      "t": "Quase todos os funcionários da Anthropic viraram milionários da noite para o dia",
+      "t": "Com lançamento em bolsa, funcionários da Anthropic ficaram milionários da noite para o dia",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQ1FHSXg4MlpZcV9TRGZ4aTZfWU1aSkZfNXMwUnh2d1ZJU1otdklEQXZmXzVTNXhxMEt4d1NmeUhGRmgyY1o2SjJUelo5RGUtV28wQlBNbE1GdUVsekJuVHpYT0ZQUFJVQlRZZXR1MTBWZ2lyRkJ0Z2JNM0hGU2NqN0tNNjJ3SVcxamI3bHBIYWRRVllhSEtpUGVYdVpHWEhUbnJBUk9HSXg1MzlkdDdBYXBDRi1uSHVLTGRlSlNHUURRMkl0QmNsX2dvdmpsSkZlYUJDbEVrU2h3RDY3Y3hJMEQyU2ZlMW1Bc3F3MV9XUnVBa1JJNXc?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbjh0a0JPSTZ3T290dlBoeTB1TnZ3TGZpMl84MmJUb01VbXVUVmNkczliQzA1bEwwT3ZQbXBjUW5xVy1hRFpKVTBiSF8wSWVVNmlrbzJXVmZyUkRJamJYZXhWbmZXS1RqVmVITHYwQ2I4VjBYY2lmOEg1dTh0Z0djVDA0X0o5SXpheHFKSWhnXzRIMnIxNUlvZEtnZXlLTHBxRGVjN1BhVkdLYl84NUkwQURlS0VEUVZ0SVdfWlJxUHptdmc?oc=5"
     },
     {
       "d": "21 nov",
-      "s": "Jornal de Negócios",
+      "s": "Contas Poupança",
       "c": "Mercado",
-      "t": "Moody's avalia Portugal e 4 outras coisas que precisa de saber para começar o dia",
+      "t": "Acaba a comissão de amortização do crédito à habitação com taxa variável: o que muda em 2027 e quanto pode poupar",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaDEtOFFtZ2lRX3FUUU9vTjE0alRMY2lYejNpUUJnbk5HQ2NZYWd4bTF0MUg4MTE4ZEx4SlVxN1J2akRKZ3RTUlUwLVJSMWtJRlBGbW85NGFDQWt5Ym5MOW5DQ3dKTFJsRWtjbDFUUF82b1V3VDh4M3VzVE5RcktWN05BRkdHQ0pzZ0RfSGl5Y2xfQzF4N2oyUXp2MnBCSGRDWndGcy1vTE5pZ1BHSmZFN2VDcVMtX2RsUEp1SFBNeVh4QS1YUWV3M3Jn?oc=5"
-    },
-    {
-      "d": "21 nov",
-      "s": "Expresso",
-      "c": "Mercado",
-      "t": "Oposição travou autorizações para o Governo movimentar verbas do Orçamento: o que fica em causa?",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeE12S2QxWEtZLU9Bb3VaaHUyQ1dHNW5nZUhqSEh4YU1md01TQkZVZ1o2UXpqWTMtV3hJQ3g0R2sxZC1PMVdlcG5nSDRkVnRvOXJaQlJZYjM0X1VTM3IxQmFoZFFmVXhZbGtWalUweENfT2JVZXVudmpwVFNCc2x6Y28tMVFYNnN1RjlOOWl4T29YSmptblFveWw2ck9hcGt2SmpuTWlNUWhoc1RkNW14eEkzSmNhNXdSSGdvb0dWdXFWTDk5b1g2Rm54ckxITnhra0ZTd2FTenFJZzlUZUlxcGFlOUU2N2x3dmNzQWkxazFQNjlfeUlRZDZsNnhLM3dOMXNUU3N3cFc2bmZs?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNeDFfcklfZHVidk9mLWJmTHphVFk5TVd6VVFGWjRWdm5wUGotUTFNal9JdUZUbFJreU1ibU0tZ3NUZTBTZHRmalJnRThoLUcwTV9TS1REc0xvOEc2cU9lbG9MQXhicTlvUkFjTk1PTTFqZm1QNHlIT2x3VkpKbGRGQzRxVHg2SmtWNGZ6MmRsUUtfb2JDc01kRjJXaWZMM2J6azFJY2YwRVc3Qy1zbGd6UWpQUy1oNTZHX2dpbHdOZFQteXl4aEVKcEgtNEdwRU9NbW9Zc2VIc3o1WFkza0k0Rnc0cEk2TTFSQzhvaEktVTVReW9ZMHBzdnAySUZLSm9LZDJYWWxNNVZhWi1QeDBZYjN3aw?oc=5"
     }
   ],
   "stocks": [
     {
-      "k": "NVDA",
-      "n": "NVIDIA Corporation",
+      "k": "AAPL",
+      "n": "Apple Inc.",
       "d": "dn",
-      "x": "Variação de -14.01% na última sessão.",
-      "v": -14.01
-    },
-    {
-      "k": "TSLA",
-      "n": "Tesla, Inc.",
-      "d": "dn",
-      "x": "Variação de -7.64% na última sessão.",
-      "v": -7.64
-    },
-    {
-      "k": "META",
-      "n": "Meta Platforms, Inc.",
-      "d": "dn",
-      "x": "Variação de -5.93% na última sessão.",
-      "v": -5.93
-    },
-    {
-      "k": "AMZN",
-      "n": "Amazon.com, Inc.",
-      "d": "dn",
-      "x": "Variação de -4.10% na última sessão.",
-      "v": -4.1
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
     },
     {
       "k": "MSFT",
       "n": "Microsoft Corporation",
       "d": "dn",
-      "x": "Variação de -2.77% na última sessão.",
-      "v": -2.77
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
+    },
+    {
+      "k": "NVDA",
+      "n": "NVIDIA Corporation",
+      "d": "dn",
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
+    },
+    {
+      "k": "AMZN",
+      "n": "Amazon.com, Inc.",
+      "d": "dn",
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
     },
     {
       "k": "GOOGL",
       "n": "Alphabet Inc.",
       "d": "dn",
-      "x": "Variação de -2.70% na última sessão.",
-      "v": -2.7
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
     },
     {
-      "k": "AAPL",
-      "n": "Apple Inc.",
+      "k": "META",
+      "n": "Meta Platforms, Inc.",
       "d": "dn",
-      "x": "Variação de -1.90% na última sessão.",
-      "v": -1.9
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
+    },
+    {
+      "k": "TSLA",
+      "n": "Tesla, Inc.",
+      "d": "dn",
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
     },
     {
       "k": "SAP.DE",
