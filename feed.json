@@ -1,14 +1,6 @@
 {
-  "updated": "2026-11-21T04:50:15.393304+00:00",
+  "updated": "2026-11-21T05:50:08.510413+00:00",
   "news": [
-    {
-      "d": "21 nov",
-      "s": "Público",
-      "c": "Mercado",
-      "t": "Inquilinos e proprietários criticam fim do desconto fiscal para rendas “moderadas”",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU2t4bUtrSzNRbUliSXFtS2JRbGNGdmNVcW5HdmwtVHdsUWtKVTRkbGxxdFFkWlJNSzNqSHJiS0xyMGlUOGFsV1pXcU9xYkphVV9LZGdFM29jQzZCRnRwNGlWX1hhM29LbnhXY0N4bmJQT2xfWnNoT2FQMzhBVkhOTW5weGtUUFZNN3ROT1pEaDhTU3JXZm1wVE9MYThZVWdDR0t6dGlSSk9aMUp5aFZpa0lTdkdHSThXZG5hU1hlV2Q1a0diMkNwdg?oc=5"
-    },
     {
       "d": "21 nov",
       "s": "ECO",
@@ -16,6 +8,14 @@
       "t": "Moody’s sobe rating de Portugal para A2 com perspetiva estável",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdVJhZ2YzTnVycjFDXzlzUmlacWZfQk5lS0Zsd1M1NFV1ZjhkeHpWdkpQTnE3eGVWYWxWS29ZTVhiWGI2M2QydGIzSnJnbVR4Y0hsa3R6Z2x4Vjhtdk9SdlJOanpzdUxRT0R2VWhNb3hCY2ZiWHpMaWVyWlpKUks3UnhfY0RJMnFVWHdGSDVJUVFfazViMU5nRg?oc=5"
+    },
+    {
+      "d": "21 nov",
+      "s": "Público",
+      "c": "Mercado",
+      "t": "Inquilinos e proprietários criticam fim do desconto fiscal para rendas “moderadas”",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU2t4bUtrSzNRbUliSXFtS2JRbGNGdmNVcW5HdmwtVHdsUWtKVTRkbGxxdFFkWlJNSzNqSHJiS0xyMGlUOGFsV1pXcU9xYkphVV9LZGdFM29jQzZCRnRwNGlWX1hhM29LbnhXY0N4bmJQT2xfWnNoT2FQMzhBVkhOTW5weGtUUFZNN3ROT1pEaDhTU3JXZm1wVE9MYThZVWdDR0t6dGlSSk9aMUp5aFZpa0lTdkdHSThXZG5hU1hlV2Q1a0diMkNwdg?oc=5"
     },
     {
       "d": "21 nov",
@@ -35,14 +35,6 @@
     },
     {
       "d": "21 nov",
-      "s": "Público",
-      "c": "Mercado",
-      "t": "Subsídio de refeição pago em cartão isento de IRS até aos 10,97 euros | Impostos",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmpzZTVQQ0ZDeWdxV0RPQzJqdlRpWjJYa2lIendKa0NEaEhpUFNWUWZRU243UVZZVWZUZFA4THdYNXdEOGxNeEdoNHpfN0JFeEhOVFdiSTdabFByRm0yTF9DTWVsSS1zdnV1eTBBQkg1WGFGY3BuYlF2eWVHT0xVbW1zdWtkMHFpUzh4djlCT2ViT1E5NmQxWGprRGFzckFzME1EZkNpYVpnazJhU21FVC1nVVI?oc=5"
-    },
-    {
-      "d": "21 nov",
       "s": "Jornal de Negócios",
       "c": "Mercado",
       "t": "Lisboa segue pesadas perdas a nível europeu. BCP recua 4%",
@@ -51,11 +43,11 @@
     },
     {
       "d": "21 nov",
-      "s": "CNN Portugal",
+      "s": "Público",
       "c": "Mercado",
-      "t": "Quase todos os funcionários da Anthropic viraram milionários da noite para o dia",
+      "t": "Subsídio de refeição pago em cartão isento de IRS até aos 10,97 euros | Impostos",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQ1FHSXg4MlpZcV9TRGZ4aTZfWU1aSkZfNXMwUnh2d1ZJU1otdklEQXZmXzVTNXhxMEt4d1NmeUhGRmgyY1o2SjJUelo5RGUtV28wQlBNbE1GdUVsekJuVHpYT0ZQUFJVQlRZZXR1MTBWZ2lyRkJ0Z2JNM0hGU2NqN0tNNjJ3SVcxamI3bHBIYWRRVllhSEtpUGVYdVpHWEhUbnJBUk9HSXg1MzlkdDdBYXBDRi1uSHVLTGRlSlNHUURRMkl0QmNsX2dvdmpsSkZlYUJDbEVrU2h3RDY3Y3hJMEQyU2ZlMW1Bc3F3MV9XUnVBa1JJNXc?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmpzZTVQQ0ZDeWdxV0RPQzJqdlRpWjJYa2lIendKa0NEaEhpUFNWUWZRU243UVZZVWZUZFA4THdYNXdEOGxNeEdoNHpfN0JFeEhOVFdiSTdabFByRm0yTF9DTWVsSS1zdnV1eTBBQkg1WGFGY3BuYlF2eWVHT0xVbW1zdWtkMHFpUzh4djlCT2ViT1E5NmQxWGprRGFzckFzME1EZkNpYVpnazJhU21FVC1nVVI?oc=5"
     },
     {
       "d": "21 nov",
@@ -64,6 +56,14 @@
       "t": "2027 não vai trazer alívio sobre o bolso das famílias",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV2paUkRTc1d3dHVzWWVDei1hUi1sSk5ZUFBaSTBNcExMZTFZZUxBUHNZY2R2SXc4UDNlSzAyMUtsVlY4UGUtcFRkNS1SOHRaRE9mQ0NZckYzbHVuY1pVUGxyZ3JEdldhUG1QQWdZX1dEb09UTzYyMGE1VkNWMW9kVjBJSWcwT0hleG5Qa3A0dkoxNDRXNDJrMVhvdVZvTUpvNTkybGZn?oc=5"
+    },
+    {
+      "d": "21 nov",
+      "s": "CNN Portugal",
+      "c": "Mercado",
+      "t": "Quase todos os funcionários da Anthropic viraram milionários da noite para o dia",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQ1FHSXg4MlpZcV9TRGZ4aTZfWU1aSkZfNXMwUnh2d1ZJU1otdklEQXZmXzVTNXhxMEt4d1NmeUhGRmgyY1o2SjJUelo5RGUtV28wQlBNbE1GdUVsekJuVHpYT0ZQUFJVQlRZZXR1MTBWZ2lyRkJ0Z2JNM0hGU2NqN0tNNjJ3SVcxamI3bHBIYWRRVllhSEtpUGVYdVpHWEhUbnJBUk9HSXg1MzlkdDdBYXBDRi1uSHVLTGRlSlNHUURRMkl0QmNsX2dvdmpsSkZlYUJDbEVrU2h3RDY3Y3hJMEQyU2ZlMW1Bc3F3MV9XUnVBa1JJNXc?oc=5"
     }
   ],
   "stocks": [
