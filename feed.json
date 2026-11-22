@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T22:38:18.511770+00:00",
+  "updated": "2026-11-22T23:36:40.111530+00:00",
   "news": [
     {
       "d": "22 nov",
@@ -27,27 +27,11 @@
     },
     {
       "d": "22 nov",
-      "s": "Euronews.com",
-      "c": "Mercado",
-      "t": "Europa enfrenta mês de ciberataques: arcas quentes, GPS falha e falsas bombas",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRjRIRUhIVU1aRXRJY1Q3LTFhV2RQSHJiOFVrYTJvTDhXdmtpU2pRSkVxd1BvT0FoVUI3ZG1oUEZoSHltaFZ5c1RzNWhGSENtWVpOaEQyYnBaVEhDRE9WeTFUWWRQa21kbVBCNmpDeVgwSTlJVmxseXBwcEtQSnRaYlBfZ1I0Q2JYaXlON1k0a1poVmJOdUpXeVhDdF9nRFV3M2RoWWJjV2VVRFRKS3pB?oc=5"
-    },
-    {
-      "d": "22 nov",
       "s": "Jornal Económico",
       "c": "Mercado",
       "t": "Gasolina e gasóleo descem quatro cêntimos a partir desta segunda-feira",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQXlmaTNzWmFHaXpIdWZCVmhFNXJYbFZmeHBOOG9Ddlo0bkFwWVh5eWRxcjJnMW5ZdG5TaHRTUnVPRXR4blFyeDE4YjRHZl9zdlhYYW5Ha3dwbllGa2dyRVQxSzl3MW5kN09TbFFET1Qzb0JiT3lHWUt2VjBqSlQ0Mk1mMG5nVlI3SjY3QmF0dVZrV2VaaGltZEcyNm5iT0w4SXczdHNyVW5lQ24yUjZaQ3BR?oc=5"
-    },
-    {
-      "d": "22 nov",
-      "s": "Público",
-      "c": "Mercado",
-      "t": "Adolescente de 16 anos quer vender mísseis baratos guiados por IA",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlFzdWFwcF9yNUJadkg1QTNXWEhfbWFaMDd1NVdlMnYzN29YUWduZTU4cjVmQTBwaGlpelg1NlBralF3aUdzbksxTWNWbzFtZ3ZQVU5xWkEwVkduTFFlZ1ZyWk55c3kxS01MTTFudzY4SXpoajM5N2VaVWw2REVSSDRPc2wwZ3ExeUJGRjN5YnlLQlpQamQ2RFl1OXFNUW5qTzNSNWluQUVHTUxtZHJpREFhLXM?oc=5"
     },
     {
       "d": "22 nov",
@@ -59,11 +43,27 @@
     },
     {
       "d": "22 nov",
+      "s": "Público",
+      "c": "Mercado",
+      "t": "Adolescente de 16 anos quer vender mísseis baratos guiados por IA",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlFzdWFwcF9yNUJadkg1QTNXWEhfbWFaMDd1NVdlMnYzN29YUWduZTU4cjVmQTBwaGlpelg1NlBralF3aUdzbksxTWNWbzFtZ3ZQVU5xWkEwVkduTFFlZ1ZyWk55c3kxS01MTTFudzY4SXpoajM5N2VaVWw2REVSSDRPc2wwZ3ExeUJGRjN5YnlLQlpQamQ2RFl1OXFNUW5qTzNSNWluQUVHTUxtZHJpREFhLXM?oc=5"
+    },
+    {
+      "d": "22 nov",
       "s": "Idealista",
       "c": "Mercado",
       "t": "Preço das casas e rendas mais do que duplicaram em muitos municípios",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPejlzN29GYkJsakFmZnBqZzl6N2tmVENRVXN5VzRmTkhnZVFDSExkUHUwMVlUeHpMV0RGaDlqMGNyWTFzQm83YmVuYm16OTZMSnp6ZWxEM0VlVi11THRtRE9nelo3YTJycDhyZEVrSmlzTHRPUWlhcEhDMmQtWDBKWXhJdmFiYm5RZjdxTXZrcWFrVnZBOGgyVE5wcUNQMGJXcjF1dUtzM1MwYjZaM0ptY3lMQUQ0TnJvZjlpWGVCY2dXLUoxcHc2RGNXbWhzeUMyZVRv?oc=5"
+    },
+    {
+      "d": "22 nov",
+      "s": "Diário de Notícias",
+      "c": "Mercado",
+      "t": "Governo confirma aumento de 30 cêntimos no subsídio de refeição dos trabalhadores do Estado",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmJRTmZmd0J0U0tRbGx0ek5qVkZtcVQ0akl2OUd2ZV9RMGU1c1NHWWdlVVFNSXRUWTNPYXlPNGJTN05fZDhwVEpoRms4cjhYLXFHdVhKQ3VuSWctRWh5WGV6d0ZkakNTSEdkbnpNZFdueThiYmNvX0YzYjdkMDhFTTJnM3BrbW9PLUxCZ2JGeFdRMU1DaDQzX2J5WXdmdmdBc1FUbjFTc3dNUl8tUmpJVmpKQUdZZklzSlJz?oc=5"
     }
   ],
   "stocks": [
