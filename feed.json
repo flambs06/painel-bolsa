@@ -1,14 +1,6 @@
 {
-  "updated": "2026-11-22T00:49:03.573547+00:00",
+  "updated": "2026-11-22T02:00:25.911790+00:00",
   "news": [
-    {
-      "d": "22 nov",
-      "s": "Contas Poupança",
-      "c": "Mercado",
-      "t": "ATUALIZAÇÃO ISP | Preço dos combustíveis na próxima semana (23 a 29 de novembro)",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX3BUNDB4RWdjaGlSekJLcW5xSHJWWGZrdlVKT25iR01iX29hV3A3dUw3cHNiZG9rUVgzUjg4UFMybnAwc0R4QWs3R19leVdXMG1XNjFhSU9MNFA2SV9tMnFOS01DZE50NkdaZktBVXdlamp2QVNYVlUyNkJNNG5aN1dhckJfSDdOVFRsaGdyR0xxSFFYZkhFXzZNUTlQMGZsVUlwQ1dBSEF5bFI1WHhUSXMzVjBrWGF0NGlQdHdWd00xRGZXTUE?oc=5"
-    },
     {
       "d": "22 nov",
       "s": "Diário de Notícias",
@@ -16,6 +8,14 @@
       "t": "Moody's sobe rating de Portugal e destaca \"amplo consenso político na prudência orçamental\"",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWXdoRUhIOHhmZnlsZERhN1RWN2lmRElXV3FoNmkwSi1tZVYzbDFVTTExOHBKV3BQMEY0am5ENGxqVmJUNWdQRndHODFSdC1QblVuSm40X0hsRW91aTBWcFIxc011WEI4Nk5hZ1JEOHF6eVNhSVA3eE9VWVFsekVZNHR0bEdKaGhPcFZOSERiNGNlMlhpbDNGT01GMEdrQXYxSUt6SkJIaF9Ma2wzRW1PMFhR?oc=5"
+    },
+    {
+      "d": "22 nov",
+      "s": "Contas Poupança",
+      "c": "Mercado",
+      "t": "ATUALIZAÇÃO ISP | Preço dos combustíveis na próxima semana (23 a 29 de novembro)",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX3BUNDB4RWdjaGlSekJLcW5xSHJWWGZrdlVKT25iR01iX29hV3A3dUw3cHNiZG9rUVgzUjg4UFMybnAwc0R4QWs3R19leVdXMG1XNjFhSU9MNFA2SV9tMnFOS01DZE50NkdaZktBVXdlamp2QVNYVlUyNkJNNG5aN1dhckJfSDdOVFRsaGdyR0xxSFFYZkhFXzZNUTlQMGZsVUlwQ1dBSEF5bFI1WHhUSXMzVjBrWGF0NGlQdHdWd00xRGZXTUE?oc=5"
     },
     {
       "d": "22 nov",
@@ -29,9 +29,9 @@
       "d": "22 nov",
       "s": "Jornal de Negócios",
       "c": "Mercado",
-      "t": "Semana horribilis nas bolsas mundiais, com a IA a tirar o sono aos investidores",
+      "t": "Subsídio de refeição em cartão isento de IRS deverá subir para 10,97 euros",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTVQyTHg1ZjFWTVN1Vl9fYXlfR29jWmwxVlBNcE03Slpzc3ZHNDd0REhIdExuSnVaejBwTjNPWE9xMWpvZmtraTgxYzBab09RZmVjMjlCY0xQZFRic0tYTGxoa3YxMzVGRF9zRTJoMFUwam1NMlVJZjZRZFpORjFnM29iMjlXOHo0bkR6b2ZHVmNCelJCNTd0WS1wdkt1b05mNHVtY2V5N0lHZTIwRmNQNkROY3NTaXJMU0lEUVBhNERGV05mOUZrNzE3dnpMUQ?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd3VDNjJnUmdDZ3N4M3NiUHBhTzFfOXhmNlV1eU1rcjh3X1B0RnBpTGEtaVg1N1JDTEhDeWw5THNGMmk0ZFNBWWtBM3ZzYkJaY1htS1g1SV8tcmtGZkhVYmNBZTJESXY0SXMwT3V2SXdzREFxS3J2UDJoUFg2U19hakxkNUV6UmNHdWUtdzZYWDgtdWFSNkpzTmZWNHZwRVVzSW1Sanp6RXNSYjMzdVItYW9ETFM5ckN2ZTNxN1dQVmIzOERvZE5JNDZ2eEJycTFYc1dZcA?oc=5"
     },
     {
       "d": "22 nov",
@@ -40,6 +40,14 @@
       "t": "Preço das casas e rendas mais do que duplicaram em muitos municípios",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPejlzN29GYkJsakFmZnBqZzl6N2tmVENRVXN5VzRmTkhnZVFDSExkUHUwMVlUeHpMV0RGaDlqMGNyWTFzQm83YmVuYm16OTZMSnp6ZWxEM0VlVi11THRtRE9nelo3YTJycDhyZEVrSmlzTHRPUWlhcEhDMmQtWDBKWXhJdmFiYm5RZjdxTXZrcWFrVnZBOGgyVE5wcUNQMGJXcjF1dUtzM1MwYjZaM0ptY3lMQUQ0TnJvZjlpWGVCY2dXLUoxcHc2RGNXbWhzeUMyZVRv?oc=5"
+    },
+    {
+      "d": "22 nov",
+      "s": "Público",
+      "c": "Mercado",
+      "t": "Anthropic e Nvidia arrastam Nasdaq para a pior semana desde 2020 | Mercados",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZk9RZmkwYnVpQVRxbEQyVTM2NkloTGlvVjhzSm15cndKM2NuOENUOFRaMHpYWUVrbklGaUlUMS1kQlp2LVpaZERkUHQtUW95UlJVX1o0TjdwUWllM3lxb20yNFlGVThfTTVGUGc2Q3JiOXR1Mk1OeUhMdUEzQ3YzQnBfd3hCVW1abEdKdGtOWk9hTm4yS1hCd0RyazhHV216?oc=5"
     },
     {
       "d": "22 nov",
@@ -56,14 +64,6 @@
       "t": "Carneiro explica bloqueio de activos financeiros com evitar “maquilhagem das contas”",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa05YZy1XZjNIcEtZanZIejh5dzV3Z0JWa3VDTmpsN3NaOUktdWxCclZkdV80OFVqWDBWdEtrWDJFS1B1SDktX25mdkh0OHVDNE9rUjExZWhPLXhOcW1sU1dwNWtzUUVuWjhwa2J3dzk0U2h1aWdVcGdfMFRQT0JuTUdVWXJ5ckdlN3lvQzRENzlqbGVkVVMtRjRpSzdCdmxUbnZrY2l0MVZvTGVnQll2RmZmakt2YmNOTzNIV1R6eUpRZ3hITGw5ZnRn?oc=5"
-    },
-    {
-      "d": "22 nov",
-      "s": "Contas Poupança",
-      "c": "Mercado",
-      "t": "Acaba a comissão de amortização do crédito à habitação com taxa variável: o que muda em 2027 e quanto pode poupar",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNeDFfcklfZHVidk9mLWJmTHphVFk5TVd6VVFGWjRWdm5wUGotUTFNal9JdUZUbFJreU1ibU0tZ3NUZTBTZHRmalJnRThoLUcwTV9TS1REc0xvOEc2cU9lbG9MQXhicTlvUkFjTk1PTTFqZm1QNHlIT2x3VkpKbGRGQzRxVHg2SmtWNGZ6MmRsUUtfb2JDc01kRjJXaWZMM2J6azFJY2YwRVc3Qy1zbGd6UWpQUy1oNTZHX2dpbHdOZFQteXl4aEVKcEgtNEdwRU9NbW9Zc2VIc3o1WFkza0k0Rnc0cEk2TTFSQzhvaEktVTVReW9ZMHBzdnAySUZLSm9LZDJYWWxNNVZhWi1QeDBZYjN3aw?oc=5"
     }
   ],
   "stocks": [
