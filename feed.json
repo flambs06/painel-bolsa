@@ -1,34 +1,106 @@
 {
-  "updated": "2026-11-23T17:02:04.234232+00:00",
-  "news": [],
+  "updated": "2026-11-23T18:53:37.622823+00:00",
+  "news": [
+    {
+      "d": "23 nov",
+      "s": "Observador",
+      "c": "Mercado",
+      "t": "Jensen Huang regressa à liderança da Nvidia",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSEZobnZpSnZUWGtBTU5lT0ZubUQybDFEeW9KWGJwcHE1MFhBenNFZXV3VUh6dTZlOElkRFRGNmhyZDZrczU2WmFJUVNTX1RYNmplaWlFR3B3UlF0WjZuN2M5RndZTGZrdS0tSDdHN3JJSmozdjl6YU5lWDJXZ1BNaEV2V0RZdFRCNzBrM2FMYlhWYzNldURJVzQwUXZaVVg0MVdN?oc=5"
+    },
+    {
+      "d": "23 nov",
+      "s": "RTP",
+      "c": "Mercado",
+      "t": "Lego investe mil milhões de euros e cria mil empregos em fábrica em Estarreja",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdUwySkx6MHNMTEg2anQ4RV9PeUxEZGdwQV9US09LTExxUDJOVXRZaXNNZ2N3WHluX2xhMDdDR3ZJM3BVRkVmczZrd0hDTWMxNUFmbEJiMnk1YTFPRFdjNjFGaFNmMzVCQjFzdnVjUVJMYkNNMW1xLURudG1ldXBZTnhER3ZzVl9NWnRVVWdSXzRvTDVyQk1NbXBEbFZnTUJzOG9ZWDJEOEljUEczY3lsdklsU3VFSmNiM2lvT1Q3VzY?oc=5"
+    },
+    {
+      "d": "23 nov",
+      "s": "ECO",
+      "c": "Mercado",
+      "t": "O dia em direto nos mercados e na economia – 23 de novembro",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQczNQcmJ4OTdKekFxeERDal82dkJlNURpVnZzazF5dl9zcndJR3h1c1BnMC1ZVVBVczBKQlk4MElMZDdTV2FfZEtGU1BYUUktZC1iMm1qYVBsdUNqMjNMY2ZBOXBYWC1zc0thQ185T29GcFg3ekhaX1dGUmdLWWpEWjM4emdWWEhic0lIUk03WUUxZkxYZGc?oc=5"
+    },
+    {
+      "d": "23 nov",
+      "s": "Público",
+      "c": "Mercado",
+      "t": "Tribunal europeu proíbe SUV da BYD por copiar desenho do Defender, marca vai recorrer | Empresas",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS2RvWk0zeDlUMl85NktyTFdWeS1mU0Nrb0hCTVBEa2pDTDZVamNqRjRrQ0IyS2Q3c2FJMGlWOEFVVVpITXFVQ1l1UWVjakp2VTlXTURlSlRZdGFPQjkwMFExRDdiRVNxMVNObWZ0UDVHVlJtc0pteVJWVGVSVXlpLWFTTlg3ZWRpU21aaVl0QTFDWkRVeWc4RkthOTBWVEZGNHlhbllhOXBCMDQ5Sy1WaGxBUjhHWEdheGx5TTRBSXlVRjY1TXpaUmdn?oc=5"
+    },
+    {
+      "d": "23 nov",
+      "s": "Jornal de Notícias",
+      "c": "Mercado",
+      "t": "Portugal espera segundo melhor ano de azeite de sempre",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxORm5QUURYZFF5VFFmMDVjaVBMUHpQaEVoNDZMbEU2OURVdDA0X1JBcTQ4NGJzTFhnUHNkdGdqNW9VUzRBb3BMTXF3TVRGQjZsaEhJZ2dVXzJZSHBIb3VMdHhucWpHamtHZTNOOUtTVWF1XzZfX0ktTUEtVXcxc0NWUjdqT1pGQ2VKQnJyNHZYYUNIQzRWelBoYnZMZktDZw?oc=5"
+    },
+    {
+      "d": "23 nov",
+      "s": "Jornal de Negócios",
+      "c": "Mercado",
+      "t": "Grandes empresas dão “choque de gestão” a 300 midcaps",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbFNHNktUSVZEZTUwa2RmZ3R2MFB5ekt2ckVWblphWnhuT0ZzZGt3elVmdjdfOGNNOHowYU4tYlFsM0NsODJtRTdnd01XTFFxUEwtNE9WUURhUXV5ZW5YVHRoR1dlUnJLTXIyeUdFWFRGYXdmTDd3OWNzbE1mMU9oSENjc0cwZVpFY1dvTzg5SEhCTlZYd1lJcFV1Ql95b1ZkeEE?oc=5"
+    },
+    {
+      "d": "23 nov",
+      "s": "Jornal de Notícias",
+      "c": "Mercado",
+      "t": "Congelar idade da reforma abre buraco de 1,5 mil milhões",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb2RacDl0VU5xQzZZUTFvRUZJOGM4ZzlQNFl5V3RhcFFtOGdpbk9hWFYzY3dlMVlNVlBWa0hWWkZDbkpvQ3hvWnJFdTFqc3UySHNILVdOTmh5NFRmWWUtZ19ZOE56RGhHVS1HbFJCY3RHSktMNVY3MExSTHRuaFVOMVdoR2Vma2h4MFlQTzFIYzdNUnE5VHEwUmtFODJ6Q1XSAY8BQVVfeXFMTlRiMnZHODlXRWZ3TjBIWHl5RE1CMHlUWFBRbU1QUmV0dWlueWNtUWt2bEVlM0h4eWdXbUZFdHRkN0lBeTdoOU92bERmYjRMUHRMbTRiNUw3MjN5ZExIRTVhRC0zdk9pWElIeWJXZ1hyd2kyMzlza1EtNDFJR3N4N1Y4aTRFRzZRdXF5U0dIREk?oc=5"
+    },
+    {
+      "d": "23 nov",
+      "s": "Jornal de Negócios",
+      "c": "Mercado",
+      "t": "Parlamento aprova 25% das propostas do PS e abana Orçamento do Estado",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbVRtbjlHVEF5UE1CWTg0SmpxWEllb0otSWplT1FVUWFtYUJ4a1RsQnVvNGlQUU5JTW1leVdxR1VwUnNmUk5pYjFmUmpqWGJWMm9LdDhUSFFUeXg5V0ZVWjFGeWszU0h0TEJHQlR3OEwtdkxPRDkwbXR6VDgtMFZJcmxCbEpoTERvV2w5dExrZG5aM2FhRDlfcXdFTUwyMlo0Ui1DQzhsN0Q0WUk5LXFBakh3cThsMXln?oc=5"
+    }
+  ],
   "stocks": [
     {
       "k": "NVDA",
       "n": "NVIDIA Corporation",
       "d": "up",
-      "x": "Variação de +32.78% na última sessão.",
-      "v": 32.78
+      "x": "Variação de +30.49% na última sessão.",
+      "v": 30.49
     },
     {
       "k": "TSLA",
       "n": "Tesla, Inc.",
       "d": "up",
-      "x": "Variação de +12.64% na última sessão.",
-      "v": 12.64
+      "x": "Variação de +11.87% na última sessão.",
+      "v": 11.87
     },
     {
       "k": "GOOGL",
       "n": "Alphabet Inc.",
       "d": "up",
-      "x": "Variação de +6.76% na última sessão.",
-      "v": 6.76
+      "x": "Variação de +6.88% na última sessão.",
+      "v": 6.88
     },
     {
       "k": "META",
       "n": "Meta Platforms, Inc.",
       "d": "up",
-      "x": "Variação de +6.30% na última sessão.",
-      "v": 6.3
+      "x": "Variação de +6.45% na última sessão.",
+      "v": 6.45
+    },
+    {
+      "k": "AMZN",
+      "n": "Amazon.com, Inc.",
+      "d": "up",
+      "x": "Variação de +4.41% na última sessão.",
+      "v": 4.41
     },
     {
       "k": "SIE.DE",
@@ -38,18 +110,11 @@
       "v": 4.12
     },
     {
-      "k": "AMZN",
-      "n": "Amazon.com, Inc.",
-      "d": "up",
-      "x": "Variação de +3.87% na última sessão.",
-      "v": 3.87
-    },
-    {
       "k": "MSFT",
       "n": "Microsoft Corporation",
       "d": "up",
-      "x": "Variação de +2.98% na última sessão.",
-      "v": 2.98
+      "x": "Variação de +2.30% na última sessão.",
+      "v": 2.3
     },
     {
       "k": "VOW3.DE",
