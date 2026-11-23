@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T03:57:40.225129+00:00",
+  "updated": "2026-11-23T05:15:01.393723+00:00",
   "news": [
     {
       "d": "23 nov",
@@ -29,6 +29,14 @@
       "d": "23 nov",
       "s": "Jornal de Negócios",
       "c": "Mercado",
+      "t": "Proposta do Chega para congelar idade da reforma tem impacto de 1,5 mil milhões em cinco anos",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOVU92RGtIYi1RV0ktQ2R0Q3l6dEdYelotVTkyZURQb0pEdHhmay1Sd3U2Zk9KVHlDNUk2dU5Zb3MtTndEaHI4UF9wQU5JaVFpMGtXWjM1MHVzbEk0MVVkaFYxZnI3LUQ5WHJZa19hOWtIbXE4X0l1alZhdW82Y2VhVG1rRXVacG9nb2xSLUxyWG1PanBlT0czdUtJOVhrcVJCOGhJcVRSYWpPLUZrTE81SXRKY2l4R01kM2Q3SFNHVUxycjBHeXhMQ3A5Z0JvMkNoQ0FnVTg4QzdRSzBVeTl5QTRwYzBSR2F0MDB1UVhhRWc0UTQ1ZEV0S0lDNC1SV2FUOHdXMnZxMllzeVdQ?oc=5"
+    },
+    {
+      "d": "23 nov",
+      "s": "Jornal de Negócios",
+      "c": "Mercado",
       "t": "A sua semana dia a dia: Rating de França, Ação de Graças e contas da Ibersol",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbjdaTWdyWW4yUUZuZ3VaOGZoMndTb1dhTS1WYWNJMi1jbG1wd1l5WC1VaTlObGhSbGN0XzJBbkxkZFlzNDhKZ0s3ZWNTU0lKbDZRV00yRUphRmZMTmtlX2VpUU55bkZUaWIwMkx4T0FDSlJsZGh2Z0ItN2xsR3VzSnh0UXFuUUhMWnZGdlVVZU5QMER5VHJ4ZHFiZTJqNG5FMXJCLU9kS0w4a2Q0a0xGOGtLcWUweUVXR2hpUklobVc?oc=5"
@@ -43,14 +51,6 @@
     },
     {
       "d": "23 nov",
-      "s": "Contas Poupança",
-      "c": "Mercado",
-      "t": "Bolsa esta semana: Wall Street afunda 8,6% e entra em correção",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUFJsZGRoT29sWjNSeS1ZR3NjOG9BbkhHbUREN0dRYm8wM3ZwRlY3a0FnVnBlS3ppcE0xN0pydEFGWFVRZHIxczZNbm8wYVk3WVZJanczQUJoZ1lGRWxmTVZzYk1aNmNqaFFMa2M0WnMtUzBJVjdJYlQyemRYOUE4Y1dGazJ3cUxsTDhsalNEemFsME9jdUxJcXM4ekRVcVJwbDZwU0hvR1ZEWWxncDBCY2xBZ3k5d0VnMUs0?oc=5"
-    },
-    {
-      "d": "23 nov",
       "s": "Idealista",
       "c": "Mercado",
       "t": "Preço das casas e rendas mais do que duplicaram em muitos municípios",
@@ -59,11 +59,11 @@
     },
     {
       "d": "23 nov",
-      "s": "Público",
+      "s": "Contas Poupança",
       "c": "Mercado",
-      "t": "Portugal terá em 2027 uma das políticas mais contraccionistas da UE",
+      "t": "Bolsa esta semana: Wall Street afunda 8,6% e entra em correção",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUnNZV1ZRQXQ2d2lYalc0TnBueUJwYzU3T3o0cGZPay0yZ0pLc3NKNTRfVEJzNU9HMnZSR0pYbDNldEczMzRkZHl3SG5xMTJPeF9GelNwNjNSVi1rVXZ5bk5CbFdwdm9KMTZGZjBmQW4wdEZjTnZhb3BSakthN0J6cVk1ejM2MTZ4N2NveU5jRjhtaDZRSmZzRDN2YTNPWkNCWk1sbXp1amdBaTA?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUFJsZGRoT29sWjNSeS1ZR3NjOG9BbkhHbUREN0dRYm8wM3ZwRlY3a0FnVnBlS3ppcE0xN0pydEFGWFVRZHIxczZNbm8wYVk3WVZJanczQUJoZ1lGRWxmTVZzYk1aNmNqaFFMa2M0WnMtUzBJVjdJYlQyemRYOUE4Y1dGazJ3cUxsTDhsalNEemFsME9jdUxJcXM4ekRVcVJwbDZwU0hvR1ZEWWxncDBCY2xBZ3k5d0VnMUs0?oc=5"
     }
   ],
   "stocks": [
