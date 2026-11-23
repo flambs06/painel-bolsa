@@ -1,127 +1,62 @@
 {
-  "updated": "2026-11-23T15:59:08.105712+00:00",
-  "news": [
-    {
-      "d": "23 nov",
-      "s": "Público",
-      "c": "Mercado",
-      "t": "Reviravolta na Nvidia: Jensen Huang regressa à presidência, acções disparam | Inteligência artificial",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb0VCdVlqVEpFdlRVQW1nUkJvM3VVaEdWSUR5MzN2ekFGcndCd1RJVHhSOFE5RGlIVXFZWVV4c0tEeGY1aXpfT1hlbk9JaEhiUl8xbU1VZTB6dVV3ZmNidFZyMFZldS1BMTNBcnRZVnp6WUhscWkzZ1pNNklBRWpHdnRuZ0FmcmFDa1k5TFozWmVZdVdrcGFPU1cyNk9iN2kxX1BkWHRFbmVKWTNrbzdpUXk3TmtuY3hwbjNrSWZZZ3gyZw?oc=5"
-    },
-    {
-      "d": "23 nov",
-      "s": "RTP",
-      "c": "Mercado",
-      "t": "Lego investe mil milhões de euros e cria mil empregos em fábrica em Estarreja",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdUwySkx6MHNMTEg2anQ4RV9PeUxEZGdwQV9US09LTExxUDJOVXRZaXNNZ2N3WHluX2xhMDdDR3ZJM3BVRkVmczZrd0hDTWMxNUFmbEJiMnk1YTFPRFdjNjFGaFNmMzVCQjFzdnVjUVJMYkNNMW1xLURudG1ldXBZTnhER3ZzVl9NWnRVVWdSXzRvTDVyQk1NbXBEbFZnTUJzOG9ZWDJEOEljUEczY3lsdklsU3VFSmNiM2lvT1Q3VzY?oc=5"
-    },
-    {
-      "d": "23 nov",
-      "s": "CNN Portugal",
-      "c": "Mercado",
-      "t": "Tribunal trava vendas de SUV da BYD na União Europeia por alegada cópia do Land Rover Defender",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOT1Q0ZDliVWtEXzBnSFQzblFMMmtoWTl3Zy1NdE5FQlo1VTc0OWMtQmVJRGU0bjhUMjNvRXhrUkV1dUpGazdOU2ItOU9UOUh3d3lqQVltZ09aZXBCX2Y3M1czQXZJVE45TU5SUU5TOTFEWnczQ0NILWYtWXR4M2t5U1pLdWJ6RUpuMUJBZ2lJRFFIbm52aWx5anI4NFN0R2NfcFdPSDh4VDBteE9RbWRBTm13R2E1S0FrWnpfVHpGR3ZnSFdxbDNmc2Vwa3h2dUNTRldUZmpoWFZyWjYxLXhWSi1IUzRWYnJlcHVkSmNmMDhRb3BGdm10bzEzaVJnN3hreV9sSG9kUi1zUQ?oc=5"
-    },
-    {
-      "d": "23 nov",
-      "s": "Jornal de Notícias",
-      "c": "Mercado",
-      "t": "Portugal espera segundo melhor ano de azeite de sempre",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxORm5QUURYZFF5VFFmMDVjaVBMUHpQaEVoNDZMbEU2OURVdDA0X1JBcTQ4NGJzTFhnUHNkdGdqNW9VUzRBb3BMTXF3TVRGQjZsaEhJZ2dVXzJZSHBIb3VMdHhucWpHamtHZTNOOUtTVWF1XzZfX0ktTUEtVXcxc0NWUjdqT1pGQ2VKQnJyNHZYYUNIQzRWelBoYnZMZktDZw?oc=5"
-    },
-    {
-      "d": "23 nov",
-      "s": "Jornal de Negócios",
-      "c": "Mercado",
-      "t": "Parlamento aprova 25% das propostas do PS e abana Orçamento do Estado",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbVRtbjlHVEF5UE1CWTg0SmpxWEllb0otSWplT1FVUWFtYUJ4a1RsQnVvNGlQUU5JTW1leVdxR1VwUnNmUk5pYjFmUmpqWGJWMm9LdDhUSFFUeXg5V0ZVWjFGeWszU0h0TEJHQlR3OEwtdkxPRDkwbXR6VDgtMFZJcmxCbEpoTERvV2w5dExrZG5aM2FhRDlfcXdFTUwyMlo0Ui1DQzhsN0Q0WUk5LXFBakh3cThsMXln?oc=5"
-    },
-    {
-      "d": "23 nov",
-      "s": "Jornal de Negócios",
-      "c": "Mercado",
-      "t": "Endividamento da economia portuguesa e 4 outras coisas que precisa de saber para começar o dia",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVlVtZ0ZvOExtM3BJdnh4OUdvRHcwcHJzeUplTnlqRnZ6MkxyTjVCbm9rQ0dhczRiYzk1Qy1VLTVtNlhmb3hpUlRiUTdMWk4zMUMtSkxJX0puR081SXRsS0dFSTZuX3ZyVldYNlhlRXNSZTMxcDVoQmQ1MDMyQUlSTG81R2hwSl9mYjlaYndWTHY5MGJBcDluTnZjOE4yVE1IVGlubHRxU1FlYWJ5ekU3bm1Hbk5NYnJwUUxSeS1ocDg2TDR4Zzc2b0VIamdDQ041T3NCdk9FTzZpZjg?oc=5"
-    },
-    {
-      "d": "23 nov",
-      "s": "RTP",
-      "c": "Mercado",
-      "t": "Sindicato dos trabalhadores da CGD convoca greve para 18 de dezembro",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUXNOZXluWWszZmJ4VVVBWDVYR183YzRqT2pfWE5FalVCSVNEem5oOENuRmxIV3ZQdTN5MFlnQ1h5ejg1UVNTa0N1cGZGZlk1N2xzMnZmZ09KbXBleXpqVDhTWWdBOGpCSEhIWGNvdlhMVjZYU0dSMUZVQzJhUVBNaXBxYXNTYUZYWlNuNUdYd3lXOFF2by0ydE5IT041QlhKSTlmR3AwOVdsMmRqR25Db1ZVN2E?oc=5"
-    },
-    {
-      "d": "23 nov",
-      "s": "Idealista",
-      "c": "Mercado",
-      "t": "Habitação em Lisboa: em 5 anos rendas subiram 76% e compra de casa 27%",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM2xQNW1hdHFHVTFoN0l5cVdKN0tNUTN6WmVVRHl5bTZIb3U0VV8xTmNSbU9ZbXJGejdPOHVabFBLamtPdlN2a0FKR1pQUjJxZDFLRk4yX29KUVZoajd4VEpIWHJPU3ExOFJFRDF5d2F5eklfeDMwWDVCcGpGTnlnZkFHTW4yNW5mYWp1eDVtZzhfOEk1VUJrQzEyVG9Uam01cFpCbEVuY0dRUngzS19YZExNcWhNTTFNN084SmdBUUo2eFNMcnVGQ09hb0hXUTYydHc?oc=5"
-    }
-  ],
+  "updated": "2026-11-23T17:02:04.234232+00:00",
+  "news": [],
   "stocks": [
     {
       "k": "NVDA",
       "n": "NVIDIA Corporation",
       "d": "up",
-      "x": "Variação de +34.07% na última sessão.",
-      "v": 34.07
+      "x": "Variação de +32.78% na última sessão.",
+      "v": 32.78
     },
     {
       "k": "TSLA",
       "n": "Tesla, Inc.",
       "d": "up",
-      "x": "Variação de +12.82% na última sessão.",
-      "v": 12.82
+      "x": "Variação de +12.64% na última sessão.",
+      "v": 12.64
     },
     {
       "k": "GOOGL",
       "n": "Alphabet Inc.",
       "d": "up",
-      "x": "Variação de +6.28% na última sessão.",
-      "v": 6.28
+      "x": "Variação de +6.76% na última sessão.",
+      "v": 6.76
     },
     {
       "k": "META",
       "n": "Meta Platforms, Inc.",
       "d": "up",
-      "x": "Variação de +5.91% na última sessão.",
-      "v": 5.91
+      "x": "Variação de +6.30% na última sessão.",
+      "v": 6.3
     },
     {
       "k": "SIE.DE",
       "n": "SIEMENS AG                    N",
       "d": "up",
-      "x": "Variação de +4.36% na última sessão.",
-      "v": 4.36
+      "x": "Variação de +4.12% na última sessão.",
+      "v": 4.12
     },
     {
       "k": "AMZN",
       "n": "Amazon.com, Inc.",
       "d": "up",
-      "x": "Variação de +4.20% na última sessão.",
-      "v": 4.2
+      "x": "Variação de +3.87% na última sessão.",
+      "v": 3.87
     },
     {
       "k": "MSFT",
       "n": "Microsoft Corporation",
       "d": "up",
-      "x": "Variação de +3.24% na última sessão.",
-      "v": 3.24
+      "x": "Variação de +2.98% na última sessão.",
+      "v": 2.98
     },
     {
-      "k": "AAPL",
-      "n": "Apple Inc.",
+      "k": "VOW3.DE",
+      "n": "VOLKSWAGEN AG                 V",
       "d": "up",
-      "x": "Variação de +1.97% na última sessão.",
-      "v": 1.97
+      "x": "Variação de +2.14% na última sessão.",
+      "v": 2.14
     }
   ]
 }
