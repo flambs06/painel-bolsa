@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T22:52:28.696542+00:00",
+  "updated": "2026-11-24T23:44:35.696911+00:00",
   "news": [
     {
       "d": "24 nov",
@@ -75,27 +75,6 @@
       "v": -5.86
     },
     {
-      "k": "SIE.DE",
-      "n": "SIEMENS AG                    N",
-      "d": "dn",
-      "x": "Variação de -3.96% na última sessão.",
-      "v": -3.96
-    },
-    {
-      "k": "VOW3.DE",
-      "n": "VOLKSWAGEN AG                 V",
-      "d": "dn",
-      "x": "Variação de -2.50% na última sessão.",
-      "v": -2.5
-    },
-    {
-      "k": "SAP.DE",
-      "n": "SAP SE                        I",
-      "d": "up",
-      "x": "Variação de +2.01% na última sessão.",
-      "v": 2.01
-    },
-    {
       "k": "AAPL",
       "n": "Apple Inc.",
       "d": "up",
@@ -122,6 +101,27 @@
       "d": "dn",
       "x": "Variação de -1.08% na última sessão.",
       "v": -1.08
+    },
+    {
+      "k": "MSFT",
+      "n": "Microsoft Corporation",
+      "d": "up",
+      "x": "Variação de +0.74% na última sessão.",
+      "v": 0.74
+    },
+    {
+      "k": "TSLA",
+      "n": "Tesla, Inc.",
+      "d": "dn",
+      "x": "Variação de -0.20% na última sessão.",
+      "v": -0.2
+    },
+    {
+      "k": "SAP.DE",
+      "n": "SAP SE                        I",
+      "d": "dn",
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
     }
   ]
 }
