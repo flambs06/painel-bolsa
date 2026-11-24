@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T19:57:33.796605+00:00",
+  "updated": "2026-11-24T20:51:55.313706+00:00",
   "news": [
     {
       "d": "24 nov",
@@ -43,14 +43,6 @@
     },
     {
       "d": "24 nov",
-      "s": "Jornal de Negócios",
-      "c": "Mercado",
-      "t": "Nvidia afunda 7% e Anthropic tomba 11%. Cotadas arrastam Nasdaq e Europa para o vermelho",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZWwxSVMzblFrdUZNUkpXTEVrd2RVd2tGdWtFNnNBc1h0bE9HZEx3OFhVRHltTkZhR2F2ZVZSYzkwRDVoTnIzZFlNcGsxSUJraGJlaWZtZDVfWmt4TWNtc29jWGhKWmJjSV9lVGVGZGpMLVN5b2FfSmZUbWVnWFBmMFExWEFjTjVzbmlZYjVscFN5YVozeXFVU1NtTDk4cFZiRFZGUTJaN0pWbU8xZ3dWbXREbUM1WE1JMFBRaDJsWk5JanNtU3hBUHIwS2xTZ2x5Z0tNOWtOVE81c0ZHQm1lRWpFQnVwbHpWZzRzTEp30gHoAUFVX3lxTFBRQWhwSU9XTkhPUkxBTG43eFFxckp1ck9YMG5Rc1BvWk5hY20yTXVHb2ZwQ3REa2c0WE1UT3pab0V1UWMwRkdhYTVnbWVoSjMtLWVrVjZLSGc2Q3lwSUhPVEIxOUh4YzRoak5XbnZyaXA0TFE2ZTR0Nk5ZUmxKdndHZFFYNXVDZHV0aFNpVXRtX2g1cWZZWU9nTDZGQjBSYWstclE3RHpaSFNYMjcwN1ZIOElCMVJsQkRCeDVJa2Z1MDRIUDAxbEN5dzQ1ZTZSYTgzTUdvZE5TczFZdkpCaXktU1h6elYySjg?oc=5"
-    },
-    {
-      "d": "24 nov",
       "s": "ECO",
       "c": "Mercado",
       "t": "Chinesa BYD vai recorrer de proibição de venda de carros na União Europeia",
@@ -64,6 +56,14 @@
       "t": "Ventura admite prolongar IVA 0 nos alimentos além de três meses e promete baixar imposto aos senhorios para 5%",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbFZIZ2Y2UkZ4NEZaYjRPd29DakNpd2FxZWF1Q1BwRzNFckI4Q2htdHRaY25NTlh0RVBoQW5FZ1haM2tPRk12bEpTQnkxMUVRYUIwS0pJREVpRk5CNDRQTWFXRmxkNEE3TW5RaDdLbVZSdi1WMXhsVWpENlVsdTh2V0FsRV81bU9IZ01fVWJEemFVMThzMC1KSlVyWUVWbGRQazZ0ZWtaODItZVB4Rm8wZmowSVVTWWdldEtKbDh0N3I1QzZwZUdVc0YzSlVob2ZqdlZ4LTJR?oc=5"
+    },
+    {
+      "d": "24 nov",
+      "s": "ECO",
+      "c": "Mercado",
+      "t": "Do IRS às pensões: Grandes empresas apresentam “choque” reformista para Portugal crescer",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQalRybkRITXpORERqMGk1aUxCTlZudml2eGRpampoeHV5TmMxOURTSUpSTDRpc3p5YXl4dHp5RDJvYmJYMlYxZ0ZHRXNWVm1wS3ZYMnR6SnFSZ3pQNDIwSkdzSmNSOGp3N0g5WVVBNFZzdkMxZVp4YzR6MkV6UzhfaTRzbV9KelBtbnJCSUZGbGhjQUhnemJLM0pfRlZaOFYtQ0xxQjRXSDgzOTA4WjdvWmlQZ3ZTQkdw?oc=5"
     }
   ],
   "stocks": [
@@ -71,8 +71,8 @@
       "k": "NVDA",
       "n": "NVIDIA Corporation",
       "d": "dn",
-      "x": "Variação de -7.52% na última sessão.",
-      "v": -7.52
+      "x": "Variação de -6.23% na última sessão.",
+      "v": -6.23
     },
     {
       "k": "SIE.DE",
@@ -96,32 +96,32 @@
       "v": 2.01
     },
     {
-      "k": "GOOGL",
-      "n": "Alphabet Inc.",
-      "d": "dn",
-      "x": "Variação de -1.60% na última sessão.",
-      "v": -1.6
+      "k": "AAPL",
+      "n": "Apple Inc.",
+      "d": "up",
+      "x": "Variação de +1.33% na última sessão.",
+      "v": 1.33
     },
     {
       "k": "AMZN",
       "n": "Amazon.com, Inc.",
       "d": "dn",
-      "x": "Variação de -1.52% na última sessão.",
-      "v": -1.52
+      "x": "Variação de -1.20% na última sessão.",
+      "v": -1.2
+    },
+    {
+      "k": "GOOGL",
+      "n": "Alphabet Inc.",
+      "d": "dn",
+      "x": "Variação de -1.14% na última sessão.",
+      "v": -1.14
     },
     {
       "k": "META",
       "n": "Meta Platforms, Inc.",
       "d": "dn",
-      "x": "Variação de -1.18% na última sessão.",
-      "v": -1.18
-    },
-    {
-      "k": "TSLA",
-      "n": "Tesla, Inc.",
-      "d": "dn",
-      "x": "Variação de -0.94% na última sessão.",
-      "v": -0.94
+      "x": "Variação de -1.02% na última sessão.",
+      "v": -1.02
     }
   ]
 }
