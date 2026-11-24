@@ -1,13 +1,21 @@
 {
-  "updated": "2026-11-24T08:56:48.622158+00:00",
+  "updated": "2026-11-24T10:04:11.184052+00:00",
   "news": [
     {
       "d": "24 nov",
-      "s": "Observador",
+      "s": "CNN Portugal",
       "c": "Mercado",
-      "t": "Jensen Huang regressa à liderança da Nvidia",
+      "t": "Jensen Huang readmitido como CEO da Nvidia com efeitos imediatos",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSEZobnZpSnZUWGtBTU5lT0ZubUQybDFEeW9KWGJwcHE1MFhBenNFZXV3VUh6dTZlOElkRFRGNmhyZDZrczU2WmFJUVNTX1RYNmplaWlFR3B3UlF0WjZuN2M5RndZTGZrdS0tSDdHN3JJSmozdjl6YU5lWDJXZ1BNaEV2V0RZdFRCNzBrM2FMYlhWYzNldURJVzQwUXZaVVg0MVdN?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYzlmS1NtYk41SmZPbE12dVloREZUelU2aW0yWXhJVkFpMlhmZVNVWXdIVkJrODE1NndpeTczbU1DRXRxbkNiS0JSbEpQeHIzc3ZBcUkxbS1DRzJSTnUwX3JlWHpVNG5GZVlncTdtRDlXR0hKdXBjZUpBMnNJR2lpRl8ySzhLSko2ODFvdTBfTWFZMVJWQU9jY0Jrc3V0MmpUbG5zVUl6RFM0WWxtSXZSLTdvOHpmRG1seU9EYkZhUGdEYXZnVk1OdEtCay0xYUk0R0JUNmRTeWk1TmJEZ0E?oc=5"
+    },
+    {
+      "d": "24 nov",
+      "s": "ECO",
+      "c": "Mercado",
+      "t": "Chinesa BYD vai recorrer de proibição de venda de carros na União Europeia",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVWxZcHhRV2JES0pKdFA5bzE4c2JpSXNGLTNVeml0d3FBcUh3aG15S0Y1ajhoV2d4ODE5Z05IS0ZjUE5hMEF3SFNFdUlKN21TZy1CMGN4NEhpMXd2ZUhaOS1yVUpyREk5bUdTM0JvX3J2WXJ0VHJkSlJkOGhmTXJsdWN2QUc1UHA5VENGYi1kOHlzNmlTSDZUWUN5WXNkYXNBSzJLUlNnVEFndw?oc=5"
     },
     {
       "d": "24 nov",
@@ -19,6 +27,14 @@
     },
     {
       "d": "24 nov",
+      "s": "Idealista",
+      "c": "Mercado",
+      "t": "Alterações à renda moderada podem penalizar 700 mil inquilinos",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbnoxcnNCMXNUV3Vzc1J2RDJNNXhGOGFIMHFCaWdCa3lwd1ZBMnhuZy1xRDdIdHNmS0FOMDh6MEhwYkFIMlFyb1VpamhQX2w1RndZNU8yZEtvM1ZBdkp3d3hfb3pmQUwyTkluSkd2Qm5ZcEU1TzZ6dkpyVHE2aktxbGlKX2hrTG1DY0puRWx3cWR0dGtfdG1SaTBSVDRrQW9qR1NtbXJTNUZTWVR4LTZNYWJmUUNqazVxbTU0akJFakhPZEpOblpLWm1ZQQ?oc=5"
+    },
+    {
+      "d": "24 nov",
       "s": "Jornal de Notícias",
       "c": "Mercado",
       "t": "Portugal espera segundo melhor ano de azeite de sempre",
@@ -27,11 +43,11 @@
     },
     {
       "d": "24 nov",
-      "s": "Jornal de Negócios",
+      "s": "Notícias ao Minuto",
       "c": "Mercado",
-      "t": "Tribunal europeu proíbe venda de SUV da BYD por copiar desenho da Land Rover",
+      "t": "Ex-amante do CEO da Nvidia teve ligações com serviços secretos chineses",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOHdMUU8xSVhKNTNvX3BwU01WVUQxYXJidUtneTU0akkxdURJX3hhQ3NBSkgtWmktZll6NXF5bzc1UzFaOTQtY3prZmFBSzJWYnczazY0N2tFZ0h0dDZUYkMwSFcxdkpLRjhoV1lNRzJCeUZNRHpsSVp1ejllVWE0aEUwRFVMVFZqZl9HQ0xPTEFGSDYxb2hNb3NtYUtyWEN2MUNxRno5QVp0MEdRUmlRQnlSME0xT2tLZzFNcFg2d2dOWkHSAb4BQVVfeXFMT0dMNWJWQUJ5MjA4MU5LeWhQZlRoTzFXTnZpU3ZDV2RJLVZBTl9JcVBreUlXcVlBUHBMV1Q0S2lwWmZqc2praFF1X29BTWFLNTNKOXdYN0d5RFdBOFc1bjQxUlc3WDlrclU5X1Y5TE04NUpBLVp3LVF4RHdobEdJWmRzOEJVNkNKM2wteG5FT1R6QnZFeXFWR0NRaHFSUGM3dE1BNzNqY2p6UTlMUlY2bmFvdFBacE1KNkRORW9WZw?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMURGTUV4QU1WT3VETzBXdjMtbGpvNDBpQmRvYkpoTWl4Z1dHNkc4Sjl4YkNlWjZ1bk5DR0VFamFnWUQxYk9HWUM4UnNhdFl0ZGxLalhLaWt0OEtEUlJZUkhNeG43VTNSNFZiMXlnTy1DSEpTM0didi1WU0VadUxLY01lUk5BZW83WmpoU3NtODRPLW9VLVYxZ21oS2lIVl9HTW1kcW5fa1ZrMlV1ODdqdFRHUWF1RUFK?oc=5"
     },
     {
       "d": "24 nov",
@@ -43,27 +59,11 @@
     },
     {
       "d": "24 nov",
-      "s": "SAPO",
-      "c": "Mercado",
-      "t": "Trump afirma ter dedo no regresso de Huang à Nvidia",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNektYSUNpTXRlWmN6THRFYmlWNmVVZ04wZllnVFVuVUpUY3pmM2ZGSmY1REFzd3RzOVFFNWd4ZGdqekctdGJqV2hnN3gybzJoV0s0ZHhhM1hIVnhhQk4wZUlIMFRGN3VtcGJkU2szZnhXcFcxcGJ1S1ZTUkg4UndTeUVXYlpMRG1qbXlCTFI5Rmlpd3JmRElEZ19DZ1Y2MU1q?oc=5"
-    },
-    {
-      "d": "24 nov",
       "s": "Diário de Notícias",
       "c": "Mercado",
       "t": "Ventura admite prolongar IVA 0 nos alimentos além de três meses e promete baixar imposto aos senhorios para 5%",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbFZIZ2Y2UkZ4NEZaYjRPd29DakNpd2FxZWF1Q1BwRzNFckI4Q2htdHRaY25NTlh0RVBoQW5FZ1haM2tPRk12bEpTQnkxMUVRYUIwS0pJREVpRk5CNDRQTWFXRmxkNEE3TW5RaDdLbVZSdi1WMXhsVWpENlVsdTh2V0FsRV81bU9IZ01fVWJEemFVMThzMC1KSlVyWUVWbGRQazZ0ZWtaODItZVB4Rm8wZmowSVVTWWdldEtKbDh0N3I1QzZwZUdVc0YzSlVob2ZqdlZ4LTJR?oc=5"
-    },
-    {
-      "d": "24 nov",
-      "s": "ECO",
-      "c": "Mercado",
-      "t": "Do IRS às pensões: Grandes empresas apresentam “choque” reformista para Portugal crescer",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQalRybkRITXpORERqMGk1aUxCTlZudml2eGRpampoeHV5TmMxOURTSUpSTDRpc3p5YXl4dHp5RDJvYmJYMlYxZ0ZHRXNWVm1wS3ZYMnR6SnFSZ3pQNDIwSkdzSmNSOGp3N0g5WVVBNFZzdkMxZVp4YzR6MkV6UzhfaTRzbV9KelBtbnJCSUZGbGhjQUhnemJLM0pfRlZaOFYtQ0xxQjRXSDgzOTA4WjdvWmlQZ3ZTQkdw?oc=5"
     }
   ],
   "stocks": [
@@ -117,11 +117,11 @@
       "v": 1.65
     },
     {
-      "k": "VOW3.DE",
-      "n": "VOLKSWAGEN AG                 V",
+      "k": "SIE.DE",
+      "n": "SIEMENS AG                    N",
       "d": "dn",
-      "x": "Variação de -0.75% na última sessão.",
-      "v": -0.75
+      "x": "Variação de -1.15% na última sessão.",
+      "v": -1.15
     }
   ]
 }
