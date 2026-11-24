@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-24T14:52:14.108734+00:00",
+  "updated": "2026-11-24T15:59:59.717940+00:00",
   "news": [
+    {
+      "d": "24 nov",
+      "s": "Público",
+      "c": "Mercado",
+      "t": "Congresso dos EUA aperta cerco a Jensen Huang após regresso à liderança da Nvidia",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcURpT2JhRklkR2lQbUZzM1hBb2lhVEFoSlJ1WUtDT2taWkQ0NFpva0lLRi1TZUROZTB6YjRwVlNCTVplWHhJUG1UcTNSMzN6UmFrTXRXTFBnMW1lOXNQWU1LU0lHTG5iX3VTcUJaQ3JBdU01T2FxN0VJUHVxbll5TE1GaFhGc2dvS1VISEhBOTNMbXhmckdyZTRUVHJvdWZtX0UwTFU5d1BoOG8zWUhfbElad29peXluTW85dFBYejVwdUwt?oc=5"
+    },
     {
       "d": "24 nov",
       "s": "ECO",
@@ -8,14 +16,6 @@
       "t": "Chinesa BYD vai recorrer de proibição de venda de carros na União Europeia",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVWxZcHhRV2JES0pKdFA5bzE4c2JpSXNGLTNVeml0d3FBcUh3aG15S0Y1ajhoV2d4ODE5Z05IS0ZjUE5hMEF3SFNFdUlKN21TZy1CMGN4NEhpMXd2ZUhaOS1yVUpyREk5bUdTM0JvX3J2WXJ0VHJkSlJkOGhmTXJsdWN2QUc1UHA5VENGYi1kOHlzNmlTSDZUWUN5WXNkYXNBSzJLUlNnVEFndw?oc=5"
-    },
-    {
-      "d": "24 nov",
-      "s": "CNN Portugal",
-      "c": "Mercado",
-      "t": "Jensen Huang readmitido como CEO da Nvidia com efeitos imediatos",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYzlmS1NtYk41SmZPbE12dVloREZUelU2aW0yWXhJVkFpMlhmZVNVWXdIVkJrODE1NndpeTczbU1DRXRxbkNiS0JSbEpQeHIzc3ZBcUkxbS1DRzJSTnUwX3JlWHpVNG5GZVlncTdtRDlXR0hKdXBjZUpBMnNJR2lpRl8ySzhLSko2ODFvdTBfTWFZMVJWQU9jY0Jrc3V0MmpUbG5zVUl6RFM0WWxtSXZSLTdvOHpmRG1seU9EYkZhUGdEYXZnVk1OdEtCay0xYUk0R0JUNmRTeWk1TmJEZ0E?oc=5"
     },
     {
       "d": "24 nov",
@@ -35,11 +35,19 @@
     },
     {
       "d": "24 nov",
-      "s": "RTP",
+      "s": "Diário de Notícias",
       "c": "Mercado",
-      "t": "Lego investe mil milhões de euros e cria mil empregos em fábrica em Estarreja",
+      "t": "Ventura admite prolongar IVA 0 nos alimentos além de três meses e promete baixar imposto aos senhorios para 5%",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdUwySkx6MHNMTEg2anQ4RV9PeUxEZGdwQV9US09LTExxUDJOVXRZaXNNZ2N3WHluX2xhMDdDR3ZJM3BVRkVmczZrd0hDTWMxNUFmbEJiMnk1YTFPRFdjNjFGaFNmMzVCQjFzdnVjUVJMYkNNMW1xLURudG1ldXBZTnhER3ZzVl9NWnRVVWdSXzRvTDVyQk1NbXBEbFZnTUJzOG9ZWDJEOEljUEczY3lsdklsU3VFSmNiM2lvT1Q3VzY?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbFZIZ2Y2UkZ4NEZaYjRPd29DakNpd2FxZWF1Q1BwRzNFckI4Q2htdHRaY25NTlh0RVBoQW5FZ1haM2tPRk12bEpTQnkxMUVRYUIwS0pJREVpRk5CNDRQTWFXRmxkNEE3TW5RaDdLbVZSdi1WMXhsVWpENlVsdTh2V0FsRV81bU9IZ01fVWJEemFVMThzMC1KSlVyWUVWbGRQazZ0ZWtaODItZVB4Rm8wZmowSVVTWWdldEtKbDh0N3I1QzZwZUdVc0YzSlVob2ZqdlZ4LTJR?oc=5"
+    },
+    {
+      "d": "24 nov",
+      "s": "ECO",
+      "c": "Mercado",
+      "t": "Do IRS às pensões: Grandes empresas apresentam “choque” reformista para Portugal crescer",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQalRybkRITXpORERqMGk1aUxCTlZudml2eGRpampoeHV5TmMxOURTSUpSTDRpc3p5YXl4dHp5RDJvYmJYMlYxZ0ZHRXNWVm1wS3ZYMnR6SnFSZ3pQNDIwSkdzSmNSOGp3N0g5WVVBNFZzdkMxZVp4YzR6MkV6UzhfaTRzbV9KelBtbnJCSUZGbGhjQUhnemJLM0pfRlZaOFYtQ0xxQjRXSDgzOTA4WjdvWmlQZ3ZTQkdw?oc=5"
     },
     {
       "d": "24 nov",
@@ -51,19 +59,11 @@
     },
     {
       "d": "24 nov",
-      "s": "Idealista",
+      "s": "RTP",
       "c": "Mercado",
-      "t": "Habitação em Lisboa: em 5 anos rendas subiram 76% e compra de casa 27%",
+      "t": "Lego investe mil milhões de euros e cria mil empregos em fábrica em Estarreja",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM2xQNW1hdHFHVTFoN0l5cVdKN0tNUTN6WmVVRHl5bTZIb3U0VV8xTmNSbU9ZbXJGejdPOHVabFBLamtPdlN2a0FKR1pQUjJxZDFLRk4yX29KUVZoajd4VEpIWHJPU3ExOFJFRDF5d2F5eklfeDMwWDVCcGpGTnlnZkFHTW4yNW5mYWp1eDVtZzhfOEk1VUJrQzEyVG9Uam01cFpCbEVuY0dRUngzS19YZExNcWhNTTFNN084SmdBUUo2eFNMcnVGQ09hb0hXUTYydHc?oc=5"
-    },
-    {
-      "d": "24 nov",
-      "s": "Observador",
-      "c": "Mercado",
-      "t": "Alice Huang manteve contactos com serviços secretos chineses durante relação extraconjugal com fundador da Nvidia",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdjQ0dUU3eVMyQzcwMkFOaEhKZFhDVjlGS0RFU2MwWkdoR0VMQ05tLWhpSXozN19iWURsbVE1Q09IaTM4V0Z4ekNJOS1mSzU4NF9fNmNHVXNuSTVhYzJMbUoxelpsbGxiWUhqRWZvcUVkZXprT1RLamRjX25NOHVpNGJBUzFoTm9lcFhhcTZ2S19UTEZ3TzlHUUNDclpkMkV1NUZvUzZxdUF2YnZVVFJONGRoLTFkekdESUdHNWlsOHJTLWJ5YjlqeDJpY2dPM0JEaW0yQ0VoNnhfdVJUWDZtSA?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdUwySkx6MHNMTEg2anQ4RV9PeUxEZGdwQV9US09LTExxUDJOVXRZaXNNZ2N3WHluX2xhMDdDR3ZJM3BVRkVmczZrd0hDTWMxNUFmbEJiMnk1YTFPRFdjNjFGaFNmMzVCQjFzdnVjUVJMYkNNMW1xLURudG1ldXBZTnhER3ZzVl9NWnRVVWdSXzRvTDVyQk1NbXBEbFZnTUJzOG9ZWDJEOEljUEczY3lsdklsU3VFSmNiM2lvT1Q3VzY?oc=5"
     }
   ],
   "stocks": [
@@ -71,57 +71,57 @@
       "k": "NVDA",
       "n": "NVIDIA Corporation",
       "d": "dn",
-      "x": "Variação de -5.29% na última sessão.",
-      "v": -5.29
+      "x": "Variação de -7.82% na última sessão.",
+      "v": -7.82
     },
     {
       "k": "SIE.DE",
       "n": "SIEMENS AG                    N",
       "d": "dn",
-      "x": "Variação de -1.96% na última sessão.",
-      "v": -1.96
+      "x": "Variação de -3.55% na última sessão.",
+      "v": -3.55
     },
     {
       "k": "VOW3.DE",
       "n": "VOLKSWAGEN AG                 V",
       "d": "dn",
-      "x": "Variação de -1.78% na última sessão.",
-      "v": -1.78
+      "x": "Variação de -2.75% na última sessão.",
+      "v": -2.75
     },
     {
-      "k": "AAPL",
-      "n": "Apple Inc.",
-      "d": "up",
-      "x": "Variação de +1.07% na última sessão.",
-      "v": 1.07
-    },
-    {
-      "k": "GOOGL",
-      "n": "Alphabet Inc.",
+      "k": "TSLA",
+      "n": "Tesla, Inc.",
       "d": "dn",
-      "x": "Variação de -0.97% na última sessão.",
-      "v": -0.97
-    },
-    {
-      "k": "BMW.DE",
-      "n": "BAYERISCHE MOTOREN WERKE AG   S",
-      "d": "dn",
-      "x": "Variação de -0.90% na última sessão.",
-      "v": -0.9
+      "x": "Variação de -1.67% na última sessão.",
+      "v": -1.67
     },
     {
       "k": "SAP.DE",
       "n": "SAP SE                        I",
       "d": "up",
-      "x": "Variação de +0.54% na última sessão.",
-      "v": 0.54
+      "x": "Variação de +1.62% na última sessão.",
+      "v": 1.62
     },
     {
-      "k": "TSLA",
-      "n": "Tesla, Inc.",
-      "d": "up",
-      "x": "Variação de +0.46% na última sessão.",
-      "v": 0.46
+      "k": "META",
+      "n": "Meta Platforms, Inc.",
+      "d": "dn",
+      "x": "Variação de -1.36% na última sessão.",
+      "v": -1.36
+    },
+    {
+      "k": "GOOGL",
+      "n": "Alphabet Inc.",
+      "d": "dn",
+      "x": "Variação de -1.31% na última sessão.",
+      "v": -1.31
+    },
+    {
+      "k": "AMZN",
+      "n": "Amazon.com, Inc.",
+      "d": "dn",
+      "x": "Variação de -0.91% na última sessão.",
+      "v": -0.91
     }
   ]
 }
