@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T07:15:58.832259+00:00",
+  "updated": "2026-11-24T08:56:48.622158+00:00",
   "news": [
     {
       "d": "24 nov",
@@ -19,14 +19,6 @@
     },
     {
       "d": "24 nov",
-      "s": "SIC Notícias",
-      "c": "Mercado",
-      "t": "Estarreja não tem espaço: Câmara admite expropriar terrenos para construir fábrica da Lego",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNU16YXNubkE1NUswOUFWU2lTNk1wbFk5bWxpQk1SR2U4MXFFXzdYRjZIbWpmNzBPOWpHTXIySnNta010WUNsUV9BdnBhNFBGVURlUVpoczlaUV9YYVE4QXNvV2t2aE1IamJLY25fNXVqMnkwV3lqWFFJcElFaklfT0NNeHliYTdCMjdYZ3Q3NUN0MzRqUHF0YVhtZWJWU1VYNDJGOG9FU2NGbXdQQ201U1h0WUFfYnJkVWxMMGdaS1hwV2h5WUZmN0RsWkowZ1JuYkE?oc=5"
-    },
-    {
-      "d": "24 nov",
       "s": "Jornal de Notícias",
       "c": "Mercado",
       "t": "Portugal espera segundo melhor ano de azeite de sempre",
@@ -35,19 +27,27 @@
     },
     {
       "d": "24 nov",
-      "s": "SAPO",
-      "c": "Mercado",
-      "t": "Trump afirma ter dedo no regresso de Huang à Nvidia",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNektYSUNpTXRlWmN6THRFYmlWNmVVZ04wZllnVFVuVUpUY3pmM2ZGSmY1REFzd3RzOVFFNWd4ZGdqekctdGJqV2hnN3gybzJoV0s0ZHhhM1hIVnhhQk4wZUlIMFRGN3VtcGJkU2szZnhXcFcxcGJ1S1ZTUkg4UndTeUVXYlpMRG1qbXlCTFI5Rmlpd3JmRElEZ19DZ1Y2MU1q?oc=5"
-    },
-    {
-      "d": "24 nov",
       "s": "Jornal de Negócios",
       "c": "Mercado",
       "t": "Tribunal europeu proíbe venda de SUV da BYD por copiar desenho da Land Rover",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOHdMUU8xSVhKNTNvX3BwU01WVUQxYXJidUtneTU0akkxdURJX3hhQ3NBSkgtWmktZll6NXF5bzc1UzFaOTQtY3prZmFBSzJWYnczazY0N2tFZ0h0dDZUYkMwSFcxdkpLRjhoV1lNRzJCeUZNRHpsSVp1ejllVWE0aEUwRFVMVFZqZl9HQ0xPTEFGSDYxb2hNb3NtYUtyWEN2MUNxRno5QVp0MEdRUmlRQnlSME0xT2tLZzFNcFg2d2dOWkHSAb4BQVVfeXFMT0dMNWJWQUJ5MjA4MU5LeWhQZlRoTzFXTnZpU3ZDV2RJLVZBTl9JcVBreUlXcVlBUHBMV1Q0S2lwWmZqc2praFF1X29BTWFLNTNKOXdYN0d5RFdBOFc1bjQxUlc3WDlrclU5X1Y5TE04NUpBLVp3LVF4RHdobEdJWmRzOEJVNkNKM2wteG5FT1R6QnZFeXFWR0NRaHFSUGM3dE1BNzNqY2p6UTlMUlY2bmFvdFBacE1KNkRORW9WZw?oc=5"
+    },
+    {
+      "d": "24 nov",
+      "s": "SIC Notícias",
+      "c": "Mercado",
+      "t": "Estarreja não tem espaço: Câmara admite expropriar terrenos para construir fábrica da Lego",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNU16YXNubkE1NUswOUFWU2lTNk1wbFk5bWxpQk1SR2U4MXFFXzdYRjZIbWpmNzBPOWpHTXIySnNta010WUNsUV9BdnBhNFBGVURlUVpoczlaUV9YYVE4QXNvV2t2aE1IamJLY25fNXVqMnkwV3lqWFFJcElFaklfT0NNeHliYTdCMjdYZ3Q3NUN0MzRqUHF0YVhtZWJWU1VYNDJGOG9FU2NGbXdQQ201U1h0WUFfYnJkVWxMMGdaS1hwV2h5WUZmN0RsWkowZ1JuYkE?oc=5"
+    },
+    {
+      "d": "24 nov",
+      "s": "SAPO",
+      "c": "Mercado",
+      "t": "Trump afirma ter dedo no regresso de Huang à Nvidia",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNektYSUNpTXRlWmN6THRFYmlWNmVVZ04wZllnVFVuVUpUY3pmM2ZGSmY1REFzd3RzOVFFNWd4ZGdqekctdGJqV2hnN3gybzJoV0s0ZHhhM1hIVnhhQk4wZUlIMFRGN3VtcGJkU2szZnhXcFcxcGJ1S1ZTUkg4UndTeUVXYlpMRG1qbXlCTFI5Rmlpd3JmRElEZ19DZ1Y2MU1q?oc=5"
     },
     {
       "d": "24 nov",
@@ -117,11 +117,11 @@
       "v": 1.65
     },
     {
-      "k": "SAP.DE",
-      "n": "SAP SE                        I",
+      "k": "VOW3.DE",
+      "n": "VOLKSWAGEN AG                 V",
       "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
+      "x": "Variação de -0.75% na última sessão.",
+      "v": -0.75
     }
   ]
 }
