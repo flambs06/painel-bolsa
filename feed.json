@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T05:02:21.858883+00:00",
+  "updated": "2026-11-25T07:06:53.581545+00:00",
   "news": [
     {
       "d": "25 nov",
@@ -27,6 +27,30 @@
     },
     {
       "d": "25 nov",
+      "s": "Público",
+      "c": "Mercado",
+      "t": "Governo anuncia para breve aprovação de Fundo de Fundos com 500 milhões",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOemczbHR5THpOWFZjNmpsc0VxenRrYkJJZ1FZZ3VQMjNpMThGWjlreWpWNHVRbC1pV1lrRmIxNmZiYVl1czRGYU1xUDJzMGlObDNWcUVqMFlsM04wU1dBRk12TkNIVXpPSWw3TjRSTkt5cXA3WG9GWkxjWDBGb2ROcXhFOWx2dFAxaXJUMkNFa0h6bzM3SWlFZGZqUFY2WFVyZHNZTGVQTXU3dTlVWmMtRGJiUW1TZw?oc=5"
+    },
+    {
+      "d": "25 nov",
+      "s": "Público",
+      "c": "Mercado",
+      "t": "Jensen Huang reconhece “erros terríveis” e diz aos funcionários da Nvidia estar a fazer terapia",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONU45WkFkZTNUOGxCR2w4LWNJSmptVzJNVFc3cDhhc2xiMWJyNUMyNTUxdVhWRTJuZVZPWDlFbXoyZFFNU0hjRmM0NnptTWNxSlRYQzhwTHh0c1BfWnR2VVBDaktVVmNnazVOMnlhS3dqSmFhbGxzYTNyWTh2RHg4c2gwZTUyZ3lDajNBRW10c3VHdmpJa3NQVmozS284VDloWmxPOFFlazNtQlMyRUx1QmNZR2JUa1JDbkVGU09FYm52YTlub1Bv?oc=5"
+    },
+    {
+      "d": "25 nov",
+      "s": "Expresso",
+      "c": "Mercado",
+      "t": "Investir em creches e lares passa a dar acesso a vistos gold, com mais exigência para os fundos: o que muda em 2027?",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPekM3ZmFOZ2ZHeEZqMnRNVTgyb0RYazU5WEpZMlZYejk1OE9IRzNlVkVGUjFzSmhZMU83bU81NnFyNmRLc3padlJ2UlduMWNIRHpicXFsZU9QV09zWTRkUXZpNDdaUk9KakNCZXhoZWJSNzZ6UkFLRTdrQ1ExaVNLWUR5SUpEek5SRkVFMWxRX292c003ZTBCa1J3bElwU1NET09kSmJ0VFlwYjBYVXYteXZjOUgzMUZYTFVEWkx2aG11aVEzelM4bUJOX3lTWE5aaHJOOFZIMWxfNFVJWTRLUjlrVlJwOU5RYVdpNW4wQ0R6RmRBdVZMNktwTFJ6UzlYanBycUMtZURjb0tpV2ZfMU9hczhwMWNqanZHQnNCRDg1MjFJcnc?oc=5"
+    },
+    {
+      "d": "25 nov",
       "s": "Jornal de Negócios",
       "c": "Mercado",
       "t": "Lisboa contraria perdas europeias com força das retalhistas. BCP trava maiores ganhos",
@@ -35,35 +59,11 @@
     },
     {
       "d": "25 nov",
-      "s": "Público",
+      "s": "Notícias ao Minuto",
       "c": "Mercado",
-      "t": "Alterações do PSD e CDS aos “vistos gold” aprovadas com abstenção do Chega | Orçamento do Estado 2027",
+      "t": "Prepare a carteira: Papel higiénico e guardanapos vão encarecer em 2027",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWk9IZVFreFZCcHR1MUNmb3RQUmk5YXBFYUhCYVBjODZ5dmJrQ2liS0RFSFgtT1oyVUtzUjNDeUNxZ0dfZGlEZS1UNjMzNkp2Sy1rQTNNdTVuU005Z2Rrdi1nSjNNZ2ZZeEZzdkxrcThiWjhoVks4RmxZQWhONGVsSFU2aFFWQ0RBTEFWdk1KREg3UjdYWWRqQm9ZUlhxWGY0OFRBUlpZR2hKdzE1VEdrME90dzBqdw?oc=5"
-    },
-    {
-      "d": "25 nov",
-      "s": "Público",
-      "c": "Mercado",
-      "t": "Congresso dos EUA aperta cerco a Jensen Huang após regresso à liderança da Nvidia",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcURpT2JhRklkR2lQbUZzM1hBb2lhVEFoSlJ1WUtDT2taWkQ0NFpva0lLRi1TZUROZTB6YjRwVlNCTVplWHhJUG1UcTNSMzN6UmFrTXRXTFBnMW1lOXNQWU1LU0lHTG5iX3VTcUJaQ3JBdU01T2FxN0VJUHVxbll5TE1GaFhGc2dvS1VISEhBOTNMbXhmckdyZTRUVHJvdWZtX0UwTFU5d1BoOG8zWUhfbElad29peXluTW85dFBYejVwdUwt?oc=5"
-    },
-    {
-      "d": "25 nov",
-      "s": "Jornal Económico",
-      "c": "Mercado",
-      "t": "Petróleo em queda atinge mínimos de três meses",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObmsyLXo4aTI2STJpd05tSVk5a1R2eEk5LVdudTNnRTNMSXFaRWhWd0plV1Z1YjJKMUlRQlRLTDlWZU1JbTZZdFZGQ204V19KMTljYWRaTVFOYXd5aHRKNjIyM1lWNGlyRE54MFRRZE15WmVLdWhyOUxFdHh3bkM0T0lfd29kVjQ4NnNrOFJMbjdSQQ?oc=5"
-    },
-    {
-      "d": "25 nov",
-      "s": "Jornal de Negócios",
-      "c": "Mercado",
-      "t": "Nvidia afunda 7% e Anthropic tomba 11%. Cotadas arrastam Nasdaq e Europa para o vermelho",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZWwxSVMzblFrdUZNUkpXTEVrd2RVd2tGdWtFNnNBc1h0bE9HZEx3OFhVRHltTkZhR2F2ZVZSYzkwRDVoTnIzZFlNcGsxSUJraGJlaWZtZDVfWmt4TWNtc29jWGhKWmJjSV9lVGVGZGpMLVN5b2FfSmZUbWVnWFBmMFExWEFjTjVzbmlZYjVscFN5YVozeXFVU1NtTDk4cFZiRFZGUTJaN0pWbU8xZ3dWbXREbUM1WE1JMFBRaDJsWk5JanNtU3hBUHIwS2xTZ2x5Z0tNOWtOVE81c0ZHQm1lRWpFQnVwbHpWZzRzTEp30gHoAUFVX3lxTFBRQWhwSU9XTkhPUkxBTG43eFFxckp1ck9YMG5Rc1BvWk5hY20yTXVHb2ZwQ3REa2c0WE1UT3pab0V1UWMwRkdhYTVnbWVoSjMtLWVrVjZLSGc2Q3lwSUhPVEIxOUh4YzRoak5XbnZyaXA0TFE2ZTR0Nk5ZUmxKdndHZFFYNXVDZHV0aFNpVXRtX2g1cWZZWU9nTDZGQjBSYWstclE3RHpaSFNYMjcwN1ZIOElCMVJsQkRCeDVJa2Z1MDRIUDAxbEN5dzQ1ZTZSYTgzTUdvZE5TczFZdkpCaXktU1h6elYySjg?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZDFSWnFlOWF6eHJyWWhYYlF3SHRMUDUzUVZPcVkyUHB5czdsaFo5SjB0QTkyRWN5c2QzbVN4Zm1iaURCUVg5SFNNS0hYMnZSUzdOUy1sVnVYY1NzNmFqcWxxRzR1V0J1bTkwVEE2R2U0Y3Q3ZVh3em9jRDRSbW5YcWlXLUE0VGlVRHRvNE9TejdSMjhSSm0td0djYnZwaVZGNkxXcG5yS29tY1dLYmxmdTNVbWFOLTd4X2t4ZQ?oc=5"
     }
   ],
   "stocks": [
