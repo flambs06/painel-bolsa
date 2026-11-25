@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T19:51:14.413911+00:00",
+  "updated": "2026-11-25T20:50:10.350396+00:00",
   "news": [
     {
       "d": "25 nov",
@@ -51,35 +51,35 @@
     },
     {
       "d": "25 nov",
+      "s": "Euronews.com",
+      "c": "Mercado",
+      "t": "EUA: Huawei condenada por roubo de segredos e fraude bancária, absolvida de associação criminosa",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbGFLR2ozM2xwbU1Ld09OTUd5ODdXcXFibmQ0REYxcTZ4bFNFd196MldvY1dZMlpEYWxqSUdpNElQdGFDcVE1cjNnZkRMcFJNWTgxZ1JHVkR6VVd2cUVuOFlIdmJrWkl3MlB1dDZoUWVVT1VpNGxZZklIYkpYdGpzWTBfUEltZTl1MWgxc20zZDdpSkVkcnZRTlFXYTRNVkR6MUNwamo5NWY0VE1ra3ZKaktmZU01bTFEeEFUUkNpa1VnSnc?oc=5"
+    },
+    {
+      "d": "25 nov",
       "s": "Jornal de Negócios",
       "c": "Mercado",
       "t": "Lisboa contraria perdas europeias com força das retalhistas. BCP trava maiores ganhos",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeDVOWTh4MGdjWlFWVHV4YXV2dTdwa1g4NzhueUJNeUJTZzAyWjFJZnBJMUZUazlLYWlDMlVfMGNGRnJlaU56bE41ckpLWnE0aF9fT1cyQTBuSTNDMWxuZzBsZUFrV01fQ19VU1VpTFdmcE42dVptdXdqWElTVFRxWk1TMk9QVTdkeFhxdjF0SV9MT0pWY1dUYkNxOVctRThyZ3FWNklIbzY4Tkl0d3pfSWNmZ0hndHF5QVF4enNMTjhSVXg2ZkhUUEZfWnVqaVphYWhsbEl30gHQAUFVX3lxTE9Xbk56TWZCNVJ4OFV4clFOX3B3TVhXaTBRNEN2YXBYM0RnNlZtd3hQUUE3dXhvMWoyUmxucUlkNWtsOHhGbndvbnJNVHV5dFRnTlBMV3RDMGFhNXlfQlFnYndTcGxnZy1NVGRZSGhaeTRUQ1Nfd2lvbVR3NFM3WWw5VGVYN2JJTGhPVnppdEdwcTBWLUN4a1lTQjA0TmgwamtOT1kyTTZlR0tVdWdPVUNtUUVzNHNPSUk3ZVFHQ083YWJfX3gza3VVWFRLa19vNXE?oc=5"
-    },
-    {
-      "d": "25 nov",
-      "s": "Negócios",
-      "c": "Mercado",
-      "t": "EDP às compras no Brasil e faz mira a leilões de 6,4 mil milhões",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPajJhOTZvYl9ROEExX3NOZ2FzcUxsLUMzcHphTmVxMGI0WVhvY2RWMmJ5WHBRTU5UVXVwcEQ4M3NQU3lqNDlwVW5Pb1YwLW1ZNEVFSHlvYl9vRGZSVDRnOEU4dW9xV29mTE5WZWNobXlVbnBVNTZ4ZHY1SHZzTDNuMlU0LWh6RF81d2xXNkpMbzJJSnMtcUpudURmenZvMlpjX1hJX1UzemlvV3drLUtnWUFoYkFjS25sbF9xeXBB?oc=5"
     }
   ],
   "stocks": [
-    {
-      "k": "NVDA",
-      "n": "NVIDIA Corporation",
-      "d": "dn",
-      "x": "Variação de -5.02% na última sessão.",
-      "v": -5.02
-    },
     {
       "k": "VOW3.DE",
       "n": "VOLKSWAGEN AG                 V",
       "d": "up",
       "x": "Variação de +4.62% na última sessão.",
       "v": 4.62
+    },
+    {
+      "k": "NVDA",
+      "n": "NVIDIA Corporation",
+      "d": "dn",
+      "x": "Variação de -4.23% na última sessão.",
+      "v": -4.23
     },
     {
       "k": "BMW.DE",
@@ -96,32 +96,32 @@
       "v": -3.59
     },
     {
-      "k": "META",
-      "n": "Meta Platforms, Inc.",
-      "d": "up",
-      "x": "Variação de +2.58% na última sessão.",
-      "v": 2.58
-    },
-    {
       "k": "AMZN",
       "n": "Amazon.com, Inc.",
       "d": "dn",
-      "x": "Variação de -2.52% na última sessão.",
-      "v": -2.52
+      "x": "Variação de -2.92% na última sessão.",
+      "v": -2.92
+    },
+    {
+      "k": "META",
+      "n": "Meta Platforms, Inc.",
+      "d": "up",
+      "x": "Variação de +2.70% na última sessão.",
+      "v": 2.7
     },
     {
       "k": "GOOGL",
       "n": "Alphabet Inc.",
       "d": "dn",
-      "x": "Variação de -2.37% na última sessão.",
-      "v": -2.37
+      "x": "Variação de -2.41% na última sessão.",
+      "v": -2.41
     },
     {
       "k": "MSFT",
       "n": "Microsoft Corporation",
       "d": "dn",
-      "x": "Variação de -1.12% na última sessão.",
-      "v": -1.12
+      "x": "Variação de -1.08% na última sessão.",
+      "v": -1.08
     }
   ]
 }
