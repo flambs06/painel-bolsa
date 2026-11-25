@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T02:20:44.540221+00:00",
+  "updated": "2026-11-25T03:56:08.197651+00:00",
   "news": [
     {
       "d": "25 nov",
@@ -37,17 +37,17 @@
       "d": "25 nov",
       "s": "Público",
       "c": "Mercado",
-      "t": "Congresso dos EUA aperta cerco a Jensen Huang após regresso à liderança da Nvidia",
+      "t": "Alterações do PSD e CDS aos “vistos gold” aprovadas com abstenção do Chega | Orçamento do Estado 2027",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcURpT2JhRklkR2lQbUZzM1hBb2lhVEFoSlJ1WUtDT2taWkQ0NFpva0lLRi1TZUROZTB6YjRwVlNCTVplWHhJUG1UcTNSMzN6UmFrTXRXTFBnMW1lOXNQWU1LU0lHTG5iX3VTcUJaQ3JBdU01T2FxN0VJUHVxbll5TE1GaFhGc2dvS1VISEhBOTNMbXhmckdyZTRUVHJvdWZtX0UwTFU5d1BoOG8zWUhfbElad29peXluTW85dFBYejVwdUwt?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWk9IZVFreFZCcHR1MUNmb3RQUmk5YXBFYUhCYVBjODZ5dmJrQ2liS0RFSFgtT1oyVUtzUjNDeUNxZ0dfZGlEZS1UNjMzNkp2Sy1rQTNNdTVuU005Z2Rrdi1nSjNNZ2ZZeEZzdkxrcThiWjhoVks4RmxZQWhONGVsSFU2aFFWQ0RBTEFWdk1KREg3UjdYWWRqQm9ZUlhxWGY0OFRBUlpZR2hKdzE1VEdrME90dzBqdw?oc=5"
     },
     {
       "d": "25 nov",
       "s": "Público",
       "c": "Mercado",
-      "t": "Alterações do PSD e CDS aos “vistos gold” aprovadas com abstenção do Chega | Orçamento do Estado 2027",
+      "t": "Congresso dos EUA aperta cerco a Jensen Huang após regresso à liderança da Nvidia",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWk9IZVFreFZCcHR1MUNmb3RQUmk5YXBFYUhCYVBjODZ5dmJrQ2liS0RFSFgtT1oyVUtzUjNDeUNxZ0dfZGlEZS1UNjMzNkp2Sy1rQTNNdTVuU005Z2Rrdi1nSjNNZ2ZZeEZzdkxrcThiWjhoVks4RmxZQWhONGVsSFU2aFFWQ0RBTEFWdk1KREg3UjdYWWRqQm9ZUlhxWGY0OFRBUlpZR2hKdzE1VEdrME90dzBqdw?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcURpT2JhRklkR2lQbUZzM1hBb2lhVEFoSlJ1WUtDT2taWkQ0NFpva0lLRi1TZUROZTB6YjRwVlNCTVplWHhJUG1UcTNSMzN6UmFrTXRXTFBnMW1lOXNQWU1LU0lHTG5iX3VTcUJaQ3JBdU01T2FxN0VJUHVxbll5TE1GaFhGc2dvS1VISEhBOTNMbXhmckdyZTRUVHJvdWZtX0UwTFU5d1BoOG8zWUhfbElad29peXluTW85dFBYejVwdUwt?oc=5"
     },
     {
       "d": "25 nov",
@@ -68,53 +68,53 @@
   ],
   "stocks": [
     {
-      "k": "AAPL",
-      "n": "Apple Inc.",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
-    },
-    {
-      "k": "MSFT",
-      "n": "Microsoft Corporation",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
-    },
-    {
       "k": "NVDA",
       "n": "NVIDIA Corporation",
       "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
+      "x": "Variação de -5.86% na última sessão.",
+      "v": -5.86
     },
     {
-      "k": "AMZN",
-      "n": "Amazon.com, Inc.",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
-    },
-    {
-      "k": "GOOGL",
-      "n": "Alphabet Inc.",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
+      "k": "AAPL",
+      "n": "Apple Inc.",
+      "d": "up",
+      "x": "Variação de +1.43% na última sessão.",
+      "v": 1.43
     },
     {
       "k": "META",
       "n": "Meta Platforms, Inc.",
       "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
+      "x": "Variação de -1.30% na última sessão.",
+      "v": -1.3
+    },
+    {
+      "k": "AMZN",
+      "n": "Amazon.com, Inc.",
+      "d": "dn",
+      "x": "Variação de -1.21% na última sessão.",
+      "v": -1.21
+    },
+    {
+      "k": "GOOGL",
+      "n": "Alphabet Inc.",
+      "d": "dn",
+      "x": "Variação de -1.08% na última sessão.",
+      "v": -1.08
+    },
+    {
+      "k": "MSFT",
+      "n": "Microsoft Corporation",
+      "d": "up",
+      "x": "Variação de +0.74% na última sessão.",
+      "v": 0.74
     },
     {
       "k": "TSLA",
       "n": "Tesla, Inc.",
       "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
+      "x": "Variação de -0.20% na última sessão.",
+      "v": -0.2
     },
     {
       "k": "SAP.DE",
