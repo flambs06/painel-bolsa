@@ -1,13 +1,21 @@
 {
-  "updated": "2026-11-25T16:00:22.152647+00:00",
+  "updated": "2026-11-25T17:04:53.578547+00:00",
   "news": [
     {
       "d": "25 nov",
       "s": "Expresso",
       "c": "Mercado",
-      "t": "Governo não exclui recorrer ao TC para travar normas da oposição no Orçamento. \"Boa sorte\", respondem Ventura e Carneiro",
+      "t": "Adeus aos benefícios fiscais para as rendas até €2.300: oito perguntas e respostas sobre o impacto da medida",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQYW41cUd0T2RtTFIwYVR3S1d6bFI2RkFiWlRjaWlqNkFvWlRJcFpqdG1MblBidTJMRlhlLWlrNW84VzJvMTdZQTNUWll3Z0dxZnhSX2Fmd0Fva0VFRlplOVJMLWNBLWZGUTRmaDRPd0ZXU0dQMEhtakZrYndUUnJZMGtCVE9DVVN0MHVDSEt1aFNxZ25veGswM0p0V0JBdU5OV3RnTmg3TkthU1dpYkpUX21La3FGRm5DNnNzUGpPVnU2MUJFSm00VlR4bDk4blVlSm0wN3I0bG5Lc19WUHpWSW40YnM1VThtSHZhNW5QU0Zhb3FkelgxUHQ1LVZGeXN2dXhKVkpnbEJGVFVod0Ruem1SVXRFbjNmMjVjbHYwZnI1UzNxWmlUZ3ln?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxONkpqN21HQUo2UTI4Q0FranBYMXlJYktvYm1nd2dRcUkzZXdTQ01UZHF5OF9nWC1YTzc1Ty1rSXowck04aEM0LXFVaEhSd3FrX04tM2g5VVpPSkdZOU9lZ21teU56ZDBGcDg4U2x5bmhYV1BxRWtONEZWYk13N1RWeThzZUluVng3M0QwX1RDQUMyb2ZuRmVFSTVYX2dOSERHNUZQQWRDNkZsMjhPc0pUSEx6UnpBWFhfTmwtMFJiXzZEMW9SMTJPNXNKbU8ySF9GVGluQkhIWE1tR1dVeHpnbG5hWlZsTHc0WC1rNHZtZC14MEsyU0t0WEZoOGk1ZDFZR3pVd211aw?oc=5"
+    },
+    {
+      "d": "25 nov",
+      "s": "Jornal de Notícias",
+      "c": "Mercado",
+      "t": "Do IVA às pensões e rendas. O que muda em 2027 para as famílias",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOckU5SWF6YjR3ZlFCVVRmUTJzSTZBTkZJeXFOWS1VM1BKRE1fT0wxV3l5eWlSMUo1QU8yWW9jQ2taR2U2cFplSHBwTy1adzVrM1dKaFhEWFdDVUh4Tmh2aktNaktLOUpyWnhlcHVCcUhWMFhjcWtadGtlLUcwbmhGVmlTLVJTd2tieXRtdTE1ZlB6c3BFd3VmZk15U3l3ZE1HaTRuUlBYRlQ?oc=5"
     },
     {
       "d": "25 nov",
@@ -16,14 +24,6 @@
       "t": "Avaliação bancária das casas e 4 outras coisas que precisa de saber para começar o dia",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVVgtV1MwS2FnZE5seXJBWEN5TC1LUWk3SXV0aWp0akxlcVdiM051bW54dEd6cmpRdG1pelkwSldFZFdvQlZwbDV1S203Z0o4bGJTZ2pZUnNNdTF3LXVGdFNnYXNUbVU3YUJ0ZjMzTktuWkZzaWNGUFlFUEFqQWZ2TTVtSWo5S0pCMUFuM3RSZVdUQ3ZOX1VETzE0SkNTT0E2Y2xiMGVzTzhHMkNuZHpTbkdRaVMxXzZvODdTUUhRTmNUanRPU0xSczZ1X0ZZWTVh?oc=5"
-    },
-    {
-      "d": "25 nov",
-      "s": "Expresso",
-      "c": "Mercado",
-      "t": "IRS nas rendas moderadas: metade dos senhorios pondera retirar casas do mercado ou vender os seus imóveis",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPYmYzbS14RUhhWHN0TFdwTTJhUTRidllTblAtb0l4OF8ta3FIeXdJNS1ET3N5NjJQZnRrWGFSeGxET0NFdVcyMGV1M2FDNzkwM05nTVdVLUNpdE1TXzFMLUdzR3RWd3JHY21JclVoSlhWVHZoNXBiY002Y0FlVTdWbXlfNUdkT3ppSWZEQkpJMWVBNE5MeUV6U3E0bnFIbG1XRXNZNUpsVVo1Q1lVUnBmVjdGSkdsdnF3SzJVd3JmNTlwTmJLdm5lZG1rQnV0UExiYXI0WHFtZnlWTFZyOExDam83bWQzNWFVUy1YckpxX0xxTGdnNzd6djg0Mm0yc3dSelhfYWVuRE1kOWdxZ3hJZGFONUNneWk2c3MzVUVKb2F2dlZIRl9kMTBxOA?oc=5"
     },
     {
       "d": "25 nov",
@@ -45,6 +45,14 @@
       "d": "25 nov",
       "s": "Jornal de Negócios",
       "c": "Mercado",
+      "t": "EDP às compras no Brasil e faz mira a leilões de 6,4 mil milhões",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPajJhOTZvYl9ROEExX3NOZ2FzcUxsLUMzcHphTmVxMGI0WVhvY2RWMmJ5WHBRTU5UVXVwcEQ4M3NQU3lqNDlwVW5Pb1YwLW1ZNEVFSHlvYl9vRGZSVDRnOEU4dW9xV29mTE5WZWNobXlVbnBVNTZ4ZHY1SHZzTDNuMlU0LWh6RF81d2xXNkpMbzJJSnMtcUpudURmenZvMlpjX1hJX1UzemlvV3drLUtnWUFoYkFjS25sbF9xeXBB?oc=5"
+    },
+    {
+      "d": "25 nov",
+      "s": "Jornal de Negócios",
+      "c": "Mercado",
       "t": "Lisboa contraria perdas europeias com força das retalhistas. BCP trava maiores ganhos",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeDVOWTh4MGdjWlFWVHV4YXV2dTdwa1g4NzhueUJNeUJTZzAyWjFJZnBJMUZUazlLYWlDMlVfMGNGRnJlaU56bE41ckpLWnE0aF9fT1cyQTBuSTNDMWxuZzBsZUFrV01fQ19VU1VpTFdmcE42dVptdXdqWElTVFRxWk1TMk9QVTdkeFhxdjF0SV9MT0pWY1dUYkNxOVctRThyZ3FWNklIbzY4Tkl0d3pfSWNmZ0hndHF5QVF4enNMTjhSVXg2ZkhUUEZfWnVqaVphYWhsbEl30gHQAUFVX3lxTE9Xbk56TWZCNVJ4OFV4clFOX3B3TVhXaTBRNEN2YXBYM0RnNlZtd3hQUUE3dXhvMWoyUmxucUlkNWtsOHhGbndvbnJNVHV5dFRnTlBMV3RDMGFhNXlfQlFnYndTcGxnZy1NVGRZSGhaeTRUQ1Nfd2lvbVR3NFM3WWw5VGVYN2JJTGhPVnppdEdwcTBWLUN4a1lTQjA0TmgwamtOT1kyTTZlR0tVdWdPVUNtUUVzNHNPSUk3ZVFHQ083YWJfX3gza3VVWFRLa19vNXE?oc=5"
@@ -56,14 +64,6 @@
       "t": "Prepare a carteira: Papel higiénico e guardanapos vão encarecer em 2027",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZDFSWnFlOWF6eHJyWWhYYlF3SHRMUDUzUVZPcVkyUHB5czdsaFo5SjB0QTkyRWN5c2QzbVN4Zm1iaURCUVg5SFNNS0hYMnZSUzdOUy1sVnVYY1NzNmFqcWxxRzR1V0J1bTkwVEE2R2U0Y3Q3ZVh3em9jRDRSbW5YcWlXLUE0VGlVRHRvNE9TejdSMjhSSm0td0djYnZwaVZGNkxXcG5yS29tY1dLYmxmdTNVbWFOLTd4X2t4ZQ?oc=5"
-    },
-    {
-      "d": "25 nov",
-      "s": "Jornal de Negócios",
-      "c": "Mercado",
-      "t": "EDP às compras no Brasil e faz mira a leilões de 6,4 mil milhões",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPajJhOTZvYl9ROEExX3NOZ2FzcUxsLUMzcHphTmVxMGI0WVhvY2RWMmJ5WHBRTU5UVXVwcEQ4M3NQU3lqNDlwVW5Pb1YwLW1ZNEVFSHlvYl9vRGZSVDRnOEU4dW9xV29mTE5WZWNobXlVbnBVNTZ4ZHY1SHZzTDNuMlU0LWh6RF81d2xXNkpMbzJJSnMtcUpudURmenZvMlpjX1hJX1UzemlvV3drLUtnWUFoYkFjS25sbF9xeXBB?oc=5"
     }
   ],
   "stocks": [
@@ -71,57 +71,57 @@
       "k": "NVDA",
       "n": "NVIDIA Corporation",
       "d": "dn",
-      "x": "Variação de -8.37% na última sessão.",
-      "v": -8.37
-    },
-    {
-      "k": "AMZN",
-      "n": "Amazon.com, Inc.",
-      "d": "dn",
-      "x": "Variação de -6.05% na última sessão.",
-      "v": -6.05
+      "x": "Variação de -7.92% na última sessão.",
+      "v": -7.92
     },
     {
       "k": "TSLA",
       "n": "Tesla, Inc.",
       "d": "dn",
-      "x": "Variação de -5.48% na última sessão.",
-      "v": -5.48
-    },
-    {
-      "k": "GOOGL",
-      "n": "Alphabet Inc.",
-      "d": "dn",
-      "x": "Variação de -5.15% na última sessão.",
-      "v": -5.15
+      "x": "Variação de -4.87% na última sessão.",
+      "v": -4.87
     },
     {
       "k": "VOW3.DE",
       "n": "VOLKSWAGEN AG                 V",
       "d": "up",
-      "x": "Variação de +4.52% na última sessão.",
-      "v": 4.52
+      "x": "Variação de +4.62% na última sessão.",
+      "v": 4.62
+    },
+    {
+      "k": "AMZN",
+      "n": "Amazon.com, Inc.",
+      "d": "dn",
+      "x": "Variação de -4.35% na última sessão.",
+      "v": -4.35
+    },
+    {
+      "k": "GOOGL",
+      "n": "Alphabet Inc.",
+      "d": "dn",
+      "x": "Variação de -4.29% na última sessão.",
+      "v": -4.29
     },
     {
       "k": "BMW.DE",
       "n": "BAYERISCHE MOTOREN WERKE AG   S",
       "d": "up",
-      "x": "Variação de +4.32% na última sessão.",
-      "v": 4.32
-    },
-    {
-      "k": "MSFT",
-      "n": "Microsoft Corporation",
-      "d": "dn",
-      "x": "Variação de -3.68% na última sessão.",
-      "v": -3.68
+      "x": "Variação de +3.72% na última sessão.",
+      "v": 3.72
     },
     {
       "k": "SIE.DE",
       "n": "SIEMENS AG                    N",
       "d": "dn",
-      "x": "Variação de -2.65% na última sessão.",
-      "v": -2.65
+      "x": "Variação de -3.59% na última sessão.",
+      "v": -3.59
+    },
+    {
+      "k": "MSFT",
+      "n": "Microsoft Corporation",
+      "d": "dn",
+      "x": "Variação de -2.62% na última sessão.",
+      "v": -2.62
     }
   ]
 }
