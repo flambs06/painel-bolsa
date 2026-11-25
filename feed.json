@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T11:54:57.800024+00:00",
+  "updated": "2026-11-25T13:09:31.573903+00:00",
   "news": [
     {
       "d": "25 nov",
@@ -19,6 +19,14 @@
     },
     {
       "d": "25 nov",
+      "s": "Jornal de Negócios",
+      "c": "Mercado",
+      "t": "Avaliação bancária das casas e 4 outras coisas que precisa de saber para começar o dia",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVVgtV1MwS2FnZE5seXJBWEN5TC1LUWk3SXV0aWp0akxlcVdiM051bW54dEd6cmpRdG1pelkwSldFZFdvQlZwbDV1S203Z0o4bGJTZ2pZUnNNdTF3LXVGdFNnYXNUbVU3YUJ0ZjMzTktuWkZzaWNGUFlFUEFqQWZ2TTVtSWo5S0pCMUFuM3RSZVdUQ3ZOX1VETzE0SkNTT0E2Y2xiMGVzTzhHMkNuZHpTbkdRaVMxXzZvODdTUUhRTmNUanRPU0xSczZ1X0ZZWTVh?oc=5"
+    },
+    {
+      "d": "25 nov",
       "s": "SIC Notícias",
       "c": "Mercado",
       "t": "Comissão Europeia divulga a avaliação ao OE2027 e recomendações económicas a Portugal",
@@ -29,17 +37,25 @@
       "d": "25 nov",
       "s": "Público",
       "c": "Mercado",
-      "t": "Alterações do PSD e CDS aos “vistos gold” aprovadas com abstenção do Chega | Orçamento do Estado 2027",
+      "t": "Jensen Huang reconhece “erros terríveis” e diz aos funcionários da Nvidia estar a fazer terapia",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWk9IZVFreFZCcHR1MUNmb3RQUmk5YXBFYUhCYVBjODZ5dmJrQ2liS0RFSFgtT1oyVUtzUjNDeUNxZ0dfZGlEZS1UNjMzNkp2Sy1rQTNNdTVuU005Z2Rrdi1nSjNNZ2ZZeEZzdkxrcThiWjhoVks4RmxZQWhONGVsSFU2aFFWQ0RBTEFWdk1KREg3UjdYWWRqQm9ZUlhxWGY0OFRBUlpZR2hKdzE1VEdrME90dzBqdw?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONU45WkFkZTNUOGxCR2w4LWNJSmptVzJNVFc3cDhhc2xiMWJyNUMyNTUxdVhWRTJuZVZPWDlFbXoyZFFNU0hjRmM0NnptTWNxSlRYQzhwTHh0c1BfWnR2VVBDaktVVmNnazVOMnlhS3dqSmFhbGxzYTNyWTh2RHg4c2gwZTUyZ3lDajNBRW10c3VHdmpJa3NQVmozS284VDloWmxPOFFlazNtQlMyRUx1QmNZR2JUa1JDbkVGU09FYm52YTlub1Bv?oc=5"
+    },
+    {
+      "d": "25 nov",
+      "s": "Expresso",
+      "c": "Mercado",
+      "t": "Investir em creches e lares passa a dar acesso a vistos gold, com mais exigência para os fundos: o que muda em 2027?",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPekM3ZmFOZ2ZHeEZqMnRNVTgyb0RYazU5WEpZMlZYejk1OE9IRzNlVkVGUjFzSmhZMU83bU81NnFyNmRLc3padlJ2UlduMWNIRHpicXFsZU9QV09zWTRkUXZpNDdaUk9KakNCZXhoZWJSNzZ6UkFLRTdrQ1ExaVNLWUR5SUpEek5SRkVFMWxRX292c003ZTBCa1J3bElwU1NET09kSmJ0VFlwYjBYVXYteXZjOUgzMUZYTFVEWkx2aG11aVEzelM4bUJOX3lTWE5aaHJOOFZIMWxfNFVJWTRLUjlrVlJwOU5RYVdpNW4wQ0R6RmRBdVZMNktwTFJ6UzlYanBycUMtZURjb0tpV2ZfMU9hczhwMWNqanZHQnNCRDg1MjFJcnc?oc=5"
     },
     {
       "d": "25 nov",
       "s": "Jornal de Negócios",
       "c": "Mercado",
-      "t": "Avaliação bancária das casas e 4 outras coisas que precisa de saber para começar o dia",
+      "t": "EDP às compras no Brasil e faz mira a leilões de 6,4 mil milhões",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVVgtV1MwS2FnZE5seXJBWEN5TC1LUWk3SXV0aWp0akxlcVdiM051bW54dEd6cmpRdG1pelkwSldFZFdvQlZwbDV1S203Z0o4bGJTZ2pZUnNNdTF3LXVGdFNnYXNUbVU3YUJ0ZjMzTktuWkZzaWNGUFlFUEFqQWZ2TTVtSWo5S0pCMUFuM3RSZVdUQ3ZOX1VETzE0SkNTT0E2Y2xiMGVzTzhHMkNuZHpTbkdRaVMxXzZvODdTUUhRTmNUanRPU0xSczZ1X0ZZWTVh?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPajJhOTZvYl9ROEExX3NOZ2FzcUxsLUMzcHphTmVxMGI0WVhvY2RWMmJ5WHBRTU5UVXVwcEQ4M3NQU3lqNDlwVW5Pb1YwLW1ZNEVFSHlvYl9vRGZSVDRnOEU4dW9xV29mTE5WZWNobXlVbnBVNTZ4ZHY1SHZzTDNuMlU0LWh6RF81d2xXNkpMbzJJSnMtcUpudURmenZvMlpjX1hJX1UzemlvV3drLUtnWUFoYkFjS25sbF9xeXBB?oc=5"
     },
     {
       "d": "25 nov",
@@ -48,32 +64,9 @@
       "t": "Lisboa contraria perdas europeias com força das retalhistas. BCP trava maiores ganhos",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeDVOWTh4MGdjWlFWVHV4YXV2dTdwa1g4NzhueUJNeUJTZzAyWjFJZnBJMUZUazlLYWlDMlVfMGNGRnJlaU56bE41ckpLWnE0aF9fT1cyQTBuSTNDMWxuZzBsZUFrV01fQ19VU1VpTFdmcE42dVptdXdqWElTVFRxWk1TMk9QVTdkeFhxdjF0SV9MT0pWY1dUYkNxOVctRThyZ3FWNklIbzY4Tkl0d3pfSWNmZ0hndHF5QVF4enNMTjhSVXg2ZkhUUEZfWnVqaVphYWhsbEl30gHQAUFVX3lxTE9Xbk56TWZCNVJ4OFV4clFOX3B3TVhXaTBRNEN2YXBYM0RnNlZtd3hQUUE3dXhvMWoyUmxucUlkNWtsOHhGbndvbnJNVHV5dFRnTlBMV3RDMGFhNXlfQlFnYndTcGxnZy1NVGRZSGhaeTRUQ1Nfd2lvbVR3NFM3WWw5VGVYN2JJTGhPVnppdEdwcTBWLUN4a1lTQjA0TmgwamtOT1kyTTZlR0tVdWdPVUNtUUVzNHNPSUk3ZVFHQ083YWJfX3gza3VVWFRLa19vNXE?oc=5"
-    },
-    {
-      "d": "25 nov",
-      "s": "Expresso",
-      "c": "Mercado",
-      "t": "Republicanos desafiam Trump e exigem investigação ao regresso do CEO da Nvidia",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeWplVkpnNVVSNG1wLUg5UlVXWm8ycDdNSkFQT0tWR0RvSEd5WGZ6OG1oTVR0NkZWZHlKRzR3UlJKbFJ3ZTZ5bV9yaEk3TU5EcDNlWC1aLTM0MVJvdy14OF8yTVNPOExlWHduZS1aQmJKVjNYVWFMWk02UDMzNXdkVFFTOVBncXpaR25pV3JxRXlMZ0JWVFVWaHYxQW5rZ2E3VVdGY2ZMTGpuNXViTDR1OFd5N2JsYTJtWmdlR1hqOEdTMW9PUzhhTkNXc2Q?oc=5"
-    },
-    {
-      "d": "25 nov",
-      "s": "Público",
-      "c": "Mercado",
-      "t": "Governo anuncia para breve aprovação de Fundo de Fundos com 500 milhões",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOemczbHR5THpOWFZjNmpsc0VxenRrYkJJZ1FZZ3VQMjNpMThGWjlreWpWNHVRbC1pV1lrRmIxNmZiYVl1czRGYU1xUDJzMGlObDNWcUVqMFlsM04wU1dBRk12TkNIVXpPSWw3TjRSTkt5cXA3WG9GWkxjWDBGb2ROcXhFOWx2dFAxaXJUMkNFa0h6bzM3SWlFZGZqUFY2WFVyZHNZTGVQTXU3dTlVWmMtRGJiUW1TZw?oc=5"
     }
   ],
   "stocks": [
-    {
-      "k": "VOW3.DE",
-      "n": "VOLKSWAGEN AG                 V",
-      "d": "up",
-      "x": "Variação de +6.41% na última sessão.",
-      "v": 6.41
-    },
     {
       "k": "NVDA",
       "n": "NVIDIA Corporation",
@@ -82,11 +75,18 @@
       "v": -5.86
     },
     {
+      "k": "VOW3.DE",
+      "n": "VOLKSWAGEN AG                 V",
+      "d": "up",
+      "x": "Variação de +5.74% na última sessão.",
+      "v": 5.74
+    },
+    {
       "k": "BMW.DE",
       "n": "BAYERISCHE MOTOREN WERKE AG   S",
       "d": "up",
-      "x": "Variação de +5.18% na última sessão.",
-      "v": 5.18
+      "x": "Variação de +4.32% na última sessão.",
+      "v": 4.32
     },
     {
       "k": "AAPL",
@@ -103,6 +103,13 @@
       "v": -1.3
     },
     {
+      "k": "SIE.DE",
+      "n": "SIEMENS AG                    N",
+      "d": "dn",
+      "x": "Variação de -1.26% na última sessão.",
+      "v": -1.26
+    },
+    {
       "k": "AMZN",
       "n": "Amazon.com, Inc.",
       "d": "dn",
@@ -115,13 +122,6 @@
       "d": "dn",
       "x": "Variação de -1.08% na última sessão.",
       "v": -1.08
-    },
-    {
-      "k": "ALV.DE",
-      "n": "Allianz SE                    v",
-      "d": "up",
-      "x": "Variação de +0.75% na última sessão.",
-      "v": 0.75
     }
   ]
 }
