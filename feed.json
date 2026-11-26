@@ -1,14 +1,72 @@
 {
-  "updated": "2026-11-26T10:06:15.785848+00:00",
-  "news": [],
-  "stocks": [
+  "updated": "2026-11-26T11:53:54.270499+00:00",
+  "news": [
     {
-      "k": "VOW3.DE",
-      "n": "VOLKSWAGEN AG                 V",
-      "d": "up",
-      "x": "Variação de +4.23% na última sessão.",
-      "v": 4.23
+      "d": "26 nov",
+      "s": "SIC Notícias",
+      "c": "Mercado",
+      "t": "Fim do desconto no IRS nas rendas moderadas gera \"problema de constitucionalidade\", alertam proprietários",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQa1I2bTNTWl9pY2M3U1REdHRkZGFnWi15UWJfSDNhSm9aLWJvSlgtUVdteHZzWlpxSHVSd182dWhFbXZfYUxJVTN0Q0JIOWN2YkMyY01YSTJSUExWdU1FSWJxYmVfVkdaZWxPcnVENXVYNnNReTd1S3kxTlRIRENSLWFuRUFtRTdaVWVkeGhzcHVHTi1XclU2M3JXX2NSOHBIQ2VCYi1RVDNRRk9RazNsZHg4WmRBY0ZnQnNmRW5ocnZSOXg0MHRBTml3MGJuamtHMTRmaHJiZ2wyTjFNOVVWd2RxNHFaa2o1VHo4ZzJkMVRXaEk4a0ozN29zLVd1cWc?oc=5"
     },
+    {
+      "d": "26 nov",
+      "s": "Diário de Notícias",
+      "c": "Mercado",
+      "t": "BNP Paribas. Portugal tem de travar despesa com pensões e saúde para conseguir investir mais",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaUx5XzZ0QlBVaHoxdkZ1WmRsd3otblZTMUFoeG1VRTd2QmZ0NXVTV0NCXzk1RHUyc1M0YnprT00xbmdpOG03UWI4cDBOT19SdDAtbFJEbk94ZF83aS1PYXlZUUJNNjlWRWR2WV9iaWQwbTRjelFVeGhlbG83TTFFOEZBMDFCcnBLcWNnWncxbXJZLWliY095b2hScHBmVG1UdHhsdHRvN2JRWGpObHNzdUJ0TDEtNVE?oc=5"
+    },
+    {
+      "d": "26 nov",
+      "s": "RTP",
+      "c": "Mercado",
+      "t": "Lego investe mil milhões de euros e cria mil empregos em fábrica em Estarreja",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZGtsQURZNHFjQUVrbVdwVnE2WU5mcHctdHVRZUVDcFdpUlV2MjRvQVVMcTJJbG1FdXg3azhiRHhSZlRfemJZZlFBZXk5WlVtOVBNWDd0SzdhckNsMWxESTdUNklvUUtiaXgxbS1EZTdqUnJUVFBQdDRxcUZ0NVprT3BTa0kxYVZ4NUpaWmI0VDJyVThsRENxR3VXempyNEMwMV9aYkFXMzZpS1FXYmg0X3l1M1R3SldTanI5VEYyQnJ4QVRUTlE?oc=5"
+    },
+    {
+      "d": "26 nov",
+      "s": "Euronews.com",
+      "c": "Mercado",
+      "t": "EUA: Huawei condenada por roubo de segredos e fraude bancária, absolvida de associação criminosa",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbGFLR2ozM2xwbU1Ld09OTUd5ODdXcXFibmQ0REYxcTZ4bFNFd196MldvY1dZMlpEYWxqSUdpNElQdGFDcVE1cjNnZkRMcFJNWTgxZ1JHVkR6VVd2cUVuOFlIdmJrWkl3MlB1dDZoUWVVT1VpNGxZZklIYkpYdGpzWTBfUEltZTl1MWgxc20zZDdpSkVkcnZRTlFXYTRNVkR6MUNwamo5NWY0VE1ra3ZKaktmZU01bTFEeEFUUkNpa1VnSnc?oc=5"
+    },
+    {
+      "d": "26 nov",
+      "s": "Idealista",
+      "c": "Mercado",
+      "t": "Rossio faz história com maior venda de comércio de rua em Portugal",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVFFyNXlYbm41UV9CV3d3ZWJPQzE0dFJ1TXFyUmdOZ1hXcXY0X2lOdkpfVk1FMDVSamtSV1VfUGFWMEZZSlYtUEE5bjhfdGJ0VUJrMkh1ME1tT25iZTFUNE9yZ1dndmJKWnRQRnB0YThNOE82Q29XTFRrM0w2M3hfQkg4eXFJM2FSUkt4VXFWeG04b0I3ZV80UVBrdDBDQ1RmSnd1VENNNlV2VUxhUm5WZzNkX0xPRW5oY2R5YTB1UXYxcHk4a3AyajJITQ?oc=5"
+    },
+    {
+      "d": "26 nov",
+      "s": "Correio da Manhã",
+      "c": "Mercado",
+      "t": "Avaliação das casas sobe 12,7% num ano",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT2F2ZXBfUkFKdDZmXy1ORjBJcHRwZUdNUXZDODBfVTlYelFhNDRHXzJtUm9KSGFIWW9HN0Zka2JlRmhkM1ZOajNTeGxQY1JlZDYwdnd4c0FNLVNaYVBxSEpYTVNjWWEzMm13TEtZMXBLU281VUU4QnI3TkhNb0hsTG5fSEPSAX9BVV95cUxObEZNU29RaDA3c1NMUkRPelQtTUJrMjVoNzJuMlZyRUlST2ZmbE5MUjlBeXd0d2VtY0J1Rk9CSlVITldGdnBLbmYzUFp4d3pOQTVCSmRjZXUwdTBJSkMyWC1hOUpFVXBfMjJUT1VsNm9tWTVObGJVbnp5UHU3NUow?oc=5"
+    },
+    {
+      "d": "26 nov",
+      "s": "Now Canal",
+      "c": "Mercado",
+      "t": "Bruxelas quer tornar UE num dos líderes mundiais da produção de tecnologias quânticas",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaGJ4WlluaHNKTVA2Q2JDWTFPRlZWQU1MaEhZS3N6d1ZzbEpPUUlOZk1WakdvX0hnM1NmNjBoS1NMMUdQNmlmWGcwRVYxZGFoZkdGQ2dpcHJ6VGY4MndUck4xZWdTVnJWRmlScy1uTTRkSkJCeXptM0JCaFgzLU1OSlphLVh1NTkzWDFLUUt3RnBlSEROMWdFYy04NTQzWWpOd2NNN095TmRxRXo2YmJUcEhLVDk3NXExN3FCdVJkbmphaUU?oc=5"
+    },
+    {
+      "d": "26 nov",
+      "s": "SAPO",
+      "c": "Mercado",
+      "t": "\"Desafio democrático.\" Lisboa, Paris, Roma, Varsóvia e Barcelona pedem orçamento europeu que ajude cidades a dar resposta à crise",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNREY1bWNLSW1tNGZmbzRMRDNUTkFCa3QyRzVCR2gtcjhLbjk3d0RjeDZPN0hsb2IwLV8wMFdGVldaRmhXVjNvVEVCeHowcHFuRFo5MHdPZWEtVzVEOXc2N1J1WEpQZ1Q4T2xjZUtmN2YtZFFHWVRSS1AxMFB1Y2c0ZmVFdFZUak51dUJMV29zdDdYV2V3VHBnVDJVUWphcmhvWEdrVV96X1VaT2trcmcwdjY3RTdZV3E3bUU5ZXlIeWxJeVJXZ0RnU3pLb3lMRk1EajBHOWNEZUQxNXRpNXh3ZjJER2NmUGkyNEFuVGllM3pRSkQwR2I2cXNRNW00UWRm?oc=5"
+    }
+  ],
+  "stocks": [
     {
       "k": "NVDA",
       "n": "NVIDIA Corporation",
@@ -24,6 +82,13 @@
       "v": 3.4
     },
     {
+      "k": "VOW3.DE",
+      "n": "VOLKSWAGEN AG                 V",
+      "d": "up",
+      "x": "Variação de +3.40% na última sessão.",
+      "v": 3.4
+    },
+    {
       "k": "AMZN",
       "n": "Amazon.com, Inc.",
       "d": "dn",
@@ -34,15 +99,8 @@
       "k": "BMW.DE",
       "n": "BAYERISCHE MOTOREN WERKE AG   S",
       "d": "up",
-      "x": "Variação de +3.11% na última sessão.",
-      "v": 3.11
-    },
-    {
-      "k": "SIE.DE",
-      "n": "SIEMENS AG                    N",
-      "d": "up",
-      "x": "Variação de +2.38% na última sessão.",
-      "v": 2.38
+      "x": "Variação de +2.86% na última sessão.",
+      "v": 2.86
     },
     {
       "k": "GOOGL",
@@ -52,11 +110,18 @@
       "v": -2.13
     },
     {
+      "k": "SIE.DE",
+      "n": "SIEMENS AG                    N",
+      "d": "up",
+      "x": "Variação de +2.02% na última sessão.",
+      "v": 2.02
+    },
+    {
       "k": "SAP.DE",
       "n": "SAP SE                        I",
       "d": "up",
-      "x": "Variação de +1.85% na última sessão.",
-      "v": 1.85
+      "x": "Variação de +1.32% na última sessão.",
+      "v": 1.32
     }
   ]
 }
