@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T07:18:31.362048+00:00",
+  "updated": "2026-11-26T08:56:53.585765+00:00",
   "news": [
     {
       "d": "26 nov",
@@ -11,14 +11,6 @@
     },
     {
       "d": "26 nov",
-      "s": "RTP",
-      "c": "Mercado",
-      "t": "Avaliação bancária das casas fixa novo recorde de 2.282 euros por metro quadrado em outubro",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV1RTRWdBRF9aSzMxOTZ2cGlveTNtZnMzUVpiTFI1ZVhFV0Y5NzZSd0VIaEhFNkFJMU4zUmduQ2wtWG1jWnhsTk5pNnhmMFBQZlhzeGhyR05BVENGWXRFZzU5b3JfbTAtV2Zoay15MXBvNWg4eWdrY2pEbDlhRUhCSG1jeC1lUm9LN3pDYlh0bFlZY1RWQWx3MzQyZDA3cXFMY3A4bkt0NHEwN0dOVGluS0JMaFpyY1M2aEs3UnFvUEhMZDRySjVXbFZmY0QtLUpUbkc4?oc=5"
-    },
-    {
-      "d": "26 nov",
       "s": "Euronews.com",
       "c": "Mercado",
       "t": "EUA: Huawei condenada por roubo de segredos e fraude bancária, absolvida de associação criminosa",
@@ -27,11 +19,11 @@
     },
     {
       "d": "26 nov",
-      "s": "Público",
+      "s": "RTP",
       "c": "Mercado",
-      "t": "O “efeito Huang” passou e as bolsas voltam a cair assombradas pela IA | Mercados",
+      "t": "Avaliação bancária das casas fixa novo recorde de 2.282 euros por metro quadrado em outubro",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZVZBMFA4clB2UVM5ZGxyOVB0RjJCR0FOcWNVN2JpdGtjTjFZWHVpZHY3REp5eWxFV3hMV0lublVtYVU4Y0I4ZUhmdFZRMkRyY2xPRVBlRmRuZzVObks2bGlrTVREYUJ2ekxoYXMzUUkzdkVoeC0wa3JpOXBXb1pnUkJDYzBYckVvUUVoS01jMmhWblZZNXl1bW5CeVhxM2NydnRNeHpySTVvdWg3OUZjUVlB?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV1RTRWdBRF9aSzMxOTZ2cGlveTNtZnMzUVpiTFI1ZVhFV0Y5NzZSd0VIaEhFNkFJMU4zUmduQ2wtWG1jWnhsTk5pNnhmMFBQZlhzeGhyR05BVENGWXRFZzU5b3JfbTAtV2Zoay15MXBvNWg4eWdrY2pEbDlhRUhCSG1jeC1lUm9LN3pDYlh0bFlZY1RWQWx3MzQyZDA3cXFMY3A4bkt0NHEwN0dOVGluS0JMaFpyY1M2aEs3UnFvUEhMZDRySjVXbFZmY0QtLUpUbkc4?oc=5"
     },
     {
       "d": "26 nov",
@@ -43,27 +35,35 @@
     },
     {
       "d": "26 nov",
+      "s": "Público",
+      "c": "Mercado",
+      "t": "Microsoft declara “código vermelho” após apagão de 24 horas",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVDJrOExfQjdCN3l4SFhxY2R1T2wyTGVwZVBEN2lNOERpSmtUNC01RlJhT0NOM1pqdlZ1VVVFWEIxUTY4RkRxZHRlaEFkejdPMW9DYUU1eDBpWmxhSlFnN1BtLXE3ZW5sR2J4bll4SHl6ajNJN1MxRm9fdERNaEVpRkEyT0g0c0JqdzRlcEZoMzZEd29mTDZNNnRFaVl5cGdlOUVOX0xRajFCVXljVUs0?oc=5"
+    },
+    {
+      "d": "26 nov",
+      "s": "Público",
+      "c": "Mercado",
+      "t": "O “efeito Huang” passou e as bolsas voltam a cair assombradas pela IA | Mercados",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZVZBMFA4clB2UVM5ZGxyOVB0RjJCR0FOcWNVN2JpdGtjTjFZWHVpZHY3REp5eWxFV3hMV0lublVtYVU4Y0I4ZUhmdFZRMkRyY2xPRVBlRmRuZzVObks2bGlrTVREYUJ2ekxoYXMzUUkzdkVoeC0wa3JpOXBXb1pnUkJDYzBYckVvUUVoS01jMmhWblZZNXl1bW5CeVhxM2NydnRNeHpySTVvdWg3OUZjUVlB?oc=5"
+    },
+    {
+      "d": "26 nov",
+      "s": "Jornal de Negócios",
+      "c": "Mercado",
+      "t": "\"Cometi erros graves\". CEO da Nvidia pede desculpa e diz que está a ser tratado",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWmd1OEtFQWpQcE11M3g0OE1ndWRrVGZnN0gycjFiUzBPVWthN3AycDF0T2RfbnM3LU96VnJldVpfRkJyRU95U2Vma0w0ejZ0N0ZOdWZWTE13SVd0RHpuVzA4OWptRTdpdTdMY2tZVGs3MGhZUzdFaUdRU2lOeFprNERKbFVWRWFncmR6MEQwTUVZcVJTWnNRaEFiS1F5OGpDRjB4RWdscmRnRHFsbklhRzBKbmZnU2VDRnJ5ay1qdXVjckN0UmRNajRGQWdIOWNNNEVr0gHOAUFVX3lxTE5SWDdoOV9TdHNkTFp0RmdxS1hLZXRpUXIxSUFkYkh2Nm1CMU1ZNENrRURVQ1JEQ0hlYjVNQWY2Zlo0bnc1TmZmU3dyb0RJQ09KWFEzNDNVZEZ2YkJPS2tUOTI0TU04YVJnNmk3UlZnN01aQXZJMDNBb3Y4N1FCVzdNVVNxUGpkelBBS2JYMjFMNzdyVzJzZkRZQlQwUzNudlNFWTExZGNQdWFmaTk4UEJQdlQ5TTFWb3p6TjN5d3EwWVIxXzN6ZlJyTGpNVi1B?oc=5"
+    },
+    {
+      "d": "26 nov",
       "s": "Idealista",
       "c": "Mercado",
       "t": "Rossio faz história com maior venda de comércio de rua em Portugal",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVFFyNXlYbm41UV9CV3d3ZWJPQzE0dFJ1TXFyUmdOZ1hXcXY0X2lOdkpfVk1FMDVSamtSV1VfUGFWMEZZSlYtUEE5bjhfdGJ0VUJrMkh1ME1tT25iZTFUNE9yZ1dndmJKWnRQRnB0YThNOE82Q29XTFRrM0w2M3hfQkg4eXFJM2FSUkt4VXFWeG04b0I3ZV80UVBrdDBDQ1RmSnd1VENNNlV2VUxhUm5WZzNkX0xPRW5oY2R5YTB1UXYxcHk4a3AyajJITQ?oc=5"
-    },
-    {
-      "d": "26 nov",
-      "s": "Marketeer",
-      "c": "Mercado",
-      "t": "Microsoft entra em \"Código Vermelho\" após apagão histórico: milhares de empresas ficaram à mercê de uma falha",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbUx3OFptaXFXTk53Y2h4eXRtWjJYclE0bEszOEdnTE51eVdDQlhsd2VVV3FFS3Frc3BleHBHUVYyX0tyOERweWVjOWtNX2JiOWhyTU0teHZ0dUhfRm5OZUpsRHpuT1VYd25lbG1pR3FyNDdoZmprTUhwN3NKT1phR2NRTU5MdjNIVXZiOG1uYndVSUdwaFRXTHlpM1lrdlJwLWFVcUQxNWY5LTFPNzNMVjB3LThmZ2xveVBqdWNxRzJDZnlBYlp6SFI3VDRnQQ?oc=5"
-    },
-    {
-      "d": "26 nov",
-      "s": "Negócios",
-      "c": "Mercado",
-      "t": "\"Cometi erros graves\". CEO da Nvidia pede desculpa e diz que está a ser tratado",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWmd1OEtFQWpQcE11M3g0OE1ndWRrVGZnN0gycjFiUzBPVWthN3AycDF0T2RfbnM3LU96VnJldVpfRkJyRU95U2Vma0w0ejZ0N0ZOdWZWTE13SVd0RHpuVzA4OWptRTdpdTdMY2tZVGs3MGhZUzdFaUdRU2lOeFprNERKbFVWRWFncmR6MEQwTUVZcVJTWnNRaEFiS1F5OGpDRjB4RWdscmRnRHFsbklhRzBKbmZnU2VDRnJ5ay1qdXVjckN0UmRNajRGQWdIOWNNNEVr0gHOAUFVX3lxTE5SWDdoOV9TdHNkTFp0RmdxS1hLZXRpUXIxSUFkYkh2Nm1CMU1ZNENrRURVQ1JEQ0hlYjVNQWY2Zlo0bnc1TmZmU3dyb0RJQ09KWFEzNDNVZEZ2YkJPS2tUOTI0TU04YVJnNmk3UlZnN01aQXZJMDNBb3Y4N1FCVzdNVVNxUGpkelBBS2JYMjFMNzdyVzJzZkRZQlQwUzNudlNFWTExZGNQdWFmaTk4UEJQdlQ5TTFWb3p6TjN5d3EwWVIxXzN6ZlJyTGpNVi1B?oc=5"
     }
   ],
   "stocks": [
@@ -89,6 +89,20 @@
       "v": -3.12
     },
     {
+      "k": "VOW3.DE",
+      "n": "VOLKSWAGEN AG                 V",
+      "d": "up",
+      "x": "Variação de +2.73% na última sessão.",
+      "v": 2.73
+    },
+    {
+      "k": "SIE.DE",
+      "n": "SIEMENS AG                    N",
+      "d": "up",
+      "x": "Variação de +2.57% na última sessão.",
+      "v": 2.57
+    },
+    {
       "k": "GOOGL",
       "n": "Alphabet Inc.",
       "d": "dn",
@@ -96,32 +110,18 @@
       "v": -2.13
     },
     {
-      "k": "MSFT",
-      "n": "Microsoft Corporation",
-      "d": "dn",
-      "x": "Variação de -1.25% na última sessão.",
-      "v": -1.25
-    },
-    {
-      "k": "TSLA",
-      "n": "Tesla, Inc.",
-      "d": "dn",
-      "x": "Variação de -1.18% na última sessão.",
-      "v": -1.18
-    },
-    {
-      "k": "AAPL",
-      "n": "Apple Inc.",
+      "k": "BMW.DE",
+      "n": "BAYERISCHE MOTOREN WERKE AG   S",
       "d": "up",
-      "x": "Variação de +0.43% na última sessão.",
-      "v": 0.43
+      "x": "Variação de +1.81% na última sessão.",
+      "v": 1.81
     },
     {
       "k": "SAP.DE",
       "n": "SAP SE                        I",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
+      "d": "up",
+      "x": "Variação de +1.34% na última sessão.",
+      "v": 1.34
     }
   ]
 }
