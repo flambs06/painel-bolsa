@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-26T00:58:52.808248+00:00",
+  "updated": "2026-11-26T02:20:04.792194+00:00",
   "news": [
+    {
+      "d": "26 nov",
+      "s": "SIC Notícias",
+      "c": "Mercado",
+      "t": "Fim do desconto no IRS nas rendas moderadas gera \"problema de constitucionalidade\", alertam proprietários",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQa1I2bTNTWl9pY2M3U1REdHRkZGFnWi15UWJfSDNhSm9aLWJvSlgtUVdteHZzWlpxSHVSd182dWhFbXZfYUxJVTN0Q0JIOWN2YkMyY01YSTJSUExWdU1FSWJxYmVfVkdaZWxPcnVENXVYNnNReTd1S3kxTlRIRENSLWFuRUFtRTdaVWVkeGhzcHVHTi1XclU2M3JXX2NSOHBIQ2VCYi1RVDNRRk9RazNsZHg4WmRBY0ZnQnNmRW5ocnZSOXg0MHRBTml3MGJuamtHMTRmaHJiZ2wyTjFNOVVWd2RxNHFaa2o1VHo4ZzJkMVRXaEk4a0ozN29zLVd1cWc?oc=5"
+    },
     {
       "d": "26 nov",
       "s": "RTP",
@@ -35,27 +43,19 @@
     },
     {
       "d": "26 nov",
-      "s": "Público",
-      "c": "Mercado",
-      "t": "Governo anuncia para breve aprovação de Fundo de Fundos com 500 milhões",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOemczbHR5THpOWFZjNmpsc0VxenRrYkJJZ1FZZ3VQMjNpMThGWjlreWpWNHVRbC1pV1lrRmIxNmZiYVl1czRGYU1xUDJzMGlObDNWcUVqMFlsM04wU1dBRk12TkNIVXpPSWw3TjRSTkt5cXA3WG9GWkxjWDBGb2ROcXhFOWx2dFAxaXJUMkNFa0h6bzM3SWlFZGZqUFY2WFVyZHNZTGVQTXU3dTlVWmMtRGJiUW1TZw?oc=5"
-    },
-    {
-      "d": "26 nov",
-      "s": "Jornal de Negócios",
-      "c": "Mercado",
-      "t": "\"Cometi erros graves\". CEO da Nvidia pede desculpa e diz que está a ser tratado",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWmd1OEtFQWpQcE11M3g0OE1ndWRrVGZnN0gycjFiUzBPVWthN3AycDF0T2RfbnM3LU96VnJldVpfRkJyRU95U2Vma0w0ejZ0N0ZOdWZWTE13SVd0RHpuVzA4OWptRTdpdTdMY2tZVGs3MGhZUzdFaUdRU2lOeFprNERKbFVWRWFncmR6MEQwTUVZcVJTWnNRaEFiS1F5OGpDRjB4RWdscmRnRHFsbklhRzBKbmZnU2VDRnJ5ay1qdXVjckN0UmRNajRGQWdIOWNNNEVr0gHOAUFVX3lxTE5SWDdoOV9TdHNkTFp0RmdxS1hLZXRpUXIxSUFkYkh2Nm1CMU1ZNENrRURVQ1JEQ0hlYjVNQWY2Zlo0bnc1TmZmU3dyb0RJQ09KWFEzNDNVZEZ2YkJPS2tUOTI0TU04YVJnNmk3UlZnN01aQXZJMDNBb3Y4N1FCVzdNVVNxUGpkelBBS2JYMjFMNzdyVzJzZkRZQlQwUzNudlNFWTExZGNQdWFmaTk4UEJQdlQ5TTFWb3p6TjN5d3EwWVIxXzN6ZlJyTGpNVi1B?oc=5"
-    },
-    {
-      "d": "26 nov",
       "s": "Marketeer",
       "c": "Mercado",
       "t": "Microsoft entra em \"Código Vermelho\" após apagão histórico: milhares de empresas ficaram à mercê de uma falha",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbUx3OFptaXFXTk53Y2h4eXRtWjJYclE0bEszOEdnTE51eVdDQlhsd2VVV3FFS3Frc3BleHBHUVYyX0tyOERweWVjOWtNX2JiOWhyTU0teHZ0dUhfRm5OZUpsRHpuT1VYd25lbG1pR3FyNDdoZmprTUhwN3NKT1phR2NRTU5MdjNIVXZiOG1uYndVSUdwaFRXTHlpM1lrdlJwLWFVcUQxNWY5LTFPNzNMVjB3LThmZ2xveVBqdWNxRzJDZnlBYlp6SFI3VDRnQQ?oc=5"
+    },
+    {
+      "d": "26 nov",
+      "s": "Negócios",
+      "c": "Mercado",
+      "t": "\"Cometi erros graves\". CEO da Nvidia pede desculpa e diz que está a ser tratado",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWmd1OEtFQWpQcE11M3g0OE1ndWRrVGZnN0gycjFiUzBPVWthN3AycDF0T2RfbnM3LU96VnJldVpfRkJyRU95U2Vma0w0ejZ0N0ZOdWZWTE13SVd0RHpuVzA4OWptRTdpdTdMY2tZVGs3MGhZUzdFaUdRU2lOeFprNERKbFVWRWFncmR6MEQwTUVZcVJTWnNRaEFiS1F5OGpDRjB4RWdscmRnRHFsbklhRzBKbmZnU2VDRnJ5ay1qdXVjckN0UmRNajRGQWdIOWNNNEVr0gHOAUFVX3lxTE5SWDdoOV9TdHNkTFp0RmdxS1hLZXRpUXIxSUFkYkh2Nm1CMU1ZNENrRURVQ1JEQ0hlYjVNQWY2Zlo0bnc1TmZmU3dyb0RJQ09KWFEzNDNVZEZ2YkJPS2tUOTI0TU04YVJnNmk3UlZnN01aQXZJMDNBb3Y4N1FCVzdNVVNxUGpkelBBS2JYMjFMNzdyVzJzZkRZQlQwUzNudlNFWTExZGNQdWFmaTk4UEJQdlQ5TTFWb3p6TjN5d3EwWVIxXzN6ZlJyTGpNVi1B?oc=5"
     },
     {
       "d": "26 nov",
@@ -68,53 +68,53 @@
   ],
   "stocks": [
     {
-      "k": "NVDA",
-      "n": "NVIDIA Corporation",
+      "k": "AAPL",
+      "n": "Apple Inc.",
       "d": "dn",
-      "x": "Variação de -3.91% na última sessão.",
-      "v": -3.91
-    },
-    {
-      "k": "META",
-      "n": "Meta Platforms, Inc.",
-      "d": "up",
-      "x": "Variação de +3.40% na última sessão.",
-      "v": 3.4
-    },
-    {
-      "k": "AMZN",
-      "n": "Amazon.com, Inc.",
-      "d": "dn",
-      "x": "Variação de -3.12% na última sessão.",
-      "v": -3.12
-    },
-    {
-      "k": "GOOGL",
-      "n": "Alphabet Inc.",
-      "d": "dn",
-      "x": "Variação de -2.13% na última sessão.",
-      "v": -2.13
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
     },
     {
       "k": "MSFT",
       "n": "Microsoft Corporation",
       "d": "dn",
-      "x": "Variação de -1.25% na última sessão.",
-      "v": -1.25
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
+    },
+    {
+      "k": "NVDA",
+      "n": "NVIDIA Corporation",
+      "d": "dn",
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
+    },
+    {
+      "k": "AMZN",
+      "n": "Amazon.com, Inc.",
+      "d": "dn",
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
+    },
+    {
+      "k": "GOOGL",
+      "n": "Alphabet Inc.",
+      "d": "dn",
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
+    },
+    {
+      "k": "META",
+      "n": "Meta Platforms, Inc.",
+      "d": "dn",
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
     },
     {
       "k": "TSLA",
       "n": "Tesla, Inc.",
       "d": "dn",
-      "x": "Variação de -1.18% na última sessão.",
-      "v": -1.18
-    },
-    {
-      "k": "AAPL",
-      "n": "Apple Inc.",
-      "d": "up",
-      "x": "Variação de +0.43% na última sessão.",
-      "v": 0.43
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
     },
     {
       "k": "SAP.DE",
