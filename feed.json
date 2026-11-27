@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T16:59:15.727697+00:00",
+  "updated": "2026-11-27T17:55:32.526154+00:00",
   "news": [
     {
       "d": "27 nov",
@@ -27,19 +27,19 @@
     },
     {
       "d": "27 nov",
-      "s": "Público",
-      "c": "Mercado",
-      "t": "SAP planeia dispensar 10 mil trabalhadores por causa da inteligência artificial",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSXlzb1VyU0FhMnotallMUkVpM0VUS1pnUUs0eG5Id2tnMzZGNGVIaTZ2U28wWDhHZ3pmZS05NEVMeGhMa1JJWjZ3X1UxRTZWWkJNaExiZjZvWm9tLXNPb29ZLU5MZkxteGU5YVUxZHFtaTVwYTY1bEZRSUp6TUxvM1dDa1VKSG5McmVyemUzbVdTSDQtODkwZW9zenBMTjdfUFZOM0pUdWFQTEx1QzRkLVFEeFJBNDAyaHBvQnV3Y0FGTTBhVnJoRU9zVQ?oc=5"
-    },
-    {
-      "d": "27 nov",
       "s": "DECO PROteste",
       "c": "Mercado",
       "t": "Black Friday: há produtos 300 euros mais caros do que antes das campanhas",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWUt1bllJSjBPRmhkTjBCU04zNTJvWDd2YW9MSUJQazlEcXNvMnJUcGRlR0NjV0lpUmFhUUU5Ym83ZENJczlJU2lKS0JPaHc5SHoxWGJQbF9iT3k0Vm9VZlZGQ3pXbUVSUThyYTZOdTMxbF94a1J5dVYtbzZEdWFTUXhVWjQzQ080SXpZZnJ0dGtianYyMUxXSXZyZGd6b0huUU1XWjloRERGLW5jT0dVYi04cEMzbUFDT0NEMVJhZm9MOVZfOG5rSWd0aw?oc=5"
+    },
+    {
+      "d": "27 nov",
+      "s": "Público",
+      "c": "Mercado",
+      "t": "SAP planeia dispensar 10 mil trabalhadores por causa da inteligência artificial",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSXlzb1VyU0FhMnotallMUkVpM0VUS1pnUUs0eG5Id2tnMzZGNGVIaTZ2U28wWDhHZ3pmZS05NEVMeGhMa1JJWjZ3X1UxRTZWWkJNaExiZjZvWm9tLXNPb29ZLU5MZkxteGU5YVUxZHFtaTVwYTY1bEZRSUp6TUxvM1dDa1VKSG5McmVyemUzbVdTSDQtODkwZW9zenBMTjdfUFZOM0pUdWFQTEx1QzRkLVFEeFJBNDAyaHBvQnV3Y0FGTTBhVnJoRU9zVQ?oc=5"
     },
     {
       "d": "27 nov",
@@ -71,22 +71,22 @@
       "k": "TSLA",
       "n": "Tesla, Inc.",
       "d": "up",
-      "x": "Variação de +5.25% na última sessão.",
-      "v": 5.25
+      "x": "Variação de +4.74% na última sessão.",
+      "v": 4.74
     },
     {
       "k": "AMZN",
       "n": "Amazon.com, Inc.",
       "d": "up",
-      "x": "Variação de +3.85% na última sessão.",
-      "v": 3.85
+      "x": "Variação de +3.62% na última sessão.",
+      "v": 3.62
     },
     {
       "k": "META",
       "n": "Meta Platforms, Inc.",
       "d": "up",
-      "x": "Variação de +3.36% na última sessão.",
-      "v": 3.36
+      "x": "Variação de +2.96% na última sessão.",
+      "v": 2.96
     },
     {
       "k": "BMW.DE",
@@ -120,8 +120,8 @@
       "k": "AAPL",
       "n": "Apple Inc.",
       "d": "up",
-      "x": "Variação de +0.73% na última sessão.",
-      "v": 0.73
+      "x": "Variação de +0.60% na última sessão.",
+      "v": 0.6
     }
   ]
 }
