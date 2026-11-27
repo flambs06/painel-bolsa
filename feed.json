@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T13:03:16.938614+00:00",
+  "updated": "2026-11-27T14:49:17.027502+00:00",
   "news": [
     {
       "d": "27 nov",
@@ -23,7 +23,7 @@
       "c": "Mercado",
       "t": "Verão não salvou a TAP. Combustíveis acentuam prejuízos até setembro",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOWUxSjdlbTJRdFRpWVNvWUlFWXkzLWk3bjJUY3owX0NibHVOSmJ1SWNYLVJ5dlhMX1RpUklIN1dfeEQ3UkQwZ0gwMVNGVUMwemcyal96ZVNCc2RkbmRybUZuLUczNWg4bmNqVjh4aU1CR1Y4OUpfZ0F0VDJZd0k4NlNQX0RhWWJremZoZlVuWVdXZ3VUUktiampyMXRZRGhzMHBsOWFVa2NzQjNvUUJMNmp4OA?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdThZNmxJZFdzUnNwQkZYYjdWZjM2R2JyT1FDRjBWbFBCZWpsUkVyazVnUVhLTFVnSmU2cC1JbUR3TXpKbWhFMXFhSWk0OFpRR3M5NVlqVU5Ha2hBODFaZ1ljaWI4cGtqbkM5YzAzV3JrUDI4TEFlcllEbkJXdmxzUDhES1pFQ1NLbjNGMVRhUDRIUll4VWNpSmdqMEpWVWh1WmN3QmM0amIyd0FNR1VZ?oc=5"
     },
     {
       "d": "27 nov",
@@ -35,6 +35,14 @@
     },
     {
       "d": "27 nov",
+      "s": "SIC Notícias",
+      "c": "Mercado",
+      "t": "Inaugurada fábrica de fiação em Santo Tirso: será a maior da Europa e vai criar 250 postos de trabalho até 2028",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMGtybjBTT0FKUllDVVAxYWVhVlh6M3VWaEV2cmYyX1JIUkNsQmNwajFYcWVUVWhyeV9CcU14Q1k0TDkweGVEZGdXOEU2bzYyMDA4anQwWjZYWGlZNFhuZXM2ekFfTGlYNVQ4SFdmSGNxNUVtdlNLTnhpS0M3RkJJUUtERHlqaDhoM1Q5TkJTdEk0ZWhBdko0Z2FaM1pNcWIybGs0aGp0V0MtWXlaNjE2LWJDWmF6aU4xSUR2bTdKMlJpS1VEUldFSDZlM0ZoUFhqdG1XU2F2azh5QUFDUTd2MHBKeUY4OV84U3pmWGZ5TXgtUnFCRk84bGtqLWc?oc=5"
+    },
+    {
+      "d": "27 nov",
       "s": "ECO",
       "c": "Mercado",
       "t": "SAP quer cortar pelo menos 10 mil postos de trabalho devido à inteligência artificial",
@@ -43,11 +51,11 @@
     },
     {
       "d": "27 nov",
-      "s": "Público",
+      "s": "O MINHO",
       "c": "Mercado",
-      "t": "BCE: Pablo Hernández de Cos escolhido para suceder a Christine Lagarde | Zona Euro",
+      "t": "DST e ACA ganham segundo troço da alta velocidade",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeEJMWnFjUkRfMTRtZnpVUTVmb3dlS1ozcEZyMWNBemIyVFdSMUxFY2txTmVkd3Vxdy15MHQtQkIwLWk1RUJ4M0Rqa0hFQ2JkajJWMTB4bUtHU2M1amJVa0tkUmtMS3hWQkZOUi1qRkoxWkZzQkpBVXZOWFBzb2FhbHdRR3lYYzViMjVyWUFIQzF6QmxUMUI3OTVhSVFRMFY4T2tmay1tMjdHRnUxdFA5cFM4R2Yyakk?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvekp3dkZFUVBVRlBqUzhXZFlrMGtlbFZNd1phVjV5YWZMV3lxMExMeXpIY1JyVmhYU0hSZ0NSQVkzQi1lbEY3dnRlU05veWRCZ2FNMngzY1V3d3YwdTlwU2x5Rlh0QkU4UVNiamlBdkp5d0wyV2pN?oc=5"
     },
     {
       "d": "27 nov",
@@ -56,72 +64,64 @@
       "t": "Regresso de Jensen Huang à Nvidia inunda Internet de memes",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc0FHa19LV2JuUWZybEx6ME5UdFBLRHFKNmFGMEdlZDU1WTZISXppNXpLTVZ5YkgwWGhZZzNfczB3WEg2UG1aNlV3bVNNenhDZlpKOWNoOWpQU2xURF9IR2plUXVQcWlaVVhZNWd0QlNNWWhtNDd2RUI2WUxMZVJfSHJZMFd3YnBObmF3RV9fTmU5ZnRhcUlORlZZTmdOQjDSAZMBQVVfeXFMTVZ1Ty1Ecm5GbGlzX3B1emJFZURoS0wtcm96QlF4SF9EN0VMZnVsblZab0ZGeTdjYkV6dXRKRXQ3UWF1R3RpUXVsRWN3emhnYkVtVEt1SXFPQl9OY2YzblhfZ1E2aHFqTndPRFVQZVg1Q1dmSno5ckRhMmI1MkhOZ1JJX0xYZEFnYWZ6ZGEtQ3ZOSjFN?oc=5"
-    },
-    {
-      "d": "27 nov",
-      "s": "O MINHO",
-      "c": "Mercado",
-      "t": "DST e ACA ganham segundo troço da alta velocidade",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvekp3dkZFUVBVRlBqUzhXZFlrMGtlbFZNd1phVjV5YWZMV3lxMExMeXpIY1JyVmhYU0hSZ0NSQVkzQi1lbEY3dnRlU05veWRCZ2FNMngzY1V3d3YwdTlwU2x5Rlh0QkU4UVNiamlBdkp5d0wyV2pN?oc=5"
     }
   ],
   "stocks": [
     {
-      "k": "NVDA",
-      "n": "NVIDIA Corporation",
-      "d": "dn",
-      "x": "Variação de -3.91% na última sessão.",
-      "v": -3.91
+      "k": "TSLA",
+      "n": "Tesla, Inc.",
+      "d": "up",
+      "x": "Variação de +2.99% na última sessão.",
+      "v": 2.99
     },
     {
       "k": "META",
       "n": "Meta Platforms, Inc.",
       "d": "up",
-      "x": "Variação de +3.40% na última sessão.",
-      "v": 3.4
+      "x": "Variação de +2.51% na última sessão.",
+      "v": 2.51
+    },
+    {
+      "k": "NVDA",
+      "n": "NVIDIA Corporation",
+      "d": "dn",
+      "x": "Variação de -2.37% na última sessão.",
+      "v": -2.37
     },
     {
       "k": "AMZN",
       "n": "Amazon.com, Inc.",
-      "d": "dn",
-      "x": "Variação de -3.12% na última sessão.",
-      "v": -3.12
-    },
-    {
-      "k": "GOOGL",
-      "n": "Alphabet Inc.",
-      "d": "dn",
-      "x": "Variação de -2.13% na última sessão.",
-      "v": -2.13
+      "d": "up",
+      "x": "Variação de +2.35% na última sessão.",
+      "v": 2.35
     },
     {
       "k": "BMW.DE",
       "n": "BAYERISCHE MOTOREN WERKE AG   S",
       "d": "up",
-      "x": "Variação de +1.35% na última sessão.",
-      "v": 1.35
+      "x": "Variação de +0.90% na última sessão.",
+      "v": 0.9
     },
     {
       "k": "MSFT",
       "n": "Microsoft Corporation",
-      "d": "dn",
-      "x": "Variação de -1.25% na última sessão.",
-      "v": -1.25
-    },
-    {
-      "k": "TSLA",
-      "n": "Tesla, Inc.",
-      "d": "dn",
-      "x": "Variação de -1.18% na última sessão.",
-      "v": -1.18
-    },
-    {
-      "k": "SIE.DE",
-      "n": "SIEMENS AG                    N",
       "d": "up",
-      "x": "Variação de +0.76% na última sessão.",
-      "v": 0.76
+      "x": "Variação de +0.73% na última sessão.",
+      "v": 0.73
+    },
+    {
+      "k": "ALV.DE",
+      "n": "Allianz SE                    v",
+      "d": "up",
+      "x": "Variação de +0.72% na última sessão.",
+      "v": 0.72
+    },
+    {
+      "k": "AAPL",
+      "n": "Apple Inc.",
+      "d": "up",
+      "x": "Variação de +0.49% na última sessão.",
+      "v": 0.49
     }
   ]
 }
