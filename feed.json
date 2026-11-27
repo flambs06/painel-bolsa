@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-27T17:55:32.526154+00:00",
+  "updated": "2026-11-27T18:51:05.217682+00:00",
   "news": [
+    {
+      "d": "27 nov",
+      "s": "RTP",
+      "c": "Mercado",
+      "t": "Idade da reforma sobe para 67 anos em 2028 e corte nas pensões antecipadas sobe para 18% em 2027",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVE9FcmxEZ2lXbzV0Y2dqelN2dnI1TFVHa2traWhfcmR1LVhRVnJKRTF1Q3BqTUthdGZXOGxEdEMwb2tzT09HMUtaTllZV0kzMTcxVE10dTNQNjEtV2lKMXVSZkpodEV2TWdWVlJubjBDMGVQVnctYkNuYS1KZHotTUZOQmZxdnZOczJjUkJVbElORE9HbG4yNnFtM0t0NXM3b0M1NjdQMHBSdjRIWXhEcDZxOWJxTU5HOU82VzlidVRoazVfckhEdjV1SWhjQnhUUHdXMHJxLXk?oc=5"
+    },
     {
       "d": "27 nov",
       "s": "CNN Portugal",
@@ -8,14 +16,6 @@
       "t": "Gasolina desce, gasóleo desce (ainda mais): saiba quanto pode poupar na próxima semana",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNSlpDOWxZNnYyRHgxR3BaeUkzblN1RVo5RHlDbXBpRkdJcjRodmhadVhkX2NrbWkzQ0Z5UkpSaVFINXVwMDhIczdiV2RMVTVVWFU5SmJOS0gzbDlWcjJLa0lHQXJMYl9hR3ZfSnBUVjVqUlNDYmlOTjFwS1U5YmtlS19ZczZJYVJFeGxxTFJXb1gtMHotSTRfV1VpakdITVVXZ2M1OWZRUEZaQ1BkSDJWNF9YOW5PYjF1XzM3Vmw1MURoR2tkdGNBRXBNUWc5eUpjRzE5X2RaOGxnR2N5aFhFc0dzT2NjcU84QWxzZzFOa2FyN2l2TGszSWJCUFdpamh3OVpoNEI0U1NxWTE0QllTWEVxeDZBdw?oc=5"
-    },
-    {
-      "d": "27 nov",
-      "s": "ECO",
-      "c": "Mercado",
-      "t": "Idade da reforma volta a subir e atinge os 67 anos em 2028",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQemVtVkp5M3FULXJRd1ZxMUNLOFgyQWR3Q2t5SGtRYmY4c0RzX1lZeHFKOEhzQU9sY2ktbFpuQWtCbGpKZU1EN1NNYjZtSzZjSXJiSTdDeGxmSmVyR3A1RVJ4bzRVRzZYZjhXRE5SamNYLUcwSEZ6MGxyQ2tTSkp4Qm5vSXZRN1F2WjNLX2NaOHZQM3Qt?oc=5"
     },
     {
       "d": "27 nov",
@@ -71,22 +71,22 @@
       "k": "TSLA",
       "n": "Tesla, Inc.",
       "d": "up",
-      "x": "Variação de +4.74% na última sessão.",
-      "v": 4.74
+      "x": "Variação de +5.22% na última sessão.",
+      "v": 5.22
     },
     {
       "k": "AMZN",
       "n": "Amazon.com, Inc.",
       "d": "up",
-      "x": "Variação de +3.62% na última sessão.",
-      "v": 3.62
+      "x": "Variação de +3.96% na última sessão.",
+      "v": 3.96
     },
     {
       "k": "META",
       "n": "Meta Platforms, Inc.",
       "d": "up",
-      "x": "Variação de +2.96% na última sessão.",
-      "v": 2.96
+      "x": "Variação de +3.13% na última sessão.",
+      "v": 3.13
     },
     {
       "k": "BMW.DE",
@@ -110,18 +110,18 @@
       "v": 0.87
     },
     {
-      "k": "SAP.DE",
-      "n": "SAP SE                        I",
-      "d": "up",
-      "x": "Variação de +0.77% na última sessão.",
-      "v": 0.77
-    },
-    {
       "k": "AAPL",
       "n": "Apple Inc.",
       "d": "up",
-      "x": "Variação de +0.60% na última sessão.",
-      "v": 0.6
+      "x": "Variação de +0.83% na última sessão.",
+      "v": 0.83
+    },
+    {
+      "k": "NVDA",
+      "n": "NVIDIA Corporation",
+      "d": "up",
+      "x": "Variação de +0.80% na última sessão.",
+      "v": 0.8
     }
   ]
 }
