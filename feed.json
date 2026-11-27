@@ -1,13 +1,99 @@
 {
-  "updated": "2026-11-27T06:03:56.259465+00:00",
-  "news": [],
+  "updated": "2026-11-27T08:26:26.142528+00:00",
+  "news": [
+    {
+      "d": "27 nov",
+      "s": "Jornal de Negócios",
+      "c": "Mercado",
+      "t": "REN aprova distribuição de dividendos. Estado encaixa 8 milhões",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM3lRY1p5SDZoUl9GdGlJR09IMy1VZ01ta0dUSUxYWFd6TF8wTU1Ib09uWjVNNHFoUkFveVBzTjk3S0F6eVctWm80akRFdnFMZnh2cWE1NXFqR281ZFF2SUttdG5pakR6ZXRmcXhGd1dxZ1FHUFhkYmZjYmdvSzlnbnQtX0JWZHZKMGlBMjJzY2ZtYUlNU2xULU0wX1drNkg0djdUT2k1dGFtdkJkLXpGMzlEZnpkSE04WmhCVGNwSjBWQ3JiQmpR?oc=5"
+    },
+    {
+      "d": "27 nov",
+      "s": "Jornal de Notícias",
+      "c": "Mercado",
+      "t": "Regresso de Jensen Huang à Nvidia inunda Internet de memes",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc0FHa19LV2JuUWZybEx6ME5UdFBLRHFKNmFGMEdlZDU1WTZISXppNXpLTVZ5YkgwWGhZZzNfczB3WEg2UG1aNlV3bVNNenhDZlpKOWNoOWpQU2xURF9IR2plUXVQcWlaVVhZNWd0QlNNWWhtNDd2RUI2WUxMZVJfSHJZMFd3YnBObmF3RV9fTmU5ZnRhcUlORlZZTmdOQjDSAZMBQVVfeXFMTVZ1Ty1Ecm5GbGlzX3B1emJFZURoS0wtcm96QlF4SF9EN0VMZnVsblZab0ZGeTdjYkV6dXRKRXQ3UWF1R3RpUXVsRWN3emhnYkVtVEt1SXFPQl9OY2YzblhfZ1E2aHFqTndPRFVQZVg1Q1dmSno5ckRhMmI1MkhOZ1JJX0xYZEFnYWZ6ZGEtQ3ZOSjFN?oc=5"
+    },
+    {
+      "d": "27 nov",
+      "s": "Público",
+      "c": "Mercado",
+      "t": "BCE: Pablo Hernández de Cos escolhido para suceder a Christine Lagarde | Zona Euro",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeEJMWnFjUkRfMTRtZnpVUTVmb3dlS1ozcEZyMWNBemIyVFdSMUxFY2txTmVkd3Vxdy15MHQtQkIwLWk1RUJ4M0Rqa0hFQ2JkajJWMTB4bUtHU2M1amJVa0tkUmtMS3hWQkZOUi1qRkoxWkZzQkpBVXZOWFBzb2FhbHdRR3lYYzViMjVyWUFIQzF6QmxUMUI3OTVhSVFRMFY4T2tmay1tMjdHRnUxdFA5cFM4R2Yyakk?oc=5"
+    },
+    {
+      "d": "27 nov",
+      "s": "SIC Notícias",
+      "c": "Mercado",
+      "t": "Inaugurada fábrica de fiação em Santo Tirso: será a maior da Europa e vai criar 250 postos de trabalho até 2028",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMGtybjBTT0FKUllDVVAxYWVhVlh6M3VWaEV2cmYyX1JIUkNsQmNwajFYcWVUVWhyeV9CcU14Q1k0TDkweGVEZGdXOEU2bzYyMDA4anQwWjZYWGlZNFhuZXM2ekFfTGlYNVQ4SFdmSGNxNUVtdlNLTnhpS0M3RkJJUUtERHlqaDhoM1Q5TkJTdEk0ZWhBdko0Z2FaM1pNcWIybGs0aGp0V0MtWXlaNjE2LWJDWmF6aU4xSUR2bTdKMlJpS1VEUldFSDZlM0ZoUFhqdG1XU2F2azh5QUFDUTd2MHBKeUY4OV84U3pmWGZ5TXgtUnFCRk84bGtqLWc?oc=5"
+    },
+    {
+      "d": "27 nov",
+      "s": "Jornal de Notícias",
+      "c": "Mercado",
+      "t": "PSP alerta para esquemas fraudulentos associados às compras online",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWtYV09xaXpaWThrNTZSaGJrN2tWUVpyMnd2NGdYUXVqeU1jbmNxa1NPMVpGZDVxaEsyMkhpaFdScmFzYzEyamlnZEpHX2NZUHI4b1FfRzVDUWYyVGdobjNMT1lSWWlOZWNmQno5WmprZ2tkeWpFclJReDJqUDNMVGw4NzFIZUFoTmpGRXd1VGFQVVVpTkVveVN0Z2g0UFhvVHA5Vjc5VmZVUXJf0gGeAUFVX3lxTE44MFlrTkU5VEE0OWg3VjQ5U1A0ZlBkUC01RGV2VkdHMmw3NkdXOUdxdWpuc2FXem9TU2k0cDNWQnh4cXhYLXhqNjdaVzVTVHpyNG1HdnBnS3pKYkE0bnNyRUx0bktsVDk4d1FBTzIxeVlZOWt2azlmZThSMDF4T2U2X2dhbl84Y3U0SVBXWjFvYjV1RTM5amYyNmQyeXhB?oc=5"
+    },
+    {
+      "d": "27 nov",
+      "s": "Correio da Manhã",
+      "c": "Mercado",
+      "t": "Avaliação das casas sobe 12,7% num ano",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT2F2ZXBfUkFKdDZmXy1ORjBJcHRwZUdNUXZDODBfVTlYelFhNDRHXzJtUm9KSGFIWW9HN0Zka2JlRmhkM1ZOajNTeGxQY1JlZDYwdnd4c0FNLVNaYVBxSEpYTVNjWWEzMm13TEtZMXBLU281VUU4QnI3TkhNb0hsTG5fSEPSAX9BVV95cUxObEZNU29RaDA3c1NMUkRPelQtTUJrMjVoNzJuMlZyRUlST2ZmbE5MUjlBeXd0d2VtY0J1Rk9CSlVITldGdnBLbmYzUFp4d3pOQTVCSmRjZXUwdTBJSkMyWC1hOUpFVXBfMjJUT1VsNm9tWTVObGJVbnp5UHU3NUow?oc=5"
+    },
+    {
+      "d": "27 nov",
+      "s": "Razão Automóvel",
+      "c": "Mercado",
+      "t": "Testámos o SUV elétrico mais barato da Volkswagen",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaVVhSkNKNDhzeTJFdS1VYmFNQ0ZSeFU1dm1vbzhNYldWYTJVUUJLOHNPRzdmdWFvTzFSRHdXMGgycGd2Mkp4dk00N2ZOS01mWDBVeWpzOFg2N0RWMHhqLUNQUXdTZ2FEQlVVcmM3aFF4TFdibmQ4OVpud3E0dG1Ub29NSktsdEJYd2l2aFgtYk5QSXcz?oc=5"
+    },
+    {
+      "d": "27 nov",
+      "s": "Público",
+      "c": "Mercado",
+      "t": "Comprar tecnologia recondicionada compensa? Testámos um MacBook “como novo”",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeEJfR1FaWDN2emZTMEF0SlVmbk56alhnY3dfU05LZHNZam52WWRpRnZPaWRYMGlRM3hTb091bXNVbkRtWWhLZ05vWU9Wc2dNdmh2dXN2bWVsYld3SUF4WTJUZ3Q1X3QtNzd2WEctNzAxdlFtTUtxUDhFSjVYd0ZPYnRtOUNhSEZZSkVDcjNrR2p3b3BUSE55TFdfTnNOUV8xWURsRy1oLUpNZ1VoNW5TRjRTSEVSTGcyMUZoNw?oc=5"
+    }
+  ],
   "stocks": [
+    {
+      "k": "BMW.DE",
+      "n": "BAYERISCHE MOTOREN WERKE AG   S",
+      "d": "up",
+      "x": "Variação de +5.32% na última sessão.",
+      "v": 5.32
+    },
+    {
+      "k": "VOW3.DE",
+      "n": "VOLKSWAGEN AG                 V",
+      "d": "up",
+      "x": "Variação de +4.97% na última sessão.",
+      "v": 4.97
+    },
     {
       "k": "NVDA",
       "n": "NVIDIA Corporation",
       "d": "dn",
       "x": "Variação de -3.91% na última sessão.",
       "v": -3.91
+    },
+    {
+      "k": "SIE.DE",
+      "n": "SIEMENS AG                    N",
+      "d": "up",
+      "x": "Variação de +3.73% na última sessão.",
+      "v": 3.73
     },
     {
       "k": "META",
@@ -31,32 +117,11 @@
       "v": -2.13
     },
     {
-      "k": "MSFT",
-      "n": "Microsoft Corporation",
-      "d": "dn",
-      "x": "Variação de -1.25% na última sessão.",
-      "v": -1.25
-    },
-    {
-      "k": "TSLA",
-      "n": "Tesla, Inc.",
-      "d": "dn",
-      "x": "Variação de -1.18% na última sessão.",
-      "v": -1.18
-    },
-    {
-      "k": "AAPL",
-      "n": "Apple Inc.",
-      "d": "up",
-      "x": "Variação de +0.43% na última sessão.",
-      "v": 0.43
-    },
-    {
       "k": "SAP.DE",
       "n": "SAP SE                        I",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
+      "d": "up",
+      "x": "Variação de +1.97% na última sessão.",
+      "v": 1.97
     }
   ]
 }
