@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T22:51:29.120791+00:00",
+  "updated": "2026-11-27T23:46:58.462294+00:00",
   "news": [
     {
       "d": "27 nov",
@@ -13,17 +13,9 @@
       "d": "27 nov",
       "s": "RTP",
       "c": "Mercado",
-      "t": "Verão não salvou a TAP. Combustíveis acentuam prejuízos até setembro",
+      "t": "Deco Proteste denuncia persistência de falsos descontos na Black Friday",
       "k": [],
-      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdThZNmxJZFdzUnNwQkZYYjdWZjM2R2JyT1FDRjBWbFBCZWpsUkVyazVnUVhLTFVnSmU2cC1JbUR3TXpKbWhFMXFhSWk0OFpRR3M5NVlqVU5Ha2hBODFaZ1ljaWI4cGtqbkM5YzAzV3JrUDI4TEFlcllEbkJXdmxzUDhES1pFQ1NLbjNGMVRhUDRIUll4VWNpSmdqMEpWVWh1WmN3QmM0amIyd0FNR1VZ?oc=5"
-    },
-    {
-      "d": "27 nov",
-      "s": "DECO PROteste",
-      "c": "Mercado",
-      "t": "Black Friday: há produtos 300 euros mais caros do que antes das campanhas",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWUt1bllJSjBPRmhkTjBCU04zNTJvWDd2YW9MSUJQazlEcXNvMnJUcGRlR0NjV0lpUmFhUUU5Ym83ZENJczlJU2lKS0JPaHc5SHoxWGJQbF9iT3k0Vm9VZlZGQ3pXbUVSUThyYTZOdTMxbF94a1J5dVYtbzZEdWFTUXhVWjQzQ080SXpZZnJ0dGtianYyMUxXSXZyZGd6b0huUU1XWjloRERGLW5jT0dVYi04cEMzbUFDT0NEMVJhZm9MOVZfOG5rSWd0aw?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcDVMTU5VS05rSjloeGJvazA2R01JUWlURG0xZEhRdzZ4WXBYRU8xVk9Nb2JDdElYSElwMGJmdmZsUHV3MS12Q0txS1V4RmJSOHJPbFdVdDdLTUlHa29odFp3YXFwNk4wZ3ZORmNpOTZOaXhzQjd3WUVZN1NmWWllMVhwcHZybmJsUHRaQkpWLTBkTXhJQUtKTUJZU0FWdlJjYVg5bTYyMnVyeWRRRVJvSnFFYw?oc=5"
     },
     {
       "d": "27 nov",
@@ -32,6 +24,14 @@
       "t": "SAP planeia dispensar 10 mil trabalhadores por causa da inteligência artificial",
       "k": [],
       "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSXlzb1VyU0FhMnotallMUkVpM0VUS1pnUUs0eG5Id2tnMzZGNGVIaTZ2U28wWDhHZ3pmZS05NEVMeGhMa1JJWjZ3X1UxRTZWWkJNaExiZjZvWm9tLXNPb29ZLU5MZkxteGU5YVUxZHFtaTVwYTY1bEZRSUp6TUxvM1dDa1VKSG5McmVyemUzbVdTSDQtODkwZW9zenBMTjdfUFZOM0pUdWFQTEx1QzRkLVFEeFJBNDAyaHBvQnV3Y0FGTTBhVnJoRU9zVQ?oc=5"
+    },
+    {
+      "d": "27 nov",
+      "s": "RTP",
+      "c": "Mercado",
+      "t": "Verão não salvou a TAP. Combustíveis acentuam prejuízos até setembro",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdThZNmxJZFdzUnNwQkZYYjdWZjM2R2JyT1FDRjBWbFBCZWpsUkVyazVnUVhLTFVnSmU2cC1JbUR3TXpKbWhFMXFhSWk0OFpRR3M5NVlqVU5Ha2hBODFaZ1ljaWI4cGtqbkM5YzAzV3JrUDI4TEFlcllEbkJXdmxzUDhES1pFQ1NLbjNGMVRhUDRIUll4VWNpSmdqMEpWVWh1WmN3QmM0amIyd0FNR1VZ?oc=5"
     },
     {
       "d": "27 nov",
@@ -89,27 +89,6 @@
       "v": 3.13
     },
     {
-      "k": "BMW.DE",
-      "n": "BAYERISCHE MOTOREN WERKE AG   S",
-      "d": "up",
-      "x": "Variação de +1.63% na última sessão.",
-      "v": 1.63
-    },
-    {
-      "k": "SIE.DE",
-      "n": "SIEMENS AG                    N",
-      "d": "up",
-      "x": "Variação de +0.92% na última sessão.",
-      "v": 0.92
-    },
-    {
-      "k": "ALV.DE",
-      "n": "Allianz SE                    v",
-      "d": "up",
-      "x": "Variação de +0.87% na última sessão.",
-      "v": 0.87
-    },
-    {
       "k": "AAPL",
       "n": "Apple Inc.",
       "d": "up",
@@ -122,6 +101,27 @@
       "d": "up",
       "x": "Variação de +0.80% na última sessão.",
       "v": 0.8
+    },
+    {
+      "k": "GOOGL",
+      "n": "Alphabet Inc.",
+      "d": "up",
+      "x": "Variação de +0.68% na última sessão.",
+      "v": 0.68
+    },
+    {
+      "k": "MSFT",
+      "n": "Microsoft Corporation",
+      "d": "up",
+      "x": "Variação de +0.60% na última sessão.",
+      "v": 0.6
+    },
+    {
+      "k": "SAP.DE",
+      "n": "SAP SE                        I",
+      "d": "dn",
+      "x": "Variação de +nan% na última sessão.",
+      "v": NaN
     }
   ]
 }
