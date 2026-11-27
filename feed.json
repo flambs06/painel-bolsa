@@ -1,6 +1,71 @@
 {
-  "updated": "2026-11-27T11:53:44.313709+00:00",
-  "news": [],
+  "updated": "2026-11-27T13:03:16.938614+00:00",
+  "news": [
+    {
+      "d": "27 nov",
+      "s": "Contas Poupança",
+      "c": "Mercado",
+      "t": "Preço dos combustíveis na próxima semana (30 de novembro a 6 de dezembro)",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSmtUNHJLS0t4ZG5VZWFZOFhKUjBhc09IX1FlRHJUZEx1YVBabWxwNDFnWk91Z3pCaDVUaFl2M0xZZzA3N1BJTUQtbDZzMVlOTTJpQ1RHUXQ5RmpPVVppY0xlVmVpZFMzMjVtSng0RVY2T0o1bUlFUW4zZklCcTlOV04yRUxQQ3ZvUGJxOHNJY2RWSnVIRFVQOTFZbTA0OTdKZWNnUl9QaXFEemJUOHdtX1lZemo0VFV2akpKM1BGekRzWldISDU4ZEpGcFR0VTZTSklNRA?oc=5"
+    },
+    {
+      "d": "27 nov",
+      "s": "ECO",
+      "c": "Mercado",
+      "t": "Idade da reforma volta a subir e atinge os 67 anos em 2028",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQemVtVkp5M3FULXJRd1ZxMUNLOFgyQWR3Q2t5SGtRYmY4c0RzX1lZeHFKOEhzQU9sY2ktbFpuQWtCbGpKZU1EN1NNYjZtSzZjSXJiSTdDeGxmSmVyR3A1RVJ4bzRVRzZYZjhXRE5SamNYLUcwSEZ6MGxyQ2tTSkp4Qm5vSXZRN1F2WjNLX2NaOHZQM3Qt?oc=5"
+    },
+    {
+      "d": "27 nov",
+      "s": "RTP",
+      "c": "Mercado",
+      "t": "Verão não salvou a TAP. Combustíveis acentuam prejuízos até setembro",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOWUxSjdlbTJRdFRpWVNvWUlFWXkzLWk3bjJUY3owX0NibHVOSmJ1SWNYLVJ5dlhMX1RpUklIN1dfeEQ3UkQwZ0gwMVNGVUMwemcyal96ZVNCc2RkbmRybUZuLUczNWg4bmNqVjh4aU1CR1Y4OUpfZ0F0VDJZd0k4NlNQX0RhWWJremZoZlVuWVdXZ3VUUktiampyMXRZRGhzMHBsOWFVa2NzQjNvUUJMNmp4OA?oc=5"
+    },
+    {
+      "d": "27 nov",
+      "s": "DECO PROteste",
+      "c": "Mercado",
+      "t": "Black Friday: há produtos 300 euros mais caros do que antes das campanhas",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWUt1bllJSjBPRmhkTjBCU04zNTJvWDd2YW9MSUJQazlEcXNvMnJUcGRlR0NjV0lpUmFhUUU5Ym83ZENJczlJU2lKS0JPaHc5SHoxWGJQbF9iT3k0Vm9VZlZGQ3pXbUVSUThyYTZOdTMxbF94a1J5dVYtbzZEdWFTUXhVWjQzQ080SXpZZnJ0dGtianYyMUxXSXZyZGd6b0huUU1XWjloRERGLW5jT0dVYi04cEMzbUFDT0NEMVJhZm9MOVZfOG5rSWd0aw?oc=5"
+    },
+    {
+      "d": "27 nov",
+      "s": "ECO",
+      "c": "Mercado",
+      "t": "SAP quer cortar pelo menos 10 mil postos de trabalho devido à inteligência artificial",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0thTFpOOTlVZWhZakI3NTVlQWRjM1J4U1lqRjZJT3BYaUhEZWpqa2M1QW1uVXZHbmN5ZjFNQVg1cl9KUG81QWd6WmhMWTd4azVLRmpIWGxrX1pSRE9BZUZFaGk0U3pMZkZpbG5jcUV1UTBNWXVpU19IQ05RWEJtTWxIWXVSaEpHNFpzUlRSZWJ5bmF0N1FobGt5NUFwaWNnUXZSWDROS21MSXhvOVNVWUdmLU9NWnZQ?oc=5"
+    },
+    {
+      "d": "27 nov",
+      "s": "Público",
+      "c": "Mercado",
+      "t": "BCE: Pablo Hernández de Cos escolhido para suceder a Christine Lagarde | Zona Euro",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeEJMWnFjUkRfMTRtZnpVUTVmb3dlS1ozcEZyMWNBemIyVFdSMUxFY2txTmVkd3Vxdy15MHQtQkIwLWk1RUJ4M0Rqa0hFQ2JkajJWMTB4bUtHU2M1amJVa0tkUmtMS3hWQkZOUi1qRkoxWkZzQkpBVXZOWFBzb2FhbHdRR3lYYzViMjVyWUFIQzF6QmxUMUI3OTVhSVFRMFY4T2tmay1tMjdHRnUxdFA5cFM4R2Yyakk?oc=5"
+    },
+    {
+      "d": "27 nov",
+      "s": "Jornal de Notícias",
+      "c": "Mercado",
+      "t": "Regresso de Jensen Huang à Nvidia inunda Internet de memes",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc0FHa19LV2JuUWZybEx6ME5UdFBLRHFKNmFGMEdlZDU1WTZISXppNXpLTVZ5YkgwWGhZZzNfczB3WEg2UG1aNlV3bVNNenhDZlpKOWNoOWpQU2xURF9IR2plUXVQcWlaVVhZNWd0QlNNWWhtNDd2RUI2WUxMZVJfSHJZMFd3YnBObmF3RV9fTmU5ZnRhcUlORlZZTmdOQjDSAZMBQVVfeXFMTVZ1Ty1Ecm5GbGlzX3B1emJFZURoS0wtcm96QlF4SF9EN0VMZnVsblZab0ZGeTdjYkV6dXRKRXQ3UWF1R3RpUXVsRWN3emhnYkVtVEt1SXFPQl9OY2YzblhfZ1E2aHFqTndPRFVQZVg1Q1dmSno5ckRhMmI1MkhOZ1JJX0xYZEFnYWZ6ZGEtQ3ZOSjFN?oc=5"
+    },
+    {
+      "d": "27 nov",
+      "s": "O MINHO",
+      "c": "Mercado",
+      "t": "DST e ACA ganham segundo troço da alta velocidade",
+      "k": [],
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvekp3dkZFUVBVRlBqUzhXZFlrMGtlbFZNd1phVjV5YWZMV3lxMExMeXpIY1JyVmhYU0hSZ0NSQVkzQi1lbEY3dnRlU05veWRCZ2FNMngzY1V3d3YwdTlwU2x5Rlh0QkU4UVNiamlBdkp5d0wyV2pN?oc=5"
+    }
+  ],
   "stocks": [
     {
       "k": "NVDA",
@@ -34,8 +99,8 @@
       "k": "BMW.DE",
       "n": "BAYERISCHE MOTOREN WERKE AG   S",
       "d": "up",
-      "x": "Variação de +1.46% na última sessão.",
-      "v": 1.46
+      "x": "Variação de +1.35% na última sessão.",
+      "v": 1.35
     },
     {
       "k": "MSFT",
@@ -55,8 +120,8 @@
       "k": "SIE.DE",
       "n": "SIEMENS AG                    N",
       "d": "up",
-      "x": "Variação de +0.98% na última sessão.",
-      "v": 0.98
+      "x": "Variação de +0.76% na última sessão.",
+      "v": 0.76
     }
   ]
 }
