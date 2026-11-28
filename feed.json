@@ -1,120 +1,55 @@
 {
-  "updated": "2026-11-28T02:17:59.364115+00:00",
-  "news": [
-    {
-      "d": "28 nov",
-      "s": "ECO",
-      "c": "Mercado",
-      "t": "Governo reduz desconto e abranda descida dos combustíveis",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSDJhOERSdXkzN3ZmNy1ZUG9uUThOV1FsOTM3VnpuUHpQLXdWM1ZRS2haLVFmZ1g3SDdXQTN6dld1T1RmT1pCLTluQnI4QTFBaWxOWk02NW5MazRUTFVreGk5Z0pWZlpfeUI5eERNZkY0Tjh6U2k2c1A1Rk9Wd1N0UndSSUpTY1pmSmc3TUp6ek5tQ00?oc=5"
-    },
-    {
-      "d": "28 nov",
-      "s": "Público",
-      "c": "Mercado",
-      "t": "SAP planeia dispensar 10 mil trabalhadores por causa da inteligência artificial",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSXlzb1VyU0FhMnotallMUkVpM0VUS1pnUUs0eG5Id2tnMzZGNGVIaTZ2U28wWDhHZ3pmZS05NEVMeGhMa1JJWjZ3X1UxRTZWWkJNaExiZjZvWm9tLXNPb29ZLU5MZkxteGU5YVUxZHFtaTVwYTY1bEZRSUp6TUxvM1dDa1VKSG5McmVyemUzbVdTSDQtODkwZW9zenBMTjdfUFZOM0pUdWFQTEx1QzRkLVFEeFJBNDAyaHBvQnV3Y0FGTTBhVnJoRU9zVQ?oc=5"
-    },
-    {
-      "d": "28 nov",
-      "s": "Público",
-      "c": "Mercado",
-      "t": "Ana Abrunhosa confirma adjudicação da Alta Velocidade. Obras em Coimbra (re)começam em 2028",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRGc0LVVmZzJZcllnbGpvNE5MdTRRMjhvNW9QNVU2Y1d1TkZZc0w2aHMwZnpRMFdVbzR5RFdtR0NhTG1UY1VsaTg5c1oyb21Bem9acTBUMGRRNzdhLXFOdVJJVGFIX3NSdHJ6dFBDZExFemtwUUd3SVlabURITmVuT0lCVzBCNWRBQUNIeXpTY0ZXVFpKWTc4SHZwZFFzQWIyVThIeVhRczNoNFEybzk2bXV1c0l3UG8wMUVoT1pJdjN5NmRXZ3E3TVFDbXh4R2Fp?oc=5"
-    },
-    {
-      "d": "28 nov",
-      "s": "RTP",
-      "c": "Mercado",
-      "t": "Deco Proteste denuncia persistência de falsos descontos na Black Friday",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcDVMTU5VS05rSjloeGJvazA2R01JUWlURG0xZEhRdzZ4WXBYRU8xVk9Nb2JDdElYSElwMGJmdmZsUHV3MS12Q0txS1V4RmJSOHJPbFdVdDdLTUlHa29odFp3YXFwNk4wZ3ZORmNpOTZOaXhzQjd3WUVZN1NmWWllMVhwcHZybmJsUHRaQkpWLTBkTXhJQUtKTUJZU0FWdlJjYVg5bTYyMnVyeWRRRVJvSnFFYw?oc=5"
-    },
-    {
-      "d": "28 nov",
-      "s": "SIC Notícias",
-      "c": "Mercado",
-      "t": "Inaugurada fábrica de fiação em Santo Tirso: será a maior da Europa e vai criar 250 postos de trabalho até 2028",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMGtybjBTT0FKUllDVVAxYWVhVlh6M3VWaEV2cmYyX1JIUkNsQmNwajFYcWVUVWhyeV9CcU14Q1k0TDkweGVEZGdXOEU2bzYyMDA4anQwWjZYWGlZNFhuZXM2ekFfTGlYNVQ4SFdmSGNxNUVtdlNLTnhpS0M3RkJJUUtERHlqaDhoM1Q5TkJTdEk0ZWhBdko0Z2FaM1pNcWIybGs0aGp0V0MtWXlaNjE2LWJDWmF6aU4xSUR2bTdKMlJpS1VEUldFSDZlM0ZoUFhqdG1XU2F2azh5QUFDUTd2MHBKeUY4OV84U3pmWGZ5TXgtUnFCRk84bGtqLWc?oc=5"
-    },
-    {
-      "d": "28 nov",
-      "s": "RTP",
-      "c": "Mercado",
-      "t": "Verão não salvou a TAP. Combustíveis acentuam prejuízos até setembro",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdThZNmxJZFdzUnNwQkZYYjdWZjM2R2JyT1FDRjBWbFBCZWpsUkVyazVnUVhLTFVnSmU2cC1JbUR3TXpKbWhFMXFhSWk0OFpRR3M5NVlqVU5Ha2hBODFaZ1ljaWI4cGtqbkM5YzAzV3JrUDI4TEFlcllEbkJXdmxzUDhES1pFQ1NLbjNGMVRhUDRIUll4VWNpSmdqMEpWVWh1WmN3QmM0amIyd0FNR1VZ?oc=5"
-    },
-    {
-      "d": "28 nov",
-      "s": "CNN Portugal",
-      "c": "Mercado",
-      "t": "Euromilhões: conheça a chave desta sexta-feira",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTnBxWUlpSVpqYkxwcjFic1FoQUI2ZTBxVlZNdHNoSWo4aVFVWWxPMTYzS241OHJ4TTk3dUhrUGM1eDRrUEhoOXNpOTJwM0NMNW9wSGhuaHR2S3JabFhyYzFIVTVqeGhxb0MxQy1hS1RFenk1SkVGaFJFbm5lQlZBWk5mMXJEbEYxaF9TU3p2ajhGUl9NNVNlWjFpa3V4VXdVaHpFcGkyY2U4a1lWZ2w3cFhvNU5EOFdVZTlzYWU3YmVnTVQ5SktraU04SEExN05Ib3c?oc=5"
-    },
-    {
-      "d": "28 nov",
-      "s": "Jornal de Negócios",
-      "c": "Mercado",
-      "t": "Jerónimo Martins compra 50% de exploração pecuária a antiga estrela do râguebi e ex-trabalhador",
-      "k": [],
-      "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPU3VYV0NSN2otbnFmSkFBMmc3ZWlKZjQyellzRkNJZkNjOG43TmlTbnNjak9sWExwdnlVRkVNcWhXaWY5MU5IaThvRlBYOFlSSktpWmxlaVJQYTE5eUFGQlZEcDVFUnNYWW9QcngyMU5qWWt0dC1xdWZ2Y3Vicm84eXJ3NWRyTk5pU2tjYW5BcnJRLW1wTHFKYUJnaloyNENNUXNnUnowZGVfTFFmcW5adkk0NkYtQzk5UUhFNFRzUHhGTVpsZVIyT3l0Z2tZRHk4X1hIb1VMMEtPb29LeC1WdXA2QTNqdWlhdUFmVUNMSDdNdEh0V0dz?oc=5"
-    }
-  ],
+  "updated": "2026-11-28T03:50:54.542303+00:00",
+  "news": [],
   "stocks": [
     {
-      "k": "AAPL",
-      "n": "Apple Inc.",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
-    },
-    {
-      "k": "MSFT",
-      "n": "Microsoft Corporation",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
-    },
-    {
-      "k": "NVDA",
-      "n": "NVIDIA Corporation",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
+      "k": "TSLA",
+      "n": "Tesla, Inc.",
+      "d": "up",
+      "x": "Variação de +5.22% na última sessão.",
+      "v": 5.22
     },
     {
       "k": "AMZN",
       "n": "Amazon.com, Inc.",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
-    },
-    {
-      "k": "GOOGL",
-      "n": "Alphabet Inc.",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
+      "d": "up",
+      "x": "Variação de +3.96% na última sessão.",
+      "v": 3.96
     },
     {
       "k": "META",
       "n": "Meta Platforms, Inc.",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
+      "d": "up",
+      "x": "Variação de +3.13% na última sessão.",
+      "v": 3.13
     },
     {
-      "k": "TSLA",
-      "n": "Tesla, Inc.",
-      "d": "dn",
-      "x": "Variação de +nan% na última sessão.",
-      "v": NaN
+      "k": "AAPL",
+      "n": "Apple Inc.",
+      "d": "up",
+      "x": "Variação de +0.83% na última sessão.",
+      "v": 0.83
+    },
+    {
+      "k": "NVDA",
+      "n": "NVIDIA Corporation",
+      "d": "up",
+      "x": "Variação de +0.80% na última sessão.",
+      "v": 0.8
+    },
+    {
+      "k": "GOOGL",
+      "n": "Alphabet Inc.",
+      "d": "up",
+      "x": "Variação de +0.68% na última sessão.",
+      "v": 0.68
+    },
+    {
+      "k": "MSFT",
+      "n": "Microsoft Corporation",
+      "d": "up",
+      "x": "Variação de +0.60% na última sessão.",
+      "v": 0.6
     },
     {
       "k": "SAP.DE",
